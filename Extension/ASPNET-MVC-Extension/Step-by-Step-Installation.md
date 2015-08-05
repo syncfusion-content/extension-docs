@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-### Step-by-Step Installation  
+# Step-by-Step Installation  
 
 The following procedure illustrates how to install Syncfusion Essential Studio MVC Extension. 
 
@@ -15,16 +15,16 @@ The following procedure illustrates how to install Syncfusion Essential Studio M
 
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
-{:.image }
-
-
-> _Note: The WinZip Self-Extractor extracts the syncfusionessentialstudiomvcextension_(version).exe dialog, displaying the unzip operation of the package._
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.png)
 
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img2.png)
-{:.image }
+   > Note: The WinZip Self-Extractor extracts the syncfusionessentialstudiomvcextension_(version).exe dialog, displaying the unzip operation of the package.
+
+
+
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img2.png)
+
 
 
 
@@ -33,22 +33,21 @@ The following procedure illustrates how to install Syncfusion Essential Studio M
 
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
-{:.image }
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
 
-_Setup information_
+
+   _Setup information_
 
 3. After reading the terms, click the I accept the terms and conditions check box.
 4. Click the Next button. The Installation location window opens. It shows the Syncfusion Essential studio setup installed location.
 
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
-{:.image }
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
 
 
-> _Note: It does not allow you to change the install path since its Add on setup for Syncfusion Essential Studio._
+   > Note: It does not allow you to change the install path since its Add on setup for Syncfusion Essential Studio.
 
 
 
@@ -56,18 +55,18 @@ _Setup information_
 
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
-{:.image }
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
 
 
 
 
-> _Note: The Completed screen is displayed once the selected package is installed._
+
+   > Note: The Completed screen is displayed once the selected package is installed.
 
 
 
-![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
-{:.image }
+   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
+
 
 
 6. Select the Run Dashboard check box to launch the Dashboard after installed.

@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-### Overview
+# Overview
 
 The Syncfusion MVC Extension provides you with quick access so that you can create or configure the Syncfusion MVC/MVC (Classic) projects. The Syncfusion ASP.NET MVC Extensions has following features.
 

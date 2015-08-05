@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-### Syncfusion Project Templates
+# Syncfusion Project Templates
 
 Syncfusion provides the Visual StudioProject Templates for the Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) platforms to create a Syncfusion MVC application. 
 
@@ -16,16 +16,16 @@ Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Templates are included 
 * Essential Studio for Enterprise Edition with the platforms ASP.NETMVC or ASP.NET MVC(Classic)
 * Essential Studio for ASP.NET MVC
 * Essential Studio for ASP.NET MVC (Classic)
-> 
-_Note: This is not applicable from v.12.1.0.43 to v.13.1.0.30. Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Templates are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms._ 
+ 
+> Note: This is not applicable from v.12.1.0.43 to v.13.1.0.30. Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Templates are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms. 
 
-ASP.NET MVC (Classic) Extensions:
+## ASP.NET MVC (Classic) Extensions:
 
 By default, the Syncfusion ASP.NET MVC extensions are configured. When you want the ASP.NET MVC (Classic) extension, you have to install it from the installed location.
 
-Project Templates (ASP.NET MVC(Classic):
+## Project Templates (ASP.NET MVC(Classic):
 
-Location: _{Drive}\Program Files (x86)\Syncfusion\Essential Studio\&lt;Version&gt;\Utilities\Extensions\ASP.NET MVC \Classic_
+   Location: _{Drive}\Program Files (x86)\Syncfusion\Essential Studio\&lt;Version&gt;\Utilities\Extensions\ASP.NET MVC \Classic_
 
 For Example – VS2013:_C:\Program Files (x86)\Syncfusion\Essential Studio\13.2.0.18\Utilities\Extensions\ASP.NET MVC\Classic\4.5.1\Syncfusion.MVC.VSPackage.Web.Classic.vsix_
 
@@ -39,8 +39,7 @@ The following steps help you create the Syncfusion ASP.NET MVC Project via the V
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img1.png)
-{:.image }
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img1.png)
 
 
 2. Name the Project, choose the destination location if required and set the Framework of the project then click OK. The Project Configuration Wizard appears.     
@@ -48,109 +47,103 @@ The following steps help you create the Syncfusion ASP.NET MVC Project via the V
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img2.png)
-{:.image }
-
-
-Project configurations:
-
-Target MVC Version: Choose the required MVC Version. 
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img2.png)
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img3.png)
-{:.image }
+   #### Project configurations:
 
-
-View Engine: Choose the View Engine of the Sample. 
-
-
-
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img4.png)
-{:.image }
-
-
-Theme: Choose the Required Theme.
+   #### Target MVC Version: Choose the required MVC Version. 
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img5.png)
-{:.image }
-
-
-Language: Select the language, either C# or VB.
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img3.png)
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img6.png)
-{:.image }
-
-
-Assemblies From: Choose the assembly location from where it is going to be added to the project.
+   #### View Engine: Choose the View Engine of the Sample. 
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img7.png)
-{:.image }
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img4.png)
 
 
-Combine/Compress style sheets: Option to compress style sheets.
 
-Combine/Compress Scripts: Option to Compress Scripts.
+   #### Theme: Choose the Required Theme.
+
+
+
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img5.png)
+
+
+
+   #### Language: Select the language, either C# or VB.
+
+
+
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img6.png)
+
+
+   Assemblies From: Choose the assembly location from where it is going to be added to the project.
+
+
+
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img7.png)
+
+
+
+   #### Combine/Compress style sheets: Option to compress style sheets.
+
+   #### Combine/Compress Scripts: Option to Compress Scripts.
 
 4. If you have not chosen the Add Samples option, the Syncfusion ASP.NET MVC/ Syncfusion ASP.NET MVC (Classic) project is created with required assemblies, CSS and Script files only.
 5. By choosing the Add Samples option you can add the code examples for your selected controls and its features.
 
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img8.png)
 
 
 
-
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img8.png)
-{:.image }
-
-
-Select Control: Choose the control based on your need.
+   Select Control: Choose the control based on your need.
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img9.png)
-{:.image }
-
-
-Select Feature: Choose Feature based on your need.
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img9.png)
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img10.png)
-{:.image }
+   Select Feature: Choose Feature based on your need.
+
+
+
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img10.png)
+
 
 
 6. Once the Project Configuration Wizard is done, the Syncfusion MVC Project is created.
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img11.png)
-{:.image }
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img11.png)
 
 
 7. Syncfusion references, Scripts, CSS and required Web.config entries are added to the Project.
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img12.png)
-{:.image }
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img12.png)
 
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img13.png)
-{:.image }
+
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img13.png)
 
 
 
 
-![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img14.png)
-{:.image }
+
+   ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img14.png)
+
 
 
 

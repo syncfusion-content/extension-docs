@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-### Migrate Syncfusion Project 
+# Migrate Syncfusion Project 
 
 The following steps help you to migrate from one version to another version of your existing Syncfusion ASP.NET MVC application. 
 
@@ -15,16 +15,16 @@ The following steps help you to migrate from one version to another version of y
 
 
 
-![](Migrate-Syncfusion-Project_images/Migrate-Syncfusion-Project_img1.png)
-{:.image }
+   ![](Migrate-Syncfusion-Project_images/Migrate-Syncfusion-Project_img1.png)
+
 
 
 2. The Project Migration window appears. You can choose the required Syncfusion version that is installed in the machine, that is either Syncfusion ASP.NET MVC or Syncfusion ASP.NET MVC (Classic). 
 
 
 
-![](Migrate-Syncfusion-Project_images/Migrate-Syncfusion-Project_img2.png)
-{:.image }
+   ![](Migrate-Syncfusion-Project_images/Migrate-Syncfusion-Project_img2.png)
+
 
 
 3. The Project Migration window allows you to configure the following options:

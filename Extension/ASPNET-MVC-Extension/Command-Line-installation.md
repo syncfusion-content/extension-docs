@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-### Command Line installation
+# Command Line installation
 
 The following steps help you install the Syncufusion MVC Extension setup through Command Line in Silent mode.
 
@@ -27,6 +27,5 @@ Refer to the following screenshot for more information.
 
 
 ![](Command-Line-installation_images/Command-Line-installation_img1.png)
-{:.image }
 
 
