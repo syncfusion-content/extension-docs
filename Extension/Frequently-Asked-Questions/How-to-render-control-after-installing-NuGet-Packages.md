@@ -2,7 +2,7 @@
 layout: post
 title: How-to-render-control-after-installing-NuGet-Packages
 description: how to render control after installing nuget packages?
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

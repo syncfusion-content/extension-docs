@@ -2,7 +2,7 @@
 layout: post
 title: Project-Conversion
 description: project conversion  
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

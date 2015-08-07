@@ -2,7 +2,7 @@
 layout: post
 title: Download-ASPNET-MVC-Extension
 description: download asp.net mvc extension 
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Register-the-Syncfusion-License-key
 description: register the syncfusion license key
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

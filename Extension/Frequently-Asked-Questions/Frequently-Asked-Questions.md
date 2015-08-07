@@ -2,7 +2,7 @@
 layout: post
 title: Frequently-Asked-Questions
 description: frequently asked questions
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

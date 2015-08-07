@@ -2,7 +2,7 @@
 layout: post
 title: Migrate-the-Syncfusion-assemblies
 description: migrate the syncfusion assemblies
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Syncfusion-Item-Templates
 description: syncfusion item templates
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

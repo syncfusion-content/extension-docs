@@ -2,7 +2,7 @@
 layout: post
 title: Step-by-Step-Installation
 description: step-by-step installation  
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

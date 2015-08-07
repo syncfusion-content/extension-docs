@@ -2,7 +2,7 @@
 layout: post
 title: NuGet-Install-and-Configuration
 description: nuget install and configuration
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Overview
 description: overview
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

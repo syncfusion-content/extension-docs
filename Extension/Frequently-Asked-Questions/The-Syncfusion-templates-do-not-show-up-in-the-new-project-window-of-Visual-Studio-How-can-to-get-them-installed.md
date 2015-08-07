@@ -2,7 +2,7 @@
 layout: post
 title: The-Syncfusion-templates-do-not-show-up-in-the-new-project-window-of-Visual-Studio-How-can-to-get-them-installed
 description: the syncfusion templates do not show up in the new project window of visual studio.  how can to get them installed?
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

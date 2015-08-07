@@ -2,7 +2,7 @@
 layout: post
 title: Syncfusion-Item-Templates-for-Windows-Forms
 description: syncfusion item templates for windows forms
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

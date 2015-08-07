@@ -2,7 +2,7 @@
 layout: post
 title: Sample-Creator
 description: sample creator
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

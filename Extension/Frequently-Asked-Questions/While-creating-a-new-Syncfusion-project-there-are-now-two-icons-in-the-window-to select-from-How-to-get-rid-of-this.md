@@ -2,7 +2,7 @@
 layout: post
 title: While-creating-a-new-Syncfusion-project-there-are-now-two-icons-in-the-window-to-select-from-How-to-get-rid-of-this
 description: while creating a new syncfusion project there are now two icons in the window to select from. how to get rid of this?
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

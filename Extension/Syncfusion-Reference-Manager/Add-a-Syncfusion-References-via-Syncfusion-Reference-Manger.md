@@ -2,7 +2,7 @@
 layout: post
 title: Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger
 description: add a syncfusion references via syncfusion reference manger
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

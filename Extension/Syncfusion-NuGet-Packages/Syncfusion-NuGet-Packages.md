@@ -2,7 +2,7 @@
 layout: post
 title: Syncfusion-NuGet-Packages
 description: syncfusion nuget packages
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

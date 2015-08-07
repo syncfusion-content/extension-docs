@@ -2,7 +2,7 @@
 layout: post
 title: Configure-Syncfusion-assemblies-in-Visual-Studio-project
 description: configure syncfusion assemblies in visual studio project
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

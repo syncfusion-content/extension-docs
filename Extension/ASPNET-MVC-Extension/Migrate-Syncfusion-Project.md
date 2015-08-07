@@ -2,7 +2,7 @@
 layout: post
 title: Migrate-Syncfusion-Project
 description: migrate syncfusion project 
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

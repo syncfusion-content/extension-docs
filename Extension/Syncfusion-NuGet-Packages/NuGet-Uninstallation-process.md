@@ -2,7 +2,7 @@
 layout: post
 title: NuGet-Uninstallation-process
 description: nuget uninstallation process
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Command-Line-installation
 description: command line installation
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

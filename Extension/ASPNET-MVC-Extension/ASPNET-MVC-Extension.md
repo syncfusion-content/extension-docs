@@ -2,7 +2,7 @@
 layout: post
 title: ASPNET-MVC-Extension
 description: asp.net mvc extension
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

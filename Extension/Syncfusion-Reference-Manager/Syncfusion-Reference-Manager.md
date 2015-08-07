@@ -2,7 +2,7 @@
 layout: post
 title: Syncfusion-Reference-Manager
 description: syncfusion reference manager
-platform: js
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
