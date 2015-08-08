@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-### Overview
+# Overview
 
 Syncfusion assemblies are packed by NuGet Packages. Get the Syncfusion NuGet Packages from the following link by logging in with your SyncfusionAccount credentials. 
 

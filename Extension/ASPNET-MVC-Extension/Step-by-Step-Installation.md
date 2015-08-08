@@ -19,7 +19,7 @@ The following procedure illustrates how to install Syncfusion Essential Studio M
 
 
 
-   > Note: The WinZip Self-Extractor extracts the syncfusionessentialstudiomvcextension_(version).exe dialog, displaying the unzip operation of the package.
+    Note: The WinZip Self-Extractor extracts the syncfusionessentialstudiomvcextension_(version).exe dialog, displaying the unzip operation of the package.
 
 
 
@@ -47,7 +47,7 @@ The following procedure illustrates how to install Syncfusion Essential Studio M
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
 
 
-   > Note: It does not allow you to change the install path since its Add on setup for Syncfusion Essential Studio.
+    Note: It does not allow you to change the install path since its Add on setup for Syncfusion Essential Studio.
 
 
 
@@ -61,7 +61,7 @@ The following procedure illustrates how to install Syncfusion Essential Studio M
 
 
 
-   > Note: The Completed screen is displayed once the selected package is installed.
+    Note: The Completed screen is displayed once the selected package is installed.
 
 
 

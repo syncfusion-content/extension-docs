@@ -44,7 +44,7 @@ The following steps help you configure Syncfusion NuGet Packages with a URL.
 
 
 
-   > Note: The Syncfusion NuGet packages URL link is provided by platform basics.
+     Note: The Syncfusion NuGet packages URL link is provided by platform basics.
 
 
 #### Configure the Syncfusion NuGet Packages in Visual Studio from downloaded packages
@@ -167,7 +167,7 @@ You can uninstall the installed packages from the WPF project using the followin
 
 
 
-> Note: You cannot uninstall the dependent package because of the package being referred in other NuGet Packages. It removes Project Reference and package from the project location.
+  Note: You cannot uninstall the dependent package because of the package being referred in other NuGet Packages. It removes Project Reference and package from the project location.
 
 
 

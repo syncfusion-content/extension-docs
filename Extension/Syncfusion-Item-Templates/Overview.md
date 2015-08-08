@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-### Overview
+# Overview
 
 Syncfusion provides Item Templates to add Syncfusion class files to the Project in a quick manner.
 
