@@ -19,11 +19,11 @@ Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration utility is in
 
    Note: This is not applicable from v.12.1.0.43 to v.13.1.0.30. The Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration utility excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms. 
 
-## ASP.NET MVC (Classic) Conversion\Migration:
+### ASP.NET MVC (Classic) Conversion\Migration:
 
 By default, the Syncfusion ASP.NET MVC Extensions are configured. When you want the ASP.NET MVC (Classic) extension, you have to install from the installed location.
 
-## Project Conversion and Migration(ASP.NET MVC(Classic):
+### Project Conversion and Migration(ASP.NET MVC(Classic):
 
    Location: _{Drive}\Program Files (x86)\Syncfusion\Essential Studio\&lt;Version&gt;\Utilities\Extensions\ASP.NET MVC\Project Conversion_
 
@@ -42,7 +42,8 @@ The following steps help you to migrate from one version to another version of y
 
 
 
-2. The Project Migration window appears. You can choose the required Syncfusion version that is installed in the machine, that is either Syncfusion ASP.NET MVC or Syncfusion ASP.NET MVC (Classic). 
+2. The Project Migration window appears. You can choose the required Syncfusion version that is installed in the machine, that is either Syncfusion ASP.NET    
+   MVC or Syncfusion ASP.NET MVC (Classic). 
 
 
 
@@ -52,8 +53,10 @@ The following steps help you to migrate from one version to another version of y
 
 3. The Project Migration window allows you to configure the following options:
 
-1. Essential Studio Version: Select any version from the list of Installed Versions.
-2. Backup: The option Back up copies the original project into the Backup folder in the same project location before migration.
+   i.  Essential Studio Version: Select any version from the list of Installed Versions.
+   
+   ii. Backup: The option Back up copies the original project into the Backup folder in the same project location before migration.
+	  
 4. Press the Migrate button corresponding to the Syncfusion References, CSS, Script files and Web.Config version changes to update it in the project.
 
 

@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-### Register the Syncfusion License key
+# Register the Syncfusion License key
 
 You need to register for the Syncfusion license for development purpose. The following steps guide you as to how to register for the Syncfusionlicense.
 
@@ -16,9 +16,7 @@ You need to register for the Syncfusion license for development purpose. The fol
 3. Navigate to the root location of the extracted downloaded, Syncfusion license.
 4. Run the following command to register the license key-Synckeynoui.exe “License key”.
 
-
-
 ![](Register-the-Syncfusion-License-key_images/Register-the-Syncfusion-License-key_img1.png)
-{:.image }
+
 
 

@@ -54,7 +54,7 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
 The following configurations are used in the Project Conversion Wizard.
 
-### Theme: Choose the visual theme for your Syncfusion ASP.NET MVC web application. 
+Theme: Choose the visual theme for your Syncfusion ASP.NET MVC web application. 
 
 ### Assemblies From:
 
@@ -63,9 +63,9 @@ Choose the assembly location:
 1. Added From GAC - Refer the assemblies from the Global Assembly Cache 
 2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations. 
 
-### Combine/Compress style sheets: Option to compress style sheets
+Combine/Compress style sheets: Option to compress style sheets
 
-### Combine/Compress Scripts: Option to Compress Scripts
+Combine/Compress Scripts: Option to Compress Scripts
 
 1. Click the Next button to choose the required controls from the Wizard as follows. Click the Create button to convert it into a Syncfusion Project.
 

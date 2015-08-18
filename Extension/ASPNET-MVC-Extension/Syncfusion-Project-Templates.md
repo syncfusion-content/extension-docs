@@ -19,11 +19,11 @@ Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Templates are included 
  
   Note: This is not applicable from v.12.1.0.43 to v.13.1.0.30. Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Templates are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms. 
 
-## ASP.NET MVC (Classic) Extensions:
+### ASP.NET MVC (Classic) Extensions:
 
 By default, the Syncfusion ASP.NET MVC extensions are configured. When you want the ASP.NET MVC (Classic) extension, you have to install it from the installed location.
 
-## Project Templates (ASP.NET MVC(Classic):
+### Project Templates (ASP.NET MVC(Classic):
 
    Location: _{Drive}\Program Files (x86)\Syncfusion\Essential Studio\&lt;Version&gt;\Utilities\Extensions\ASP.NET MVC \Classic_
 
@@ -31,7 +31,7 @@ For Example – VS2013:_C:\Program Files (x86)\Syncfusion\Essential Studio\13.2.
 
 Refer the following steps to create the Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) applications.
 
-### Create Syncfusion MVC Project
+## Create Syncfusion MVC Project
 
 The following steps help you create the Syncfusion ASP.NET MVC Project via the Visual Studio Project Template.
 
@@ -51,17 +51,16 @@ The following steps help you create the Syncfusion ASP.NET MVC Project via the V
 
 
 
-   #### Project configurations:
+   ### Project configurations:
 
-   #### Target MVC Version: Choose the required MVC Version. 
+   Target MVC Version: Choose the required MVC Version. 
 
 
 
    ![](Create-Syncfusion-MVC-Project_images/Create-Syncfusion-MVC-Project_img3.png)
 
 
-
-   #### View Engine: Choose the View Engine of the Sample. 
+   View Engine: Choose the View Engine of the Sample. 
 
 
 
@@ -69,7 +68,7 @@ The following steps help you create the Syncfusion ASP.NET MVC Project via the V
 
 
 
-   #### Theme: Choose the Required Theme.
+   Theme: Choose the Required Theme.
 
 
 
@@ -77,7 +76,7 @@ The following steps help you create the Syncfusion ASP.NET MVC Project via the V
 
 
 
-   #### Language: Select the language, either C# or VB.
+   Language: Select the language, either C# or VB.
 
 
 
@@ -92,9 +91,9 @@ The following steps help you create the Syncfusion ASP.NET MVC Project via the V
 
 
 
-   #### Combine/Compress style sheets: Option to compress style sheets.
+   Combine/Compress style sheets: Option to compress style sheets.
 
-   #### Combine/Compress Scripts: Option to Compress Scripts.
+   Combine/Compress Scripts: Option to Compress Scripts.
 
 4. If you have not chosen the Add Samples option, the Syncfusion ASP.NET MVC/ Syncfusion ASP.NET MVC (Classic) project is created with required assemblies, CSS and Script files only.
 5. By choosing the Add Samples option you can add the code examples for your selected controls and its features.
