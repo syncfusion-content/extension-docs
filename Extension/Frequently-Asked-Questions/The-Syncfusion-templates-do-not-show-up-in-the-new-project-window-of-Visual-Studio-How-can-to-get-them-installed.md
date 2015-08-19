@@ -7,52 +7,48 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-### The Syncfusion templates do not show up in the new project window of Visual Studio.  How can to get them installed?
+# The Syncfusion templates do not show up in the new project window of Visual Studio.  How can to get them installed?
 
 Perform the given steps to ensure whether the Syncfusion MVC Extension build has been installed in the machine or not.
 
 1. Navigate to the following location:
 
-_{Syncfusion installed location}\Utilities\Sample Creator\ASP.NET MVC_
+   _{Syncfusion installed location}\Utilities\Sample Creator\ASP.NET MVC_
 
-_Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\12.4.0.24\Utilities\Sample Creator\ASP.NET MVC._
+   _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\12.4.0.24\Utilities\Sample Creator\ASP.NET MVC._
 
-Refer the following screenshot for more information.
-
-
-
-![](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd_img1.png)
-{:.image }
-
- _Sample Creator Installed location_
-
-2. When the above path exists, it means that the MVC Extension build has already been installed in the machine. So now you can install the following Syncfusion Extensions manually:
-* Syncfusion Project Templates
-* Syncfusion Visual Studio Extensions
-
-To Install Syncfusion Project Templates: 
-Navigate to the following location and run the “Syncfusion.MVC.VSPackage.Web.vsix” extension.
-
-{Syncfusion Build installed location}\Utilities\Extensions\ASP.NET MVC\4.5.1
-Refer the following screenshot.
+   Refer the following screenshot for more information.
 
 
 
-![](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd_img2.png)
-{:.image }
+   ![](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd_img1.png)
+     Sample Creator Installed location
 
-__
+2. When the above path exists, it means that the MVC Extension build has already been installed in the machine. So now you can install the following Syncfusion
+   Extensions manually:
+   * Syncfusion Project Templates
+   * Syncfusion Visual Studio Extensions
 
-To Install Syncfusion Visual Studio Extension:
-Navigate to the following Location and run the “Syncfusion.MVC.Extension.vsix” extension. 
+   ## To Install Syncfusion Project Templates: 
+   Navigate to the following location and run the “Syncfusion.MVC.VSPackage.Web.vsix” extension.
 
-{Syncfusion Build installed location}\Utilities\Extensions\ASP.NET MVC\Project Conversion\4.5.1
-Refer the following screenshot.
+   {Syncfusion Build installed location}\Utilities\Extensions\ASP.NET MVC\4.5.1
+   Refer the following screenshot.
 
 
 
-![](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd_img3.png)
-{:.image }
+   ![](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd_img2.png)
+
+   ## To Install Syncfusion Visual Studio Extension:
+   Navigate to the following Location and run the “Syncfusion.MVC.Extension.vsix” extension. 
+
+   {Syncfusion Build installed location}\Utilities\Extensions\ASP.NET MVC\Project Conversion\4.5.1
+   Refer the following screenshot.
+
+
+
+   ![](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd_img3.png)
+
 
 
 

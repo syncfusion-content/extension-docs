@@ -61,6 +61,25 @@ button to create the new Package Source.
 
 
    ![](Configure-the-Syncfusion-NuGet-Packages-in-Visual-Studio-from-downloaded-packages_images/Configure-the-Syncfusion-NuGet-Packages-in-Visual-Studio-from-downloaded-packages_img3.png)
+   
+
+## NuGet Installation
+
+Refer to the Syncfusion NuGet Packages from the Visual Studio applications. The following steps help you to add the reference of the Syncfusion assemblies in the Project References.
+
+1. Right click on Project and choose the Manage NuGet Packages.
+2. Select Online -> <Created Package Source Name>. 
+   Refer to the following screenshot for more information.
+ 
+   ![](NuGet-Installation_images/NuGet-Installation_img1.png)
+
+   Manage NuGet Packages
+
+3. Install the required corresponding framework control to use in Visual Studio projects. You can install the dependent assemblies when needed.
+
+   Note: The framework number at the end of package name like, 35, 40, and 45, 451 is added.
+
+4. Find the installed Syncfusion Packages in the Directory location, of the solution file, of the created project (Syncfusion Packages).
 
 ## Install from Package Manager Console
 
