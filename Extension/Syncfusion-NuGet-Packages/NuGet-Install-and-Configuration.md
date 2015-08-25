@@ -39,7 +39,7 @@ button to create the new Package Source.
 
    ![](Configure-the-Syncfusion-NuGet-Packages-by-using-Syncfusions-private-feed-URL_images/Configure-the-Syncfusion-NuGet-Packages-by-using-Syncfusions-private-feed-URL_img3.png)
 
-   Note: The Syncfusion NuGet packages URL link is provided by platform basics.
+N> The Syncfusion NuGet packages URL link is provided by platform basics.
 
 ### Configure the Syncfusion NuGet Packages in Visual Studio from downloaded packages
 
@@ -77,7 +77,7 @@ Refer to the Syncfusion NuGet Packages from the Visual Studio applications. The 
 
 3. Install the required corresponding framework control to use in Visual Studio projects. You can install the dependent assemblies when needed.
 
-   Note: The framework number at the end of package name like, 35, 40, and 45, 451 is added.
+N> The framework number at the end of package name like, 35, 40, and 45, 451 is added.
 
 4. Find the installed Syncfusion Packages in the Directory location, of the solution file, of the created project (Syncfusion Packages).
 

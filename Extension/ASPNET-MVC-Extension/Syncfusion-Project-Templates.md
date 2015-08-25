@@ -17,7 +17,7 @@ Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Templates are included 
 * Essential Studio for ASP.NET MVC
 * Essential Studio for ASP.NET MVC (Classic)
  
-  Note: This is not applicable from v.12.1.0.43 to v.13.1.0.30. Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Templates are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms. 
+N> This is not applicable from v.12.1.0.43 to v.13.1.0.30. Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Templates are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms. 
 
 ### ASP.NET MVC (Classic) Extensions:
 
