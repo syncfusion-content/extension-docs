@@ -70,7 +70,7 @@ N> The Completed screen is displayed once the selected package is installed.
 
 
 6. Select the Run Dashboard check box to launch the Dashboard after installed.
-7. Click Finish button. Syncfusion MVC Extension is installed in your system and the Syncfusion Essential Studio [Dashboard](http://help.syncfusion.com/ug/common/Documents/dashboard.htm) is launched automatically.
+7. Click Finish button. Syncfusion MVC Extension is installed in your system and the Syncfusion Essential Studio [Dashboard](/common/essential-studio/utilities#dashboard) is launched automatically.
 
 
 
