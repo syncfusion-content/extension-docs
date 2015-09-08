@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NuGet-Uninstallation-process
+title: NuGet Uninstallation process | Extension | Syncfusion
 description: nuget uninstallation process
 platform: extension
 control: Syncfusion Extensions
@@ -20,7 +20,7 @@ You can uninstall the installed packages from the WPF project using the followin
 
 ![](NuGet-Uninstallation_images/NuGet-Uninstallation_img1.png)
 
-N> You cannot uninstall the dependent package because of the package being referred in other NuGet Packages. It removes Project Reference and package from the project location._
+N> You cannot uninstall the dependent package because of the package being referred in other NuGet Packages. It removes Project Reference and package from the project location.
 
 ## Uninstall from Package Manager Console
 

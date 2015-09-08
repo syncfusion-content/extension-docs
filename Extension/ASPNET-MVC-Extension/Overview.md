@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Overview
-description: overview
+title: ASPNET MVC Extension | Extension | Syncfusion
+description: ASPNET MVC Extension
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Overview
+# ASPNET MVC Extension
 
 The Syncfusion MVC Extension provides you with quick access so that you can create or configure the Syncfusion MVC/MVC (Classic) projects. The Syncfusion ASP.NET MVC Extensions has following features.
 

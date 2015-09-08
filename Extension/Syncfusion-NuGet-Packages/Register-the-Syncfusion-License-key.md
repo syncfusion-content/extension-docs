@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Register-the-Syncfusion-License-key
+title: Register the Syncfusion License key | Extension | Syncfusion
 description: register the syncfusion license key
 platform: extension
 control: Syncfusion Extensions

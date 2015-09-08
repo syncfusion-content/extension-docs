@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project-Migration
+title: Project Migration | Extension | Syncfusion
 description: project migration
 platform: extension
 control: Syncfusion Extensions

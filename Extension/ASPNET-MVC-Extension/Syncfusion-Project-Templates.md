@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syncfusion-Project-Templates
+title: Syncfusion Project Templates | Extension | Syncfusion
 description: syncfusion project templates
 platform: extension
 control: Syncfusion Extensions

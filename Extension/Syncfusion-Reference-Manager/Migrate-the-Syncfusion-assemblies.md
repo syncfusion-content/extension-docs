@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Migrate-the-Syncfusion-assemblies
+title: Migrate the Syncfusion assemblies | Extension | Syncfusion
 description: migrate the syncfusion assemblies
 platform: extension
 control: Syncfusion Extensions

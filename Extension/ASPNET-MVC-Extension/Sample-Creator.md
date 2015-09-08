@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample-Creator
+title: Sample Creator | Extension | Syncfusion
 description: sample creator
 platform: extension
 control: Syncfusion Extensions

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Command-Line-installation
+title: Command Line installation | Extension | Syncfusion
 description: command line installation
 platform: extension
 control: Syncfusion Extensions

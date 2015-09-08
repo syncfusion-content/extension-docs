@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syncfusion-Item-Templates-for-Windows-Forms
+title: Syncfusion Item Templates for Windows Forms | Extension | Syncfusion
 description: syncfusion item templates for windows forms
 platform: extension
 control: Syncfusion Extensions

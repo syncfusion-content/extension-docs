@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Step-by-Step-Installation
-description: step-by-step installation  
+title: Step by Step Installation | Extension | Syncfusion  
+description: Step by Step Installation
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -29,33 +29,35 @@ N> The WinZip Self-Extractor extracts the syncfusionessentialstudiomvcextension
 
 
 
-2. Click the Next button.
+2.Click the Next button.
 
 
 
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
+  ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img3.png)
 
 
 
-   _Setup information_
+  _Setup information_
 
-3. After reading the terms, click the I accept the terms and conditions check box.
-4. Click the Next button. The Installation location window opens. It shows the Syncfusion Essential studio setup installed location.
-
+3.After reading the terms, click the I accept the terms and conditions check box.
 
 
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
+4.Click the Next button. The Installation location window opens. It shows the Syncfusion Essential studio setup installed location.
+
+
+
+  ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.png)
 
 
 N> It does not allow you to change the install path since its Add on setup for Syncfusion Essential Studio.
 
 
 
-5. To install it in the displayed default location, click the Install button.
+5.To install it in the displayed default location, click the Install button.
 
 
 
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
+  ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.png)
 
 
 
@@ -65,12 +67,12 @@ N> The Completed screen is displayed once the selected package is installed.
 
 
 
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
+  ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.png)
 
 
 
-6. Select the Run Dashboard check box to launch the Dashboard after installed.
-7. Click Finish button. Syncfusion MVC Extension is installed in your system and the Syncfusion Essential Studio [Dashboard](/common/essential-studio/utilities#dashboard) is launched automatically.
+6.Select the Run Dashboard check box to launch the Dashboard after installed.
+7.Click Finish button. Syncfusion MVC Extension is installed in your system and the Syncfusion Essential Studio [Dashboard](/common/essential-studio/utilities#dashboard) is launched automatically.
 
 
 
