@@ -1,4 +1,13 @@
-﻿# Project Migration
+﻿---
+layout: post
+title: Project Migration | Extension | Syncfusion
+description: Project Migration
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
+# Project Migration
 
 Project Migration is a Visual Studio add-in that helps migrate the existing Syncfusion ASP.NET MVC (Web), Syncfusion ASP.NET MVC (Mobile) Or Syncfusion ASP.NET MVC (Classic) project from one Syncfusion version to another Syncfusion version.
 
