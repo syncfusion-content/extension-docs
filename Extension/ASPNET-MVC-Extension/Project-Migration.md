@@ -24,7 +24,7 @@ For Example – VS2013: __C____:\____Program__ __Files__ __(____x86____)\____Sy
 
 ## Migrate Syncfusion MVC Project
 
-The following steps help you to migrate from one version to another version of your existing Syncfusion ASP.NET MVC application.
+The following steps help you migrate from one version to another version of your existing Syncfusion ASP.NET MVC application.
 
 1. Right-click on Syncfusion MVC Project and select Syncfusion VS Extensions. Choose Migrate the project to another version.
 
