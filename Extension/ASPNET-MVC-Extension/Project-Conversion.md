@@ -87,7 +87,7 @@ Choose the assembly location:
 2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
 4. Click the Convert button to convert it into a Syncfusion Project.
 
-5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer the following screenshots for more information.
+5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
 
 ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img9.jpeg)
 
