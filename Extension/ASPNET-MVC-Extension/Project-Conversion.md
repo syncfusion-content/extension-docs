@@ -2,7 +2,7 @@
 
 Project Conversion is a Visual Studio add-in that converts an existing ASP.NET MVC Project into a Syncfusion ASP.NET MVC Project by adding the required assemblies and resource files.
 
-Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Conversion utility is included in below setups,
+Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Conversion Utility is included here,
 
 * Essential Studio for Enterprise Edition with the platforms ASP.NETMVC or ASP.NET MVC(Classic)
 * Essential Studio for ASP.NET MVC
@@ -10,11 +10,11 @@ Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Conversion utility is i
 
 NOTE
 
-This is not applicable from v.12.1.0.43 to v.13.1.0.30. The Syncfusion ASP.NET MVC (Web) and ASP.NET MVC (Classic) Project Conversion utility excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms.
+This is not applicable from v.12.1.0.43 to v.13.1.0.30. The Syncfusion ASP.NET MVC (Web) and ASP.NET MVC (Classic) Project Conversion Utilities are excluded from the MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms.
 
 ## ASP.NET MVC (Classic) Conversion\Migration:
 
-By default, the Syncfusion ASP.NET MVC Extensions are configured in Visual Studio. When you want the ASP.NET MVC (Classic) extension, you have to install it from the installed location.
+By default, the Syncfusion ASP.NET MVC Extensions are configured in Visual Studio. When you want the ASP.NET MVC (Classic) extension, you can install it from the installed location.
 
 **Project** **Conversion** **and** **Migration** **(****ASP****.****NET** **MVC****(****Classic****):******
 
@@ -27,7 +27,7 @@ For Example - VS2013: __C____:\____Program__ __Files__ __(____x86____)\____Sync
 The following steps help you use the Syncfusion Project Conversion in the existing ASP.NET MVC (Web) Project.
 
 1. Open an existing Microsoft MVC Project or create a new Microsoft MVC Project.
-2. Right-click on Project and select Syncfusion VS Extensions and choose the Convert to Syncfusion MVC (Web) Application. Refer the following screenshot for more information.
+2. Right-click on Project and select Syncfusion VS Extensions and choose the Convert to Syncfusion MVC (Web) Application. Refer to the following screenshot for more information.
 
 ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img1.jpeg)
 
@@ -51,7 +51,7 @@ Choose the assembly location:
 ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img3.jpeg)
 
 
-5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer the following screenshots for more information.
+5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
 
 ![http://help.syncfusion.com/extension/aspnet-mvc-extension/Convert-into-Syncfusion-MVC-project_images/Convert-into-Syncfusion-MVC-project_img4.png](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img4.jpeg)
 
