@@ -1,4 +1,13 @@
-﻿# Syncfusion Project Templates
+﻿---
+layout: post
+title: Syncfusion Project Templates | Extension | Syncfusion
+description: Syncfusion Project Templates
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
+# Syncfusion Project Templates
 
 Syncfusion provides the Visual Studio Project Templates for the Syncfusion ASP.NET MVC, Syncfusion ASP.NET MVC (Mobile) and ASP.NET MVC (Classic) platforms to create a Syncfusion MVC application.
 

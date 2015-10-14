@@ -1,4 +1,13 @@
-﻿# Project Conversion
+﻿---
+layout: post
+title: Project Conversion | Extension | Syncfusion
+description: Project Conversion
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
+# Project Conversion
 
 Project Conversion is a Visual Studio add-in that converts an existing ASP.NET MVC Project into a Syncfusion ASP.NET MVC Project by adding the required assemblies and resource files.
 
