@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Project Migration | Extension | Syncfusion
 description: Project Migration
@@ -17,9 +17,7 @@ Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utility is in
 * Essential Studio for ASP.NET MVC
 * Essential Studio for ASP.NET MVC (Classic)
 
-**NOTE******
-
-This is not applicable from v.12.1.0.43 to v.13.1.0.30. The Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utilities are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms.
+N> This is not applicable from v.12.1.0.43 to v.13.1.0.30. The Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utilities are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms.
 
 ## ASP.NET MVC (Classic) Conversion\Migration:
 
@@ -37,7 +35,7 @@ The following steps help you migrate from one version to another version of your
 
 1. Right-click on Syncfusion MVC Project and select Syncfusion VS Extensions. Choose Migrate the project to another version.
 
-![http://help.syncfusion.com/extension/aspnet-mvc-extension/Migrate-Syncfusion-Project_images/Migrate-Syncfusion-Project_img1.png](Migrate-Syncfusion-Project_images/ProjectMigration_img1.jpeg)
+![](Migrate-Syncfusion-Project_images/ProjectMigration_img1.jpeg)
 
 
 2. The Project Migration window appears. You can choose the required Syncfusion version that is installed in the machine that is either Syncfusion ASP.NET 
