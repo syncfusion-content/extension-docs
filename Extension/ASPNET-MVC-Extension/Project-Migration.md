@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Project Migration | Extension | Syncfusion
 description: Project Migration

@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: Syncfusion Project Templates | Extension | Syncfusion
 description: Syncfusion Project Templates
