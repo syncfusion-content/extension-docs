@@ -9,13 +9,13 @@ documentation: ug
 
 # Syncfusion Project Migration
 
-Syncfusion Project Migration is a Visual Studio add-in that helps to migrate the existing Syncfusion ASP.NET project from one Essential Studio version to another version.
+Syncfusion Project Migration is a Visual Studio add-in that allows you to migrate the existing Syncfusion ASP.NET project from one Essential Studio version to another version.
 
 **Important****:** The Syncfusion ASP.NET Web Application Project Migration utility is available from v13.1.0.30. 
 
 ## Migrate Syncfusion Project 
 
-The following steps help you to migrate your existing Syncfusion ASP.NET application. 
+The following steps direct you to migrate your existing Syncfusion ASP.NET application. 
 
 1. Right-click on **Syncfusion** **ASP****.****NET** **project** from Solution Explorer and select **Syncfusion** **VS** **Extensions**. Choose **Migrate** **the** **Project** **to** **Another** **version****…**
 
