@@ -15,7 +15,7 @@ Syncfusion provides the **Visual** **Studio** **Project** **Templates** for th
 
 ## Create Syncfusion ASP.NET Project
 
-The following steps help you create the **Syncfusion** **ASP****.****NET** **project** via the **Visual** **Studio** **Project** **Template**.
+The following steps direct you to create the **Syncfusion** **ASP****.****NET** **project** through the **Visual** **Studio** **Project** **Template**.
 
 1. To create a Syncfusion ASP.NET project, choose **New** **Project****->** **Syncfusion****->****Web****->****Syncfusion** **ASP****.****NET** **Web** **Application** **or** **Syncfusion** **ASP****.****NET** **Web** **Site** from **Visual** **Studio**.
 
@@ -25,7 +25,7 @@ The following steps help you create the **Syncfusion** **ASP****.****NET** **pro
 <table>
 <tr>
 <td>
-2. Name the **Project**, choose the destination location if required and set the Framework of the project then click **OK**.<br/><br/>**Note**: Minimum target Framework is 4.0 for Syncfusion ASP.NET project Templates.<br/><br/>3. Once OK button is clicked, the Syncfusion ASP.NET WebSite/ Web Applicaiton project is created.<br/>4. Syncfusion references, Scripts, CSS and required Web.config entries are added to the Project.<br/></td></tr>
+2. Name the **Project**, choose the destination location when required and set the Framework of the project, then click **OK**.<br/><br/>**Note**: Minimum target Framework is 4.0 for Syncfusion ASP.NET project Templates.<br/><br/>3. Once you click OK button, the Syncfusion ASP.NET WebSite or Web Applicaiton project is created.<br/>4. Syncfusion references, Scripts, CSS and required Web.config entries are added to the Project.<br/></td></tr>
 <tr>
 <td>
 <br/><br/><br/></td></tr>
