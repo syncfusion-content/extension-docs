@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-The Syncfusion ASP.NET Extensions provide quick access to create or configure the Syncfusion ASP.NET projects. The Syncfusion ASP.NET Extensions has following features.
+The Syncfusion ASP.NET Extensions provide quick access to create or configure the Syncfusion ASP.NET projects. The Syncfusion ASP.NET Extensions have the following features.
 
 <table>
 <tr>
