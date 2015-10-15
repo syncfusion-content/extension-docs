@@ -17,9 +17,7 @@ Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utility is in
 * Essential Studio for ASP.NET MVC
 * Essential Studio for ASP.NET MVC (Classic)
 
-**NOTE******
-
-This is not applicable from v.12.1.0.43 to v.13.1.0.30. The Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utilities are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms.
+N> This is not applicable from v.12.1.0.43 to v.13.1.0.30. The Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utilities are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms.
 
 ## ASP.NET MVC (Classic) Conversion\Migration:
 
@@ -27,9 +25,9 @@ By default, the Syncfusion ASP.NET MVC Extensions are configured in Visual Studi
 
 Project Conversion and Migration (ASP.NET MVC(Classic):
 
-Location: __{____Drive____}\____Program__ __Files__ __(____x86____)\____Syncfusion____\____Essential__ __Studio____\<____Version____>\____Utilities____\____Extensions____\____ASP____.____NET__ __MVC____\____Project__ __Conversion__
+Location: `{Drive}\Program Files (x86)\Syncfusion\Essential Studio\<Version>\Utilities\Extensions\ASP.NET MVC\Project Conversion`
 
-For Example – VS2013: __C____:\____Program__ __Files__ __(____x86____)\____Syncfusion____\____Essential__ __Studio____\____13____.____2____.____0____.____18____\____Utilities____\____Extensions____\____ASP____.____NET__ __MVC____\____Project__ __Conversion____\____4____.____5____.____1____\____Syncfusion__ __Web__ __(____Classic____)__ __Conversion__ __and__ __Migration____.____vsix__
+For Example - VS2013: `C:\Program Files (x86)\Syncfusion\Essential Studio\13.2.0.18\Utilities\Extensions\ASP.NET MVC\Project Conversion\4.5.1\Syncfusion Web (Classic) Conversion and Migration.vsix`
 
 ## Migrate Syncfusion MVC Project
 
@@ -37,20 +35,25 @@ The following steps help you migrate from one version to another version of your
 
 1. Right-click on Syncfusion MVC Project and select Syncfusion VS Extensions. Choose Migrate the project to another version.
 
-![http://help.syncfusion.com/extension/aspnet-mvc-extension/Migrate-Syncfusion-Project_images/Migrate-Syncfusion-Project_img1.png](Migrate-Syncfusion-Project_images/ProjectMigration_img1.jpeg)
+   ![http://help.syncfusion.com/extension/aspnet-mvc-extension/Migrate-Syncfusion-Project_images/Migrate-Syncfusion-Project_img1.png](Migrate-Syncfusion-Project_images/ProjectMigration_img1.jpeg)
 
 
 2. The Project Migration window appears. You can choose the required Syncfusion version that is installed in the machine that is either Syncfusion ASP.NET 
 MVC or Syncfusion ASP.NET MVC (Classic).
 
-![](Migrate-Syncfusion-Project_images/ProjectMigration_img2.jpeg)
+   ![](Migrate-Syncfusion-Project_images/ProjectMigration_img2.jpeg)
 
 
 3. The Project Migration window allows you to configure the following options:
-      i. Essential Studio Version: Select any version from the list of Installed Versions.
-      ii. Backup: The option Backup copies the original project into the Backup folder in the same project location before migration.
-      iii. Assemblies From: The option Assemblies from add the assembly to project from the following locations.
-1. Added From GAC - Refer the assemblies from the Global Assembly Cache
-2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
+
+   * Essential Studio Version: Select any version from the list of Installed Versions.
+	  
+   * Backup: The option Backup copies the original project into the Backup folder in the same project location before migration.
+	  
+   * Assemblies From: The option Assemblies from add the assembly to project from the following locations.
+	  
+	    1. Added From GAC - Refer the assemblies from the Global Assembly Cache
+		
+	    2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
 
 4. Press the Migrate button corresponding to the Syncfusion References, CSS, Script files and Web.Config version changes to update it in the project.
