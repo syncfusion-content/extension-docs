@@ -25,26 +25,24 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 3. Project Conversion Wizard opens to configure the project.
 
-	![](Project-Conversion_images/Project-Conversion_img2.jpeg)
+   ![](Project-Conversion_images/Project-Conversion_img2.jpeg)
 
+   Choose the assembly location:
 
-	Choose the assembly location:
+   i. Added From GAC - Refer to the assemblies from Global Assembly Cache. 
 
-	i. Added From GAC - Refer to the assemblies from Global Assembly Cache. 
+   ii. Added from Installed Location - Refer to the assemblies from Syncfusion Installed locations.
 
-	ii. Added from Installed Location - Refer to the assemblies from Syncfusion Installed locations.
+4. Click the **Next** button to choose the required controls from Wizard as follows. Click the **Convert** button to convert it into a Syncfusion Project.
 
-	1. Click the **Next** button to choose the required controls from Wizard as follows. Click the **Convert** button to convert it into a Syncfusion Project.
+   ![](Project-Conversion_images/Project-Conversion_img3.jpeg)
 
-	   ![](Project-Conversion_images/Project-Conversion_img3.jpeg)
+5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the ASP.NET Project. Refer to the following screenshots for more information.
 
+   ![](Project-Conversion_images/Project-Conversion_img4.jpeg)
 
-	2. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the ASP.NET Project. Refer to the following screenshots for more information.
+   ![](Project-Conversion_images/Project-Conversion_img5.jpeg)
 
-	   ![](Project-Conversion_images/Project-Conversion_img4.jpeg)
-
-	   ![](Project-Conversion_images/Project-Conversion_img5.jpeg)
-
-	   ![](Project-Conversion_images/Project-Conversion_img6.jpeg)
+   ![](Project-Conversion_images/Project-Conversion_img6.jpeg)
 
 

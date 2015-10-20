@@ -17,22 +17,21 @@ I> The Syncfusion ASP.NET Web Application Project Migration utility is available
 
 The following steps direct you to migrate your existing Syncfusion ASP.NET application. 
 
-1. Right-click on **Syncfusion** **ASP****.****NET** **project** from Solution Explorer and select **Syncfusion** **VS** **Extensions**. Choose **Migrate** **the** **Project** **to** **Another** **version**
+1. Right-click on **Syncfusion ASP.NET Project** from Solution Explorer and select **Syncfusion VS Extensions**. Choose **Migrate the Project to Another version**
 
    ![](Project-Migration_images/Project-Migration_img1.jpeg)
 
-
-2. The **Project** **Migration** window appears. You can choose the required Essential Studio version that is installed in the machine. 
+2. The **Project Migration** window appears. You can choose the required Essential Studio version that is installed in the machine. 
 
    ![](Project-Migration_images/Project-Migration_img2.jpeg)
 
-3. The **Project** **Migration** window allows you to configure the following options:
+3. The **Project Migration** window allows you to configure the following options:
 
-   i. **Essential** **Studio** **Version**: Select any version from the list of installed versions.
+   i. **Essential Studio Version:** Select any version from the list of installed versions.
    
-   ii. **Assemblies** **From****:** Choose the assembly location from where it is going to be added to the project.
+   ii. **Assemblies From:** Choose the assembly location from where it is going to be added to the project.
    
-   iii. **Backup**: The option **Backup** copies the original project into the Backup folder in the same project location before migration.
+   iii. **Backup:** The option Backup copies the original project into the Backup folder in the same project location before migration.
    
 4. Press the Migrate button. The Syncfusion Reference Assemblies, Scripts and CSS are updated to the corresponding version in the project.
 

@@ -17,7 +17,7 @@ Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utility is in
 * Essential Studio for ASP.NET MVC
 * Essential Studio for ASP.NET MVC (Classic)
 
-N> This is not applicable from v.12.1.0.43 to v.13.1.0.30. The Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utilities are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms.
+I> This is not applicable from v.12.1.0.43 to v.13.1.0.30. The Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utilities are excluded from MVC Extension setup and integrated into Essential Studio ASP.NET MVC and ASP.NET MVC (Classic) platforms.
 
 ## ASP.NET MVC (Classic) Conversion\Migration:
 
