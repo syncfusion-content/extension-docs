@@ -1,3 +1,12 @@
+---
+layout: post
+title: Web NuGet Packages Details | Extension | Syncfusion
+description: Syncfusion Web NuGet Packages Details
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
 # Web NuGet Packages Details
 
 The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScript platform NuGet packages from 2015 Volume 2.
