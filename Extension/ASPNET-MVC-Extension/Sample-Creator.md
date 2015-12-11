@@ -20,7 +20,7 @@ The following steps help you to create the Syncfusion ASP.NET MVC Project via th
 
 
 
-   ![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img1.png)
+   ![](Sample-Creator_images/Sample-Creator_img1.png)
 
 
 
@@ -28,7 +28,7 @@ The following steps help you to create the Syncfusion ASP.NET MVC Project via th
 
 
 
-   ![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img2.png)
+   ![](Sample-Creator_images/Sample-Creator_img2.png)
 
 
 
@@ -40,7 +40,7 @@ The Syncfusion Sample Creator can be split as follows,
 
 
 
-![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img3.png)
+![](Sample-Creator_images/Sample-Creator_img3.png)
 
 
 
@@ -50,7 +50,7 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
 
 
-![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img4.png)
+![](Sample-Creator_images/Sample-Creator_img4.png)
 
 
 
@@ -60,7 +60,7 @@ Themes can be changed by choosing Themes from the top right corner of the Sample
 
 
 
-![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img5.png)
+![](Sample-Creator_images/Sample-Creator_img5.png)
 
 
 
@@ -80,7 +80,7 @@ You can configure the following project details in the Sample Creator.
 
 
 
-![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img6.png)
+![](Sample-Creator_images/Sample-Creator_img6.png)
 
 
 
@@ -90,7 +90,7 @@ When you click the Create button, the new Syncfusion ASP.NET MVC project is crea
 
 
 
-![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img7.png)
+![](Sample-Creator_images/Sample-Creator_img7.png)
 
 
 
@@ -98,7 +98,7 @@ When you click the Create button, the new Syncfusion ASP.NET MVC project is crea
 
 
 
-![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img8.png)
+![](Sample-Creator_images/Sample-Creator_img8.png)
 
 
 
@@ -106,7 +106,7 @@ When you click the Create button, the new Syncfusion ASP.NET MVC project is crea
 
 
 
-![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img9.png)
+![](Sample-Creator_images/Sample-Creator_img9.png)
 
 
 
@@ -114,7 +114,7 @@ When you click the Create button, the new Syncfusion ASP.NET MVC project is crea
 
 
 
-![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img10.png)
+![](Sample-Creator_images/Sample-Creator_img10.png)
 
 
 
@@ -122,7 +122,7 @@ When you click the Create button, the new Syncfusion ASP.NET MVC project is crea
 
 
 
-![](Create-Syncfusion-MVC-Project-from-Sample-Creator_images/Create-Syncfusion-MVC-Project-from-Sample-Creator_img11.png)
+![](Sample-Creator_images/Sample-Creator_img11.png)
 
 
 
