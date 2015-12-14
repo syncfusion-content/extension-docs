@@ -50,7 +50,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			SynfusionJavaScript<br/>
 		</td>
 		<td>
-			Grid<br/>Data Visualization<br/>Business Intelligence<br/>Layout<br/>Editors<br/>Navigation<br/>Notification<br/>Framework<br/>Data Science<br/>Miscellaneous<br/>Integration<br/>Report Viewer<br/>To know more information about the controls for above categories navigate the below link.<br/><http://www.syncfusion.com/products/javascript><br/><br/>
+			Grid<br/>Data Visualization<br/>Business Intelligence<br/>Layout<br/>Editors<br/>Navigation<br/>Notification<br/>Framework<br/>Data Science<br/>Miscellaneous<br/>Integration<br/>Report Viewer<br/>To know more information about the controls for above categories navigate the below link.<br/>{{'<http://www.syncfusion.com/products/javascript>'| markdownify }} <br/><br/>
 		</td>
 		<td>
 			-<br/>
@@ -66,14 +66,14 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="1" rowspan="4">
 			ASP.NET<br/>
 		</td>
 		<td>
 			Syncfusion.AspNet<br/>
 		</td>
 		<td>
-			Grid<br/>Data Visualization<br/>Layout<br/>Editors<br/>Navigation<br/>Notification<br/>To know more information about the controls for above categories navigate the below link.<br/><http://www.syncfusion.com/products/aspnet><br/><br/>
+			Grid<br/>Data Visualization<br/>Layout<br/>Editors<br/>Navigation<br/>Notification<br/>To know more information about the controls for above categories navigate the below link.<br/> {{'<http://www.syncfusion.com/products/aspnet>'| markdownify }}<br/><br/>
 		</td>
 		<td>
 			EJ.Web<br/>
@@ -107,9 +107,6 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		<td>
 			Syncfusion.AspNet<br/>Syncfusion.Web.Base<br/>Syncfusion.Web.FileFormatsBase<br/>
 		</td>
-		<td>
-			-<br/>
-		</td>
 	</tr>
 	<tr>
 		<td>
@@ -129,9 +126,6 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 		<td>
 			Syncfusion.Web.FileFormatsBase<br/>
-		</td>
-		<td>
-			-<br/>
 		</td>
 	</tr>
 	<tr>
@@ -153,9 +147,6 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		<td>
 			Syncfusion.Web.Base<br/>Syncfusion.Web.FileFormatsBase<br/>
 		</td>
-		<td>
-			-<br/>
-		</td>
 	</tr>
 	<tr>
 		<td colspan="1" rowspan="5">
@@ -165,7 +156,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			Syncfusion.AspNet.Mvc<br/>
 		</td>
 		<td>
-			Grid<br/>Data Visualization<br/>Layout<br/>Editors<br/>Navigation<br/>Notification<br/>To know more information about the controls for above categories navigate the below link.<br/><http://www.syncfusion.com/products/aspnetmvc><br/>
+			Grid<br/>Data Visualization<br/>Layout<br/>Editors<br/>Navigation<br/>Notification<br/>To know more information about the controls for above categories navigate the below link.<br/>{{'<http://www.syncfusion.com/products/aspnetmvc>'| markdownify }}<br/>
 		</td>
 		<td>
 			DocIO.Helper.Mvc<br/>Pdf.Helper.Mvc<br/>XlsIO.Helper.Mvc<br/>
@@ -261,7 +252,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="1" rowspan="2">
 			ASP.NET / ASP.NET MVC<br/>
 		</td>
 		<td>
@@ -301,9 +292,6 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 		<td>
 			<br/><br/>-<br/>
-		</td>
-		<td>
-			-<br/>
 		</td>
 	</tr>
 </table>
