@@ -205,10 +205,10 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			-<br/>
 		</td>
 		<td>
-			Syncfusion.AspNet.Mvc.FileFormats<br/>
+			-<br/>
 		</td>
 		<td>
-			-<br/>
+			Syncfusion.AspNet.Mvc.FileFormats<br/>
 		</td>
 	</tr>
 	<tr>
