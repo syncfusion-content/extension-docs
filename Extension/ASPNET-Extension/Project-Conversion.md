@@ -13,7 +13,7 @@ Syncfusion Project Conversion is a Visual Studio add-in that converts an existin
 
 I> The Syncfusion ASP.NET Web Application Project Conversion utility is available from v13.1.0.30. 
 
-## Convert into Syncfusion ASP.NET project 
+## Convert into Syncfusion ASP.NET Project 
 
 The following steps direct you to use the Syncfusion Project Conversion in the existing ASP.NET Project.
 
@@ -46,3 +46,19 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
    ![](Project-Conversion_images/Project-Conversion_img6.jpeg)
 
 
+## Rendering Control after Syncfusion ASP.NET Conversion
+
+Once you converted your ASP.NET Project to Syncfusion ASP.NET Project using Syncfusion Visual Studio Extension, Perform the following steps to render the Syncfusion controls to your project.
+1. The CSS, Scripts, Syncfusion References and required Web.config file entries are added to your project by the Syncfusion ASP.NET Conversion.  
+
+2. Add the required CSS and Script files references in master page (Site.Master file) of the project. Please refer to the below screenshot for more information.
+
+   ![](Project-Conversion_images\Project-Conversion_img7.jpeg)
+   
+3. Now, include the Syncfusion controls to your project. Refer the following screenshot for more information.
+
+   ![](Project-Conversion_images\Project-Conversion_img8.jpeg)
+
+4. Run the project and the following output will be displayed.
+
+   ![](Project-Conversion_images\Project-Conversion_img9.jpeg)
