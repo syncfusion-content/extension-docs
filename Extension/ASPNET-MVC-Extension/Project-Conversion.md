@@ -105,4 +105,20 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
    ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img12.jpeg)
 
+## Rendering Control after Syncfusion MVC (Web/Mobile) Conversion:
+
+Once you convert your ASP.NET MVC project to Syncfusion MVC Project, perform the following steps to render the Syncfusion Controls to your project.               
+1. The CSS, Scripts, Syncfusion References and required Web.config file entries are added to your project by Syncfusion ASP.NET MVC Conversion.  
+
+2. Add the required Script and CSS files references in the master page (_Layout.cshtml/Layout.vbhtml file). Please refer to below screenshot for more information.
+
+   ![](Convert-into-Syncfusion-MVC-project_images\ProjectConversion_img13.jpeg)
+
+3. Now, include the Syncfusion controls to your project. Refer to the following screenshot for more information.
+
+   ![](Convert-into-Syncfusion-MVC-project_images\ProjectConversion_img14.jpeg)
+
+4. Run the project and the following output is displayed.
+
+   ![](Convert-into-Syncfusion-MVC-project_images\ProjectConversion_img15.jpeg)
 
