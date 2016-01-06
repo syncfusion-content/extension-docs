@@ -9,9 +9,9 @@ documentation: ug
 
 # Syncfusion NuGet Packages
 
-Syncfusion assemblies are packed by NuGet Packages. Get the Syncfusion NuGet Packages from the following link by logging in with your SyncfusionAccount credentials.
-
-<http://nuget.syncfusion.com/account>
+Syncfusion assemblies are packed by NuGet. Get the Syncfusion NuGet Packages from the following link.
+ 
+<http://nuget.syncfusion.com> 
 
 ## Supported Platforms details for Syncfusion NuGet Packages
 
