@@ -159,7 +159,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			Grid<br/>Data Visualization<br/>Layout<br/>Editors<br/>Navigation<br/>Notification<br/>To know more information about the controls for above categories navigate the below link.<br/>{{'<http://www.syncfusion.com/products/aspnetmvc>'| markdownify }}<br/>
 		</td>
 		<td>
-			DocIO.Helper.Mvc<br/>Pdf.Helper.Mvc<br/>XlsIO.Helper.Mvc<br/>
+			EJ.MVC<br/>
 		</td>
 		<td>
 			-<br/>
