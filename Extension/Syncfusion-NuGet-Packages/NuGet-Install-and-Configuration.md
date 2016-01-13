@@ -36,8 +36,7 @@ button to create the new Package Source.
 
 7. Select Update and then click the OK button. The package's source is added to the list of available package sources as shown in the following screenshot.
 
-
-   ![](private-feed-URL_images/private-feed-URL_img3.png)
+    ![](private-feed-URL_images/private-feed-URL_img3.png)
 
 N> The Syncfusion NuGet packages URL link is provided by platform basics.
 
@@ -46,7 +45,6 @@ N> The Syncfusion NuGet packages URL link is provided by platform basics.
 The following steps help you download and configure the downloaded Syncfusion NuGet Packages in the Visual Studio. The download file format is a zip file that contains all the packages with the framework.
 
 1. Click the download link of Syncfusion NuGet Package and save the zip file. The download option is shown in the following screenshot.
-
 
    ![](from-downloaded-packages_images/from-downloaded-packages_img1.png)
    
@@ -59,9 +57,8 @@ button to create the new Package Source.
    SyncfusionNuGets.
 7. Select Update and then click the OK button. The package's source is added to the list of available package sources as shown in the following screenshot.
 
-
-   ![](from-downloaded-packages_images/from-downloaded-packages_img3.png)
-   
+    ![](from-downloaded-packages_images/from-downloaded-packages_img3.png)
+  
 
 ## NuGet Installation
 
