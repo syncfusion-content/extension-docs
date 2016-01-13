@@ -9,21 +9,21 @@ documentation: ug
 
 # Command Line installation
 
-The following steps help you install the Syncufusion MVC Extension setup through Command Line in Silent mode.
+The following steps help you install the Syncufusion Web Sample Creator setup through Command Line in Silent mode.
 
-1. Double-click the Syncfusion MVC Extension Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
-2. The MVCExtensionSetup.exe file is extracted into the Temp folder.
-3. Run `%temp%`. The Temp folder opens. The `MVCExtensionSetup.exe` file is available in one of the folders.
-4. Copy the MVCExtensionSetup.exe file to the local drive. Example: D:\temp
+1. Double-click the Syncufusion Web Sample Creator Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
+2. The syncfusionwebsamplecreator.exe file is extracted into the Temp folder.
+3. Run `%temp%`. The Temp folder opens. The `syncfusionwebsamplecreator.exe` file is available in one of the folders.
+4. Copy the syncfusionwebsamplecreator.exe file to the local drive. Example: D:\temp
 5. Cancel the wizard.
 6. Open Command Prompt in the Administrator mode and pass the following arguments:
+  
+   “Setup file path\syncfusionwebsamplecreator.exe” /log “{Log file path}” Install /InstallPath:{Location to install}
+   
+   Example: “D:\Temp\syncfusionwebsamplecreator.exe” /log “C:\Temp\EssentialStudio.log” Install /InstallPath:C:\Syncfusion\x.x.x.x
 
-“Setup file path\MVCExtensionSetup.exe” /log “{Log file path}” Install /InstallPath:{Location to install}
+   Refer to the following screenshot for more information.
 
-Example: “D:\Temp\MVCExtensionSetup.exe” /log “C:\Temp\EssentialStudio.log” Install /InstallPath:C:\Syncfusion\x.x.x.x
+   ![](Command-Line-installation_images/Command-Line-installation_img1.png)
 
-Refer to the following screenshot for more information.
-
-![](Command-Line-installation_images/Command-Line-installation_img1.png)
-
-
+I> The syncfusionessentialextension.exe setup has renamed to syncfusionwebsamplecreator.exe from 2015 Volume 4 release.
