@@ -9,7 +9,11 @@ documentation: ug
 
 # Register the Syncfusion License key
 
-You need to register for the Syncfusion license for development purpose. The following steps guide you as to how to register for the Syncfusionlicense.
+Syncfusion has removed the Syncfusion.Core dependency for all the Essential Studio products from the version 13.2.0.29. Please refer to the below link for more information.
+
+<https://www.syncfusion.com/kb/5211/why-is-the-syncfusion-core-assembly-missing-from-v13-2-0-29> 
+
+You need to register for the Syncfusion license key in development machine if you using Syncfusion NuGet Packages version prior to v13.2.0.29. The following steps guide you as to how to register for the Syncfusion license.
 
 1. Download the [Syncfusion License](http://files2.syncfusion.com/Installs/Support/KB/RegisterProductkeyinBuildMachine.zip) Register tool and extract the file. 
 2. Open the Command Prompt with administrator privileges.

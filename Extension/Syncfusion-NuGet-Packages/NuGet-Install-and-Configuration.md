@@ -9,31 +9,34 @@ documentation: ug
 
 # NuGet Install and Configuration
 
+
 ## NuGet Configuration in Visual Studio
 
-You can configure the SyncfusionNuGetPackages in Visual Studio 2008\2010\2012\2013. SyncfusionNuGet packages are configured in the following ways.
+You can configure the SyncfusionNuGetPackages files in Visual Studio 2008\2010\2012\2013. SyncfusionNuGet packages are configured in the following ways.
 
-1. By using Syncfusion’s public feed URL.
-2. Downloaded NuGet Packages from Syncfusion Website. 
+1. By using Syncfusion’s private feed URL.
+2. From the Syncfusion NuGet downloaded from the website.
 
-### Configure the Syncfusion NuGet Packages by using Syncfusion’s public feed URL
+### Configure the Syncfusion NuGet Packages by using Syncfusion’s private feed URL
 
 The following steps help you configure Syncfusion NuGet Packages with a URL.
 
-1. Launch the Microsoft Visual Studio 2008/2010/2012/2013/2015.
+1. Launch the Microsoft Visual Studio 2008/2010/2012/2013.
 2. Select Tools-> NuGet Package Manager-> Package Manager Settings, and the Options dialog opens. 
 3. Navigate to the NuGet Package Manager->Package Sources from the Options dialog. 
-4. Click the Add ![](private-feed-URL_images/private-feed-URL_img1.png)
+4. Click the Add      	          ![](private-feed-URL_images/private-feed-URL_img1.png)
 button to create the new Package Source.
 5. Select the newly created Package Source and rename the source name using the Name input box.
 6. Copy the Syncfusion NuGet Package URL from Syncfusion NuGet account and paste it in the source textbox. You can get the URL by clicking the Copy URL label
-   from the required version and platform provided in the following link: <http://nuget.syncfusion.com> 
+   from the required version and platform provided in the following link: 
    
-   ![](private-feed-URL_images/private-feed-URL_img2.png)
+   [http://nuget.syncfusion.com/account](http://nuget.syncfusion.com/account) 
+   
+    ![](private-feed-URL_images/private-feed-URL_img2.png)
 
 7. Select Update and then click the OK button. The package's source is added to the list of available package sources as shown in the following screenshot.
 
-   ![](private-feed-URL_images/private-feed-URL_img3.png)
+    ![](private-feed-URL_images/private-feed-URL_img3.png)
 
 N> The Syncfusion NuGet packages URL link is provided by platform basics.
 
@@ -48,29 +51,32 @@ The following steps help you download and configure the downloaded Syncfusion Nu
 2. Launch the Visual Studio application.
 3. Navigate to Tools-> NuGet Package Manager-> Package Manager Settings, and the Options dialog opens. 
 4. Select the NuGetPackage Manager->Package Sources from the Options dialog. 
-5. Click the Add ![](from-downloaded-packages_images/from-downloaded-packages_img2.png)
+5. Click the Add      ![](from-downloaded-packages_images/from-downloaded-packages_img2.png)
 button to create the new Package Source.
 6. Select the newly created Package Source and rename the source name from the Name input box and browse the source location with the extracted location of
-   Syncfusion NuGets.
+   SyncfusionNuGets.
 7. Select Update and then click the OK button. The package's source is added to the list of available package sources as shown in the following screenshot.
 
-   ![](from-downloaded-packages_images/from-downloaded-packages_img3.png) 
+    ![](from-downloaded-packages_images/from-downloaded-packages_img3.png)
+  
 
 ## NuGet Installation
 
 Refer to the Syncfusion NuGet Packages from the Visual Studio applications. The following steps help you to add the reference of the Syncfusion assemblies in the Project References.
 
 1. Right click on Project and choose the Manage NuGet Packages.
-2. Select Online -> &lt;Created Package Source Name&gt;. 
+2. Select Online -> <Created Package Source Name>. 
    Refer to the following screenshot for more information.
  
    ![](NuGet-Installation_images/NuGet-Installation_img1.png)
 
+   Manage NuGet Packages
+
 3. Install the required corresponding framework control to use in Visual Studio projects. You can install the dependent assemblies when needed.
 
-4. Find the installed Syncfusion Packages in the Directory location, of the solution file, of the created project (Syncfusion Packages).
-
 N> The framework number at the end of package name like, 35, 40, and 45, 451 is added.
+
+4.Find the installed Syncfusion Packages in the Directory location, of the solution file, of the created project (Syncfusion Packages).
 
 ## Install from Package Manager Console
 
@@ -83,9 +89,7 @@ You can install the Syncfusion NuGet packages by using the Package Manager Conso
 
 3. Run the following command to install the specified NuGet Package with the package name.
 
-   Install-package {package name}
-    
-   For Example: install-package Syncfusion.Chart.WPF45.
+Install-package {package name}. Example: install-package Syncfusion.Chart.WPF45.
 
 
 ## Visual Studio Toolbox manual configuration
@@ -95,6 +99,8 @@ To configure the Syncfusion control in the Visual Studio Toolbox manually with t
 1. Create a new tab named Syncfusion in the toolbox.
 
    ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img1.png)
+
+
 
 2. Right-click and select the Choose Items.
 
@@ -108,9 +114,10 @@ To configure the Syncfusion control in the Visual Studio Toolbox manually with t
 5. Navigate to the SyncfusionWPF assembly from the packages location of the project. You do not have to add the design assemblies
 6. Click OK, and the assemblies are copied to the newly created Syncfusion WPF Toolbox tab.
 
+
 ## NuGet Updates
 
-The following steps help you update the Syncfusion NuGet to your Project.
+The following steps help you update the SyncfusionNuGet to your Project.
 
 1. Before updating the packages, configure the latest NuGet’s details in Visual Studio. 
 2. Right-click on Project and choose Manage NuGet Packages. 
