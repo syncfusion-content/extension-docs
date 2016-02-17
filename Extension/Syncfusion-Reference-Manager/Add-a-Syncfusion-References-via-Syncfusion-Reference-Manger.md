@@ -13,7 +13,7 @@ The Add-In launches a pop-up window that contains the list of Syncfusion control
 
 To add the assemblies:
 
-1. Select the Syncfusion Reference Manager eitherin the WPF, Windows Forms or Silverlight Project.
+1. Select the Syncfusion Reference Manager either in the WPF, Windows Forms or Silverlight Project.
 2. The Syncfusion Reference Manager dialog is displayed as shown in the following screenshot.
 
    ![](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_img1.png)

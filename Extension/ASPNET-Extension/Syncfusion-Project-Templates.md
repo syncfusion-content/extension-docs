@@ -25,7 +25,7 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
    N> Minimum target Framework is 4.0 for Syncfusion ASP.NET project Templates.
    
-3. Once you click OK button, the Syncfusion ASP.NET WebSite or Web Applicaiton project is created.
+3. Once you click OK button, the Syncfusion ASP.NET WebSite or Web Application project is created.
 
 4. Syncfusion references, Scripts, CSS and required Web.config entries are added to the Project.
 

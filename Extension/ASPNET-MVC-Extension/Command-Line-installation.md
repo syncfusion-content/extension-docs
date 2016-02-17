@@ -9,9 +9,9 @@ documentation: ug
 
 # Command Line installation
 
-The following steps help you install the Syncufusion Web Sample Creator setup through Command Line in Silent mode.
+The following steps help you install the Syncfusion Web Sample Creator setup through Command Line in Silent mode.
 
-1. Double-click the Syncufusion Web Sample Creator Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
+1. Double-click the Syncfusion Web Sample Creator Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
 2. The syncfusionwebsamplecreator.exe file is extracted into the Temp folder.
 3. Run `%temp%`. The Temp folder opens. The `syncfusionwebsamplecreator.exe` file is available in one of the folders.
 4. Copy the syncfusionwebsamplecreator.exe file to the local drive. Example: D:\temp

@@ -15,7 +15,7 @@ Navigate to Visual Studio Tools->Extensions and Updates. The Installed Syncfusio
 
 
 
-1. If Syncfusion.MVC.VsPacakge.Web is present more than once, uninstall the Syncfusion.MVC.VSPackage.Web VSIX of that particular version that is no longer in use by clicking the Uninstall button. 
+1. If Syncfusion.MVC.VsPackage.Web is present more than once, uninstall the Syncfusion.MVC.VSPackage.Web VSIX of that particular version that is no longer in use by clicking the Uninstall button. 
 2. Restart Visual Studio. Now you can see the Syncfusion ASP.NET MVC project template without multiple entries.
 
    ![](While-creating-a-new-Syncfusion-project_images/While-creating-a-new-Syncfusion-project_img2.png)
