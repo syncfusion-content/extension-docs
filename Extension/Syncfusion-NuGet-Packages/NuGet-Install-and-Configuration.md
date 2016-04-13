@@ -39,7 +39,7 @@ N> The Syncfusion NuGet packages URL link is provided by platform basics.
 
 ### Configure the Syncfusion NuGet Packages in Visual Studio from downloaded packages
 
-The following steps help you download and configure the downloaded Syncfusion NuGet Packages in the Visual Studio. The download file format is a zip file that contains all the packages with the framework.
+The following steps help you download and configure the downloaded Syncfusion NuGet Packages in the Visual Studio. The download file format is a zip file that contains all the packages with the Framework.
 
 1. Click the download link of Syncfusion NuGet Package and save the zip file. The download option is shown in the following screenshot.
 
@@ -51,7 +51,7 @@ The following steps help you download and configure the downloaded Syncfusion Nu
 5. Click the Add ![](from-downloaded-packages_images/from-downloaded-packages_img2.png)
 button to create the new Package Source.
 6. Select the newly created Package Source and rename the source name from the Name input box and browse the source location with the extracted location of
-   Syncfusion NuGets.
+   Syncfusion NuGet packages.
 7. Select Update and then click the OK button. The package's source is added to the list of available package sources as shown in the following screenshot.
 
    ![](from-downloaded-packages_images/from-downloaded-packages_img3.png) 
@@ -66,11 +66,11 @@ Refer to the Syncfusion NuGet Packages from the Visual Studio applications. The 
  
    ![](NuGet-Installation_images/NuGet-Installation_img1.png)
 
-3. Install the required corresponding framework control to use in Visual Studio projects. You can install the dependent assemblies when needed.
+3. Install the required corresponding Framework control to use in Visual Studio projects. You can install the dependent assemblies when needed.
 
 4. Find the installed Syncfusion Packages in the Directory location, of the solution file, of the created project (Syncfusion Packages).
 
-N> The framework number at the end of package name like, 35, 40, and 45, 451 is added.
+N> The Framework number at the end of package name like, 35, 40, and 45, 451 is added.
 
 ## Install from Package Manager Console
 

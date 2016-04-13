@@ -133,7 +133,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			Syncfusion.AspNet.Olap<br/>
 		</td>
 		<td>
-			Pivot Grid<br/>Olap Chart<br/>Olap Client<br/>Olap Gauge<br/>
+			Pivot Grid<br/>OLAP Chart<br/>OLAP Client<br/>OLAP Gauge<br/>
 		</td>
 		<td>
 			Olap.Base,EJ.Olap<br/>PivotAnalysis.Base<br/>
@@ -216,7 +216,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			Syncfusion.AspNet.Mvc.Olap<br/>
 		</td>
 		<td>
-			Pivot Grid<br/>Olap Chart<br/>Olap Client<br/>Olap Gauge<br/>
+			Pivot Grid<br/>OLAP Chart<br/>OLAP Client<br/>OLAP Gauge<br/>
 		</td>
 		<td>
 			Olap.Base<br/>EJ.Olap<br/>PivotAnalysis.Base <br/>
