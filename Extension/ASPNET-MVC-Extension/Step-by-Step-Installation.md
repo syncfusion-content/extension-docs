@@ -25,7 +25,7 @@ The following procedure illustrates how to install Syncfusion Web Sample Creator
 
 3. After reading the terms, click the I accept the terms and conditions check box.
 
-4. Click the Next button. The Installation location window opens. It shows the Syncfusion Essential studio setup installed location.
+4. Click the Next button. The Installation location window opens. It shows the Syncfusion Essential Studio setup installed location.
 
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.jpeg)
 
