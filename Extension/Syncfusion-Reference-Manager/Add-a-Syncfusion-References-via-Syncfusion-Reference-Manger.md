@@ -27,7 +27,7 @@ To add the assemblies:
 
    ![](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_img2.png)
 
-5. Click OK. The listed Syncfusion assemblies are added to project. Then it notifies the “Assembly Added Successfully” window.
+5. Click OK. The listed Syncfusion assemblies are added to project. Then it notifies “Syncfusion assemblies have been added successfully” in progress bar.
 
    ![](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_img3.png)
 
