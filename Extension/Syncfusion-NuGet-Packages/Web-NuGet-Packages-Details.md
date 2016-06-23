@@ -43,11 +43,11 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="1" rowspan="2">
 			JavaScript<br/>
 		</td>
 		<td>
-			SyncfusionJavaScript<br/>
+			Syncfusion.JavaScript<br/>
 		</td>
 		<td>
 			Grid<br/>Data Visualization<br/>Business Intelligence<br/>Layout<br/>Editors<br/>Navigation<br/>Notification<br/>Framework<br/>Data Science<br/>Miscellaneous<br/>Integration<br/>Report Viewer<br/>To know more information about the controls for above categories navigate the below link.<br/>{{'<http://www.syncfusion.com/products/javascript>'| markdownify }} <br/><br/>
@@ -63,6 +63,26 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 		<td>
 			-<br/>
+		</td>
+	</tr>
+    <tr>
+		<td>
+			Syncfusion.JavaScript.PdfViewer<br/>
+		</td>
+		<td>
+			Pdf Viewer<br/>
+		</td>
+		<td>
+			Compression.Base<br/>EJ.PdfViewer<br/>Pdf.Base<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
+			Syncfusion.JavaScript<br/>
 		</td>
 	</tr>
 	<tr>
@@ -86,6 +106,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 		<td>
 			Syncfusion.Web.Base<br/>
+            Syncfusion.Web.FileFormatsBase<br/>
 		</td>
 	</tr>
 	<tr>
@@ -116,7 +137,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			Excel<br/>Word<br/>PDF<br/>Power Point(Preview)<br/>
 		</td>
 		<td>
-			DocToPDFConverter.Base<br/>ExcelToPDFConverter.Base<br/>PresentationToPDFConverter.Base<br/>HtmlConverter.Base<br/>OfficeChartToImageConverter.WPF<br/>ExcelChartToImageConverter.WPF<br/>SfChart.WPF,Shared.WPF<br/>Presentation.Base<br/>
+			DocToPDFConverter.Base<br/>ExcelToPDFConverter.Base<br/>PresentationToPDFConverter.Base<br/>HtmlConverter.Base<br/>OfficeChartToImageConverter.WPF<br/>ExcelChartToImageConverter.WPF<br/>SfChart.WPF<br/>Shared.WPF<br/>
 		</td>
 		<td>
 			-<br/>
@@ -168,7 +189,8 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			-<br/>
 		</td>
 		<td>
-			Syncfusion.AspNet.Mvc.FileFormats<br/>
+			Syncfusion.Web.Base<br/>
+            Syncfusion.AspNet.Mvc.FileFormats<br/>
 		</td>
 	</tr>
 	<tr>
@@ -179,7 +201,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			DocIO<br/>XlsIO<br/>PDF<br/>PDF Viewer<br/>Power Point(Preview)<br/><br/>
 		</td>
 		<td>
-			DocToPDFConverter.Base<br/>ExcelToPDFConverter.Base<br/>PresentationToPDFConverter.Base<br/>HtmlConverter.Base<br/>OfficeChartToImageConverter.WPF<br/>ExcelChartToImageConverter.WPF<br/>SfChart.WPF,Shared.WPF<br/>Presentation.Base<br/>
+			DocToPDFConverter.Base<br/>ExcelToPDFConverter.Base<br/>PresentationToPDFConverter.Base<br/>HtmlConverter.Base<br/>OfficeChartToImageConverter.WPF<br/>ExcelChartToImageConverter.WPF<br/>SfChart.WPF<br/>Shared.WPF<br/>
 		</td>
 		<td>
 			-<br/>
@@ -239,7 +261,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			Report Viewer<br/>
 		</td>
 		<td>
-			Shared.WPF<br/>RichTextBoxAdv.WPF<br/>Chart.WPF<br/>GridCommon.WPF<br/>Grid.WPF<br/>SfMaps.WPF<br/>ReportControls.WPF<br/>ReportWriter.Base<br/>EJ.ReportViewer,Gauge.WPF<br/>
+			Shared.WPF<br/>RichTextBoxAdv.WPF<br/>Chart.WPF<br/>GridCommon.WPF<br/>Grid.WPF<br/>SfMaps.WPF<br/>ReportControls.WPF<br/>ReportWriter.Base<br/>EJ.ReportViewer<br/>Gauge.WPF<br/>
 		</td>
 		<td>
 			-<br/>
@@ -282,7 +304,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			-<br/>
 		</td>
 		<td>
-			Compression.Base<br/>XlsIO.Base<br/>Pdf.Base<br/>DocIO.Base<br/>OfficeChart.Base<br/>
+			Compression.Base<br/>XlsIO.Base<br/>Pdf.Base<br/>DocIO.Base<br/>OfficeChart.Base<br/>Presentation.Base<br/>
 		</td>
 		<td>
 			-<br/>
