@@ -48,12 +48,15 @@ MVC or Syncfusion ASP.NET MVC (Classic).
 
    * Essential Studio Version: Select any version from the list of Installed Versions.
 	  
-   * Backup: The option Backup copies the original project into the Backup folder in the same project location before migration.
-	  
    * Assemblies From: The option Assemblies from add the assembly to project from the following locations.
 	  
 	    1. Added From GAC - Refer the assemblies from the Global Assembly Cache
 		
 	    2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
 
-4. Press the Migrate button corresponding to the Syncfusion References, CSS, Script files and Web.Config version changes to update it in the project.
+4. . Click the Migrate Button. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before migrate the Syncfusion project. If click No it will migrate the project to required Syncfusion version without backup. 
+
+     ![](Migrate-Syncfusion-Project_images/ProjectMigration_img2.jpeg)
+     
+     
+5. The Syncfusion Reference Assemblies, Scripts and CSS are updated to the corresponding version in the project.

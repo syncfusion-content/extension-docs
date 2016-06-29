@@ -24,9 +24,18 @@ Follow the given steps to add the Syncfusion item in Visual Studio.
 
 
 
-3. Select the required version and themes or Form from the Syncfusion Item Template Gallery. 
+3. Now the Syncfusion Item Template Gallery window will open.
 
-   ![C:/Users/kanimozhipandian/Desktop/IMG_04062015_161634.png](Using-Syncfusion-Item-Template-Gallery_images/Using-Syncfusion-Item-Template-Gallery_img2.png)
+   ![](Using-Syncfusion-Item-Template-Gallery_images/Using-Syncfusion-Item-Template-Gallery_img2.png)
+   
+   
+   
+4. Select the required version and themes or Form from the Syncfusion Item Template Gallery. 
+
+   ![](Using-Syncfusion-Item-Template-Gallery_images/Using-Syncfusion-Item-Template-Gallery_img3.png)
+   
+   
+   ![C:/Users/kanimozhipandian/Desktop/IMG_04062015_161634.png](Using-Syncfusion-Item-Template-Gallery_images/Using-Syncfusion-Item-Template-Gallery_img4.png)
 
 
 
@@ -38,17 +47,13 @@ This is a combo box where you can choose the application’s platform. For now i
 
 Syncfusion’s Installed Build Versions are listed for Syncfusion Essential Studio v13.1.0.21 and later, for the installed Windows Forms platform. 
 
-### Search
-
-A Typical Search bar is used to search the Syncfusion Item Templates.
 
 ### Template Gallery
 
 This part contains a set of Syncfusion Item Templates, and you can choose the Item Templates based on your need.
 
-Once any of the item templates are chosen it navigates to the next page. When Add Item is selected, then the selected item template is added to the project.
-
-![](Using-Syncfusion-Item-Template-Gallery_images/Using-Syncfusion-Item-Template-Gallery_img3.png)
+When Add button is clicked, then the selected item template is added to the project.
+![](Using-Syncfusion-Item-Template-Gallery_images/Using-Syncfusion-Item-Template-Gallery_img5.png)
 
 
 

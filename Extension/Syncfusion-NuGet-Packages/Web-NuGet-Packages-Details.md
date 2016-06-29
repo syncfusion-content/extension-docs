@@ -137,7 +137,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			Excel<br/>Word<br/>PDF<br/>Power Point(Preview)<br/>
 		</td>
 		<td>
-			DocToPDFConverter.Base<br/>ExcelToPDFConverter.Base<br/>PresentationToPDFConverter.Base<br/>HtmlConverter.Base<br/>OfficeChartToImageConverter.WPF<br/>ExcelChartToImageConverter.WPF<br/>SfChart.WPF<br/>
+			DocToPDFConverter.Base<br/>ExcelToPDFConverter.Base<br/>PresentationToPDFConverter.Base<br/>HtmlConverter.Base<br/>OfficeChartToImageConverter.WPF<br/>ExcelChartToImageConverter.WPF<br/>SfChart.WPF<br/>Shared.WPF<br/>
 		</td>
 		<td>
 			-<br/>
@@ -201,7 +201,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			DocIO<br/>XlsIO<br/>PDF<br/>PDF Viewer<br/>Power Point(Preview)<br/><br/>
 		</td>
 		<td>
-			DocToPDFConverter.Base<br/>ExcelToPDFConverter.Base<br/>PresentationToPDFConverter.Base<br/>HtmlConverter.Base<br/>OfficeChartToImageConverter.WPF<br/>ExcelChartToImageConverter.WPF<br/>SfChart.WPF<br/>
+			DocToPDFConverter.Base<br/>ExcelToPDFConverter.Base<br/>PresentationToPDFConverter.Base<br/>HtmlConverter.Base<br/>OfficeChartToImageConverter.WPF<br/>ExcelChartToImageConverter.WPF<br/>SfChart.WPF<br/>Shared.WPF<br/>
 		</td>
 		<td>
 			-<br/>
