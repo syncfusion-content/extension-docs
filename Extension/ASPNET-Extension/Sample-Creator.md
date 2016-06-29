@@ -19,11 +19,10 @@ The following steps help you to create the Syncfusion ASP.NET Web Project via th
 
    ![](Sample-Creator_images/SampleCreator_img1.jpeg)
 
-2. Syncfusion Sample Creator Wizard displaying the list of controls as follows.
+2. Syncfusion Sample Creator Wizard displaying the **Controls and its Feature Selection** section
 
    ![](Sample-Creator_images/SampleCreator_img2.jpeg)
 
-The Syncfusion Sample Creator can be split as follows,
 
 ### Controls Selection
 
@@ -37,11 +36,6 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
    ![](Sample-Creator_images/SampleCreator_img4.jpeg)
 
-### Themes Selection
-
-Themes can be changed by choosing Themes from the top right corner of the Samples Creator window. The sample project is then created based on the theme selection.
-
-   ![](Sample-Creator_images/SampleCreator_img5.jpeg)
 
 ### Project Configuration
 
@@ -58,6 +52,8 @@ You can configure the following project details in the Sample Creator.
 * Name – Name your Syncfusion ASP.NET Application.
 
 * Location – Choose the target location of your project.
+
+* Theme Selection – Choose the required theme.The Theme Preview section shows the controls preview before create the Syncfusion project.
 
    ![](Sample-Creator_images/SampleCreator_img6.jpeg)
 
