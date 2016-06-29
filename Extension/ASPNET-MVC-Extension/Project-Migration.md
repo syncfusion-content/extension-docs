@@ -56,7 +56,7 @@ MVC or Syncfusion ASP.NET MVC (Classic).
 
 4. . Click the Migrate Button. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before migrate the Syncfusion project. If click No it will migrate the project to required Syncfusion version without backup. 
 
-     ![](Migrate-Syncfusion-Project_images/ProjectMigration_img2.jpeg)
+     ![](Migrate-Syncfusion-Project_images/ProjectMigration_img3.jpeg)
      
      
 5. The Syncfusion Reference Assemblies, Scripts and CSS are updated to the corresponding version in the project.
