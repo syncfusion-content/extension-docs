@@ -31,7 +31,10 @@ The following steps direct you to migrate your existing Syncfusion ASP.NET appli
    
    ii. **Assemblies From:** Choose the assembly location from where it is going to be added to the project.
    
-   iii. **Backup:** The option Backup copies the original project into the Backup folder in the same project location before migration.
+4. Click the Migrate Button. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before migrate the Syncfusion project. If click No it will migrate the project to required Syncfusion version without backup
    
-4. Press the Migrate button. The Syncfusion Reference Assemblies, Scripts and CSS are updated to the corresponding version in the project.
+   ![](Project-Migration_images/Project-Migration_img3.jpeg)
+   
+   
+5. The Syncfusion Reference Assemblies, Scripts and CSS are updated to the corresponding version in the project.
 

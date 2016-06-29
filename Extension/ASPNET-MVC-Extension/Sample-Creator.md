@@ -24,7 +24,7 @@ The following steps help you to create the Syncfusion ASP.NET MVC Project via th
 
 
 
-2. Syncfusion Sample Creator Wizard displaying the list of controls as follows. 
+2. Syncfusion Sample Creator Wizard displaying the **Controls and its Feature Selection** section. 
 
 
 
@@ -32,11 +32,9 @@ The following steps help you to create the Syncfusion ASP.NET MVC Project via th
 
 
 
-The Syncfusion Sample Creator can be split as follows,
-
 ### Controls Selection
 
- Listed here are the Syncfusion ASP.NET MVC controls so you can choose the required controls. 
+ Listed here are the Syncfusion ASP.NET MVC controls so you can choose the required controls. And the controls are grouped product wise.
 
 
 
@@ -54,16 +52,6 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
 
 
-### Themes Selection
-
-Themes can be changed by choosing Themes from the top right corner of the Samples Creator window. The sample project is then created based on the theme selection.
-
-
-
-![](Sample-Creator_images/Sample-Creator_img5.png)
-
-
-
 ### Project Configuration
 
 You can configure the following project details in the Sample Creator.
@@ -77,6 +65,8 @@ You can configure the following project details in the Sample Creator.
 * Compress Scripts – Option to compress the scripts.
 * Name – Name your Syncfusion MVC Application.
 * Location – Choose the target location of your project.
+* Theme Selection – Choose the required theme. The Theme Preview section shows the controls preview before create the Syncfusion project.
+
 
 
 

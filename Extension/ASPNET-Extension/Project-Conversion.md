@@ -32,18 +32,30 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
    i. Added From GAC - Refer to the assemblies from Global Assembly Cache. 
 
    ii. Added from Installed Location - Refer to the assemblies from Syncfusion Installed locations.
-
-4. Click the **Next** button to choose the required controls from Wizard as follows. Click the **Convert** button to convert it into a Syncfusion Project.
-
+   
    ![](Project-Conversion_images/Project-Conversion_img3.jpeg)
+   
+   Choose the Theme:
+   
+   The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project
+   
+   ![](Project-Conversion_images/Project-Conversion_img4.jpeg)
+
+4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
+
+   ![](Project-Conversion_images/Project-Conversion_img5.jpeg)
+   
+   The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
+   
+   ![](Project-Conversion_images/Project-Conversion_img6.jpeg)
 
 5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the ASP.NET Project. Refer to the following screenshots for more information.
 
-   ![](Project-Conversion_images/Project-Conversion_img4.jpeg)
+   ![](Project-Conversion_images/Project-Conversion_img7.jpeg)
 
-   ![](Project-Conversion_images/Project-Conversion_img5.jpeg)
+   ![](Project-Conversion_images/Project-Conversion_img8.jpeg)
 
-   ![](Project-Conversion_images/Project-Conversion_img6.jpeg)
+   ![](Project-Conversion_images/Project-Conversion_img9.jpeg)
 
 
 ## Rendering Control after Syncfusion ASP.NET Conversion
@@ -53,12 +65,12 @@ Once you converted your ASP.NET Project to Syncfusion ASP.NET Project using Sync
 
 2. Add the required CSS and Script files references in master page (Site.Master file) of the project. Please refer to the below screenshot for more information.
 
-   ![](Project-Conversion_images\Project-Conversion_img7.jpeg)
+   ![](Project-Conversion_images\Project-Conversion_img10.jpeg)
    
 3. Now, include the Syncfusion controls to your project. Refer the following screenshot for more information.
 
-   ![](Project-Conversion_images\Project-Conversion_img8.jpeg)
+   ![](Project-Conversion_images\Project-Conversion_img11.jpeg)
 
 4. Run the project and the following output will be displayed.
 
-   ![](Project-Conversion_images\Project-Conversion_img9.jpeg)
+   ![](Project-Conversion_images\Project-Conversion_img12.jpeg)
