@@ -42,23 +42,22 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
    ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img2.jpeg)
 
+   The following configurations are used in the Project Conversion Wizard.
+   
+   **Assemblies From:**
 
-	The following configurations are used in the Project Conversion Wizard.
-
-	**Assemblies From:**
-
-	Choose the assembly location:
+   Choose the assembly location:
 
 	1. Added From GAC - Refer the assemblies from the Global Assembly Cache
 	2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
     
-    ![](Project-Conversion_images/Project-Conversion_img3.jpeg)
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img3.jpeg)
     
-    **Choose the Theme:**
+   **Choose the Theme:**
    
-    The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project.
+   The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project.
    
-    ![](Project-Conversion_images/Project-Conversion_img4.jpeg)
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img4.jpeg)
 
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
@@ -66,7 +65,7 @@ The following steps help you use the Syncfusion Project Conversion in the existi
    
    The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    
-   ![](Project-Conversion_images/Project-Conversion_img6.jpeg)
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img6.jpeg)
 
 
 5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
@@ -83,32 +82,31 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 The following steps help you use the Syncfusion Project Conversion in the existing ASP.NET MVC Project.
 
 1. Open an existing Microsoft MVC Project or create a new Microsoft MVC Project.
+
 2. Right-click on Project and select Syncfusion VS Extensions and choose the Convert to Syncfusion MVC (Web) Application. Refer the following screenshot for more information.
 
    ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img10.jpeg)
-
 
 3. Project Conversion Wizard opens so that you can configure the project.
 
    ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img11.jpeg)
 
+   The following configurations are used in the Project Conversion Wizard.
 
-	The following configurations are used in the Project Conversion Wizard.
-
-	**Assemblies** **From**:
-
-	Choose the assembly location:
+   **Assemblies** **From**:
+  
+   Choose the assembly location:
 
 	1. Added From GAC - Refer the assemblies from the Global Assembly Cache
 	2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
     
-        ![](Project-Conversion_images/Project-Conversion_img3.jpeg) 
-    
-    **Choose the Theme:**
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img3.jpeg) 
    
-    Choose the required theme from Theme Selection Combo box. The Theme preview window will change based on your Theme selection. and also the project will be update with the selected theme.
+   **Choose the Theme:**
    
-      ![](Project-Conversion_images/Project-Conversion_img12.jpeg)
+   Choose the required theme from Theme Selection Combo box. The Theme preview window will change based on your Theme selection. and also the project will be update with the selected theme.
+   
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img12.jpeg)
 	
 4. Click the Convert button to convert it into a Syncfusion Project.
 
@@ -116,12 +114,9 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
    ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img13.jpeg)
 
-
    ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img14.jpeg)
 
-
    ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img15.jpeg)
-
 
    ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img16.jpeg)
 
