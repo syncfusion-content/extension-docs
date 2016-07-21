@@ -87,6 +87,44 @@ You can install the Syncfusion NuGet packages by using the Package Manager Conso
     
    For Example: install-package Syncfusion.Chart.WPF45.
 
+## Confuguring Syncfusion NuGet packages from command line in Linux/MAC
+
+### NuGet Configuration
+
+1.	Download the latest NuGet executable from [here](https://dist.nuget.org/win-x86-commandline/latest/nuget.exe).  
+
+2.	Open the downloaded executable location in command window and run the following command,
+
+       mono nuget.exe Sources Add –Name [Source name] –Source [source location]
+
+       For Ex: mono nuget.exe Add –Name “Syncfusion Source” –Source “http://nuget.syncfusion.com/aspnetmvc"
+                                                                                  
+3.	Once the Source gets added successfully the confirmation message will be shown like below.
+
+      For Linux OS :
+
+      ![](NuGet-Installation_images/NuGet-Installation_img2.png)
+
+      For MAC OS :
+    
+      ![](NuGet-Installation_images/NuGet-Installation_img3.png)
+    
+### NuGet Installation
+
+Once the NuGet source has been added, then install the NuGet package which is available in that source by using following command.
+
+mono nuget.exe install [Package name] 
+
+For Ex: mono nuget.exe install “Syncfusion.EJ” –Prerelease 
+
+For Linux OS :
+
+![](NuGet-Installation_images/NuGet-Installation_img4.png)
+
+For MAC OS :
+
+![](NuGet-Installation_images/NuGet-Installation_img5.png)
+
 
 ## Visual Studio Toolbox manual configuration
 
