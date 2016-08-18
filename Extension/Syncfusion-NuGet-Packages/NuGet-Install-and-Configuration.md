@@ -87,7 +87,7 @@ You can install the Syncfusion NuGet packages by using the Package Manager Conso
     
    For Example: install-package Syncfusion.Chart.WPF45.
 
-## Confuguring Syncfusion NuGet packages from command line in Linux/MAC
+## Configuring Syncfusion NuGet packages from command line in Linux/MAC
 
 ### NuGet Configuration
 
