@@ -31,7 +31,7 @@ Please find the supported platforms details for Syncfusion NuGet packages.
 		</tr>
 		<tr>
 			<td> ASP.NETMVC </td>
-			<td> {{'<http://nuget.syncfusion.com/package/aspnetmvc>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/nuget_aspnetmvc/nuget/getsyncfusionpackages/aspnetmvc>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> JavaScript </td>
@@ -67,11 +67,11 @@ Please find the supported platforms details for Syncfusion NuGet packages.
 		</tr>
 		<tr>
 			<td> Universal Windows Platform </td>
-			<td> {{'<http://nuget.syncfusion.com/package/universalwindows>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/nuget_universalwindows/nuget/getsyncfusionpackages/universalwindows>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> Xamarin </td>
-			<td> {{'<http://nuget.syncfusion.com/package/xamarin>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/nuget_xamarin/nuget/getsyncfusionpackages/xamarin>'| markdownify }} </td>
 		</tr>
 	</tbody>
 </table>
