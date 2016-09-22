@@ -43,7 +43,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 	</tr>
 	<tr>
-		<td colspan="1" rowspan="2">
+		<td colspan="1" rowspan="3">
 			JavaScript<br/>
 		</td>
 		<td>
@@ -73,7 +73,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 			Pdf Viewer<br/>
 		</td>
 		<td>
-			Compression.Base<br/>EJ.PdfViewer<br/>Pdf.Base<br/>
+			EJ.PdfViewer<br/>
 		</td>
 		<td>
 			-<br/>
@@ -83,6 +83,28 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 		<td>
 			Syncfusion.JavaScript<br/>
+            Syncfusion.Web.FileFormatsBase<br/>
+		</td>
+	</tr>
+    <tr>
+       <td>
+			Syncfusion.JavaScript.DocumentEditor<br/>
+		</td>
+		<td>
+			Document Editor<br/>
+		</td>
+		<td>
+			EJ.DocumentEditor<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
+			Syncfusion.JavaScript<br/>
+            Syncfusion.Web.FileFormatsBase<br/>
 		</td>
 	</tr>
 	<tr>
