@@ -297,7 +297,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 	</tr>
 	<tr>
 		<td colspan="1" rowspan="2">
-			ASP.NET / ASP.NET MVC<br/>
+			ASP.NET / ASP.NET MVC / JavaScript<br/>
 		</td>
 		<td>
 			Syncfusion.Web.Base<br/>
