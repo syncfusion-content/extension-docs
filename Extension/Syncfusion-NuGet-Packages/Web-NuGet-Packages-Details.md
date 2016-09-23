@@ -173,13 +173,13 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 	</tr>
 	<tr>
 		<td>
-			Syncfusion.AspNet.Olap<br/>
+			Syncfusion.AspNet.Pivot<br/>
 		</td>
 		<td>
-			Pivot Grid<br/>OLAP Chart<br/>OLAP Client<br/>OLAP Gauge<br/>
+			Pivot Grid<br/>Pivot Chart<br/>Pivot Client<br/>Pivot Gauge<br/>
 		</td>
 		<td>
-			Olap.Base,EJ.Olap<br/>PivotAnalysis.Base<br/>
+			Olap.Base<br/>EJ.Pivot<br/>PivotAnalysis.Base<br/>
 		</td>
 		<td>
 			ej.webform.min.js<br/><br/>
@@ -257,13 +257,13 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 	</tr>
 	<tr>
 		<td>
-			Syncfusion.AspNet.Mvc.Olap<br/>
+			Syncfusion.AspNet.Mvc.Pivot<br/>
 		</td>
 		<td>
-			Pivot Grid<br/>OLAP Chart<br/>OLAP Client<br/>OLAP Gauge<br/>
+			Pivot Grid<br/>Pivot Chart<br/>Pivot Client<br/>Pivot Gauge<br/>
 		</td>
 		<td>
-			Olap.Base<br/>EJ.Olap<br/>PivotAnalysis.Base <br/>
+			Olap.Base<br/>EJ.Pivot<br/>PivotAnalysis.Base <br/>EJ.MVC<br/>
 		</td>
 		<td>
 			-<br/>
