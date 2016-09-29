@@ -34,6 +34,10 @@ Please find the supported platforms details for Syncfusion NuGet packages.
 			<td> {{'<http://nuget.syncfusion.com/nuget_aspnetmvc/nuget/getsyncfusionpackages/aspnetmvc>'| markdownify }} </td>
 		</tr>
 		<tr>
+			<td> ASP.NET Core </td>
+			<td> {{'<http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore>'| markdownify }} </td>
+		</tr>
+		<tr>
 			<td> JavaScript </td>
 			<td> {{'<http://nuget.syncfusion.com/package/javascript>'| markdownify }} </td>
 		</tr>
