@@ -45,7 +45,7 @@ The Syncfusion Troubleshooter deals with below assembly reference issues in Sync
 
 2. Mismatched the referred Syncfusion assemblies. 
 
-3. Framework version mismatching (Syncfusion Assemblies) with project’s .NET framework version. 
+3. Framework version mismatching (Syncfusion Assemblies) with project’s .NET Framework version. 
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img3.jpeg)
 
@@ -71,7 +71,7 @@ The Syncfusion Troubleshooter deals with below NuGet package related issues in S
 
 1. Multiple versions of Syncfusion NuGet Packages are installed. 
 
-2. Installed Syncfusion NuGet package’s framework version is differing from the project’s .NET framework version.
+2. Installed Syncfusion NuGet package’s Framework version is differing from the project’s .NET Framework version.
 
 3. Dependent NuGet package of the installed Syncfusion NuGet packages is missing. 
 
