@@ -21,7 +21,7 @@ The Syncfusion Troubleshooter is a Visual Studio extension to troubleshoot the c
 
 * ASP.NET Core Web Application.
 
-* Universal Windows Application.
+* Universal Windows Platform Application.
 
 The Syncfusion Troubleshooter Visual Studio extension is installed along with the following Essential Studio setups. 
 
