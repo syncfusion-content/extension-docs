@@ -9,7 +9,7 @@ documentation: ug
 
 # Troubleshoot the project
 
-The Syncfusion Troubleshooter will be installed in Visual Studio along with Syncfusion Essential Studio setup installation. The Syncfusion Troublshooter can be done the below items,
+The Syncfusion Troubleshooter will be installed in Visual Studio along with Syncfusion Essential Studio setup installation. The Syncfusion Troubleshooter can be done the below items,
 
 1. Report the Configuration issues.  
 
@@ -23,7 +23,7 @@ The following steps direct you to utilize the Syncfusion Troubleshooter by Visua
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img1.jpeg)
 
-2. Now it’s analyse the project and it will report the project configuration issues of Syncfusion controls in the Troubleshooter dialog if any issues found. If the project doesn’t have any configuration issue, the dialog box will show the message as “There is no configuration changes required for this project” like below,
+2. Now it’s analyze the project and it will report the project configuration issues of Syncfusion controls in the Troubleshooter dialog if any issues found. If the project doesn’t have any configuration issue, the dialog box will show the message as “There is no configuration changes required for this project” like below,
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img2.jpeg)
 
@@ -77,11 +77,11 @@ The Syncfusion Troubleshooter deals with below NuGet package related issues in S
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img5.jpeg)
 
-I> Internet connection is required to restore the missing dependent packages. If no internet is available, the dependent packages will not be restored.
+I> Internet connection is required to restore the missing dependent packages. If no Internet is available, the dependent packages will not be restored.
 
 ## Apply the solution
 
-1. Once the Syncfusion Troubleshooter dialog loads, check the corresponding check box of the issue which you need to resolve. Then click the”Troubleshoot” button. 
+1. Once the Syncfusion Troubleshooter dialog loads, check the corresponding check box of the issue which you need to resolve. Then click the "Troubleshoot" button. 
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img6.jpeg)
 
