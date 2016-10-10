@@ -19,6 +19,7 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 
 1. Open an existing Microsoft ASP.NET Project or create a new Microsoft ASP.NET Project.
+
 2. Right-click on **Project** from Solution Explorer and select **Syncfusion VS Extensions** and choose the **Convert to Syncfusion ASP.NET Application**. Refer to the following screenshot for more information.
 
    ![](Project-Conversion_images/Project-Conversion_img1.jpeg)
@@ -29,9 +30,11 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
    Choose the assembly location:
 
-   i. Added From GAC - Refer to the assemblies from Global Assembly Cache. 
+   * Added From GAC - Refer to the assemblies from Global Assembly Cache. 
 
-   ii. Added from Installed Location - Refer to the assemblies from Syncfusion Installed locations.
+   * Added from Installed Location - Refer to the assemblies from Syncfusion Installed locations.
+
+   * Add Referenced Assemblies to Solution - Copy and refer to the assemblies from project's solution file lib directory.     
    
    ![](Project-Conversion_images/Project-Conversion_img3.jpeg)
    
@@ -40,6 +43,18 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
    The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project
    
    ![](Project-Conversion_images/Project-Conversion_img4.jpeg)
+
+   Choose CDN Support:
+
+   The master page of the project will be updated based on required Syncfusion CDN links.
+
+   ![](Project-Conversion_images/Project-Conversion_img13.jpeg)
+ 
+   Choose Copy Global Resources: 
+    
+   The localization culture files will be shipped into Scripts\ej\i18n directory of the project.
+
+   ![](Project-Conversion_images/Project-Conversion_img14.jpeg)   
 
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 

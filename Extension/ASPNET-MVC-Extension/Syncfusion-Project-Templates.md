@@ -40,6 +40,7 @@ The following steps help you create the Syncfusion ASP.NET MVC Project via the V
    ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img1.jpeg)
 
 2. Name the Project, choose the destination location as required and set the Framework of the project then click OK. The Project Configuration Wizard appears.  
+
 3. Choose the options to configure the Syncfusion ASP.NET MVC Application by using the following Project Configuration window.
 
    ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img2.jpeg)
@@ -65,6 +66,10 @@ The following steps help you create the Syncfusion ASP.NET MVC Project via the V
    **Assemblies From:** Choose the assembly location from where it is going to be added to the project.
 
    ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img7.jpeg)
+
+   **Use CDN Support:** The master page of the project will be updated based on required Syncfusion CDN links.
+
+   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img28.jpeg)
 
 4. When you have not chosen the Add Samples option then the Syncfusion ASP.NET MVC/ Syncfusion ASP.NET MVC (Classic) project is created with required assemblies, CSS and Script files only.
 
@@ -125,11 +130,11 @@ The following steps help you create the Syncfusion ASP.NET MVC (Mobile) Project 
 
    **Assemblies From:** Choose the assembly location from where it is going to be added to the project.
 
-   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img21.jpeg)
+   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img7.jpeg)
 
    **Project templates:** Choose the required Control.
 
-  ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img22.jpeg)
+   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img22.jpeg)
 
 4. Once the Project Configuration Wizard is done, the Syncfusion MVC Project is created.
 

@@ -37,12 +37,10 @@ The following steps help you migrate from one version to another version of your
 
    ![http://help.syncfusion.com/extension/aspnet-mvc-extension/Migrate-Syncfusion-Project_images/Migrate-Syncfusion-Project_img1.png](Migrate-Syncfusion-Project_images/ProjectMigration_img1.jpeg)
 
-
 2. The Project Migration window appears. You can choose the required Syncfusion version that is installed in the machine that is either Syncfusion ASP.NET 
 MVC or Syncfusion ASP.NET MVC (Classic).
 
    ![](Migrate-Syncfusion-Project_images/ProjectMigration_img2.jpeg)
-
 
 3. The Project Migration window allows you to configure the following options:
 
@@ -51,12 +49,11 @@ MVC or Syncfusion ASP.NET MVC (Classic).
    * Assemblies From: The option Assemblies from add the assembly to project from the following locations.
 	  
 	    1. Added From GAC - Refer the assemblies from the Global Assembly Cache
-		
-	    2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
+		2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
+        3. Add Referenced Assemblies to Solution - Copy and refer to the assemblies from project's solution file lib directory.  
 
 4. Click the Migrate Button. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before migrate the Syncfusion project. If click No it will migrate the project to required Syncfusion version without backup. 
 
      ![](Migrate-Syncfusion-Project_images/ProjectMigration_img3.jpeg)
-     
-     
+      
 5. The Syncfusion Reference Assemblies, Scripts and CSS are updated to the corresponding version in the project.

@@ -23,7 +23,7 @@ documentation: ug
    * Navigate to the “ASP.NET MVC” tab available on the left side.
    * Click the “SAMPLE CREATOR” button. It downloads the corresponding version of Syncfusion Web Sample Creator setup. When you have already installed the Syncfusion Web Sample Creator setup then it will launch the “Sample Creator” utility instead of downloading. 
 
-    ![](Download-ASPNET-MVC-Extension_images/Download-ASPNET-MVC-Extension_img2.png)
+    ![](Download-ASPNET-MVC-Extension_images/Download-ASPNET-MVC-Extension_img2.jpeg)
 
 I> The syncfusionessentialextension.exe setup has renamed to syncfusionwebsamplecreator.exe from 2015 Volume 4 release.
 

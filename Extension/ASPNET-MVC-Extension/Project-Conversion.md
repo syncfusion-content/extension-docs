@@ -50,7 +50,8 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
 	1. Added From GAC - Refer the assemblies from the Global Assembly Cache
 	2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
-    
+    3. Add Referenced Assemblies to Solution - Copy and refer to the assemblies from project's solution file lib directory.
+
    ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img3.jpeg)
     
    **Choose the Theme:**
@@ -58,17 +59,29 @@ The following steps help you use the Syncfusion Project Conversion in the existi
    The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project.
    
    ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img4.jpeg)
+   
+   **Choose CDN Support:**
+
+   The master page of the project will be updated based on required Syncfusion CDN links.
+   
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img20.jpeg)
+   
+   **Choose Copy Global Resources:**
+    
+   The localization culture files will be shipped into Scripts\ej\i18n directory of the project.
+   
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img21.jpeg)
 
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
    ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img5.jpeg)
    
-   The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
+5. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    
    ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img6.jpeg)
 
 
-5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
+6. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
 
    ![http://help.syncfusion.com/extension/aspnet-mvc-extension/Convert-into-Syncfusion-MVC-project_images/Convert-into-Syncfusion-MVC-project_img7.png](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img7.jpeg)
 
@@ -99,7 +112,8 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
 	1. Added From GAC - Refer the assemblies from the Global Assembly Cache
 	2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
-    
+    3. Add Referenced Assemblies to Solution - Copy and refer to the assemblies from project's solution file lib directory.   
+
    ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img3.jpeg) 
    
    **Choose the Theme:**
@@ -108,6 +122,18 @@ The following steps help you use the Syncfusion Project Conversion in the existi
    
    ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img12.jpeg)
 	
+   **Choose CDN Support:**
+
+   The master page of the project will be updated based on required Syncfusion CDN links.
+   
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img20.jpeg)
+   
+   **Choose Copy Global Resources:**
+    
+   The localization culture files will be shipped into Scripts\ej\i18n directory of the project.
+   
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img21.jpeg)
+
 4. Click the Convert button to convert it into a Syncfusion Project.
 
 5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.

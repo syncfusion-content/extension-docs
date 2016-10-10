@@ -39,45 +39,43 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
 ### Project Configuration
 
-You can configure the following project details in the Sample Creator.
+1. You can configure the following project details in the Sample Creator.
 
-* Project Type – Select the type of ASP.NET Project, either Web Application or Web Site.
+   * Project Type – Select the type of ASP.NET Project, either Web Application or Web Site.
 
-* Language – Select the language, either C# or VB.
+   * Language – Select the language, either C# or VB.
 
-* VS Version – Choose the Visual Studio version.
+   * VS Version – Choose the Visual Studio version.
 
-* .NET Framework – Choose the .NET Framework version.
+   * .NET Framework – Choose the .NET Framework version.
 
-* Name – Name your Syncfusion ASP.NET Application.
+   * Name – Name your Syncfusion ASP.NET Application.
 
-* Location – Choose the target location of your project.
+   * Location – Choose the target location of your project.
 
-* Theme Selection – Choose the required theme.The Theme Preview section shows the controls preview before create the Syncfusion project.
+   * Theme Selection – Choose the required theme.The Theme Preview section shows the controls preview before create the Syncfusion project.
 
    ![](Sample-Creator_images/SampleCreator_img6.jpeg)
 
 
-When you click the Create button, the new Syncfusion ASP.NET project is created. The following resources are added in the project:
+2. When you click the Create button, the new Syncfusion ASP.NET project is created. The following resources are added in the project:
 
-* Added the required ASPX and Class files in the project.
+   * Added the required ASPX and Class files in the project.
 
-  ![](Sample-Creator_images/SampleCreator_img7.jpeg)
+     ![](Sample-Creator_images/SampleCreator_img7.jpeg)
 
-* Included the required Syncfusion ASP.NET scripts and themes files.
+   * Included the required Syncfusion ASP.NET scripts and themes files.
 
-  ![](Sample-Creator_images/SampleCreator_img8.jpeg)
+     ![](Sample-Creator_images/SampleCreator_img8.jpeg)
 
-* The required Syncfusion assemblies are added for selected controls under Project Reference.
+   * The required Syncfusion assemblies are added for selected controls under Project Reference.
 
-  ![](Sample-Creator_images/SampleCreator_img9.jpeg)
+     ![](Sample-Creator_images/SampleCreator_img9.jpeg)
 
-* Configure the Web.Config file by adding the Syncfusion reference assemblies, namespaces and controls.
+   * Configure the Web.Config file by adding the Syncfusion reference assemblies, namespaces and controls.
 
-  ![](Sample-Creator_images/SampleCreator_img10.jpeg)
+     ![](Sample-Creator_images/SampleCreator_img10.jpeg)
 
-Once the project is created you can open the project by clicking the Yes button. If you click No button the corresponding location of the project will be opened. Refer the following screenshot for more information.
+3. Once the project is created you can open the project by clicking the Yes button. If you click No button the corresponding location of the project will be opened. Refer the following screenshot for more information.
 
-![](Sample-Creator_images/SampleCreator_img11.jpeg)
-
-
+   ![](Sample-Creator_images/SampleCreator_img11.jpeg)
