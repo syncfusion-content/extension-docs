@@ -61,24 +61,34 @@ The following steps directs you to use the Syncfusion NuGet Manager from command
 
    ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img8.jpeg)
 
-Add
-To add the Syncfusion NuGet feed link with below command.
-SyncfusionNuGetManager.exe Add [platform key]
-Example
-SyncfusionNuGetManager.exe Add
-Update
-To update the new feed\local NuGet location with update command.
-SyncfusionNuGetManager.exe Update {platform key} {source feed link\Local NuGet location}
-Example
-SynfusionNuGetManager.exe Update JavaScript “D:\Syncfusion\JavaScript NuGet”
+**Add**
 
-Remove
+To add the Syncfusion NuGet feed link with below command.
+
+SyncfusionNuGetManager.exe Add [platform key]
+
+Example:SyncfusionNuGetManager.exe Add
+
+**Update**
+
+To update the new feed\local NuGet location with update command.
+
+SyncfusionNuGetManager.exe Update {platform key} {source feed link\Local NuGet location}
+
+Example:SynfusionNuGetManager.exe Update JavaScript “D:\Syncfusion\JavaScript NuGet”
+
+**Remove**
+
 To remove the configured Syncfusion NuGet by below command.
+
 SyncfusionNuGetanager.exe Remove [platform  key] [local NuGet Location]
-Example
-SyncfusionNuGetManager.exe Remove JavaScript
-Platform Key table
+
+Example:SyncfusionNuGetManager.exe Remove JavaScript
+
+**Platform Key table**
+
 Here the list of keyword for platform keys to access. 
+
 <table>
  <thead>
   <tr>
