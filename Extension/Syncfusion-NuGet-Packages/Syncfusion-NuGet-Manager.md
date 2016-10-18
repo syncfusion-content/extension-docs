@@ -75,13 +75,13 @@ To update the new feed\local NuGet location with update command.
 
 SyncfusionNuGetManager.exe Update {platform key} {source feed link\Local NuGet location}
 
-Example:SynfusionNuGetManager.exe Update JavaScript “D:\Syncfusion\JavaScript NuGet”
+Example:SyncfusionNuGetManager.exe Update JavaScript “D:\Syncfusion\JavaScript NuGet”
 
 **Remove**
 
 To remove the configured Syncfusion NuGet by below command.
 
-SyncfusionNuGetanager.exe Remove [platform  key] [local NuGet Location]
+SyncfusionNuGetManager.exe Remove [platform  key] [local NuGet Location]
 
 Example:SyncfusionNuGetManager.exe Remove JavaScript
 
