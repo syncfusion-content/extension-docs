@@ -23,7 +23,13 @@ The following steps direct you to utilize the Syncfusion Troubleshooter by Visua
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img1.jpeg)
 
-2. Now it’s analyze the project and it will report the project configuration issues of Syncfusion controls in the Troubleshooter dialog if any issues found. If the project doesn’t have any configuration issue, the dialog box will show there is no configuration changes required for Syncfusion controls with checked configurations like below,
+2. Now it’s analyze the project and it will report the project configuration issues of Syncfusion controls in the Troubleshooter dialog if any issues found. If the project doesn’t have any configuration issue, the dialog box will show there is no configuration changes required in following areas,
+
+     * Syncfusion assembly references.
+
+     * Syncfusion Web.config entries.
+
+     * Syncfusion NuGet Packages. 
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img2.jpeg)
 
