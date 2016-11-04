@@ -19,11 +19,17 @@ The Syncfusion Troubleshooter will be installed in Visual Studio along with Sync
 
 The following steps direct you to utilize the Syncfusion Troubleshooter by Visual Studio. 
 
-1. Right click on the Project file in Solution Explorer, then select the command “Syncfusion Troubleshooter”. Refer the following screenshot for more information. 
+1. Right click on the Project file in Solution Explorer, then select the command “Syncfusion Troubleshooter...”. Refer the following screenshot for more information. 
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img1.jpeg)
 
-2. Now it’s analyze the project and it will report the project configuration issues of Syncfusion controls in the Troubleshooter dialog if any issues found. If the project doesn’t have any configuration issue, the dialog box will show the message as “There is no configuration changes required for this project” like below,
+2. Now it’s analyze the project and it will report the project configuration issues of Syncfusion controls in the Troubleshooter dialog if any issues found. If the project doesn’t have any configuration issue, the dialog box will show there is no configuration changes required in following areas,
+
+     * Syncfusion assembly references.
+
+     * Syncfusion Web.config entries.
+
+     * Syncfusion NuGet Packages. 
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img2.jpeg)
 
@@ -81,7 +87,7 @@ I> Internet connection is required to restore the missing dependent packages. If
 
 ## Apply the solution
 
-1. Once the Syncfusion Troubleshooter dialog loads, check the corresponding check box of the issue which you need to resolve. Then click the "Troubleshoot" button. 
+1. Once the Syncfusion Troubleshooter dialog loads, check the corresponding check box of the issue which you need to resolve. Then click the "Fix Issue(s)" button. 
 
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img6.jpeg)
 
