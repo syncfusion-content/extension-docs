@@ -11,7 +11,7 @@ documentation: ug
 
 ## NuGet Configuration in Visual Studio
 
-You can configure the SyncfusionNuGetPackages in Visual Studio 2008\2010\2012\2013. SyncfusionNuGet packages are configured in the following ways.
+You can configure the Syncfusion NuGet Packages in Visual Studio 2010 or higher. SyncfusionNuGet packages are configured in the following ways.
 
 1. By using Syncfusion’s public feed URL.
 2. Downloaded NuGet Packages from Syncfusion Website. 

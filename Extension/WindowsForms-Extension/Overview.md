@@ -9,7 +9,7 @@ documentation: ug
 
 # Windows Forms Extension
 
-The Syncfusion Windows Extensions provides you with quick access to Project Templates to create or configure the Syncfusion Windows Forms Application. The Syncfusion Windows Forms Extensions have the following features,
+The Syncfusion Windows Extensions provides you with quick access to Project Templates to create or configure the Syncfusion Windows Forms Application. It supports Microsoft Visual Studio 2010 or higher. The Syncfusion Windows Forms Extensions have the following features,
 
 * Syncfusion Project Templates for Windows Forms Application
 * Syncfusion Item Templates for Windows Forms Application

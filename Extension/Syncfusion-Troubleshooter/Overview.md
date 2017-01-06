@@ -9,7 +9,7 @@ documentation: ug
 
 # Syncfusion Troubleshooter
 
-The Syncfusion Troubleshooter is a Visual Studio extension to troubleshoot the configuration issues of Syncfusion controls in projects. It supports Microsoft Visual Studio 2010, 2012, 2013 and 2015. If Visual Studio project has any configuration issue with in Syncfusion control like, wrong Framework Syncfusion assembly added to the project or missing any Syncfusion dependent assembly of a referred assembly, the Syncfusion Troubleshooter will investigate these type of problem and fix them. The Syncfusion Troubleshooter available from Syncfusion Essential Studio v14.3.0.49. Currently the Syncfusion Troubleshooter is available for the following project types.
+The Syncfusion Troubleshooter is a Visual Studio extension to troubleshoot the configuration issues of Syncfusion controls in projects. It supports Microsoft Visual Studio 2010 or higher. If Visual Studio project has any configuration issue with in Syncfusion control like, wrong Framework Syncfusion assembly added to the project or missing any Syncfusion dependent assembly of a referred assembly, the Syncfusion Troubleshooter will investigate these type of problem and fix them. The Syncfusion Troubleshooter available from Syncfusion Essential Studio v14.3.0.49. Currently the Syncfusion Troubleshooter is available for the following project types.
 
 * Windows Forms Application.
 
