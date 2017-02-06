@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-The Syncfusion ASP.NET Extensions provide quick access to create or configure the Syncfusion ASP.NET projects. The Syncfusion ASP.NET Extensions have the following features.
+The Syncfusion ASP.NET Extensions provide quick access to create or configure the Syncfusion ASP.NET projects. It supports Microsoft Visual Studio 2010 or higher. The Syncfusion ASP.NET Extensions have the following features.
 
 
 * Syncfusion Project Templates for ASP.NET Web Application and ASP.NET Web Site
