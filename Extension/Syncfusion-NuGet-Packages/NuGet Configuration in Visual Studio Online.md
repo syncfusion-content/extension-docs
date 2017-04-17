@@ -31,16 +31,16 @@ project by following the below steps.
 
 <!-- -->
 
-1.  If already choose the build process template, navigate to the Build
+3.  If already choose the build process template, navigate to the Build
     and Release option and select the Edit option to edit the NuGet
     restore process.
 
     <img src="./NuGet-VisualStudioonline_images/image4.png" width="1019" height="461" />
 
-2.  Then set the NuGet.config path in the NuGet restore
+4.  Then set the NuGet.config path in the NuGet restore
     process.<img src="./NuGet-VisualStudioonline_images/image5.png" width="1347" height="429" />
 
-3.  Then start the build process from the Visual Studio online. The
+5.  Then start the build process from the Visual Studio online. The
     project will be compiled successfully.
 
     <img src="./NuGet-VisualStudioonline_images/image6.png" width="835" height="432" />
