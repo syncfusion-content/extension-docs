@@ -77,6 +77,4 @@ Once you converted your ASP.NET Core Web Application to Syncfusion ASP.NET Core 
    ![](Project-Conversion_images\Project-Conversion_img12.jpeg)
    
    
-   I> Refer all the required external and internal scripts only once in the page with proper order. Refer this [link] [1] to know about order of script reference.
-   
-   [1]: https://help.syncfusion.com/js/control-initialization#adding-the-required-javascript-files "Adding the required javascript files"
+   I> Refer all the required external and internal scripts only once in the page with proper order. Refer this [link] (https://help.syncfusion.com/js/control-initialization#adding-the-required-javascript-files) to know about order of script reference.
