@@ -63,9 +63,7 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
    ![](Project-Conversion_images/Project-Conversion_img8.jpeg)
 
-   ![](Project-Conversion_images/Project-Conversion_img9.jpeg)
-
-
+   
 ## Rendering Control after Syncfusion ASP.NET Core Conversion
 
 Once you converted your ASP.NET Core Web Application to Syncfusion ASP.NET Core Web Application using Syncfusion Visual Studio Extension, Perform the following steps to render the Syncfusion controls to your project.
@@ -77,3 +75,8 @@ Once you converted your ASP.NET Core Web Application to Syncfusion ASP.NET Core 
 2. Then run the project and the following output will be displayed.
 
    ![](Project-Conversion_images\Project-Conversion_img12.jpeg)
+   
+   
+   I> Refer all the required external and internal scripts only once in the page with proper order. Refer this [link] [1] to know about order of script reference.
+   
+   [1]: https://help.syncfusion.com/js/control-initialization#adding-the-required-javascript-files "Adding the required javascript files"

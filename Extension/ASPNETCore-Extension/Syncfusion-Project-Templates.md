@@ -31,29 +31,19 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
    **Project Type:** Select the type of ASP.NET Core Project, either .NET Core or .NET Framework.
 
-   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img3.jpeg)
- 
    **.NET Core Version:** Select the version of ASP.NET Core Project, either ASP.NET Core 1.0 or ASP.NET Core 1.1.
-
-   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img6.jpeg)
 
    **Assets From:** Load the Syncfusion assets to ASP.NET Core Project, either Bower, CDN or Installed Location.
 
-   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img7.jpeg)
-
    **Theme Selection:** Choose the required Theme.
 
-   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img5.jpeg)
-  
    **Components:** Choose the Required Syncfusion components to configure.
 
-   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img5.jpeg)
+   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img2.jpeg)
    
 3. Once you click Create button, the Syncfusion ASP.NET Core Application is created.
 
 4. Required Syncfusion NuGet/Bower packages, Scripts and CSS are added to the Project.
-
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img2.jpeg)
 
    ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img3.jpeg)
 
