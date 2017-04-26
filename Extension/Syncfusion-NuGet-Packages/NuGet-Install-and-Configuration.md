@@ -96,17 +96,17 @@ The following steps help you configure and restore the Syncfusion NuGet packages
      
     ![](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline_image1.png)
 
-2.  If your application doesn't have any build definitions, Create new build definition by clicking the **New Definition** button. 
+2.  If your application doesn't have any build definitions, create new build definition by clicking the **New Definition** button. 
 
     ![](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline_image2.png)
 
     ![](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline_image3.png)
 
-3.  If your application have any build definitions, navigate to **Build & Release** tab and select the **Edit** option from corresponding application to include the NuGet restore process.
+3.  If your application has any build definitions, navigate to **Build & Release** tab and select the **Edit** option from corresponding application to include the NuGet restore process.
 
     ![](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline_image4.png)
      
-    N> If we cant find the NuGet restore process from these build definitions, we can add it by using **Add build step -> Package -> NuGet Installer**. 
+    N> If we can't find the NuGet restore process from these build definitions, we can add it by using **Add build step -> Package -> NuGet Installer**. 
 
 4.  Then update path of the NuGet.config file in Path to NuGet.config textbox and Save this build definition.
 	
