@@ -23,7 +23,7 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
 2. Name the **Project**, choose the destination location when required and set the Framework of the project, then click **OK**. The Project Configuration Wizard appears.
 
-   N> Minimum target Framework is 4.5 for Syncfusion ASP.NET Core Project Templates.
+   N> Minimum target Framework is 4.5.2 for Syncfusion ASP.NET Core Project Templates.
    
 3. Choose the options to configure the Syncfusion ASP.NET Core Application by using the following Project Configuration dialog.
 
