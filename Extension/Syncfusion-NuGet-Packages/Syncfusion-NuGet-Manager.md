@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-Syncfusion NuGet Package Manager is the utility that allows you to add, remove and update the Syncfusion NuGet sources (available platforms) to NuGet Package Manager. Download the Syncfusion NuGet Manager utility from [here](http://www.syncfusion.com/downloads/support/directtrac/general/ze/SyncfusionNugetManager-1678252340.zip).
+Syncfusion NuGet Package Manager is the utility that allows you to add, remove and update the Syncfusion NuGet sources (available platforms) to NuGet Package Manager. Download the Syncfusion NuGet Manager utility from [here](http://www.syncfusion.com/downloads/support/directtrac/general/ze/SyncfusionNugetManager-1610952973.zip).
 
 ## Add Syncfusion NuGet Package sources 
 
@@ -41,9 +41,7 @@ The following steps directs you to add the Syncfusion NuGet Package sources from
 
 1. If any configured Syncfusion NuGet Package sources are no longer required, Select the unwanted platforms from “Select platforms to remove” (Right side of the window) column and click <<Remove button. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img6.jpeg)
-
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img7.jpeg)
+   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img6.jpeg)   
 
 2. Now selected platforms will be added under “Selected platforms to add” (Left side of the window) column. Click “Configure” button to remove the required Syncfusion Package sources to NuGet Package Manager.
 
@@ -104,6 +102,10 @@ Here the list of keyword for platform keys to access.
   <tr>
     <td>ASP.NET MVC</td>
     <td>Aspnetmvc /asp.net mvc /mvc</td>
+  </tr>
+  <tr>
+    <td>ASP.NET Core</td>
+    <td>Aspnetcore /asp.net core /core</td>
   </tr>
   <tr>
    <td>JavaScript</td>
