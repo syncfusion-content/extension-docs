@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion Project Conversion is a Visual Studio add-in that converts an existing ASP.NET Core application into a Syncfusion ASP.NET Core Web application by adding the required assemblies and resource files.
 
-I> The Syncfusion ASP.NET Core Web Application Project Conversion utility is available from v15.2.0.x. 
+I> The Syncfusion ASP.NET Core Web Application Project Conversion utility is available from v15.2.0.40. 
 
 ## Convert into Syncfusion ASP.NET Core Web Application 
 
