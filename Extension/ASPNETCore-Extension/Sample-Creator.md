@@ -11,7 +11,7 @@ documentation: ug
 
 Sample Creator is the utility that allows you to create Syncfusion ASP.NET Core Projects along with the samples based on Controls and Features selection.
 
-I> The Syncfusion ASP.NET Core Sample Creator utility is available from v15.2.0.x.
+I> The Syncfusion ASP.NET Core Sample Creator utility is available from v15.2.0.40.
 
 ## Create Syncfusion ASP.NET Core Web Application from Sample Creator
 

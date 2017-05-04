@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion provides the **Visual** **Studio** **Project** **Templates** for the Syncfusion ASP.NET Core platform to create Syncfusion ASP.NET Core Web Application.  
 
-I> The Syncfusion ASP.NET Core project templates are available from v15.2.0.x.  
+I> The Syncfusion ASP.NET Core project templates are available from v15.2.0.40.  
 
 ## Create Syncfusion ASP.NET Core Application
 
