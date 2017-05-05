@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-The Syncfusion ASP.NET Core Extensions provide quick access to create or configure the Syncfusion ASP.NET Core projects. It supports Microsoft Visual Studio 2015 or higher. The Syncfusion ASP.NET Core Extensions have the following features.
+The Syncfusion ASP.NET Core Extensions provide quick access to create or configure the Syncfusion ASP.NET Core projects. It supports Microsoft Visual Studio 2017. The Syncfusion ASP.NET Core Extensions have the following features.
 
 * Syncfusion Project Templates for ASP.NET Core Web Application (.NET Core and .NET Framework)
 * Syncfusion Project Conversion for ASP.NET Core Web Application
