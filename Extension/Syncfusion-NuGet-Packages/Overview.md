@@ -21,13 +21,13 @@ Please find the supported platforms details for Syncfusion NuGet packages.
 	<thead>
 		<tr>
 			<th>Platform</th>
-			<th>Link</th>
+			<th>Feed Link</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
 			<td> ASP.NET </td>
-			<td> {{'<http://nuget.syncfusion.com/package/aspnet>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/aspnet>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> ASP.NETMVC </td>
@@ -39,35 +39,35 @@ Please find the supported platforms details for Syncfusion NuGet packages.
 		</tr>
 		<tr>
 			<td> JavaScript </td>
-			<td> {{'<http://nuget.syncfusion.com/package/javascript>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/javascript>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> LightSwitchHtml </td>
-			<td> {{'<http://nuget.syncfusion.com/package/lightswitch>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/lightswitch>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> Silverlight </td>
-			<td> {{'<http://nuget.syncfusion.com/package/silverlight>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/silverlight>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> Windows Forms </td>
-			<td> {{'<http://nuget.syncfusion.com/package/windows-forms>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/windows-forms>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> Windows Phone </td>
-			<td> {{'<http://nuget.syncfusion.com/package/windowsphone>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/windowsphone>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> WinRT </td>
-			<td> {{'<http://nuget.syncfusion.com/package/winrt>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/winrt>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> Universal </td>
-			<td> {{'<http://nuget.syncfusion.com/package/universal>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/universal>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> WPF </td>
-			<td> {{'<http://nuget.syncfusion.com/package/wpf>'| markdownify }} </td>
+			<td> {{'<http://nuget.syncfusion.com/wpf>'| markdownify }} </td>
 		</tr>
 		<tr>
 			<td> Universal Windows Platform </td>
