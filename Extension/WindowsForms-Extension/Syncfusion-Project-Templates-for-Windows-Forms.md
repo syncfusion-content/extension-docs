@@ -12,7 +12,7 @@ documentation: ug
 
 Syncfusion provides the Visual Studio Project Templates for the Syncfusion Windows Forms platform to create Syncfusion Windows Forms Application. 
 
-I> The Syncfusion Windows Forms templates are available from {{site.releaseversion.2016_vol_3 }}. 
+I> The Syncfusion Windows Forms templates are available from v14.3.0.49. 
 
 ## Create Syncfusion Windows Forms Project 
 
