@@ -43,7 +43,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 	</tr>
 	<tr>
-		<td colspan="1" rowspan="3">
+		<td colspan="1" rowspan="4">
 			JavaScript<br/>
 		</td>
 		<td>
@@ -104,6 +104,26 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 		<td>
 			Syncfusion.JavaScript<br/>
+            Syncfusion.Web.FileFormatsBase<br/>
+		</td>
+	</tr>
+	<tr>
+       <td>
+			Syncfusion.Web.FileFormats<br/>
+		</td>
+		<td>
+			DocIO<br/>XlsIO<br/>PDF<br/>PDF Viewer<br/>Presentation<br/><br/>
+		</td>
+		<td>
+			DocToPDFConverter.Base<br/>ExcelToPDFConverter.Base<br/>PresentationToPDFConverter.Base<br/>HtmlConverter.Base<br/>OfficeChartToImageConverter.WPF<br/>ExcelChartToImageConverter.WPF<br/>SfChart.WPF<br/>Shared.WPF<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
             Syncfusion.Web.FileFormatsBase<br/>
 		</td>
 	</tr>
