@@ -35,7 +35,7 @@ button to create the new Package Source.
 
    ![](private-feed-URL_images/private-feed-URL_img3.png)
 
-N> The Syncfusion NuGet packages URL link is provided by platform basics.
+N> The Syncfusion public NuGet feed URL is provided by platform basics and you no need the credentials to access the Syncfusion NuGet packages.
 
 ### Configure the Syncfusion NuGet Packages in Visual Studio from downloaded packages
 
