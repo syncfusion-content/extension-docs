@@ -9,7 +9,7 @@ documentation: ug
 
 # Syncfusion NuGet Package Licensing 
 
-Syncfusion provides the license per developer licensing model. Each license is for a single named user. Also, Syncfusion doesn’t require seperate license for any servers. So, if you have license for each developer it is not necessary to do license key registration to use the Syncfusion NuGet packages. 
+Syncfusion provides the license per developer licensing model. Each license is for a single named user. Also, Syncfusion doesn’t require separate license for any servers. So, if you have license for each developer it is not necessary to do license key registration to use the Syncfusion NuGet packages. 
 
 While using Syncfusion NuGet package of version that is prior to 13.2.0.29, you need to register for the Syncfusion license for development purpose. The following steps guide you as to how to register for the Syncfusion license.
 
