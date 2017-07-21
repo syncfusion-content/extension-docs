@@ -19,6 +19,7 @@ You can configure the Syncfusion NuGet Packages in Visual Studio 2010 or higher.
 ### Configure the Syncfusion NuGet Packages by using Syncfusion’s public feed URL
 
 Syncfusion NuGet Package feed links are configured in Visual Studio in the following ways,
+
 1. Syncfusion NuGet Package Manager
 2. NuGet Package Manager settings
 
