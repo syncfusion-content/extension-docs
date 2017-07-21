@@ -18,6 +18,29 @@ You can configure the Syncfusion NuGet Packages in Visual Studio 2010 or higher.
 
 ### Configure the Syncfusion NuGet Packages by using Syncfusion’s public feed URL
 
+Syncfusion NuGet Package feed links are configured in Visual Studio in the following ways,
+1. Syncfusion NuGet Package Manager
+2. NuGet Package Manager settings
+
+#### Syncfusion NuGet Package Manager
+
+The following steps help you configure Syncfusion NuGet Packages with a URL.
+
+1. **Syncfusion NuGet Manager** is allows you to **add** the Syncfusion NuGet sources (for available platforms) to NuGet Package Manager. Download the [Syncfusion NuGet Manager](http://www.syncfusion.com/downloads/support/directtrac/general/ze/SyncfusionNugetManager-1610952973.zip) utility.
+2. Extract zip file and run the SyncfusionNuGetManager.exe
+3. Syncfusion NuGet Manager Window will be opened.
+4. Select the platform **WPF** (or required platform) from **“Select platforms to add”** (Left side of the window) column and click **Add>>** button. Then click **Configure** button.
+
+   ![](private-feed-URL_images/private-feed-URL_img4.jpg)
+
+5. Once Syncfusion NuGet Manager added the Syncfusion NuGet sources, the changes will be reflected in package sources of your Visual Studio. 
+
+   ![](private-feed-URL_images/private-feed-URL_img5.jpg)
+
+**Note:** Get the more details about Syncfusion NuGet Manager utility from [here](https://help.syncfusion.com/extension/syncfusion-nuget-packages/syncfusion-nuget-manager).
+
+#### NuGet Package Manager settings
+
 The following steps help you configure Syncfusion NuGet Packages with a URL.
 
 1. Launch the Microsoft Visual Studio 2008/2010/2012/2013/2015.
