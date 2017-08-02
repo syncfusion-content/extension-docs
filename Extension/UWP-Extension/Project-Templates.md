@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion provides the **Visual** **Studio** **Project** **Templates** for the Syncfusion UWP platform to create Syncfusion UWP Applications.  
 
-I> The Syncfusion UWP project templates are available from v15.3.0.26*.  
+I> The Syncfusion UWP project templates are available from v15.3.0.26.  
 
 ## Create Syncfusion UWP Application
 
@@ -27,7 +27,7 @@ The following steps direct you to create the **Syncfusion** **UWP** **Applicatio
 
    ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img2.jpeg)
 
-4. The Project Configuration Wizard appears. Choose the options to configure the Syncfusion Universal Windows Application by using the following Project Configuration dialog.
+4. Then Project Configuration Wizard appears. Choose the options to configure the Syncfusion Universal Windows Application by using the following Project Configuration dialog.
 
    ### Project configurations:
 
@@ -35,17 +35,17 @@ The following steps direct you to create the **Syncfusion** **UWP** **Applicatio
 
    **Template Type:** Select the template type of UWP Project, either Blank or Hamburger Menu or Hamburger Menu (MVVM).
 
-   **Components:** Choose the Required Syncfusion components to configure.
+   **Components:** Choose the required Syncfusion components to configure.
    
    ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img4.jpeg)
    
-   N> If SDK is chosen as the reference type, then all the Syncfusion UWP controls will be added. So you no need to select any component.
+   N> If SDK is chosen as the reference type, then all the Syncfusion UWP controls will be added. So, you no need to select any components.
 
    ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img3.jpeg)
    
 5. Once you click Create button, the Syncfusion UWP Application is created.
 
-6. Required Syncfusion SDK or assemblies are added to the Project.
+6. Once the Project Configuration Wizard is done, the Syncfusion UWP Application is created with required SDK/references and pages.
 
    ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img5.jpeg)
 
