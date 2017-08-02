@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-The Syncfusion UWP Project Templates provide quick access to create Syncfusion UWP projects. It supports Microsoft Visual Studio 2015 and 2017. The Syncfusion UWP Visual Studio Extensions are installed along with the following setups,
+The Syncfusion UWP Project Templates provides quick access to create Syncfusion UWP Application. It supports Microsoft Visual Studio 2015 and 2017. The Syncfusion UWP Visual Studio Extensions are installed along with the following setups,
 
 * Essential Studio for Enterprise Edition with the platform UWP
 * Essential Studio for UWP
