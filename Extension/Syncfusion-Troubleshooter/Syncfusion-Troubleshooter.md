@@ -119,7 +119,7 @@ The Syncfusion Troubleshooter deals with below NuGet package related issues in S
 
 2. Installed Syncfusion NuGet package’s Framework version is differing from the project’s .NET Framework version.
 
-   **For Instance:** Syncfusion.Calculate.Base NuGet package version(v15.2.0.46 with 4.0 Framework) installed in project, But the project .NET Framework version is 4.5. So, Syncfusion Troubleshooter will be show Syncfusion package framework version is mismatched.
+   **For Instance:** Syncfusion.Calculate.Base NuGet package version(v15.2.0.46 with 4.0 Framework) installed in project, But the project .NET Framework version is 4.5. So, Syncfusion Troubleshooter will be show Syncfusion package Framework version is mismatched.
   
    ![](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter_img14.jpg)
 
