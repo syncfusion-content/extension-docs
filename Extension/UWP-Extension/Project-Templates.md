@@ -17,17 +17,17 @@ I> The Syncfusion UWP project templates are available from v15.3.0.26.
 
 The following steps direct you to create the **Syncfusion** **UWP** **Application** through the **Visual** **Studio** **Project** **Template**.
 
-1. To create a Syncfusion UWP project, choose **New** **Project****->** **Syncfusion****->****Universal** **Windows****->****Syncfusion** **Univeral** **Windows** **Application** from **Visual** **Studio**.
+1. To create a Syncfusion UWP project, choose **New** **Project****->** **Syncfusion****->****Universal** **Windows****->****Syncfusion** **Universal** **Windows** **Application** from **Visual** **Studio**.
 
    ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img1.jpeg)
 
 2. Name the **Project** and choose the destination location if required, then click **OK**. 
 
-3. The Target platform version selection wizard appears. Choose the target and minimum platform versions that your Universal Windows application will support and click OK.
+3. The Target platform version selection wizard appears. Choose the target and minimum platform versions that your Universal Windows Platform application will support and click OK.
 
    ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img2.jpeg)
 
-4. Then Project Configuration Wizard appears. Choose the options to configure the Syncfusion Universal Windows Application by using the following Project Configuration dialog.
+4. Then Project Configuration Wizard appears. Choose the options to configure the Syncfusion Universal Windows Platform application by using the following Project Configuration dialog.
 
    ### Project configurations:
 
