@@ -9,9 +9,9 @@ documentation: ug
 
 # Step-by-Step Installation  
 
-The following procedure illustrates how to install Syncfusion Web Sample Creator. Before start the installation of Syncfusion Web Sample Creator, please make sure any of the following setups installed. 
+The following procedure illustrates how to install Syncfusion Web Sample Creator. Before install the Syncfusion Web Sample Creator, make sure any of the following setups are installed. 
 
-   * Complete Essential Studio suite
+   * Essential Studio for Enterprise Edition with all platforms
    * Essential Studio for ASP.NET MVC
    * Essential Studio for ASP.NET
    * Essential Studio for ASP.NET Core
@@ -23,11 +23,11 @@ The following procedure illustrates how to install Syncfusion Web Sample Creator
 
    N> The WinZip Self-Extractor extracts the syncfusionwebsamplecreator_(version).exe dialog, displaying the unzip operation of the package.
 
-   If complete Essential Studio suite or any of the required Essential Studio platforms are installed, Syncfusion Web Sample Creator will be installed.
+   If complete Essential Studio suite or any of the required Essential Studio platform setups are installed, Syncfusion Web Sample Creator setup will be installed.
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img2.jpeg)
 
-   If complete Essential Studio suite or any of the required Essential Studio platforms are not installed, Syncfusion Web Sample Creator will show the below message.
+   If complete Essential Studio suite or any of the required Essential Studio platform setups are not installed, Syncfusion Web Sample Creator setup will show the below message.
    
    ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.jpeg)
 
