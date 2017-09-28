@@ -13,6 +13,8 @@ Syncfusion assemblies are packed by NuGet. Get the Syncfusion NuGet Packages fro
  
 <http://nuget.syncfusion.com> 
 
+N> If you wish to use the Syncfusion NuGet packages then Essential Studio or corresponding platform installation not required to implement with Syncfusion controls. 
+
 ## Supported Platforms details for Syncfusion NuGet Packages
 
 Please find the supported platforms details for Syncfusion NuGet packages.
