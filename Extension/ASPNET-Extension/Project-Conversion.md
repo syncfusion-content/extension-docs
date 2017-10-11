@@ -26,7 +26,7 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 3. Project Conversion Wizard opens to configure the project.
 
-   ![](Project-Conversion_images/Project-Conversion_img2.jpeg)
+   ![](Project-Conversion_images/Project-Conversion_img2.jpg)
 
    Choose the assembly location:
 
@@ -58,11 +58,11 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
-   ![](Project-Conversion_images/ProjectConversion_img5.jpeg)
+   ![](Project-Conversion_images/ProjectConversion_img5.jpg)
    
    The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    
-   ![](Project-Conversion_images/Project-Conversion_img6.jpeg)
+   ![](Project-Conversion_images/Project-Conversion_img6.jpg)
 
 5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the ASP.NET Project. Refer to the following screenshots for more information.
 

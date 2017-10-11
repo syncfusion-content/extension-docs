@@ -40,7 +40,7 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
 3. Project Conversion Wizard opens so that you can configure the project.
 
-   ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img2.jpeg)
+   ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img2.jpg)
 
    The following configurations are used in the Project Conversion Wizard.
    
@@ -74,11 +74,11 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
-   ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img5.jpeg)
+   ![](Convert-into-Syncfusion-MVC-project_images/ProjectConversion_img5.jpg)
    
 5. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    
-   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img6.jpeg)
+   ![](Convert-into-Syncfusion-MVC-project_images/Project-Conversion_img6.jpg)
 
 
 6. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
