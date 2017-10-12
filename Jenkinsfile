@@ -2,7 +2,7 @@ node('content')
 { 
 String platform='Extension';
    try
-	{   
+	{  
 		//Clone scm repository in Workspace source directory
 		stage ('Checkout')   
 	    { 
