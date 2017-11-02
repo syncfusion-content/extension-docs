@@ -153,6 +153,27 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 	</tr>
 	<tr>
 		<td>
+			Syncfusion.AspNet.PdfViewer<br/>
+		</td>
+		<td>
+			Pdf Viewer<br/>
+		</td>
+		<td>
+			EJ.PdfViewer<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
+			Syncfusion.AspNet<br/>
+            Syncfusion.Web.FileFormatsBase<br/>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			Syncfusion.AspNet.ReportViewer<br/>
 		</td>
 		<td>
@@ -233,6 +254,26 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		<td>
 			Syncfusion.Web.Base<br/>
             Syncfusion.AspNet.Mvc.FileFormats<br/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Syncfusion.AspNet.Mvc.PdfViewer<br/>
+		</td>
+		<td>
+			Pdf Viewer<br/>
+		</td>
+		<td>
+			EJ.PdfViewer<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
+			-<br/>
+		</td>
+		<td>
+			Syncfusion.AspNet.Mvc<br/>
 		</td>
 	</tr>
 	<tr>
