@@ -128,7 +128,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 	</tr>
 	<tr>
-		<td colspan="1" rowspan="4">
+		<td colspan="1" rowspan="5">
 			ASP.NET<br/>
 		</td>
 		<td>
@@ -233,7 +233,7 @@ The following structure is maintained for the ASP.NET, ASP.NET MVC and JavaScrip
 		</td>
 	</tr>
 	<tr>
-		<td colspan="1" rowspan="5">
+		<td colspan="1" rowspan="6">
 			ASP.NET MVC<br/>
 		</td>
 		<td>
