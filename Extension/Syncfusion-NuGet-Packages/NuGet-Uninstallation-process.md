@@ -29,9 +29,9 @@ To uninstall the Syncfusion NuGet Packages by Package Manager Console, follow th
 1. Select the Tools-> NuGet Package Manager-> Package Manager Console.
 2. Run the following command to uninstall the specified NuGet Package with the package name. 
 
-   Uninstall-package {package name} –remove Dependencies
+   uninstall-package {package name} –RemoveDependencies
 
-   Example: uninstall-package Syncfusion.Chart.WPF45 –remove Dependencies
+   Example: uninstall-package Syncfusion.Chart.WPF45 –RemoveDependencies
 
 3. Refer to the following screenshot for more information.
    
