@@ -9,6 +9,9 @@ documentation: ug
 
 # NuGet Install and Configuration
 
+The Syncfusion Xamarin NuGet packages are published in public NuGet.org from v15.4.0.17. So, no need any additional configurations required to utilize the Syncfusion Xamarin NuGet packages from v15.4.0.17. If you required to utilize the Syncfusion Xamarin NuGet packages from Syncfusion private NuGet server instead of NuGet.org, follow the below steps to configure and install the Syncfusion Xamarin NuGet packages.
+Except Xamarin platform packages, follow the below steps to configure and install the Syncfusion NuGet packages.
+
 ## NuGet Configuration in Visual Studio
 
 You can configure the Syncfusion NuGet Packages in Visual Studio 2010 or higher. SyncfusionNuGet packages are configured in the following ways.
