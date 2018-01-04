@@ -197,7 +197,7 @@ To configure the Syncfusion control in the Visual Studio Toolbox manually with t
 
    ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img3.png)
 
-4. Navigate to the required Syncfusion WPF assembly from the packages installed location of the project by using **Browse** option. You can choose required controls using filter. Find the below screenshot for more information. For example : SfColorPalette 
+4. Navigate to the required Syncfusion WPF assembly from the packages installed location of the project by using **Browse** option. You can choose required controls using filter. Find the below screenshot for more information. 
 
     ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img4.png)
 
@@ -208,17 +208,17 @@ To configure the Syncfusion control in the Visual Studio Toolbox manually with t
     ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img5.png)
 
 
-6. Click OK, and the corresponding Syncfusion controls are exposed to the newly created Syncfusion WPF Toolbox tab. For Example : SfColorPalette
+6. Click OK, and the corresponding Syncfusion controls are exposed to the newly created Syncfusion WPF Toolbox tab.
 
     ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img6.png)
 
-7. Now you can drag and drop the Syncfusion controls from Toolbox to designer page. For Example : SfColorPalette
+7. Now you can drag and drop the Syncfusion controls from Toolbox to designer page. 
 
     ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img7.png)
  
-N> Syncfusion UI for UWP are added automatically to the specific Visual Studio UWP application Toolbox during Syncfusion NuGet package installation. Find the below link to know more information about this. 
+N> Syncfusion UI for UWP are added automatically to the specific Visual Studio UWP application Toolbox during Syncfusion NuGet package installation. Find the below topic to know more information about this. 
 
-[https://help.syncfusion.com/uwp/add-syncfusion-controls#through-designer](https://help.syncfusion.com/uwp/add-syncfusion-controls#through-designer) 
+[Add Syncfusion controls through designer](https://help.syncfusion.com/uwp/add-syncfusion-controls#through-designer) 
 
 Toolbox configuration for UWP controls by installing UWP NuGet packages support available from v15.4.0.17.        
 
