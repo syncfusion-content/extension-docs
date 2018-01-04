@@ -218,7 +218,7 @@ To configure the Syncfusion control in the Visual Studio Toolbox manually with t
  
 N> Syncfusion UI for UWP are added automatically to the specific Visual Studio UWP application Toolbox during Syncfusion NuGet package installation. Find the below topic to know more information about this. 
 
-[Add Syncfusion controls through NuGet pakcages](https://help.syncfusion.com/uwp/add-syncfusion-controls#through-nuget-packages) 
+[Add Syncfusion controls through NuGet packages](https://help.syncfusion.com/uwp/add-syncfusion-controls#through-nuget-packages) 
 
 Toolbox configuration for UWP controls by installing UWP NuGet packages support available from v15.4.0.17.        
 
