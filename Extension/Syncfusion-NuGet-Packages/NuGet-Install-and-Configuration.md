@@ -9,6 +9,8 @@ documentation: ug
 
 # NuGet Install and Configuration
 
+The Syncfusion Xamarin NuGet packages are published in public [NuGet.org](https://www.nuget.org/) from v15.4.0.17. So, no need any additional configurations required to utilize the Syncfusion Xamarin NuGet packages from v15.4.0.17. If you required to utilize the Syncfusion Xamarin NuGet packages from Syncfusion private NuGet server instead of NuGet.org or if you required to utilize the other platform NuGet packages , follow the below topics to configure and install the Syncfusion NuGet packages.
+
 ## NuGet Configuration in Visual Studio
 
 You can configure the Syncfusion NuGet Packages in Visual Studio 2010 or higher. SyncfusionNuGet packages are configured in the following ways.
@@ -218,9 +220,9 @@ To configure the Syncfusion control in the Visual Studio Toolbox manually with t
  
 N> Syncfusion UI for UWP are added automatically to the specific Visual Studio UWP application Toolbox during Syncfusion NuGet package installation. Find the below topic to know more information about this. 
 
-[Add Syncfusion controls through NuGet packages](https://help.syncfusion.com/uwp/add-syncfusion-controls#through-nuget-packages) 
+N>[Add Syncfusion controls through NuGet packages](https://help.syncfusion.com/uwp/add-syncfusion-controls#through-nuget-packages) 
 
-Toolbox configuration for UWP controls by installing UWP NuGet packages support available from v15.4.0.17.        
+N>Toolbox configuration for UWP controls by installing UWP NuGet packages support available from v15.4.0.17.        
 
 ## NuGet Updates
 

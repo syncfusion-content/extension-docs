@@ -14,6 +14,7 @@ Syncfusion assemblies are packed by NuGet. Get the Syncfusion NuGet Packages fro
 <http://nuget.syncfusion.com> 
 
 N> If you wish to use the Syncfusion NuGet packages then Essential Studio or corresponding platform installation not required to implement with Syncfusion controls. 
+The Syncfusion Xamarin NuGet packages are published in public [NuGet.org](https://www.nuget.org/) from v15.4.0.17. So, no need any additional configurations required to utilize the Syncfusion Xamarin NuGet packages from v15.4.0.17.
 
 ## Supported Platforms details for Syncfusion NuGet Packages
 
