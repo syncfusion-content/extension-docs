@@ -87,7 +87,7 @@ button to create the new Package Source.
 Refer to the Syncfusion NuGet Packages from the Visual Studio applications. The following steps help you to add the reference of the Syncfusion assemblies in the Project References.
 
 1. Right click on Project and choose the Manage NuGet Packages.
-2. Select Online -> &lt;Created Package Source Name&gt;. 
+2. Select Online/Browse -> &lt;Created Package Source Name&gt;. 
    Refer to the following screenshot for more information.
  
    ![](NuGet-Installation_images/NuGet-Installation_img1.png)
