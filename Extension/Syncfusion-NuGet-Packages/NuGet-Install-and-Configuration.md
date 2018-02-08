@@ -154,7 +154,7 @@ The following steps help you configure and restore the Syncfusion NuGet packages
 
        mono nuget.exe Sources Add –Name [Source name] –Source [source location]
 
-       For Ex: mono nuget.exe Add –Name “Syncfusion Source” –Source “http://nuget.syncfusion.com/aspnetmvc"
+       For Ex: mono nuget.exe Sources Add –Name “Syncfusion Source” –Source “http://nuget.syncfusion.com/nuget_aspnetmvc/nuget/getsyncfusionpackages/aspnetmvc"
                                                                                   
 3.	Once the Source gets added successfully the confirmation message will be shown like below.
 
