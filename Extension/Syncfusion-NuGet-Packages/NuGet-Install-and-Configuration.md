@@ -199,9 +199,26 @@ To configure the Syncfusion control in the Visual Studio Toolbox manually with t
 
    ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img3.png)
 
-4. Select the WPF Components tab.
-5. Navigate to the SyncfusionWPF assembly from the packages location of the project. You do not have to add the design assemblies
-6. Click OK, and the assemblies are copied to the newly created Syncfusion WPF Toolbox tab.
+4. Navigate to the required Syncfusion WPF assembly from the packages installed location of the project by using **Browse** option. You can choose required controls using filter. Find the below screenshot for more information. 
+
+    ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img4.png)
+
+5. Based on default behavior of Visual Studio Toolbox, to keep the dependent assemblies in GAC or same directory of required assembly to configure the toolbox. So, before browse and add required Syncfusion WPF assembly, ensure all the dependent package assemblies available in GAC or same directory of required assembly to configure the Toolbox.
+
+    **For Example:** Syncfusion.Shared.Wpf dependent package of “Syncfusion.SfColorPalette.Wpf” package. So we need to move the Syncfusion.Shared.Wpf NuGet package libraries to Syncfusion.SfColorPalette.Wpf NuGet packages lib directory. Find the below screenshot for more information. 
+
+    ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img5.png)
+
+
+6. Click OK, and the corresponding Syncfusion controls are exposed to the newly created Syncfusion WPF Toolbox tab.
+
+    ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img6.png)
+
+7. Now you can drag and drop the Syncfusion controls from Toolbox to designer page. 
+
+    ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img7.png)
+ 
+N>Syncfusion UI for UWP are added automatically to the specific Visual Studio UWP application Toolbox during Syncfusion NuGet package installation. Find the [Add Syncfusion controls through NuGet packages](https://help.syncfusion.com/uwp/add-syncfusion-controls#through-nuget-packages) topic to know more information about this. Toolbox configuration for UWP controls by installing UWP NuGet packages support available from v15.4.0.17.    
 
 ## NuGet Updates
 
