@@ -87,7 +87,7 @@ button to create the new Package Source.
 Refer to the Syncfusion NuGet Packages from the Visual Studio applications. The following steps help you to add the reference of the Syncfusion assemblies in the Project References.
 
 1. Right click on Project and choose the Manage NuGet Packages.
-2. Select Online -> &lt;Created Package Source Name&gt;. 
+2. Select Online/Browse -> &lt;Created Package Source Name&gt;. 
    Refer to the following screenshot for more information.
  
    ![](NuGet-Installation_images/NuGet-Installation_img1.png)
@@ -218,7 +218,7 @@ To configure the Syncfusion control in the Visual Studio Toolbox manually with t
 
     ![](Visual-Studio-Toolbox-manual-configuration_images/Visual-Studio-Toolbox-manual-configuration_img7.png)
  
-N>Syncfusion UI for UWP are added automatically to the specific Visual Studio UWP application Toolbox during Syncfusion NuGet package installation. Find the [Add Syncfusion controls through NuGet packages](https://help.syncfusion.com/uwp/add-syncfusion-controls#through-nuget-packages) topic to know more information about this. Toolbox configuration for UWP controls by installing UWP NuGet packages support available from v15.4.0.17.    
+N>Syncfusion UI for UWP are added automatically to the specific Visual Studio UWP application Toolbox during Syncfusion NuGet package installation. Find the [Add Syncfusion controls through NuGet packages](https://help.syncfusion.com/uwp/add-syncfusion-controls#through-nuget-packages) topic to know more information about this. Toolbox configuration for UWP controls by installing UWP NuGet packages support available from v15.4.0.17.       
 
 ## NuGet Updates
 
