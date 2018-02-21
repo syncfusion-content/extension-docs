@@ -19,29 +19,29 @@ The following steps directs you to add the Syncfusion NuGet Package sources from
 
 1. Run the SyncfusionNuGetManager.exe from Syncfusion NuGet Manager extracted location. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img1.jpeg)
+   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img1.png)
 
 2. Syncfusion NuGet Manager Window will be opened.
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img2.jpeg)
+   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img2.png)
 
 3. Select the required platforms needed to be configured from “Select platforms to add” (Left side of the window) column and click Add>> button.
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img3.jpeg)
+   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img3.png)
 
 4. Now selected platforms will be added under “Selected platforms to remove” (Right side of the window) column. Click “Configure” button to add the required Syncfusion Package sources to NuGet Package Manager.
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img4.jpeg)
+   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img4.png)
 
 5. Once Syncfusion NuGet Manager added the Syncfusion NuGet sources, the changes will be reflected in package sources of your Visual Studio. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img5.jpeg)
+   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img5.png)
 
 ## Remove Syncfusion NuGet Package sources 
 
 1. If any configured Syncfusion NuGet Package sources are no longer required, Select the unwanted platforms from “Select platforms to remove” (Right side of the window) column and click <<Remove button. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img6.jpeg)   
+   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img6.png)   
 
 2. Now selected platforms will be added under “Selected platforms to add” (Left side of the window) column. Click “Configure” button to remove the required Syncfusion Package sources to NuGet Package Manager.
 
@@ -152,5 +152,5 @@ Here the list of keyword for platform keys to access.
 
 4. Once Syncfusion NuGet Manager removed the Syncfusion NuGet sources, the changes will be reflected in NuGet.config file of your machine and updated the same in available package sources of your Visual Studio. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img9.jpeg)
+   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img5.png)
 

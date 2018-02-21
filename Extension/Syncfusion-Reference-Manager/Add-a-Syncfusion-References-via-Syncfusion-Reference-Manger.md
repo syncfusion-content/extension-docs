@@ -48,6 +48,7 @@ To add the assemblies:
    ![](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_img3.png)
 
 
+N> We are providing Syncfusion Reference Manager support for specific framework which is shipped (assemblies) in our Syncfusion Essential Studio setup. So, if we try to add Syncfusion assemblies in project and project framework is not supported with selected Syncfusion version assemblies, the dialog will be appeared along with **“Current build v{version} is not supported this framework v{Framework Version}”** message.
 
 
 
