@@ -12,7 +12,7 @@ documentation: ug
 
 Syncfusion provides the Visual Studio Project Templates for the Syncfusion WPF platform to create Syncfusion WPF Application. 
 
-I> The Syncfusion WPF templates are available from v{{ site.releaseversion }}. 
+I> The Syncfusion WPF templates are available from v16.1.0.24. 
 
 ## Create Syncfusion WPF Project 
 
