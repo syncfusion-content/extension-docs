@@ -151,7 +151,7 @@ The NuGet Command Line Interface (CLI), nuget.exe, provides the full extent of N
     nuget update -self
     ~~~
 
-2.	Open the downloaded executable location in the command window, and run the following commands to configure the Syncfusion ASP.NET Core NuGet packages: 
+2.	Open the downloaded executable location in the command window, and run the following commands to configure the Syncfusion NuGet packages: 
 
     ~~~
     #Add specified package source in NuGet.config file for Windows platform
