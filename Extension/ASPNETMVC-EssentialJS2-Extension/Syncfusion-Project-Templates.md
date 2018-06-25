@@ -27,15 +27,15 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
   ### Project Configurations:
 
-   **Target MVC Version:** Select the version of ASP.NET MVC Project, either MVC5 or MVC4.
+  **Target MVC Version:** Select the version of ASP.NET MVC Project, either MVC5 or MVC4.
 
-   **Assets From:** Load the Syncfusion Essential JS 2 assets to ASP.NET MVC Project, either NuGet, CDN or Installed Location.
+  **Assets From:** Load the Syncfusion Essential JS 2 assets to ASP.NET MVC Project, either NuGet, CDN or Installed Location.
 
-   N> *Installed location option will be available only when the Syncfusion Essential JavaScript 2 setup has been installed*.
+  N> *Installed location option will be available only when the Syncfusion Essential JavaScript 2 setup has been installed*.
 
-   **Theme Selection:** Choose the required Theme.
+  **Theme Selection:** Choose the required Theme.
 
-   ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img2.jpeg)
+  ![](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img2.jpeg)
    
 4. Click **Create**, the Syncfusion ASP.NET MVC (Essential JS 2) Application  has been created.
 

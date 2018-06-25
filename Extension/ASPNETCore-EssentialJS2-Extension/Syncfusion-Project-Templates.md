@@ -23,7 +23,7 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
 2. Name the **Project**, choose the destination location, and set the framework of the project, and then click **OK**. The Project Configuration Wizard appears.
 
-   N> Minimum target framework is 4.5 for Syncfusion ASP.NET Core (Essential JS 2) Project Templates.
+   N> *Minimum target framework is 4.5 for Syncfusion ASP.NET Core (Essential JS 2) Project Templates*.
    
 3. Choose the options to configure the Syncfusion ASP.NET Core (Essential JS 2) Application by using the following Project Configuration dialog.
 
