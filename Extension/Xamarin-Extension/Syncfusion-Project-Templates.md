@@ -43,8 +43,8 @@ Choose the Project, Android, iOS, and UWP by on/off
 
 **iOS:**
 
-1.	**Target Device:**  Select the device of Xamarin iOS Project, either Unified, iPhone/iPod, or iPad.
-2.	**Target Version:** Choose the version of Xamarin iOS Project
+1.	**Target Device:**  Select the device of Xamarin.iOS Project, either Unified, iPhone/iPod, or iPad.
+2.	**Target Version:** Choose the version of Xamarin.iOS Project.
 
 **Choose controls**
 
