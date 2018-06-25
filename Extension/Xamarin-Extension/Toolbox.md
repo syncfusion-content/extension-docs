@@ -30,4 +30,4 @@ Create the Xamarin or Syncfusion Xamarin project. The following steps direct you
    ![](Toolbox_images/Toolbox_img3.jpeg)
 
 
-4. Install the Syncfusion Xamarin NuGet packages based on the controls in your project and render the Syncfusion control. Refer the following link for know more about Syncfusion Xamarin NuGet packages install and configuration: https://help.syncfusion.com/xamarin/nuget-packages 
+4. Install the Syncfusion Xamarin NuGet packages based on the controls in your project and render the Syncfusion control. Refer the following link for know more about Syncfusion Xamarin NuGet packages install and configuration: [https://help.syncfusion.com/xamarin/nuget-packages](https://help.syncfusion.com/xamarin/nuget-packages)
