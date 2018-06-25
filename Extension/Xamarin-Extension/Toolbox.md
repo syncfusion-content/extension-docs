@@ -17,7 +17,7 @@ I> The Syncfusion Toolbox are available from v16.2.0.41.
 
 Create the Xamarin or Syncfusion Xamarin project. The following steps direct you to add the Syncfusion controls through the Visual Studio Toolbox:
 
-1. Choose **View** **->** **Other** **Windows** **->** **Syncfusion** **Toolbox** from **Visual** **Studio**
+1. Choose **View** **->** **Other** **Windows** **->** **Syncfusion** **Toolbox** from **Visual** **Studio.**
 
    ![](Toolbox_images/Toolbox_img1.jpeg)
 
