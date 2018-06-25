@@ -25,7 +25,7 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
 3. Choose the options to configure the Syncfusion ASP.NET MVC (Essential JS 2) Application by using the following Project Configuration dialog.
 
-  ### Project Configurations:
+### Project Configurations:
 
   **Target MVC Version:** Select the version of ASP.NET MVC Project, either MVC5 or MVC4.
 
