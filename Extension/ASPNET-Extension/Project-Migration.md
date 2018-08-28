@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASPNET Project Migration | Extension | Syncfusion
+title: Project Templates | ASP.NET (Essential JS 1) | Syncfusion
 description: Project Migration
 platform: extension
 control: Syncfusion Extensions

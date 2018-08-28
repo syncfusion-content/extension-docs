@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASPNET MVC Project Templates | Extension | Syncfusion
+title: Project Templates | ASP.NET MVC (Essential JS 1) | Syncfusion
 description: Syncfusion Project Templates
 platform: extension
 control: Syncfusion Extensions
