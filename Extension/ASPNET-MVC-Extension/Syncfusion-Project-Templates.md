@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syncfusion Project Templates | Extension | Syncfusion
+title: ASPNET MVC Project Templates | Extension | Syncfusion
 description: Syncfusion Project Templates
 platform: extension
 control: Syncfusion Extensions

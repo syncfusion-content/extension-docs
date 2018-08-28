@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Migration | Extension | Syncfusion
+title: ASPNET Core Project Migration | Extension | Syncfusion
 description: Project Migration
 platform: extension
 control: Syncfusion Extensions
