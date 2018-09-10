@@ -60,7 +60,7 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
    
 ## Rendering Control after Syncfusion ASP.NET Core Conversion
 
-Once you converted your ASP.NET Core Web Application to Syncfusion ASP.NET Core (Essential JS 2) Web Application using Syncfusion Visual Studio Extension, perform the following steps to render the Syncfusion controls to your project.
+Once you convert your ASP.NET Core Web Application to Syncfusion ASP.NET Core (Essential JS 2) Web Application using Syncfusion Visual Studio Extension, perform the following steps to render the Syncfusion controls to your project.
 
 1. Include the Syncfusion control snippets to any of the view page of your project. Refer the following screenshot for more information.
 
