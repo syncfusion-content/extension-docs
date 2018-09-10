@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Sample Creator | Extension | Syncfusion
-description: sample creator
+title: Sample Creator | ASP.NET Core (Essential JS 2) | Syncfusion
+description: Sample Creator
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
