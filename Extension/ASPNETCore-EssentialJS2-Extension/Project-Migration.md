@@ -35,7 +35,7 @@ The following steps direct you to migrate your existing Syncfusion ASP.NET Core 
    
 4. Click the Migrate Button. The **Project Backup** dialog will be opened. If click **Yes**, it will backup the current project before migrate the Syncfusion project. If click **No**, it will migrate the project to required Syncfusion version without backup
    
-   ![](Project-Migration_images/Project-Migration_img3.jpeg)
+   ![](Project-Migration_images/Project-Migration_img3.jpg)
       
 5. The Syncfusion NuGet Packages, Scripts and CSS are updated to the corresponding version in the project.
 
