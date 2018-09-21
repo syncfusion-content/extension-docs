@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syncfusion Project Templates | Extension | Syncfusion
+title: Project Templates | ASP.NET Core (Essential JS 2) | Syncfusion
 description: Syncfusion Project Templates
 platform: extension
 control: Syncfusion Extensions

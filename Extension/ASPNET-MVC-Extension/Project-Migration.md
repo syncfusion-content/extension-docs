@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Migration | Extension | Syncfusion
+title: Project Migration | ASP.NET MVC (Essential JS 1) | Syncfusion
 description: Project Migration
 platform: extension
 control: Syncfusion Extensions
