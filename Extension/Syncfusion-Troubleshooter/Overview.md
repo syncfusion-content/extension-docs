@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Troubleshooter | Extension | Syncfusion
-description: Syncfusion Troubleshooter
+description: The Syncfusion Troubleshooter is a Visual Studio extension to troubleshoot the configuration issues of Syncfusion controls in projects. If Visual Studio project has any configuration issue with in Syncfusion control like, wrong Framework Syncfusion assembly added to the project or missing any Syncfusion dependent assembly of a referred assembly, the Syncfusion Troubleshooter will investigate these type of problem and fix them
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

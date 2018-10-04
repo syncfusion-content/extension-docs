@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Migration | ASP.NET MVC (Essential JS 1) | Syncfusion
-description: Project Migration
+title: Essential JS 1 ASP.NET MVC Project Migration | ASP.NET MVC (Essential JS 1) | Syncfusion
+description: Essential JS 1 ASP.NET MVC Project Migration is a Visual Studio add-in that helps migrate the existing Syncfusion Essential JS 1 ASP.NET MVC (Web), Syncfusion Essential JS 1 ASP.NET MVC (Mobile) Or Syncfusion Essential JS 1 ASP.NET MVC (Classic) project from one Syncfusion version to another Syncfusion version
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -13,7 +13,7 @@ Project Migration is a Visual Studio add-in that helps migrate the existing Sync
 
 Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utility is included here,
 
-* Essential Studio for Enterprise Edition with the platforms ASP.NETMVC or ASP.NET MVC(Classic)
+* Essential Studio for Enterprise Edition with the platforms ASP.NET MVC or ASP.NET MVC(Classic)
 * Essential Studio for ASP.NET MVC
 * Essential Studio for ASP.NET MVC (Classic)
 

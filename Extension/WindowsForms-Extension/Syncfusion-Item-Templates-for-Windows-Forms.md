@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Item Templates for Windows Forms | Extension | Syncfusion
-description: syncfusion item templates for windows forms
+description: The Syncfusion Item Templates Add new item feature provides support to Windows Forms platform. To add the Syncfusion item files in Visual Studio, install Syncfusion Essential Studio for Windows Forms platform
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

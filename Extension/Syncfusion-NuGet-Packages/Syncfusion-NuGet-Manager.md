@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion NuGet Manager | Extension | Syncfusion
-description: Syncfusion Nuget Packages Manager
+description: Syncfusion NuGet Package Manager is the utility that allows you to add, remove and update the Syncfusion NuGet sources (available platforms) to NuGet Package Manager
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

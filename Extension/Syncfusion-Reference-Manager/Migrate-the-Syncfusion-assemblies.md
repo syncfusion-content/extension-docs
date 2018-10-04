@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrate the Syncfusion assemblies | Extension | Syncfusion
-description: migrate the syncfusion assemblies
+description: The Syncfusion Reference Manager can migrate the Syncfusion assemblies to selected version of Syncfusion assemblies when you want to migrate from one version to another version, the Syncfusion references in the project
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

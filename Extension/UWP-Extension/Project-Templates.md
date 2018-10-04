@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syncfusion Project Templates | Extension | Syncfusion
-description: Syncfusion Project Templates
+title: Syncfusion UWP Project Templates | Extension | Syncfusion
+description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion UWP platform to create Syncfusion UWP Applications
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Templates | ASP.NET MVC (Essential JS 1) | Syncfusion
-description: Syncfusion Project Templates
+title: Essential JS 1 ASP.NET MVC Project Templates | ASP.NET MVC (Essential JS 1) | Syncfusion
+description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion Essential JS 1 ASP.NET MVC, Syncfusion Essential JS 1 ASP.NET MVC (Classic) and Essential JS 1 ASP.NET MVC (Mobile) platforms to create a Syncfusion MVC application using Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

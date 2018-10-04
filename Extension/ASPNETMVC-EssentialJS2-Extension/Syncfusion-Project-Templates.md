@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syncfusion Project Templates | Extension | Syncfusion
-description: Syncfusion Project Templates
+title: Essential JS 2 ASP.NET MVC Project Templates | Extension | Syncfusion
+description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion Essential JS 2 ASP.NET MVC platform to create the Syncfusion Essential JS 2 ASP.NET MVC Web Application using Essential JS 2 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extension NuGet Packages | Syncfusion
-description: NuGet Packages
+description: NuGet is a package manager for the .NET framework. The NuGet client tools simplify the process of installing and upgrading packages. This can be used to automatically add files and references to your Visual Studio projects
 platform: extension
 control: NuGet Packages
 documentation: ug
@@ -43,7 +43,7 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
     
     **Source:** Syncfusion NuGet Feed URL      
 
-    For example, Name: Syncfusion AspNet Core-js2 Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2](https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2).
+    For example, Name: Syncfusion AspNet Core Packages, Source: [http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
 
 5.	Click the **Update** button to add the name and source details to package sources. 
 
@@ -67,7 +67,7 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
     
     **Source:** Syncfusion NuGet Feed URL      
 
-    For example, Name: Syncfusion ASP.NET Core Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2](https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2).
+    For example, Name: Syncfusion ASP.NET Core Packages, Source: [http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
     
 	![](NuGet_Packages_Images/img5.png)
  
@@ -117,7 +117,7 @@ To reference the Syncfusion component using the Package Manager Console as NuGet
     Install-Package Syncfusion.EJ.AspNet.Core
 
     #install specified package in default project with specified Package Source
-    Install-Package Syncfusion.EJ.AspNet.Core -Source “https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2”
+    Install-Package Syncfusion.EJ.AspNet.Core -Source “http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
 
     #install specified package in specified project 
     Install-Package Syncfusion.EJ.AspNet.Core -ProjectName SyncfusionDemoApplication
@@ -165,10 +165,10 @@ The NuGet Command Line Interface (CLI), nuget.exe, provides the full extent of N
 
     ~~~
     #For Windows platform
-    nuget.exe Sources Add –Name “Syncfusion Source” –Source “https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2”
+    nuget.exe Sources Add –Name “Syncfusion Source” –Source “http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
 
     #For MAC/Linux platform
-    mono nuget.exe Sources Add –Name “Syncfusion Source” –Source “https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2”
+    mono nuget.exe Sources Add –Name “Syncfusion Source” –Source “http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
     ~~~
 
 ### NuGet installation
@@ -195,7 +195,7 @@ nuget.exe install “Syncfusion.EJ.AspNet.Core”
 nuget.exe install “C:\Users\SyncfusionApplication\package.config”
 
 #install specific Syncfusion ASP.NET Core NuGet package with Syncfusion ASP.NET Core NuGet feed for Windows 
-nuget.exe install “Syncfusion.EJ.AspNet.Core”  –Source https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2”
+nuget.exe install “Syncfusion.EJ.AspNet.Core”  –Source http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
 
 #install specific package for Mac and Linux 
 mono nuget.exe install “ Syncfusion.EJ.AspNet.Core”
@@ -204,7 +204,7 @@ mono nuget.exe install “ Syncfusion.EJ.AspNet.Core”
 mono nuget.exe install “C:\Users\SyncfusionApplication\package.config”
 
 #install specific Syncfusion ASP.NET Core NuGet package with Syncfusion ASP.NET Core NuGet feed for Mac and Linux 
-mono nuget.exe install “Syncfusion.EJ.AspNet.Core”  –Source “https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2”
+mono nuget.exe install “Syncfusion.EJ.AspNet.Core”  –Source “http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
 ~~~
 
 ## Managing NuGet package using Dotnet CLI
@@ -225,7 +225,7 @@ The NuGet Command Line Interface (CLI), Dotnet.exe, provides the full extent of 
     **For example :**
 
     ~~~        
-    dotnet add package Syncfusion.EJ.AspNet.Core  -s “https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2”
+    dotnet add package Syncfusion.EJ.AspNet.Core  -s “http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
     ~~~
 
     **Restore**
@@ -324,7 +324,7 @@ To update the installed Syncfusion NuGet packages using the Package Manager Cons
     Update-Package Syncfusion.EJ.AspNet.Core
 
     #Update specified package in default project with specified Package Source
-    Update-Package Syncfusion.EJ.AspNet.Core –Source “https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2” 
+    Update-Package Syncfusion.EJ.AspNet.Core –Source “http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore” 
     #Update specified package in specified project 
     Update-Package Syncfusion.EJ.AspNet.Core -ProjectName SyncfusionDemoApplication
     ~~~
@@ -360,7 +360,7 @@ Using the NuGet CLI, all the NuGet packages in the project can be updated to the
     nuget update “C:\Users\SyncfusionApplication\package.config”
 
     #Update all NuGet packages from specified Packages Source
-    nuget update -Source “https://nuget.syncfusion.com/nuget_aspnetcore-js2/nuget/getsyncfusionpackages/aspnetcore-js2”
+    nuget update -Source “http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
     ~~~
 
     N> Update command is not working as expected in Mono (Mac and Linux) and projects using PackageReference format.

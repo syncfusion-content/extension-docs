@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Conversion | Extension | Syncfusion
-description: Project Conversion
+title: Essential JS 1 ASP.NET MVC Project Conversion | Extension | Syncfusion
+description: Essential JS 1 ASP.NET MVC Project Conversion is a Visual Studio add-in that converts an existing ASP.NET MVC Project into a Syncfusion Essential JS 1 ASP.NET MVC Project by adding the required Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
