@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Essential JS 1 ASP.NET WebForms Project Templates | Extension | Syncfusion
-description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion Essential JS 1 ASP.NET platform to create Syncfusion Essential JS 1 ASP.NET Web Application or Syncfusion Essential JS 1 ASP.NET Web Site using Essential JS 1 components
+title: ASP.NET WebForms (Essential JS 1) Project Templates | Extension | Syncfusion
+description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion ASP.NET WebForms (Essential JS 1) platform to create Syncfusion Essential JS 1 ASP.NET Web Application or Syncfusion Essential JS 1 ASP.NET Web Site using Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

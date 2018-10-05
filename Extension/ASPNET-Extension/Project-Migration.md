@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Essential JS 1 ASP.NET WebForms Project Migration | Extension | Syncfusion
-description: The Syncfusion Essential JS 1 ASP.NET WebForms Project Migration is a Visual Studio add-in that allows you to migrate the existing Syncfusion Essential JS 1 ASP.NET project from one Essential Studio version to another version
+title: ASP.NET WebForms (Essential JS 1) Project Migration | Extension | Syncfusion
+description: The Syncfusion ASP.NET WebForms (Essential JS 1) Project Migration is a Visual Studio add-in that allows you to migrate the existing Syncfusion ASP.NET WebForms (Essential JS 1) project from one Essential Studio version to another version
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

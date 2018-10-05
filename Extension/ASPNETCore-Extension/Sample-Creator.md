@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Essential JS 1 ASP.NET Core Sample Creator | Extension | Syncfusion
-description: Essential JS 1 ASP.NET Core Sample Creator is the utility that allows you to create Syncfusion Essential JS 1 ASP.NET Core Projects along with the samples based on Controls and Features selection
+title: ASP.NET Core (Essential JS 1) Sample Creator | Extension | Syncfusion
+description: ASP.NET Core (Essential JS 1) Sample Creator is the utility that allows you to create Syncfusion ASP.NET Core (Essential JS 1) Projects along with the samples based on Controls and Features selection
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

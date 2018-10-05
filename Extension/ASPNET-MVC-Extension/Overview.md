@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Essential JS 1 ASP.NET MVC Extension | Extension | Syncfusion
-description: The Syncfusion Essential JS 1 ASP.NET MVC Extension provides you with quick access so that you can create or configure the Syncfusion Essential JS 1 ASP.NET MVC projects along with Essential JS 1 components
+title: ASP.NET MVC (Essential JS 1) Extension | Extension | Syncfusion
+description: The Syncfusion ASP.NET MVC (Essential JS 1) Extension provides you with quick access so that you can create or configure the Syncfusion ASP.NET MVC (Essential JS 1) projects along with Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
