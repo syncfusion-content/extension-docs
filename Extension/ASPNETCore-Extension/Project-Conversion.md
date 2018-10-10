@@ -21,7 +21,7 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 2. Right-click on **Project** from Solution Explorer and select **Syncfusion VS Extensions** and choose the **Convert to Syncfusion ASP.NET Core Application**. Refer to the following screenshot for more information.
 
-   ![Syncfusion Essential JS 1 ASP.NET Core Project Conversion add-n](Project-Conversion_images/Project-Conversion-img1.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Conversion add-in](Project-Conversion_images/Project-Conversion-img1.jpeg)
 
 3. Project Conversion Wizard opens to configure the project.
 
@@ -35,7 +35,7 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
    * Installed Location - Refer to the assets from Syncfusion installed locations.     
    
-   ![Choose the assets for Syncfusion Essential JS 1 ASP.NET Core project](Project-Conversion_images/Project-Conversion-img3.jpeg)
+   ![Choose the required assets for Syncfusion Essential JS 1 ASP.NET Core project](Project-Conversion_images/Project-Conversion-img3.jpeg)
    
    **Choose the Theme:**
    
@@ -50,7 +50,7 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
    ![Choose Copy Global Resources to ship the localization culture files for ASP.NET Core project](Project-Conversion_images/Project-Conversion-img14.jpeg)  
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
-   ![Select the required components from the Components section in the Syncfusion ASP.NET MVC Project Conversion Wizard](Project-Conversion_images/ProjectConversion-img5.jpg)
+   ![Select the required components from the Components selection in the Syncfusion ASP.NET Core Project Conversion Wizard](Project-Conversion_images/ProjectConversion-img5.jpg)
    
    The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    
@@ -60,7 +60,7 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
    ![Required Syncfusion Essential JS 1 ASP.NET Core NuGet/Bower packages](Project-Conversion_images/Project-Conversion-img7.jpeg)
 
-   ![Required Syncfusion Essential JS 1 ASP.NET Core Themes and Scripts](Project-Conversion_images/Project-Conversion-img8.jpeg)
+   ![Required Syncfusion Essential JS 1 ASP.NET Core themes and scripts](Project-Conversion_images/Project-Conversion-img8.jpeg)
 
    
 ## Rendering Control after Syncfusion ASP.NET Core Conversion
@@ -69,7 +69,7 @@ Once you converted your ASP.NET Core Web Application to Syncfusion ASP.NET Core 
 
 1. Include the Syncfusion control snippets to any of the view page of your project. Refer the following screenshot for more information.
 
-   ![Sample Syncfusion Essential JS 1 ASP.NET Core datepicker control snippet](Project-Conversion_images\Project-Conversion-img11.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core datepicker control code snippet](Project-Conversion_images\Project-Conversion-img11.jpeg)
 
 2. Then run the project and the following output will be displayed.
 

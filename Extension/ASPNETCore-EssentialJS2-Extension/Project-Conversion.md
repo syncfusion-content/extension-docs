@@ -37,13 +37,13 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
    N> *Installed location option will be available only when the Syncfusion Essential JavaScript 2 setup has been installed*.   
    
-   ![Choose the assets from](Project-Conversion_images/Project-Conversion-img3.jpg)
+   ![Choose the required assets need to add to the project](Project-Conversion_images/Project-Conversion-img3.jpg)
    
    **Choose the Theme:**
    
    Choose the required theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project.
    
-   ![Choose the Theme](Project-Conversion_images/Project-Conversion-img4.jpg)
+   ![Choose the required theme to apply on the project](Project-Conversion_images/Project-Conversion-img4.jpg)
 
    The **Project Backup** dialog will be opened. If click **Yes**, it will backup the current project before converting it to Syncfusion project. If click **No**, it will convert the project to Syncfusion project without backup.
     
@@ -51,9 +51,9 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 4. The required Syncfusion NuGet packages, Scripts and CSS are included in the ASP.NET Core Web Application. Refer to the following screenshots for more information.
 
-   ![Syncfusion Essential JS 2 ASP.NET Core NuGet packages](Project-Conversion_images/Project-Conversion-img6.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET Core required NuGet packages](Project-Conversion_images/Project-Conversion-img6.jpg)
 
-   ![Syncfusion Essential JS 2 ASP.NET Core Scripts and Themes](Project-Conversion_images/Project-Conversion-img7.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET Core required Scripts and Themes](Project-Conversion_images/Project-Conversion-img7.jpg)
    
    ![Syncfusion Essential JS 2 ASP.NET Core Scripts and Themes references in _Layout.cshtml file](Project-Conversion_images/Project-Conversion-img8.jpg)
 
@@ -64,10 +64,10 @@ Once you convert your ASP.NET Core Web Application to Syncfusion ASP.NET Core (E
 
 1. Include the Syncfusion control snippets to any of the view page of your project. Refer the following screenshot for more information.
 
-   ![Sample Syncfusion Essential JS 2 ASP.NET Core calendar control snippets ](Project-Conversion_images\Project-Conversion-img9.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET Core Calendar control code snippet](Project-Conversion_images\Project-Conversion-img9.jpg)
 
 2. Then run the project and the following output will be displayed.
 
-   ![Syncfusion Essential JS 2 ASP.NET Core calendar control output](Project-Conversion_images\Project-Conversion-img10.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET Core Calendar control output](Project-Conversion_images\Project-Conversion-img10.jpg)
    
    

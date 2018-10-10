@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Step by Step Installation | Extension | Syncfusion  
-description: Step by Step Installation
+description: Step by Step Installation procedure to install Syncfusion Web Sample Creator
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -25,7 +25,7 @@ The following procedure illustrates how to install Syncfusion Web Sample Creator
 
    If complete Essential Studio suite or any of the required Essential Studio platform setups are installed, Syncfusion Web Sample Creator setup will be installed.
    
-   ![Syncfusion Web Sample Creator setup wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img2.jpeg)
+   ![Syncfusion Web Sample Creator setup installation wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img2.jpeg)
 
    If complete Essential Studio suite or any of the required Essential Studio platform setups are not installed, Syncfusion Web Sample Creator setup will show the below message.
    
@@ -35,13 +35,13 @@ The following procedure illustrates how to install Syncfusion Web Sample Creator
 
 3. Click the Next button. The Installation location window opens. It shows the Syncfusion Essential Studio setup installed location.
 
-   ![Syncfusion Web Sample Creator setup installed location](Step-by-Step-Installation_images/Step-by-Step-Installation-img4.jpeg)
+   ![Syncfusion Web Sample Creator setup install location wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img4.jpeg)
 
    N> It does not allow you to change the install path since its Add on setup for Syncfusion Essential Studio.
 
 4. To install it in the displayed default location, click the Install button.
 
-   ![Syncfusion Web Sample Creator setup installation process notification](Step-by-Step-Installation_images/Step-by-Step-Installation-img5.jpeg)
+   ![Syncfusion Web Sample Creator setup installation progress](Step-by-Step-Installation_images/Step-by-Step-Installation-img5.jpeg)
 
 5. The Completed screen will be displayed once the selected package is installed.
 

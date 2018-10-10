@@ -41,16 +41,16 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
    ![Syncfusion Essential JS 1 ASP.NET Core Project Configuration wizard](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img2.jpeg)
    
-3. Once you click Create button, the Syncfusion ASP.NET Core Application is created.
+4. Once you click Create button, the Syncfusion ASP.NET Core Application is created.
 
-4. Required Syncfusion NuGet/Bower packages, Scripts and CSS are added to the Project.
+5. Required Syncfusion NuGet/Bower packages, Scripts and CSS are added to the Project.
 
-   ![Required Syncfusion NuGet/Bower packages for Syncfusion Essential JS 1 ASP.NET Core Project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img3.jpeg)
+   ![Required Syncfusion NuGet/Bower packages added to the Syncfusion Essential JS 1 ASP.NET Core project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img3.jpeg)
 
-   ![Required Syncfusion Scripts and Themes for Syncfusion Essential JS 1 ASP.NET Core Project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img4.jpeg)
+   ![Required Syncfusion Scripts and Themes added to the Syncfusion Essential JS 1 ASP.NET Core project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img4.jpeg)
 
-5. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
+6. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
-   ![Syncfusion licensing registration required message box for Syncfusion Essential JS 1 ASP.NET Core Project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)   
+   ![Syncfusion license registration information for Syncfusion Essential JS 1 ASP.NET Core project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)   
 
 

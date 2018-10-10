@@ -59,23 +59,23 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
    * Theme Selection – Choose the required theme.The Theme Preview section shows the controls preview before create the Syncfusion project.
 
-   ![Syncfusion Essential JS 1 ASP.NET Core Sample Creator project configuration](Sample-Creator_images/SampleCreator-img6.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Sample Creator project configuration section](Sample-Creator_images/SampleCreator-img6.jpeg)
 
 
 2. When you click the Create button, the new Syncfusion ASP.NET Core project is created. The following resources are added in the project:
 
    * Added the required View(.cshtml) and Class files in the project.
 
-     ![Required View and Class files for chosen Syncfusion Essential JS 1 ASP.NET Core controls](Sample-Creator_images/SampleCreator-img7.jpeg)
+     ![Required View and Class files add in the project for the chosen controls](Sample-Creator_images/SampleCreator-img7.jpeg)
 
    * Included the required Syncfusion scripts and themes files.
 
-     ![Required scripts and themes files for chosen Syncfusion Essential JS 1 ASP.NET Core controls](Sample-Creator_images/SampleCreator-img8.jpeg)
+     ![Required scripts and themes files included in the project](Sample-Creator_images/SampleCreator-img8.jpeg)
 
    * Restored the required Syncfusion NuGet/Bower packages for selected controls under dependencies.
 
-     ![Required NuGet/Bower packages for chosen Syncfusion Essential JS 1 ASP.NET Core controls](Sample-Creator_images/SampleCreator-img9.jpeg)
+     ![Required NuGet/Bower packages restored for the selected Syncfusion Essential JS 1 ASP.NET Core controls](Sample-Creator_images/SampleCreator-img9.jpeg)
 
 3. Once the project is created you can open the project by clicking the Yes button. If you click No button the corresponding location of the project will be opened. Refer the following screenshot for more information.
 
-   ![Choose Yes or No from Syncfusion Essential JS 1 ASP.NET Core Sample Creator success dialog](Sample-Creator_images/SampleCreator-img11.jpeg)
+   ![The project created from Syncfusion Essential JS 1 ASP.NET Core Sample Creator successfully](Sample-Creator_images/SampleCreator-img11.jpeg)
