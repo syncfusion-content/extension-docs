@@ -18,7 +18,7 @@ While using Syncfusion NuGet package of version that is prior to 13.2.0.29, you 
 3. Navigate to the root location of the extracted downloaded, Syncfusion license.
 4. Run the following command to register the license key-Synckeynoui.exe “License key”.
 
-   ![](Register-the-Syncfusion-License-key_images/Register-the-Syncfusion-License-key_img1.png)
+   ![Command for register the Syncfusion license key](Register-the-Syncfusion-License-key_images/Register-the-Syncfusion-License-key-img1.png)
 
 
 

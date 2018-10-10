@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ASP.NET WebForms (Essential JS 1) Extension | Extension | Syncfusion
-description: The Syncfusion ASP.NET WebForms (Essential JS 1) Extensions provide quick access to create or configure the Syncfusion ASP.NET projects along with Essential JS 1 components
+title: ASP.NET Web Forms (Essential JS 1) Extension | Extension | Syncfusion
+description: The Syncfusion ASP.NET Web Forms (Essential JS 1) Extensions provide quick access to create or configure the Syncfusion ASP.NET projects along with Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

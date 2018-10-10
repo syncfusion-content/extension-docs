@@ -19,33 +19,33 @@ The following procedure illustrates how to install Syncfusion Web Sample Creator
 
 1. Double-click the Syncfusion Web Sample Creator Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
 
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img1.jpeg)
+   ![Syncfusion Web Sample Creator Setup Self-Extractor Wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img1.jpeg)
 
    N> The WinZip Self-Extractor extracts the syncfusionwebsamplecreator_(version).exe dialog, displaying the unzip operation of the package.
 
    If complete Essential Studio suite or any of the required Essential Studio platform setups are installed, Syncfusion Web Sample Creator setup will be installed.
    
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img2.jpeg)
+   ![Syncfusion Web Sample Creator setup wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img2.jpeg)
 
    If complete Essential Studio suite or any of the required Essential Studio platform setups are not installed, Syncfusion Web Sample Creator setup will show the below message.
    
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img7.jpeg)
+   ![Syncfusion Web Sample Creator setup validation message](Step-by-Step-Installation_images/Step-by-Step-Installation-img7.jpeg)
 
 2. After reading the terms, click the I accept the terms and conditions check box. 
 
 3. Click the Next button. The Installation location window opens. It shows the Syncfusion Essential Studio setup installed location.
 
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img4.jpeg)
+   ![Syncfusion Web Sample Creator setup installed location](Step-by-Step-Installation_images/Step-by-Step-Installation-img4.jpeg)
 
    N> It does not allow you to change the install path since its Add on setup for Syncfusion Essential Studio.
 
 4. To install it in the displayed default location, click the Install button.
 
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img5.jpeg)
+   ![Syncfusion Web Sample Creator setup installation process notification](Step-by-Step-Installation_images/Step-by-Step-Installation-img5.jpeg)
 
 5. The Completed screen will be displayed once the selected package is installed.
 
-   ![](Step-by-Step-Installation_images/Step-by-Step-Installation_img6.jpeg)
+   ![Syncfusion Web Sample Creator setup installation completed wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img6.jpeg)
 
 5. Select the `Run Syncfusion Control Panel` check box to launch the `Syncfusion Control Panel` after installed.
 

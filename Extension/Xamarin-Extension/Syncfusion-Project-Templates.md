@@ -20,7 +20,7 @@ The following steps direct you to create the **Syncfusion** **Xamarin** **Applic
 
 1. To create a **Syncfusion Xamarin project**, choose **New** **Project****->****Syncfusion****->** **Cross-Platform****->****Syncfusion** **Xamarin** **Application** from **Visual** **Studio** **2017**.
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img1.jpeg)
+   ![Choose Syncfusion Xamarin application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img1.jpeg)
 
 2. Name the **Project**, choose the destination location, and set the Framework of the project, and then click **OK**. The Project Configuration Wizard appears.
    
@@ -30,7 +30,7 @@ The following steps direct you to create the **Syncfusion** **Xamarin** **Applic
 
 Choose the Project, Android, iOS, and UWP by on/off 
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img2.jpeg)
+   ![Choose Android, iOS, UWP option](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img2.jpeg)
 
 **Assemblies From:** Load the Syncfusion Xamarin reference to Xamarin Application, either NuGet or Installed Location.
 
@@ -58,30 +58,30 @@ Choose the Xamarin application needs to create with the Syncfusion controls.
 
 **Net Standard /PCL:**
 
- ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img3.jpeg)
+![Syncfusion Xamarim Net Standard /PCL project NuGet package](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img3.jpeg)
 
-![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img4.jpeg)
+![Syncfusion Xamarim Net Standard /PCL project Assemblies](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img4.jpeg)
 
 **Android:**
 
-![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img5.jpeg)
+![Syncfusion Xamarim Android project NuGet package](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)
 
-![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img6.jpeg)
+![Syncfusion Xamarim Net Standard /PCL project Assemblies](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img6.jpeg)
 
 **iOS:**
 
-![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img7.jpeg)
+![Syncfusion Xamarim iOS project NuGet package](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img7.jpeg)
 
-![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img8.jpeg)
+![Syncfusion Xamarim iOS project Assemblies](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img8.jpeg)
 
 **UWP:**
 
-![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img9.jpeg)
+![Syncfusion Xamarim UWP project NuGet package](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img9.jpeg)
 
-![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img10.jpeg)
+![Syncfusion Xamarim UWP project Assemblies](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img10.jpeg)
 
 6.Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
-![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img11.jpeg)
+![Syncfusion Xamarin Project licensing registration required message box](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img11.jpeg)
 
 

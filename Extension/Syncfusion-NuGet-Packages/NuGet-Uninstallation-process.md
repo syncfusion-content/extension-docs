@@ -18,7 +18,7 @@ You can uninstall the installed packages from WPF project using the following st
 2. Select the Installed packages and see the installed packages list.
 3. Uninstall packages that are not required for the project. 
 
-![](NuGet-Uninstallation_images/NuGet-Uninstallation_img1.png)
+![Installed packages details in NuGet package manager dialog](NuGet-Uninstallation_images/NuGet-Uninstallation-img1.png)
 
 N> You cannot uninstall the dependent package because of the package being referred in other NuGet Packages. It removes Project Reference and package from the project location.
 
@@ -37,7 +37,7 @@ To uninstall the Syncfusion NuGet Packages by Package Manager Console, follow th
    
    
    
-   ![](Uninstall-from-Package-Manager-Console_images/Uninstall-from-Package-Manager-Console_img1.png)
+   ![NuGet package uninstallation output in Package Manager Console window](Uninstall-from-Package-Manager-Console_images/Uninstall-from-Package-Manager-Console-img1.png)
 
 
 

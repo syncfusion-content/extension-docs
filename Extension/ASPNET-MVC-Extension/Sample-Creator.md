@@ -17,23 +17,23 @@ The following steps help you to create the Syncfusion ASP.NET MVC Project via th
 
 1. Launch the Syncfusion Essential Studio Dashboard and select the ASP.NET MVC/ASP.NET MVC (Classic) platform. Select the SAMPLE CREATOR button to launch the Sample Creator Wizard. Refer the following screenshot for more information. 
 
-   ![](Sample-Creator_images/Sample-Creator_img1.jpeg)
+   ![Syncfusion ASP.NET MVC (Essential JS 1) control panel to launch the ASP.NET MVC (Essential JS 1) Sample Creator](Sample-Creator_images/Sample-Creator-img1.jpeg)
 
 2. Syncfusion Sample Creator Wizard displaying the **Controls and its Feature Selection** section. 
 
-   ![](Sample-Creator_images/Sample-Creator_img2.jpeg)
+   ![Syncfusion ASP.NET MVC (Essential JS 1) Sample Creator](Sample-Creator_images/Sample-Creator-img2.jpeg)
 
 ### Controls Selection
 
  Listed here are the Syncfusion ASP.NET MVC controls so you can choose the required controls. And the controls are grouped product wise.
 
- ![](Sample-Creator_images/Sample-Creator_img3.png)
+ ![Syncfusion ASP.NET MVC (Essential JS 1) Sample Creator Controls Selection](Sample-Creator_images/Sample-Creator-img3.png)
 
 ### Feature Selection
 
 Based on the controls, the Feature is enabled to choose the features of the corresponding controls.
 
-![](Sample-Creator_images/Sample-Creator_img4.png)
+![Syncfusion ASP.NET MVC (Essential JS 1) Sample Creator Feature Selection](Sample-Creator_images/Sample-Creator-img4.png)
 
 ### Project Configuration
 
@@ -50,26 +50,26 @@ You can configure the following project details in the Sample Creator.
 * Location – Choose the target location of your project.
 * Theme Selection – Choose the required theme. The Theme Preview section shows the controls preview before create the Syncfusion project.
 
-![](Sample-Creator_images/Sample-Creator_img6.jpeg)
+![Syncfusion ASP.NET MVC (Essential JS 1) Sample Creator Project Configuration section](Sample-Creator_images/Sample-Creator-img6.jpeg)
 
 When you click the Create button, the new Syncfusion ASP.NET MVC project is created. The following is added in the project:
 
 * Added the required Controller and View files in the project.
   
-  ![](Sample-Creator_images/Sample-Creator_img7.png)
+  ![Required Controller and View files for Syncfusion ASP.NET MVC (Essential JS 1) Sample Creator controls](Sample-Creator_images/Sample-Creator-img7.png)
 
 * Included the required Syncfusion ASP.NET MVC scripts and themes files.
   
-  ![](Sample-Creator_images/Sample-Creator_img8.png)
+  ![Required Syncfusion ASP.NET MVC scripts and themes files for Syncfusion ASP.NET MVC (Essential JS 1) Sample Creator controls](Sample-Creator_images/Sample-Creator-img8.png)
 
 * The required Syncfusion assemblies are added for selected controls under Project Reference.
  
-  ![](Sample-Creator_images/Sample-Creator_img9.png)
+  ![Required Syncfusion assemblies for Syncfusion ASP.NET MVC (Essential JS 1) Sample Creator controls](Sample-Creator_images/Sample-Creator-img9.png)
 
 * Configure the Web.Config file by adding the Syncfusion reference assemblies.
 
-  ![](Sample-Creator_images/Sample-Creator_img10.jpeg)
+  ![Required Syncfusion assemblies web.config entries for Syncfusion ASP.NET MVC (Essential JS 1) Sample Creator controls](Sample-Creator_images/Sample-Creator-img10.jpeg)
 
 * Once the project is created you can open the project by clicking the Yes button. Refer the following screenshot for more information.
 
-  ![](Sample-Creator_images/Sample-Creator_img11.jpeg)
+  ![Choose Yes or No from Syncfusion ASP.NET MVC (Essential JS 1) Sample Creator success dialog](Sample-Creator_images/Sample-Creator-img11.jpeg)
