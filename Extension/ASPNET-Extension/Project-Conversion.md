@@ -22,11 +22,11 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 2. Right-click on **Project** from Solution Explorer and select **Syncfusion VS Extensions** and choose the **Convert to Syncfusion ASP.NET Application**. Refer to the following screenshot for more information.
 
-   ![Syncfusion ASP.NET Web Forms (Essential JS 1) Project Conversion add-in](Project-Conversion_images/Project-Conversion-img1.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion add-in](Project-Conversion_images/Project-Conversion-img1.jpeg)
 
 3. Project Conversion Wizard opens to configure the project.
 
-   ![Syncfusion ASP.NET Web Forms (Essential JS 1) Project Conversion wizard](Project-Conversion_images/Project-Conversion-img2.jpg)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion wizard](Project-Conversion_images/Project-Conversion-img2.jpg)
 
    Choose the assembly location:
 
@@ -36,41 +36,41 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
    * Add Referenced Assemblies to Solution - Copy and refer to the assemblies from project's solution file lib directory.     
    
-   ![Choose the assembly location for Syncfusion ASP.NET Web Forms (Essential JS 1) Project Conversion](Project-Conversion_images/Project-Conversion-img3.jpeg)
+   ![Choose the assembly location for Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion](Project-Conversion_images/Project-Conversion-img3.jpeg)
    
    Choose the Theme:
    
    The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project
    
-   ![Choose the Theme for Syncfusion ASP.NET Web Forms (Essential JS 1) Project Conversion](Project-Conversion_images/Project-Conversion-img4.jpeg)
+   ![Choose the Theme for Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion](Project-Conversion_images/Project-Conversion-img4.jpeg)
 
    Choose CDN Support:
 
    The master page of the project will be updated based on required Syncfusion CDN links.
 
-   ![Choose CDN Support for Syncfusion ASP.NET Web Forms (Essential JS 1) Project Conversion](Project-Conversion_images/Project-Conversion-img13.jpeg)
+   ![Choose CDN Support for Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion](Project-Conversion_images/Project-Conversion-img13.jpeg)
  
    Choose Copy Global Resources: 
     
    The localization culture files will be shipped into Scripts\ej\i18n directory of the project.
 
-   ![Choose Copy Global Resources for Syncfusion ASP.NET Web Forms (Essential JS 1) Project Conversion](Project-Conversion_images/Project-Conversion-img14.jpeg)   
+   ![Choose Copy Global Resources for Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion](Project-Conversion_images/Project-Conversion-img14.jpeg)   
 
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
-   ![Components section for Syncfusion ASP.NET Web Forms (Essential JS 1) controls](Project-Conversion_images/ProjectConversion-img5.jpg)
+   ![Components section for Syncfusion Essential JS 1 ASP.NET Web Forms controls](Project-Conversion_images/ProjectConversion-img5.jpg)
    
    The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    
-   ![Syncfusion ASP.NET Web Forms (Essential JS 1) Project Conversion backup dialog](Project-Conversion_images/Project-Conversion-img6.jpg)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion backup dialog](Project-Conversion_images/Project-Conversion-img6.jpg)
 
 5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the ASP.NET Project. Refer to the following screenshots for more information.
 
-   ![Scripts and CSS for Syncfusion ASP.NET Web Forms (Essential JS 1) Project](Project-Conversion_images/Project-Conversion-img7.jpeg)
+   ![Scripts and CSS for Syncfusion Essential JS 1 ASP.NET Web Forms Project](Project-Conversion_images/Project-Conversion-img7.jpeg)
 
-   ![Reference Assemblies for Syncfusion ASP.NET Web Forms (Essential JS 1) Project](Project-Conversion_images/Project-Conversion-img8.jpeg)
+   ![Reference Assemblies for Syncfusion Essential JS 1 ASP.NET Web Forms Project](Project-Conversion_images/Project-Conversion-img8.jpeg)
 
-   ![web.config assembly reference for Syncfusion ASP.NET Web Forms (Essential JS 1) Project](Project-Conversion_images/Project-Conversion-img9.jpeg)
+   ![web.config assembly reference for Syncfusion Essential JS 1 ASP.NET Web Forms Project](Project-Conversion_images/Project-Conversion-img9.jpeg)
 
 
 ## Rendering Control after Syncfusion ASP.NET Conversion
@@ -84,8 +84,8 @@ Once you converted your ASP.NET Project to Syncfusion ASP.NET Project using Sync
    
 3. Now, include the Syncfusion controls to your project. Refer the following screenshot for more information.
 
-   ![Syncfusion ASP.NET Web Forms (Essential JS 1) datepicker control snippet](Project-Conversion_images\Project-Conversion-img11.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms datepicker control snippet](Project-Conversion_images\Project-Conversion-img11.jpeg)
 
 4. Run the project and the following output will be displayed.
 
-   ![Syncfusion ASP.NET Web Forms (Essential JS 1) datepicker control output](Project-Conversion_images\Project-Conversion-img12.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms datepicker control output](Project-Conversion_images\Project-Conversion-img12.jpeg)

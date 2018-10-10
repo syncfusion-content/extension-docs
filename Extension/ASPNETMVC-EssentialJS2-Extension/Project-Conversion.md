@@ -21,11 +21,11 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 2. Right-click on **Project** from Solution Explorer and select **Syncfusion Essential JS 2** and choose the **Convert to Syncfusion ASP.NET MVC (Essential JS 2) Application**. Refer to the following screenshot for more information.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 2) Project Conversion add-in](Project-Conversion_images/Project-Conversion-img1.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC Project Conversion add-in](Project-Conversion_images/Project-Conversion-img1.jpg)
 
 3. Project Conversion Wizard opens to configure the project.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 2) Project Conversion wizard](Project-Conversion_images/Project-Conversion-img2.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC Project Conversion wizard](Project-Conversion_images/Project-Conversion-img2.jpg)
    
    The following configurations are used in the Project Conversion Wizard.
 
@@ -37,15 +37,15 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
    
 4. The **Project Backup** dialog will be opened when **Click** the **Convert** button. If click **Yes**, it will backup the current project before converting it to Syncfusion project. If click **No**, it will convert the project to Syncfusion project without backup.
     
-   ![Syncfusion ASP.NET MVC (Essential JS 2) Project Conversion backup](Project-Conversion_images/Project-Conversion-img3.jpg)   
+   ![Syncfusion Essential JS 2 ASP.NET MVC Project Conversion backup](Project-Conversion_images/Project-Conversion-img3.jpg)   
 
 5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the ASP.NET MVC Web Application. Refer to the following screenshots for more information.
 
-   ![Reference assemblies for Syncfusion ASP.NET MVC (Essential JS 2) Project Conversion](Project-Conversion_images/Project-Conversion-img4.jpg)
+   ![Reference assemblies for Syncfusion Essential JS 2 ASP.NET MVC Project Conversion](Project-Conversion_images/Project-Conversion-img4.jpg)
 
-   ![Scripts and Themes references in _Layout.cshtml file for Syncfusion ASP.NET MVC (Essential JS 2) Project Conversion](Project-Conversion_images/Project-Conversion-img5.jpg)
+   ![Scripts and Themes references in _Layout.cshtml file for Syncfusion Essential JS 2 ASP.NET MVC Project Conversion](Project-Conversion_images/Project-Conversion-img5.jpg)
    
-   ![web.config assemblies/namespaces entry for Syncfusion ASP.NET MVC (Essential JS 2) Project Conversion](Project-Conversion_images/Project-Conversion-img6.jpg)
+   ![web.config assemblies/namespaces entry for Syncfusion Essential JS 2 ASP.NET MVC Project Conversion](Project-Conversion_images/Project-Conversion-img6.jpg)
 
    
 ## Rendering Control after Syncfusion ASP.NET MVC Conversion
@@ -56,15 +56,15 @@ Once you convert your ASP.NET MVC Application to Syncfusion ASP.NET MVC (Essenti
 
 2. Add the required Script and CSS files references in the master page (_Layout.cshtml file). Please refer to below screenshot for more information.
 
-   ![Scripts and Themes references in _Layout.cshtml file for Syncfusion ASP.NET MVC (Essential JS 2) Project Conversion](Project-Conversion_images\Project-Conversion-img7.jpg)
+   ![Scripts and Themes references in _Layout.cshtml file for Syncfusion Essential JS 2 ASP.NET MVC Project Conversion](Project-Conversion_images\Project-Conversion-img7.jpg)
 
 3. Now, include the Syncfusion controls to your project. Refer to the following screenshot for more information.
 
-   ![Sample Syncfusion ASP.NET MVC (Essential JS 2) calendar control snippet](Project-Conversion_images\Project-Conversion-img8.jpg)
+   ![Sample Syncfusion Essential JS 2 ASP.NET MVC calendar control snippet](Project-Conversion_images\Project-Conversion-img8.jpg)
    
 4. Run the project and the following output is displayed.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 2) calendar control output](Project-Conversion_images\Project-Conversion-img9.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC calendar control output](Project-Conversion_images\Project-Conversion-img9.jpg)
    
    
    

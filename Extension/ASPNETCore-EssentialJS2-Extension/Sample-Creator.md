@@ -19,23 +19,23 @@ The following steps help you to create the Syncfusion ASP.NET Core (Essential JS
 
 1. Launch the Syncfusion ASP.NET Core (Essential JS 2) Control Panel. Select the Sample Creator button to launch the ASP.NET Core (Essential JS 2) Sample Creator application. Refer the following screenshot for more information. 
 
-   ![Syncfusion ASP.NET Core (Essential JS 2) Control Panel to launch the Sample Creator](Sample-Creator_images\SampleCreator-img1.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET Core Control Panel to launch the Sample Creator](Sample-Creator_images\SampleCreator-img1.jpg)
 
 2. ASP.NET Core (Essential JS 2) Sample Creator list the Syncfusion controls and its features. 
 
-   ![Syncfusion ASP.NET Core (Essential JS 2) Sample Creator wizard](Sample-Creator_images\SampleCreator-img2.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET Core Sample Creator wizard](Sample-Creator_images\SampleCreator-img2.jpg)
 
    ### Controls Selection
 
    Choose the required controls. The controls are grouped with Syncfusion products.
 
-   ![Choose the required Syncfusion ASP.NET Core (Essential JS 2) Sample Creator controls](Sample-Creator_images\SampleCreator-img3.jpg)
+   ![Choose the required Syncfusion Essential JS 2 ASP.NET Core Sample Creator controls](Sample-Creator_images\SampleCreator-img3.jpg)
 
    ### Feature Selection
 
    Based on the controls, the feature is enabled to choose the features of the corresponding controls.
 
-   ![Choose the required Syncfusion ASP.NET Core (Essential JS 2) Sample Creator features](Sample-Creator_images\SampleCreator-img4.jpg)
+   ![Choose the required Syncfusion Essential JS 2 ASP.NET Core Sample Creator features](Sample-Creator_images\SampleCreator-img4.jpg)
 
    ### Project Configuration
 
@@ -56,11 +56,11 @@ The following steps help you to create the Syncfusion ASP.NET Core (Essential JS
       *	**Location**: Choose the target location of your project.
       *	**Theme Selection**: Choose the required theme. This section shows the controls preview before creating the Syncfusion project.
 
-        ![Choose the required Syncfusion ASP.NET Core (Essential JS 2) Sample Creator project configuration](Sample-Creator_images\SampleCreator-img5.jpg)
+        ![Choose the required Syncfusion Essential JS 2 ASP.NET Core Sample Creator project configuration](Sample-Creator_images\SampleCreator-img5.jpg)
 
    2. Click **Create** button. Once the project is created you can open the project by clicking **Yes**. If you click **No** the corresponding location of the project will be opened. Refer the following screenshot for more information.
 
-      ![Choose Yes or No option from Syncfusion ASP.NET Core (Essential JS 2) Sample Creator success dialog](Sample-Creator_images\SampleCreator-img9.png)
+      ![Choose Yes or No option from Syncfusion Essential JS 2 ASP.NET Core Sample Creator success dialog](Sample-Creator_images\SampleCreator-img9.png)
 
    3. The new Syncfusion ASP.NET Core (Essential JS 2) project is created with the resources.
 

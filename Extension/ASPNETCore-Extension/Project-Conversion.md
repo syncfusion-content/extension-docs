@@ -21,11 +21,11 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 2. Right-click on **Project** from Solution Explorer and select **Syncfusion VS Extensions** and choose the **Convert to Syncfusion ASP.NET Core Application**. Refer to the following screenshot for more information.
 
-   ![Syncfusion ASP.NET Core (Essential JS 1) Project Conversion add-n](Project-Conversion_images/Project-Conversion-img1.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Conversion add-n](Project-Conversion_images/Project-Conversion-img1.jpeg)
 
 3. Project Conversion Wizard opens to configure the project.
 
-   ![Syncfusion ASP.NET Core (Essential JS 1) Project Conversion wizard](Project-Conversion_images/Project-Conversion-img2.jpg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Conversion wizard](Project-Conversion_images/Project-Conversion-img2.jpg)
 
    **Choose the assets from:**
 
@@ -35,32 +35,32 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
    * Installed Location - Refer to the assets from Syncfusion installed locations.     
    
-   ![Choose the assets for Syncfusion ASP.NET Core (Essential JS 1) project](Project-Conversion_images/Project-Conversion-img3.jpeg)
+   ![Choose the assets for Syncfusion Essential JS 1 ASP.NET Core project](Project-Conversion_images/Project-Conversion-img3.jpeg)
    
    **Choose the Theme:**
    
    The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project
    
-   ![Choose the Theme for Syncfusion ASP.NET Core (Essential JS 1) project](Project-Conversion_images/Project-Conversion-img4.jpeg)
+   ![Choose the Theme for Syncfusion Essential JS 1 ASP.NET Core project](Project-Conversion_images/Project-Conversion-img4.jpeg)
 
    **Choose Copy Global Resources:** 
     
    The localization culture files will be shipped into Scripts\ej\i18n directory of the project.
 
-   ![Choose Copy Global Resources for Syncfusion ASP.NET Core (Essential JS 1) project](Project-Conversion_images/Project-Conversion-img14.jpeg)  
+   ![Choose Copy Global Resources for Syncfusion Essential JS 1 ASP.NET Core project](Project-Conversion_images/Project-Conversion-img14.jpeg)  
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
-   ![Components section for Syncfusion ASP.NET Core (Essential JS 1) controls](Project-Conversion_images/ProjectConversion-img5.jpg)
+   ![Components section for Syncfusion Essential JS 1 ASP.NET Core controls](Project-Conversion_images/ProjectConversion-img5.jpg)
    
    The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    
-   ![Syncfusion ASP.NET Core (Essential JS 1) Project converson backup dialog](Project-Conversion_images/Project-Conversion-img6.jpg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project converson backup dialog](Project-Conversion_images/Project-Conversion-img6.jpg)
 
 5. The required Syncfusion NuGet/Bower packages, Scripts and CSS are included in the ASP.NET Core Web Application. Refer to the following screenshots for more information.
 
-   ![Required Syncfusion ASP.NET Core (Essential JS 1) NuGet/Bower packages](Project-Conversion_images/Project-Conversion-img7.jpeg)
+   ![Required Syncfusion Essential JS 1 ASP.NET Core NuGet/Bower packages](Project-Conversion_images/Project-Conversion-img7.jpeg)
 
-   ![Required Syncfusion ASP.NET Core (Essential JS 1) Themes and Scripts](Project-Conversion_images/Project-Conversion-img8.jpeg)
+   ![Required Syncfusion Essential JS 1 ASP.NET Core Themes and Scripts](Project-Conversion_images/Project-Conversion-img8.jpeg)
 
    
 ## Rendering Control after Syncfusion ASP.NET Core Conversion
@@ -69,11 +69,11 @@ Once you converted your ASP.NET Core Web Application to Syncfusion ASP.NET Core 
 
 1. Include the Syncfusion control snippets to any of the view page of your project. Refer the following screenshot for more information.
 
-   ![Sample Syncfusion ASP.NET Core (Essential JS 1) datepicker control snippet](Project-Conversion_images\Project-Conversion-img11.jpeg)
+   ![Sample Syncfusion Essential JS 1 ASP.NET Core datepicker control snippet](Project-Conversion_images\Project-Conversion-img11.jpeg)
 
 2. Then run the project and the following output will be displayed.
 
-   ![Syncfusion ASP.NET Core (Essential JS 1) datepicker control output](Project-Conversion_images\Project-Conversion-img12.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core datepicker control output](Project-Conversion_images\Project-Conversion-img12.jpeg)
    
    
    I> Refer all the required external and internal scripts only once in the page with proper order. Refer this [link](https://help.syncfusion.com/js/control-initialization#adding-the-required-javascript-files) to know about order of script reference.

@@ -36,11 +36,11 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 1. Open an existing Microsoft MVC Project or create a new Microsoft MVC Project.
 2. Right-click on Project and select Syncfusion VS Extensions and choose the Convert to Syncfusion MVC (Web) Application. Refer to the following screenshot for more information.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Web Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img1.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img1.jpeg)
 
 3. Project Conversion Wizard opens so that you can configure the project.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Web Project Conversion wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img2.jpg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img2.jpg)
 
    The following configurations are used in the Project Conversion Wizard.
    
@@ -52,33 +52,33 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 	2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
     3. Add Referenced Assemblies to Solution - Copy and refer to the assemblies from project's solution file lib directory.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Web Project Conversion assemblies from section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img3.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion assemblies from section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img3.jpeg)
     
    **Choose the Theme:**
    
    The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project.
    
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Web Project Conversion choose theme section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img4.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion choose theme section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img4.jpeg)
    
    **Choose CDN Support:**
 
    The master page of the project will be updated based on required Syncfusion CDN links.
    
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Web Project Conversion CDN support section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img20.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion CDN support section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img20.jpeg)
    
    **Choose Copy Global Resources:**
     
    The localization culture files will be shipped into Scripts\ej\i18n directory of the project.
    
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Web Project Conversion Choose Copy Global Resources section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img21.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion Choose Copy Global Resources section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img21.jpeg)
 
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Web Project Conversion components section](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img5.jpg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion components section](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img5.jpg)
    
 5. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Web Project Conversion backup dialog](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img6.jpg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion backup dialog](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img6.jpg)
 
 
 6. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
@@ -98,11 +98,11 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
 2. Right-click on Project and select Syncfusion VS Extensions and choose the Convert to Syncfusion MVC (Web) Application. Refer the following screenshot for more information.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img10.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img10.jpeg)
 
 3. Project Conversion Wizard opens so that you can configure the project.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img11.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img11.jpeg)
 
    The following configurations are used in the Project Conversion Wizard.
 
@@ -114,37 +114,37 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 	2. Added from Installed Location - Refer the assemblies from the Syncfusion Installed locations.
     3. Add Referenced Assemblies to Solution - Copy and refer to the assemblies from project's solution file lib directory.   
 
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion assemblies from section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img3.jpeg) 
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion assemblies from section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img3.jpeg) 
    
    **Choose the Theme:**
    
    Choose the required theme from Theme Selection Combo box. The Theme preview window will change based on your Theme selection. and also the project will be update with the selected theme.
    
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion Choose theme section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img12.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion Choose theme section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img12.jpeg)
 	
    **Choose CDN Support:**
 
    The master page of the project will be updated based on required Syncfusion CDN links.
    
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion CDN support section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img20.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion CDN support section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img20.jpeg)
    
    **Choose Copy Global Resources:**
     
    The localization culture files will be shipped into Scripts\ej\i18n directory of the project.
    
-   ![Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion Choose Copy Global Resources section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img21.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion Choose Copy Global Resources section](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img21.jpeg)
 
 4. Click the Convert button to convert it into a Syncfusion Project.
 
 5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
 
-   ![Assemblies for Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img13.jpeg)
+   ![Assemblies for Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img13.jpeg)
 
-   ![Scripts for Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img14.jpeg)
+   ![Scripts for Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img14.jpeg)
 
-   ![Themes for Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img15.jpeg)
+   ![Themes for Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img15.jpeg)
 
-   ![web.config assemblies entry for Syncfusion ASP.NET MVC (Essential JS 1) Mobile Project Conversion](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img16.jpeg)
+   ![web.config assemblies entry for Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img16.jpeg)
 
 ## Rendering Control after Syncfusion MVC (Web/Mobile) Conversion:
 
@@ -157,9 +157,9 @@ Once you convert your ASP.NET MVC project to Syncfusion MVC Project, perform�
 
 3. Now, include the Syncfusion controls to your project. Refer to the following screenshot for more information.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 1) datepicker control snippet](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img18.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC datepicker control snippet](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img18.jpeg)
 
 4. Run the project and the following output is displayed.
 
-   ![Syncfusion ASP.NET MVC (Essential JS 1) datepicker control output](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img19.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC datepicker control output](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img19.jpeg)
 

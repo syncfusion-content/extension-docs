@@ -19,11 +19,11 @@ The following steps direct you to migrate your existing Syncfusion ASP.NET Core 
 
 1. Right-click on **Syncfusion ASP.NET Core Web Application** from Solution Explorer and select **Syncfusion Essential JS 2**. Choose **Migrate the Essential JS 2 Project to Another version**
 
-   ![Syncfusion ASP.NET Core (Essential JS 2) Project Migration add-in](Project-Migration_images/Project-Migration-img1.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET Core Project Migration add-in](Project-Migration_images/Project-Migration-img1.jpg)
 
 2. The **Project Migration** window appears. You can choose the required Essential Studio version that is installed in the machine. 
 
-   ![Syncfusion ASP.NET Core (Essential JS 2) Project Migration window](Project-Migration_images/Project-Migration-img2.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET Core Project Migration window](Project-Migration_images/Project-Migration-img2.jpg)
 
 3. The **Project Migration** window allows you to configure the following options:
 
@@ -35,7 +35,7 @@ The following steps direct you to migrate your existing Syncfusion ASP.NET Core 
    
 4. Click the Migrate Button. The **Project Backup** dialog will be opened. If click **Yes**, it will backup the current project before migrate the Syncfusion project. If click **No**, it will migrate the project to required Syncfusion version without backup
    
-   ![Syncfusion ASP.NET Core (Essential JS 2) Project Migration backup dialog](Project-Migration_images/Project-Migration-img3.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET Core Project Migration backup dialog](Project-Migration_images/Project-Migration-img3.jpg)
       
 5. The Syncfusion NuGet Packages, Scripts and CSS are updated to the corresponding version in the project.
 
