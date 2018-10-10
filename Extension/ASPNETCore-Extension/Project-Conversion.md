@@ -41,16 +41,16 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
    
    The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project
    
-   ![Choose the Theme for Syncfusion Essential JS 1 ASP.NET Core project](Project-Conversion_images/Project-Conversion-img4.jpeg)
+   ![Choose the theme to apply on the master page of the ASP.NET Core project](Project-Conversion_images/Project-Conversion-img4.jpeg)
 
    **Choose Copy Global Resources:** 
     
    The localization culture files will be shipped into Scripts\ej\i18n directory of the project.
 
-   ![Choose Copy Global Resources for Syncfusion Essential JS 1 ASP.NET Core project](Project-Conversion_images/Project-Conversion-img14.jpeg)  
+   ![Choose Copy Global Resources to ship the localization culture files for ASP.NET Core project](Project-Conversion_images/Project-Conversion-img14.jpeg)  
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
-   ![Components section for Syncfusion Essential JS 1 ASP.NET Core controls](Project-Conversion_images/ProjectConversion-img5.jpg)
+   ![Select the required components from the Components section in the Syncfusion ASP.NET MVC Project Conversion Wizard](Project-Conversion_images/ProjectConversion-img5.jpg)
    
    The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    

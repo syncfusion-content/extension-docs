@@ -36,29 +36,29 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
    * Add Referenced Assemblies to Solution - Copy and refer to the assemblies from project's solution file lib directory.     
    
-   ![Choose the assembly location for Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion](Project-Conversion_images/Project-Conversion-img3.jpeg)
+   ![Choose the assembly location from where assemblies to be referred to the ASP.NET Web Forms project](Project-Conversion_images/Project-Conversion-img3.jpeg)
    
    Choose the Theme:
    
    The master page of project will be updated based on selected theme. The Theme Preview section shows the controls preview before convert into a Syncfusion project
    
-   ![Choose the Theme for Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion](Project-Conversion_images/Project-Conversion-img4.jpeg)
+   ![Choose the theme to apply on the master page of the ASP.NET Web Forms project](Project-Conversion_images/Project-Conversion-img4.jpeg)
 
    Choose CDN Support:
 
    The master page of the project will be updated based on required Syncfusion CDN links.
 
-   ![Choose CDN Support for Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion](Project-Conversion_images/Project-Conversion-img13.jpeg)
+   ![Choose CDN Support to refer the Syncfusion assets from CDN for ASP.NET Web Forms project](Project-Conversion_images/Project-Conversion-img13.jpeg)
  
    Choose Copy Global Resources: 
     
    The localization culture files will be shipped into Scripts\ej\i18n directory of the project.
 
-   ![Choose Copy Global Resources for Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion](Project-Conversion_images/Project-Conversion-img14.jpeg)   
+   ![Choose Copy Global Resources to ship the localization culture files for ASP.NET Web Forms project](Project-Conversion_images/Project-Conversion-img14.jpeg)   
 
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
-   ![Components section for Syncfusion Essential JS 1 ASP.NET Web Forms controls](Project-Conversion_images/ProjectConversion-img5.jpg)
+   ![Select the required components from the Components section in the ASP.NET Web Forms Project Conversion Wizard](Project-Conversion_images/ProjectConversion-img5.jpg)
    
    The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion project. If click No it will convert the project to Syncfusion project without backup. 
    
@@ -68,9 +68,9 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
    ![Scripts and CSS for Syncfusion Essential JS 1 ASP.NET Web Forms Project](Project-Conversion_images/Project-Conversion-img7.jpeg)
 
-   ![Reference Assemblies for Syncfusion Essential JS 1 ASP.NET Web Forms Project](Project-Conversion_images/Project-Conversion-img8.jpeg)
+   ![Reference assemblies use of Syncfusion Essential JS 1 ASP.NET Web Forms Project](Project-Conversion_images/Project-Conversion-img8.jpeg)
 
-   ![web.config assembly reference for Syncfusion Essential JS 1 ASP.NET Web Forms Project](Project-Conversion_images/Project-Conversion-img9.jpeg)
+   ![Web.config assembly reference of Syncfusion Essential JS 1 ASP.NET Web Forms Project](Project-Conversion_images/Project-Conversion-img9.jpeg)
 
 
 ## Rendering Control after Syncfusion ASP.NET Conversion
@@ -80,7 +80,7 @@ Once you converted your ASP.NET Project to Syncfusion ASP.NET Project using Sync
 
 2. Add the required CSS and Script files references in master page (Site.Master file) of the project. Please refer to the below screenshot for more information.
 
-   ![Required CSS and Script files references in master page Site.Master file of the project](Project-Conversion_images\Project-Conversion-img10.jpeg)
+   ![Required CSS and Script files references in master page file of the project](Project-Conversion_images\Project-Conversion-img10.jpeg)
    
 3. Now, include the Syncfusion controls to your project. Refer the following screenshot for more information.
 

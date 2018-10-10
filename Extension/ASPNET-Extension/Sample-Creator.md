@@ -28,7 +28,7 @@ The following steps help you to create the Syncfusion ASP.NET Web Project via th
 
 Listed here are the Syncfusion ASP.NET controls so you can choose the required controls.
 
-   ![Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator controls section](Sample-Creator_images/SampleCreator-img3.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator controls selection](Sample-Creator_images/SampleCreator-img3.jpeg)
 
 ### Feature Selection
 
@@ -55,7 +55,7 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
    * Theme Selection – Choose the required theme.The Theme Preview section shows the controls preview before create the Syncfusion project.
 
-   ![Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator project configuration section](Sample-Creator_images/SampleCreator-img6.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator project configuration selection](Sample-Creator_images/SampleCreator-img6.jpeg)
 
 
 2. When you click the Create button, the new Syncfusion ASP.NET project is created. The following resources are added in the project:
@@ -74,8 +74,8 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
    * Configure the Web.Config file by adding the Syncfusion reference assemblies, namespaces and controls.
 
-     ![Required web.config assemblies/namespaces entry for Syncfusion Essential JS 1 ASP.NET Web Forms controls](Sample-Creator_images/SampleCreator-img10.jpeg)
+     ![Required Web.config assembliesa and namespaces entry for Syncfusion Essential JS 1 ASP.NET Web Forms controls](Sample-Creator_images/SampleCreator-img10.jpeg)
 
 3. Once the project is created you can open the project by clicking the Yes button. If you click No button the corresponding location of the project will be opened. Refer the following screenshot for more information.
 
-   ![Choose Yes or No from Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator success dialog](Sample-Creator_images/SampleCreator-img11.jpeg)
+   ![The project created from Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator successfully](Sample-Creator_images/SampleCreator-img11.jpeg)

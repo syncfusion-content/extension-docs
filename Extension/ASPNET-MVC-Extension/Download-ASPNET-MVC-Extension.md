@@ -13,7 +13,7 @@ documentation: ug
 
    Refer the following screenshot for more information.
 
-   ![Download link for Syncfusion Essential Studio Sample Creator](Download-ASPNET-MVC-Extension_images/Download-ASPNET-MVC-Extension-img1.jpeg)
+   ![Download link for Syncfusion Essential Studio Web Sample Creator](Download-ASPNET-MVC-Extension_images/Download-ASPNET-MVC-Extension-img1.jpeg)
 
    I> It is a prerequisite to have the complete Essential Studio suite or ASP.NET MVC or ASP.NET MVC (Classic) installed while using Syncfusion ASP.NET MVC Extension. This is applicable from v.12.1.0.43.
 
