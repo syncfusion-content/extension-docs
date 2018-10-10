@@ -66,7 +66,7 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
    * Added the required View(.cshtml) and Class files in the project.
 
-     ![Required View(.cshtml) and Class files for chosen Syncfusion Essential JS 1 ASP.NET Core controls](Sample-Creator_images/SampleCreator-img7.jpeg)
+     ![Required View and Class files for chosen Syncfusion Essential JS 1 ASP.NET Core controls](Sample-Creator_images/SampleCreator-img7.jpeg)
 
    * Included the required Syncfusion scripts and themes files.
 

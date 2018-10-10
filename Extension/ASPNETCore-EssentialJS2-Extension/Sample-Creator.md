@@ -66,7 +66,7 @@ The following steps help you to create the Syncfusion ASP.NET Core (Essential JS
 
       * Added the required View (.cshtml) and Class files in the project.
   
-        ![Required View (.cshtml) and Class files in the project](Sample-Creator_images\SampleCreator-img6.jpg)
+        ![Required View and Class files in the project](Sample-Creator_images\SampleCreator-img6.jpg)
 
       * Included the required Syncfusion scripts and theme files.
   

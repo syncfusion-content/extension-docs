@@ -83,11 +83,11 @@ The following steps help you use the Syncfusion Project Conversion in the existi
 
 6. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
 
-   ![http://help.syncfusion.com/extension/aspnet-mvc-extension/Convert-into-Syncfusion-MVC-project_images/Convert-into-Syncfusion-MVC-project-img7.png](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img7.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC scripts and themes](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img7.jpeg)
 
-   ![http://help.syncfusion.com/extension/aspnet-mvc-extension/Convert-into-Syncfusion-MVC-project_images/Convert-into-Syncfusion-MVC-project-img8.png](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img8.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC assemblies](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img8.jpeg)
 
-   ![http://help.syncfusion.com/extension/aspnet-mvc-extension/Convert-into-Syncfusion-MVC-project_images/Convert-into-Syncfusion-MVC-project-img9.png](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img9.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC web.config entries](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img9.jpeg)
 
 
 ## Convert into Syncfusion MVC (Mobile) project
@@ -153,7 +153,7 @@ Once you convert your ASP.NET MVC project to Syncfusion MVC Project, perform�
 
 2. Add the required Script and CSS files references in the master page (_Layout.cshtml/Layout.vbhtml file). Please refer to below screenshot for more information.
 
-   ![Required Script and CSS files references in the master page (_Layout.cshtml/Layout.vbhtml file)](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img17.jpeg)
+   ![Required Script and CSS files references in the master page _Layout.cshtml or Layout.vbhtml file](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img17.jpeg)
 
 3. Now, include the Syncfusion controls to your project. Refer to the following screenshot for more information.
 

@@ -80,7 +80,7 @@ Once you converted your ASP.NET Project to Syncfusion ASP.NET Project using Sync
 
 2. Add the required CSS and Script files references in master page (Site.Master file) of the project. Please refer to the below screenshot for more information.
 
-   ![Required CSS and Script files references in master page (Site.Master file) of the project](Project-Conversion_images\Project-Conversion-img10.jpeg)
+   ![Required CSS and Script files references in master page Site.Master file of the project](Project-Conversion_images\Project-Conversion-img10.jpeg)
    
 3. Now, include the Syncfusion controls to your project. Refer the following screenshot for more information.
 
