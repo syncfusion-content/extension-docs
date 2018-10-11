@@ -47,10 +47,10 @@ The following steps direct you to create the **Syncfusion** **UWP** **Applicatio
 
 5. Once the Project Configuration Wizard is done, the Syncfusion UWP Application is created with required SDK/references and pages.
 
-   ![Syncfusion UWP Project required SDK/References](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)
+   ![Syncfusion UWP Project created with SDK reference](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)
 
 6. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
-   ![Syncfusion UWP Project licensing registration required message box](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img6.jpeg)   
+   ![Syncfusion license registration required information dialog in Syncfusion UWP Project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img6.jpeg)   
 
 
