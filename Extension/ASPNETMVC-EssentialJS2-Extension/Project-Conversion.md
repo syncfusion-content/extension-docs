@@ -41,11 +41,11 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the ASP.NET MVC Web Application. Refer to the following screenshots for more information.
 
-   ![Reference assemblies for Syncfusion Essential JS 2 ASP.NET MVC Project Conversion](Project-Conversion_images/Project-Conversion-img4.jpg)
+   ![Required reference assemblies included to the Syncfusion Essential JS 2 ASP.NET MVC project](Project-Conversion_images/Project-Conversion-img4.jpg)
 
-   ![Scripts and Themes references in _Layout.cshtml file for Syncfusion Essential JS 2 ASP.NET MVC Project Conversion](Project-Conversion_images/Project-Conversion-img5.jpg)
+   ![Required Scripts and Themes references added in _Layout.cshtml file of the Syncfusion Essential JS 2 ASP.NET MVC project](Project-Conversion_images/Project-Conversion-img5.jpg)
    
-   ![web.config assemblies/namespaces entry for Syncfusion Essential JS 2 ASP.NET MVC Project Conversion](Project-Conversion_images/Project-Conversion-img6.jpg)
+   ![Configured required assemblies and namespaces entry in Web.config file of the Syncfusion Essential JS 2 ASP.NET MVC project](Project-Conversion_images/Project-Conversion-img6.jpg)
 
    
 ## Rendering Control after Syncfusion ASP.NET MVC Conversion
@@ -56,11 +56,11 @@ Once you convert your ASP.NET MVC Application to Syncfusion ASP.NET MVC (Essenti
 
 2. Add the required Script and CSS files references in the master page (_Layout.cshtml file). Please refer to below screenshot for more information.
 
-   ![Scripts and Themes references in _Layout.cshtml file for Syncfusion Essential JS 2 ASP.NET MVC Project Conversion](Project-Conversion_images\Project-Conversion-img7.jpg)
+   ![Scripts and Themes references in _Layout.cshtml file of the Syncfusion Essential JS 2 ASP.NET MVC project](Project-Conversion_images\Project-Conversion-img7.jpg)
 
 3. Now, include the Syncfusion controls to your project. Refer to the following screenshot for more information.
 
-   ![Sample Syncfusion Essential JS 2 ASP.NET MVC calendar control snippet](Project-Conversion_images\Project-Conversion-img8.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC calendar control code snippet](Project-Conversion_images\Project-Conversion-img8.jpg)
    
 4. Run the project and the following output is displayed.
 

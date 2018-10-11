@@ -60,7 +60,7 @@ The following steps help you to create the Syncfusion ASP.NET Core (Essential JS
 
    2. Click **Create** button. Once the project is created you can open the project by clicking **Yes**. If you click **No** the corresponding location of the project will be opened. Refer the following screenshot for more information.
 
-      ![The project created from Syncfusion Essential JS 2 ASP.NET Core Sample Creator successfully](Sample-Creator_images\SampleCreator-img9.png)
+      ![The project successfully created using Syncfusion Essential JS 2 ASP.NET Core Sample Creator](Sample-Creator_images\SampleCreator-img9.png)
 
    3. The new Syncfusion ASP.NET Core (Essential JS 2) project is created with the resources.
 

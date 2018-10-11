@@ -72,4 +72,4 @@ When you click the Create button, the new Syncfusion ASP.NET MVC project is crea
 
 * Once the project is created you can open the project by clicking the Yes button. Refer the following screenshot for more information.
 
-  ![The project created from Syncfusion Essential JS 1 ASP.NET MVC Sample Creator successfully](Sample-Creator_images/Sample-Creator-img11.jpeg)
+  ![The project successfully created using Syncfusion Essential JS 1 ASP.NET MVC Sample Creator](Sample-Creator_images/Sample-Creator-img11.jpeg)

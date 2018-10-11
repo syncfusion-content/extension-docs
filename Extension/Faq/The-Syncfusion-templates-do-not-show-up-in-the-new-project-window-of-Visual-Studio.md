@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Syncfusion templates do not show up in the new project window of Visual Studio How can to get them installed | Extension | Syncfusion
-description: the syncfusion templates do not show up in the new project window of visual studio.  how can to get them installed?
+description: The syncfusion templates do not show up in the new project window of visual studio.  how can to get them installed?
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -21,7 +21,7 @@ Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension b
 
 
 
-   ![Syncfusion Installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img1.png)
+   ![Syncfusion ASP.NET MVC Extension installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img1.png)
 
 
 2. When the above path exists, it means that the ASP.NET MVC Extension build has already been installed in the machine. So now you can install the following Syncfusion
@@ -38,7 +38,7 @@ Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension b
    _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\ASP.NET MVC\Project Templates\Web\VS2017_
 
 
-   ![Syncfusion Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img2.png)
+   ![Syncfusion ASP.NET MVC Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img2.png)
 
    ## To Install Syncfusion Visual Studio Extension:
    Navigate to the following Location and run the “Syncfusion Web Conversion and Migration.vsix” extension. 
@@ -49,7 +49,7 @@ Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension b
    _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\Project Conversion\VS2017_
 
 
-   ![Syncfusion Visual Studio extension VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img3.png)
+   ![Syncfusion Web Conversion and Migration VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img3.png)
 
 
 

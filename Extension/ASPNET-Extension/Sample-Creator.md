@@ -78,4 +78,4 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
 3. Once the project is created you can open the project by clicking the Yes button. If you click No button the corresponding location of the project will be opened. Refer the following screenshot for more information.
 
-   ![The project created from Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator successfully](Sample-Creator_images/SampleCreator-img11.jpeg)
+   ![The project successfully created using Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator](Sample-Creator_images/SampleCreator-img11.jpeg)
