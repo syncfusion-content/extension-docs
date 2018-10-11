@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Conversion | ASP.NET MVC (Essential JS 2) | Syncfusion
-description: Project Conversion
+title: ASP.NET MVC (Essential JS 2) Project Conversion | ASP.NET MVC (Essential JS 2) | Syncfusion
+description: Syncfusion ASP.NET MVC (Essential JS 2) Project Conversion is a Visual Studio add-in that converts an existing ASP.NET MVC application into a Syncfusion ASP.NET MVC (Essential JS 2) Web application by adding the required Essential JS 2 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -21,11 +21,11 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
 
 2. Right-click on **Project** from Solution Explorer and select **Syncfusion Essential JS 2** and choose the **Convert to Syncfusion ASP.NET MVC (Essential JS 2) Application**. Refer to the following screenshot for more information.
 
-   ![](Project-Conversion_images/Project-Conversion_img1.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC Project Conversion add-in](Project-Conversion_images/Project-Conversion-img1.jpg)
 
 3. Project Conversion Wizard opens to configure the project.
 
-   ![](Project-Conversion_images/Project-Conversion_img2.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC Project Conversion wizard](Project-Conversion_images/Project-Conversion-img2.jpg)
    
    The following configurations are used in the Project Conversion Wizard.
 
@@ -37,15 +37,15 @@ The following steps direct you to use the Syncfusion Project Conversion in the e
    
 4. The **Project Backup** dialog will be opened when **Click** the **Convert** button. If click **Yes**, it will backup the current project before converting it to Syncfusion project. If click **No**, it will convert the project to Syncfusion project without backup.
     
-   ![](Project-Conversion_images/Project-Conversion_img3.jpg)   
+   ![Syncfusion Essential JS 2 ASP.NET MVC Project Conversion backup](Project-Conversion_images/Project-Conversion-img3.jpg)   
 
 5. The required Syncfusion Reference Assemblies, Scripts and CSS are included in the ASP.NET MVC Web Application. Refer to the following screenshots for more information.
 
-   ![](Project-Conversion_images/Project-Conversion_img4.jpg)
+   ![Required reference assemblies included to the Syncfusion Essential JS 2 ASP.NET MVC project](Project-Conversion_images/Project-Conversion-img4.jpg)
 
-   ![](Project-Conversion_images/Project-Conversion_img5.jpg)
+   ![Required Scripts and Themes references added in _Layout.cshtml file of the Syncfusion Essential JS 2 ASP.NET MVC project](Project-Conversion_images/Project-Conversion-img5.jpg)
    
-   ![](Project-Conversion_images/Project-Conversion_img6.jpg)
+   ![Configured required assemblies and namespaces entry in Web.config file of the Syncfusion Essential JS 2 ASP.NET MVC project](Project-Conversion_images/Project-Conversion-img6.jpg)
 
    
 ## Rendering Control after Syncfusion ASP.NET MVC Conversion
@@ -56,15 +56,15 @@ Once you convert your ASP.NET MVC Application to Syncfusion ASP.NET MVC (Essenti
 
 2. Add the required Script and CSS files references in the master page (_Layout.cshtml file). Please refer to below screenshot for more information.
 
-   ![](Project-Conversion_images\Project-Conversion_img7.jpg)
+   ![Scripts and Themes references in _Layout.cshtml file of the Syncfusion Essential JS 2 ASP.NET MVC project](Project-Conversion_images\Project-Conversion-img7.jpg)
 
 3. Now, include the Syncfusion controls to your project. Refer to the following screenshot for more information.
 
-   ![](Project-Conversion_images\Project-Conversion_img8.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC calendar control code snippet](Project-Conversion_images\Project-Conversion-img8.jpg)
    
 4. Run the project and the following output is displayed.
 
-   ![](Project-Conversion_images\Project-Conversion_img9.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC calendar control output](Project-Conversion_images\Project-Conversion-img9.jpg)
    
    
    

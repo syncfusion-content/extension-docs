@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion NuGet Manager | Extension | Syncfusion
-description: Syncfusion Nuget Packages Manager
+description: Syncfusion NuGet Package Manager is the utility that allows you to add, remove and update the Syncfusion NuGet sources (available platforms) to NuGet Package Manager
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -19,29 +19,29 @@ The following steps directs you to add the Syncfusion NuGet Package sources from
 
 1. Run the SyncfusionNuGetManager.exe from Syncfusion NuGet Manager extracted location. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img1.png)
+   ![Syncfusion NuGet Manager extracted location](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img1.png)
 
 2. Syncfusion NuGet Manager Window will be opened.
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img2.png)
+   ![Syncfusion NuGet Manager main window](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img2.png)
 
 3. Select the required platforms needed to be configured from “Select platforms to add” (Left side of the window) column and click Add>> button.
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img3.png)
+   ![Selected platforms NuGet feed configure option in Syncfusion NuGet Manager](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img3.png)
 
 4. Now selected platforms will be added under “Selected platforms to remove” (Right side of the window) column. Click “Configure” button to add the required Syncfusion Package sources to NuGet Package Manager.
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img4.png)
+   ![Selected platforms NuGet feed remove option in Syncfusion NuGet Manager](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img4.png)
 
 5. Once Syncfusion NuGet Manager added the Syncfusion NuGet sources, the changes will be reflected in package sources of your Visual Studio. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img5.png)
+   ![NuGet package manager dialog with Syncfusion NuGet feeds](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img5.png)
 
 ## Remove Syncfusion NuGet Package sources 
 
 1. If any configured Syncfusion NuGet Package sources are no longer required, Select the unwanted platforms from “Select platforms to remove” (Right side of the window) column and click <<Remove button. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img6.png)   
+   ![Remove option in Syncfusion NuGet Manager to remove the already configured Syncfusion NuGet feed](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img6.png)   
 
 2. Now selected platforms will be added under “Selected platforms to add” (Left side of the window) column. Click “Configure” button to remove the required Syncfusion Package sources to NuGet Package Manager.
 
@@ -57,7 +57,7 @@ The following steps directs you to use the Syncfusion NuGet Manager from command
 
 3. Run SyncfusionNuGetManager.exe with required platforms arguments. Refer the below table for platform as arguments to configure the Syncfusion NuGet Packages sources. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img8.jpeg)
+   ![Command to add Syncfusion NuGet feed](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img8.jpeg)
 
 **Add**
 
@@ -152,5 +152,5 @@ Here the list of keyword for platform keys to access.
 
 4. Once Syncfusion NuGet Manager removed the Syncfusion NuGet sources, the changes will be reflected in NuGet.config file of your machine and updated the same in available package sources of your Visual Studio. 
 
-   ![](SyncfusionNuGetManager_images/SyncfusionNuGetManager_img5.png)
+   ![NuGet package manager dialog with Syncfusion NuGet feeds](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img5.png)
 

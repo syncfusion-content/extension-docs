@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Templates | ASP.NET Core (Essential JS 2) | Syncfusion
-description: Syncfusion Project Templates
+title: ASP.NET Core (Essential JS 2) Project Templates | ASP.NET Core (Essential JS 2) | Syncfusion
+description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion ASP.NET Core (Essential JS 2) platform to create the Syncfusion ASP.NET Core (Essential JS 2) Web Application using Essential JS 2 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -19,7 +19,7 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
 1. To create a Syncfusion ASP.NET Core (Essential JS 2) project, choose  **New** **Project****->** **Syncfusion****->** **.NET** **Core****->** **Syncfusion** **ASP****.****NET** **Core** **(Essential JS 2)** **Web** **Application** from **Visual** **Studio**.
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img1.jpeg)
+   ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img1.jpeg)
 
 2. Name the **Project**, choose the destination location, and set the framework of the project, and then click **OK**. The Project Configuration Wizard appears.
 
@@ -37,20 +37,18 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
    **Theme Selection:** Choose the required Theme.
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img2.jpeg)
+   ![Syncfusion Essential JS 2 ASP.NET Core Project Configuration wizard](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img2.jpeg)
    
 4. Click **Create**, the Syncfusion ASP.NET Core (Essential JS 2) Application has been created.
 
 5. Required Syncfusion NuGet/NPM packages, Scripts, and CSS have been added to the Project.
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img3.jpeg)
+   ![Required Syncfusion Essential JS 2 ASP.NET Core NuGet/NPM packages](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img3.jpeg)
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img4.jpeg)
+   ![Required Syncfusion Essential JS 2 ASP.NET Core scripts and themes](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img4.jpeg)
 
 6. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img5.jpeg)
+   ![Syncfusion Essential JS 2 ASP.NET Core license registration information](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)
 
-
-
-
+   

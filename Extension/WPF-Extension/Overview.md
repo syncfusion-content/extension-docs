@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WPF Extension | Extension | Syncfusion
-description: WPF Extension
+description: The Syncfusion WPF Extensions provides you with quick access to Project Templates to create or configure the Syncfusion WPF Application
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

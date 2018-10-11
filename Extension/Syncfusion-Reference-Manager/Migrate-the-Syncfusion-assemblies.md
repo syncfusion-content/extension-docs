@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Migrate the Syncfusion assemblies | Extension | Syncfusion
-description: migrate the syncfusion assemblies
+description: The Syncfusion Reference Manager can migrate the Syncfusion assemblies to selected version of Syncfusion assemblies when you want to migrate from one version to another version, the Syncfusion references in the project
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -18,14 +18,14 @@ To migrate the Syncfusion assemblies,
 3. The dialog Syncfusion Reference Manager is opened. Then choose the required Syncfusion Essential Studio version to migrate the project. Refer the following
    screenshots for more information.
 
-   ![](Migrate-the-Syncfusion-assemblies_images/Migrate-the-Syncfusion-assemblies_img1.png)
+   ![Syncfusion Reference Manager version selection option](Migrate-the-Syncfusion-assemblies_images/Migrate-the-Syncfusion-assemblies-img1.png)
 
 
 
 4. When you want to add controls additionally, select controls while the migration is in process. Otherwise, do not select any control.
 5. Click Done. The following screenshot shows the list of assemblies to be migrated. 
 
-   ![](Migrate-the-Syncfusion-assemblies_images/Migrate-the-Syncfusion-assemblies_img2.png)
+   ![Syncfusion Reference Manager backup dialog with the migrating assembly details](Migrate-the-Syncfusion-assemblies_images/Migrate-the-Syncfusion-assemblies-img2.png)
 
 
 

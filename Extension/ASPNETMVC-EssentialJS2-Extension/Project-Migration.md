@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Migration | ASP.NET MVC (Essential JS 2) | Syncfusion
-description: Project Migration
+title: ASP.NET MVC (Essential JS 2) Project Migration | ASP.NET MVC (Essential JS 2) | Syncfusion
+description: Syncfusion ASP.NET MVC (Essential JS 2) Project Migration is a Visual Studio add-in that allows you to migrate the existing Syncfusion ASP.NET MVC (Essential JS 2) Web Application from one Essential Studio version to another version
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -19,11 +19,11 @@ The following steps direct you to migrate your existing Syncfusion ASP.NET MVC W
 
 1. Right-click on **Syncfusion ASP.NET MVC Web Application** from Solution Explorer and select **Syncfusion Essential JS 2**. Choose **Migrate the Essential JS 2 Project to Another version**
 
-   ![](Project-Migration_images/Project-Migration_img1.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC Project Migration add-in](Project-Migration_images/Project-Migration-img1.jpg)
 
 2. The **Project Migration** window appears. You can choose the required Essential Studio version that is installed in the machine. 
 
-   ![](Project-Migration_images/Project-Migration_img2.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC Project Migration wizard](Project-Migration_images/Project-Migration-img2.jpg)
 
 3. The **Project Migration** window allows you to configure the following options:
 
@@ -35,7 +35,7 @@ The following steps direct you to migrate your existing Syncfusion ASP.NET MVC W
    
 4. Click the **Migrate** Button. The **Project Backup** dialog will be opened. If click **Yes**, it will backup the current project before migrate the Syncfusion project. If click **No**, it will migrate the project to required Syncfusion version without backup.
    
-   ![](Project-Migration_images/Project-Migration_img3.jpg)
+   ![Syncfusion Essential JS 2 ASP.NET MVC Project Migration backup dialog](Project-Migration_images/Project-Migration-img3.jpg)
       
 5. The Syncfusion Reference Assemblies, Scripts and CSS are updated to the corresponding version in the project.
 
