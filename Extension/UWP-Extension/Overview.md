@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UWP Extension | Extension | Syncfusion
-description: UWP Extension
+description: The Syncfusion UWP Project Templates provides quick access to create Syncfusion UWP Application by adding the required assemblies
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

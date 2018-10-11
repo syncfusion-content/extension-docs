@@ -11,14 +11,14 @@ documentation: ug
 
 Navigate to Visual Studio Tools->Extensions and Updates. The Installed Syncfusion MVC Extensions are displayed along with its version. Refer to the following screenshot for more information.
 
-![](While-creating-a-new-Syncfusion-project_images/While-creating-a-new-Syncfusion-project_img1.png)
+![Visual Studio Extension and Updates dialog](While-creating-a-new-Syncfusion-project_images/While-creating-a-new-Syncfusion-project-img1.png)
 
 
 
 1. If Syncfusion.MVC.VsPackage.Web is present more than once, uninstall the Syncfusion.MVC.VSPackage.Web VSIX of that particular version that is no longer in use by clicking the Uninstall button. 
 2. Restart Visual Studio. Now you can see the Syncfusion ASP.NET MVC project template without multiple entries.
 
-   ![](While-creating-a-new-Syncfusion-project_images/While-creating-a-new-Syncfusion-project_img2.png)
+   ![Visual Studio new project dialog](While-creating-a-new-Syncfusion-project_images/While-creating-a-new-Syncfusion-project-img2.png)
 
 
 

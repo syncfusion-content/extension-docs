@@ -24,6 +24,6 @@ The following steps help you install the Syncfusion Web Sample Creator setup thr
 
    Refer to the following screenshot for more information.
 
-   ![](Command-Line-installation_images/Command-Line-installation_img1.png)
+   ![Command line arguments to install Syncfusion web sample creator from command prompt](Command-Line-installation_images/Command-Line-installation-img1.png)
 
 I> The syncfusionessentialextension.exe setup has renamed to syncfusionwebsamplecreator.exe from 2015 Volume 4 release.

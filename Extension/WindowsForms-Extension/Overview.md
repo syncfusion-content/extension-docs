@@ -1,7 +1,7 @@
 ---
 layout: post
 title: WindowsForms Extension | Extension | Syncfusion
-description: WindowsForms Extension
+description: The Syncfusion Windows Extensions provides you with quick access to Project Templates to create or configure the Syncfusion Windows Forms Application
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

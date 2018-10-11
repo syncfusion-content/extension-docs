@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Item Templates for Windows Forms | Extension | Syncfusion
-description: syncfusion item templates for windows forms
+description: The Syncfusion Item Templates Add new item feature provides support to Windows Forms platform. To add the Syncfusion item files in Visual Studio, install Syncfusion Essential Studio for Windows Forms platform
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -19,17 +19,17 @@ Follow the given steps to add the Syncfusion item in Visual Studio.
 2. Right-click on the Windows Forms Project from the Solution Explorer. Select the Add Syncfusion Item  New Item... option. Refer to the following screenshot
    for more information.
 
-   ![](Item-Template-images\Syncfusion-Item-Template-Gallery-1.png)
+   ![Syncfusion Item Templates add-in](Item-Template-images\Syncfusion-Item-Template-Gallery-1.png)
 
 3. Now the Syncfusion Item Template Gallery window will open.
 
-   ![](Item-Template-images\Syncfusion-Item-Template-Gallery-2.png)
+   ![Syncfusion Item Templates wizard](Item-Template-images\Syncfusion-Item-Template-Gallery-2.png)
    
 4. Select the required version and themes or Form from the Syncfusion Item Template Gallery. 
 
-   ![](Item-Template-images\Syncfusion-Item-Template-Gallery-3.png)
+   ![Required Syncfusion forms for Wndows form project](Item-Template-images\Syncfusion-Item-Template-Gallery-3.png)
    
-   ![](Item-Template-images\Syncfusion-Item-Template-Gallery-4.png)
+   ![Select required Essential Studio version ](Item-Template-images\Syncfusion-Item-Template-Gallery-4.png)
 
 ### Platform
 
@@ -45,28 +45,28 @@ This part contains a set of Syncfusion Item Templates, and you can choose the It
 
 When Add button is clicked, then the selected item template is added to the project.
 
-![](Item-Template-images\Syncfusion-Item-Template-Gallery-5.png)
+![Selected Item Template](Item-Template-images\Syncfusion-Item-Template-Gallery-5.png)
 
 5.Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
-   ![](Item-Template-images\Syncfusion-Item-Template-Gallery-6.png)
+   ![Syncfusion Item Template licensing registration required message box](Item-Template-images\Syncfusion-Item-Template-Gallery-6.png)
 
 ## Using Visual Studio Add new Item
 
 Syncfusion Project Template can be also add from the Visual Studio Item Template. Right-click on the Windows Forms Project Add ->New Item. You can refer to the following screenshot for more information.
 
-![](Item-Template-images\Syncfusion-Add-New-Item-1.png)
+![Syncfusion Item Template add-in under Microsoft add-in context menu](Item-Template-images\Syncfusion-Add-New-Item-1.png)
 
 1. The Syncfusion Item Templates are available under the Syncfusion tab. It is available for both C# Items and VB Items. 
 
-   ![](Item-Template-images\Syncfusion-Add-New-Item-2.png)
+   ![Select required Item Template from Visual Studio Item Template Wizard](Item-Template-images\Syncfusion-Add-New-Item-2.png)
 
 2. Now the selected template is added to the project along with Syncfusion references.
 
-   ![](Item-Template-images\Syncfusion-Add-New-Item-3.png)
+   ![Syncfusion Item Template required Forms](Item-Template-images\Syncfusion-Add-New-Item-3.png)
 
-   ![](Item-Template-images\Syncfusion-Add-New-Item-4.png)
+   ![Syncfusion Item Template required assemblies](Item-Template-images\Syncfusion-Add-New-Item-4.png)
 
 3. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
-   ![](Item-Template-images\Syncfusion-Item-Template-Gallery-6.png)
+   ![Syncfusion Item Template licensing registration required message box](Item-Template-images\Syncfusion-Item-Template-Gallery-6.png)

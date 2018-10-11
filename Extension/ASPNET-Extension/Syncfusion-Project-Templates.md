@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syncfusion Project Templates | Extension | Syncfusion
-description: Syncfusion Project Templates
+title: ASP.NET Web Forms (Essential JS 1) Project Templates | Extension | Syncfusion
+description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion ASP.NET Web Forms (Essential JS 1) platform to create Syncfusion Essential JS 1 ASP.NET Web Application or Syncfusion Essential JS 1 ASP.NET Web Site using Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -19,7 +19,7 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
 1. To create a Syncfusion ASP.NET project, choose **New** **Project****->** **Syncfusion****->****Web****->****Syncfusion** **ASP****.****NET** **Web** **Application** **or** **Syncfusion** **ASP****.****NET** **Web** **Site** from **Visual** **Studio**.
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img1.jpeg)
+   ![Choose Syncfusion ASP.NET Web Application or Syncfusion ASP.NET Web Site from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img1.jpeg)
 
 2. Name the **Project**, choose the destination location when required and set the Framework of the project, then click **OK**.
 
@@ -29,15 +29,15 @@ The following steps direct you to create the **Syncfusion** **ASP****.****NET** 
 
 4. Syncfusion references, Scripts, CSS and required Web.config entries are added to the Project.
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img2.jpeg)
+   ![References of Syncfusion Essential JS 1 ASP.NET Web Forms project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img2.jpeg)
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img3.jpeg)
+   ![Scripts and Themes of Syncfusion Essential JS 1 ASP.NET Web Forms project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img3.jpeg)
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img4.jpeg)
+   ![Web.config references of Syncfusion Essential JS 1 ASP.NET Web Forms project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img4.jpeg)
 
 5. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
-   ![](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img5.jpeg)
+   ![Syncfusion license registration information message box for Syncfusion Essential JS 1 ASP.NET Web Forms project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)
 
 
 

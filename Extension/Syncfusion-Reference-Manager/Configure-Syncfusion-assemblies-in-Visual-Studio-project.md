@@ -13,7 +13,7 @@ The Syncfusion Reference Manager provides options to select from in the Context 
 
 
 
-![](Configure-Syncfusion-assemblies-in-Visual-Studio-project_images/Configure-Syncfusion-assemblies-in-Visual-Studio-project_img1.png)
+![Syncfusion Reference Manager add-in](Configure-Syncfusion-assemblies-in-Visual-Studio-project_images/Configure-Syncfusion-assemblies-in-Visual-Studio-project-img1.png)
 
 
 
