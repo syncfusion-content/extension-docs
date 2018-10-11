@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion NuGet Package Licensing | Extension | Syncfusion
-description: syncfusion nuGet package licensing 
+description: Syncfusion provides the license per developer licensing model. Each license is for a single named user. Also, Syncfusion doesn’t require separate license for any servers. So, if you have license for each developer it is not necessary to do license key registration to use the Syncfusion NuGet packages 
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -18,7 +18,7 @@ While using Syncfusion NuGet package of version that is prior to 13.2.0.29, you 
 3. Navigate to the root location of the extracted downloaded, Syncfusion license.
 4. Run the following command to register the license key-Synckeynoui.exe “License key”.
 
-   ![](Register-the-Syncfusion-License-key_images/Register-the-Syncfusion-License-key_img1.png)
+   ![Command for register the Syncfusion license key](Register-the-Syncfusion-License-key_images/Register-the-Syncfusion-License-key-img1.png)
 
 
 

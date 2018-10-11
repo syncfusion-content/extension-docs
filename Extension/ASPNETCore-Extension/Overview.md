@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ASPNETCore Extension | Extension | Syncfusion
-description: ASPNETCore Extension
+title: ASP.NET Core (Essential JS 1) Extension | Extension | Syncfusion
+description: The Syncfusion ASP.NET Core (Essential JS 1) Extensions provide quick access to create or configure the Syncfusion ASP.NET Core (Essential JS 1) projects along with Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
