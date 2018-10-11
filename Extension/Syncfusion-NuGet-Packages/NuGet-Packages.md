@@ -23,7 +23,7 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
 
 2. Click the Copy URL label under required platform to copy the Syncfusion required platform NuGet feed to clipboard.
 
-    ![Sample Syncfusion NuGet feed URL](NuGet_Packages_Images/img1.png)
+    ![Syncfusion Essential JS 2 ASP.NET Core NuGet feed URL](NuGet_Packages_Images/img1.png)
 
 3. Now, use this NuGet feed URL to access the Syncfusion NuGet Packages in Visual Studio. 
 
@@ -47,7 +47,7 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
 
 5.	Click the **Update** button to add the name and source details to package sources. 
 
-    ![NuGet package manager dialog with sample Syncfusion NuGet feed](NuGet_Packages_Images/img2.png)
+    ![NuGet Package Manager dialog with Syncfusion Essential JS 2 NuGet feed URL for reference](NuGet_Packages_Images/img2.png)
 
 ### macOS 
 
@@ -87,7 +87,7 @@ The NuGet Package Manager can be used to search and install NuGet packages in th
 
 2.	By default, the NuGet.org package is selected in the **Package source** drop-down. Select your appropriate feed name that you configured. 
 
-     ![NuGet package manager dialog](NuGet_Packages_Images/img7.png)             
+     ![NuGet package manager dialog window](NuGet_Packages_Images/img7.png)             
 
 3.	The Syncfusion NuGet Packages are listed the available package in the source feed URL. Search and install the required packages in your application, by clicking **Install** button.
 
@@ -252,7 +252,7 @@ The following steps help you configure and restore the Syncfusion NuGet packages
 
     ![Build and Release section in Visual Studio Online Application](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline-img2.png)
 
-    ![Choose template section in Visual Studio Online Application](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline-img3.png)
+    ![Build process template selection section in Visual Studio Online Application](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline-img3.png)
 
 ### NuGet installation
 
@@ -268,7 +268,7 @@ The following steps help you configure and restore the Syncfusion NuGet packages
 
 3.  Then start the build process by clicking **Queue new build** button. The required NuGet packages are restored and project will be compiled successfully.
 
-    ![Build processing status](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline-img7.png)
+    ![Build compilation status](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline-img7.png)
 	
 	![Build succeeded status](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline-img6.png)
 
@@ -289,7 +289,7 @@ Using **Update** context menu from Visual Studio for Mac application, NuGet pack
 
 1.	Right-click on the Packages folder in the project, and select **Update**. 
 
-    ![NuGet update add-in in macOS](NuGet_Packages_Images/img10.png) 
+    ![NuGet package manager add-in for macOS](NuGet_Packages_Images/img10.png) 
 
 2.	This will update the NuGet package to the latest version. You can double-click Add packages and choose the specific version.
 
