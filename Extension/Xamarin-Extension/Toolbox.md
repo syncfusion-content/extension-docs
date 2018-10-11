@@ -19,7 +19,7 @@ Create the Xamarin or Syncfusion Xamarin project. The following steps direct you
 
 1. Choose **View** **->** **Other** **Windows** **->** **Syncfusion** **Toolbox** from **Visual** **Studio.**
 
-   ![Syncfusion Xamarin Toolbox menu](Toolbox_images/Toolbox-img1.jpeg)
+   ![Syncfusion Xamarin Custom Toolbox menu](Toolbox_images/Toolbox-img1.jpeg)
 
 2. Click **Syncfusion** **Toolbox** menu item, the Syncfusion Toolbox wizard has been appeared. The Syncfusion control will be enabled in the Xamarin.Forms designer page. There is no Syncfusion control appears till open the appropriate .xaml file from the Xamarin shared/.NET Standard /PCL project.
 
@@ -27,7 +27,7 @@ Create the Xamarin or Syncfusion Xamarin project. The following steps direct you
 
 3. Add the required Syncfusion controls design (.xaml) snippet and namespace by drag and drop the required control from toolbox to designer.
 
-   ![Required Syncfusion controls design .xaml snippet](Toolbox_images/Toolbox-img3.jpeg)
+   ![Required Syncfusion control code snippet and namespace in design page](Toolbox_images/Toolbox-img3.jpeg)
 
 
 4. Install the Syncfusion Xamarin NuGet packages based on the controls in your project and render the Syncfusion control. Refer the following link for know more about Syncfusion Xamarin NuGet packages install and configuration: [https://help.syncfusion.com/xamarin/nuget-packages](https://help.syncfusion.com/xamarin/nuget-packages)
