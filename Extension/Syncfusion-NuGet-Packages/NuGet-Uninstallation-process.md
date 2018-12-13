@@ -16,7 +16,7 @@ You can uninstall the installed packages from WPF project using the following st
 
 1. Right-click Project and select Manage NuGet Packages. 
 
-   ![Installed packages details in NuGet Package Manager dialog](NuGet-Uninstallation_images/NuGet-Uninstallation-img2.png)
+       ![Installed packages details in NuGet Package Manager dialog](NuGet-Uninstallation_images/NuGet-Uninstallation-img2.png)
    
 
 2. Select the Installed packages and see the installed packages list.
