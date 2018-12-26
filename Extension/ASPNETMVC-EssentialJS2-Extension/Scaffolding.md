@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ASP.NET MVC (Essential JS 2) Scaffolding | ASP.NET MVC (Essential JS 2) | Syncfusion
-description: Syncfusion provides Visual Studio Scaffolding for Syncfusion ASP.NET MVC platform to quickly add code that interacts with data models and reduce the amount of time to develop with data operation in your project
+title: ASP.NET MVC Scaffolding | ASP.NET MVC (Essential JS 2) | Syncfusion
+description: Code-generation Framework for Syncfusion ASP.NET MVC platform to quickly create the Controller and Views in a short time.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
