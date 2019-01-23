@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Migration | ASP.NET Core (Essential JS 2) | Syncfusion
-description: Syncfusion ASP.NET Core (Essential JS 2) Project Migration is a Visual Studio add-in that allows you to migrate the existing Syncfusion ASP.NET Core (Essential JS 2) Web Application from one Essential Studio version to another version
+description: Project Migration is a add-in that allows you to migrate the existing Syncfusion ASP.NET Core Application from one Essential Studio version to another version
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
