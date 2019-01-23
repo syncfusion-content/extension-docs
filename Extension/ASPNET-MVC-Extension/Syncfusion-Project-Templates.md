@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASP.NET MVC (Essential JS 1) Project Templates | ASP.NET MVC (Essential JS 1) | Syncfusion
+title: Project Templates | ASP.NET MVC (Essential JS 1) | Syncfusion
 description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion ASP.NET MVC (Essential JS 1), Syncfusion Essential JS 1 ASP.NET MVC (Classic) and Essential JS 1 ASP.NET MVC (Mobile) platforms to create a Syncfusion MVC application using Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions
@@ -97,7 +97,7 @@ The following steps help you create the Syncfusion ASP.NET MVC Project via the V
 
    ![Web.config file configured for the selected controls in the project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img14.jpeg)
 
-8. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
+8. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/whats-new-in-2018-volume-2-licensing-changes-in-the-1620x-version-of-essential-studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
    ![Syncfusion license registration required message box for Syncfusion Essential JS 1 ASP.NET MVC web projects](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img29.jpeg)
 

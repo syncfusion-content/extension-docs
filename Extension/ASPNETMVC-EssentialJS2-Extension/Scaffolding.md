@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASP.NET MVC Scaffolding | ASP.NET MVC (Essential JS 2) | Syncfusion
+title: Scaffolding | ASP.NET MVC (Essential JS 2) | Syncfusion
 description: Code-generation Framework for Syncfusion ASP.NET MVC platform to quickly create the Controller and Views in a short time.
 platform: extension
 control: Syncfusion Extensions

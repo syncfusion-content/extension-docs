@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASP.NET Core (Essential JS 2) Sample Creator | ASP.NET Core (Essential JS 2) | Syncfusion
+title: Sample Creator | ASP.NET Core (Essential JS 2) | Syncfusion
 description: The Syncfusion ASP.NET Core (Essential JS 2) Sample Creator is a utility that allows you to create the Syncfusion ASP.NET Core (Essential JS 2) Projects with required Syncfusion configuration in project to start the development with Syncfusion controls
 platform: extension
 control: Syncfusion Extensions
