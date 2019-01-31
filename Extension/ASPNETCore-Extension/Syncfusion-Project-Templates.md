@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASP.NET Core (Essential JS 1) Project Templates | Extension | Syncfusion
+title: Project Templates | ASP.NET Core (Essential JS 1) | Syncfusion
 description: Syncfusion provides the Visual Studio Project Templates for Syncfusion ASP.NET Core (Essential JS 1) platform to create the Syncfusion ASP.NET Core (Essential JS 1) Web Application using Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions

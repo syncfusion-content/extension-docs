@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ASP.NET Core (Essential JS 1) Project Conversion | Extension | Syncfusion
+title: Project Conversion | ASP.NET Core (Essential JS 1) | Syncfusion
 description: Syncfusion ASP.NET Core (Essential JS 1) Project Conversion is a Visual Studio add-in that converts an existing ASP.NET Core application into a Syncfusion ASP.NET Core (Essential JS 1) Web application by adding the required Essential JS 1 components
 platform: extension
 control: Syncfusion Extensions
