@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ASP.NET MVC (Essential JS 1) Sample Creator | Extension | Syncfusion
-description: ASP.NET MVC (Essential JS 1) Sample Creator is the utility that allows you to create Syncfusion ASP.NET MVC (Essential JS 1)/Syncfusion ASP.NET MVC (Classic) Projects along with the samples based on Controls and Features selection
+title: Sample Creator | ASP.NET MVC (Essential JS 1) | Syncfusion
+description: Sample Creator is the utility that allows you to create Syncfusion ASP.NET MVC Projects along with the samples based on Controls and Features selection
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
