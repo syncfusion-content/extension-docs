@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ASP.NET Web Forms (Essential JS 1) Sample Creator | Extension | Syncfusion
-description: ASP.NET Web Forms (Essential JS 1) Sample Creator is the utility that allows you to create Syncfusion ASP.NET WebForms (Essential JS 1) Projects along with the samples based on Controls and Features selection
+title: Sample Creator | ASP.NET Web Forms (Essential JS 1) | Syncfusion
+description: Sample Creator is the utility that allows you to create Syncfusion ASP.NET WebForms (Essential JS 1) Projects along with the samples
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
