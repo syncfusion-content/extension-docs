@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extension NuGet Packages | Syncfusion
-description: NuGet is a package manager for the .NET framework. The NuGet client tools simplify the process of installing and upgrading packages. This can be used to automatically add files and references to your Visual Studio projects
+description: NuGet is a package manager for the .NET framework. This can be used to automatically add files and references to your Visual Studio projects
 platform: extension
 control: NuGet Packages
 documentation: ug
