@@ -16,4 +16,4 @@ The Syncfusion UWP Project Templates provides quick access to create Syncfusion 
 * Essential Studio for Enterprise Edition with the platform UWP
 * Essential Studio for UWP
 
-N> The Syncfusion UWP Project Templates in provides Visual Studio 2015 Support from v15.3.0.26 to v16.4.0.52.
+N> The Syncfusion UWP Project Templates provide Visual Studio 2015 support from v15.3.0.26 to v16.4.0.52.
