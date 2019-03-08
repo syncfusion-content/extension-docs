@@ -13,7 +13,7 @@ Syncfusion provides the **Visual** **Studio** **Toolbox** for the Syncfusion Xam
 
 I> The Syncfusion Xamarin Toolbox is available from v16.2.0.41.
 
-N> *Syncfusion Xamarin Toolbox will get installed when installed the Syncfusion Xamarin setup with default Additional Settings. In any case, if toolbox not installed, please run the [VSIX Installer utility](https://help.syncfusion.com/common/essential-studio/utilities#vsix-installer) to install it*.
+N> *Syncfusion Xamarin Toolbox will get installed when installed the Syncfusion Xamarin setup with default Additional Settings. In any case, if toolbox not installed, please run the [VSIX Installer utility](https://help.syncfusion.com/common/essential-studio/utilities#vsix-installer) to configure it in Visual Studio*.
 
 ## Add Syncfusion Xamarin (Xamarin.Forms) Controls in your Project
 
@@ -27,7 +27,7 @@ Create the Xamarin or Syncfusion Xamarin project. The following steps direct you
 
    ![Syncfusion Xamarin Toolbox wizard](Toolbox_images/Toolbox-img2.jpeg)
 
-3. The required Syncfusion controls design (.xaml) snippet and namespace will be added by drag and drop the required control from toolbox to designer.
+3. The required Syncfusion controls design (.xaml) snippet and namespace will be added by drag and drop the required control from the toolbox to the designer.
 
    ![Required Syncfusion control code snippet and namespace in design page](Toolbox_images/Toolbox-img3.jpeg)
 
