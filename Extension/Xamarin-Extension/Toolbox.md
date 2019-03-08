@@ -29,6 +29,6 @@ Create the Xamarin or Syncfusion Xamarin project. The following steps direct you
 
 3. The required Syncfusion controls design (.xaml) snippet and namespace will be added by drag and drop the required control from the toolbox to the designer.
 
-   ![Required Syncfusion control code snippet and namespace in design page](Toolbox_images/Toolbox-img3.jpeg)
+   ![Required Syncfusion control code snippet and namespace in design page](Toolbox_images/Toolbox-img3.jpg)
 
     Also, the required control Syncfusion Xamarin NuGet packages will be installed automatically when drag and drop the control to the designer to render the Syncfusion control.
