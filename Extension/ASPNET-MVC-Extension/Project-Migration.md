@@ -33,9 +33,19 @@ For Example - VS2013: `C:\Program Files (x86)\Syncfusion\Essential Studio\13.2.
 
 The following steps help you migrate from one version to another version of your existing Syncfusion ASP.NET MVC application.
 
-1. Right-click on Syncfusion MVC Project and select Syncfusion VS Extensions. Choose Migrate the project to another version.
+1. To open Migration Wizard, follow either one of the options below: 
 
-   ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration add-in](Migrate-Syncfusion-Project_images/ProjectMigration-img1.jpeg)
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ1) > Migrate Project…** in **Visual Studio**.
+
+   ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration via Syncfusion menu](Migrate-Syncfusion-Project_images/SyncfusionMenu_ProjectMigration_img.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Right-click the **Syncfusion ASP.NET MVC Application** from Solution Explorer and select **Syncfusion Essential JS 1**. Choose **Migrate the Essential JS 1 Project to Another Version...**
+
+   ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration add-in](Migrate-Syncfusion-Project_images/ProjectMigration_img.png)
 
 2. The Project Migration window appears. You can choose the required Syncfusion version that is installed in the machine that is either Syncfusion ASP.NET MVC or Syncfusion ASP.NET MVC (Classic).
 

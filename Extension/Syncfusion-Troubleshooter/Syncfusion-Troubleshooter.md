@@ -17,9 +17,19 @@ The Syncfusion Troubleshooter will be installed in Visual Studio along with Sync
 
 ## Report the Configuration issues
 
-The following steps direct you to utilize the Syncfusion Troubleshooter by Visual Studio. 
+The following steps help you to utilize the Syncfusion Troubleshooter by Visual Studio. 
 
-1. Right click on the Project file in Solution Explorer, then select the command “Syncfusion Troubleshooter...”. Refer the following screenshot for more information. 
+1. To open Syncfusion Troubleshooter Wizard, follow either one of the options below: 
+   
+   **Option 1:**  
+   Open an existing Syncfusion Application, choose **Syncfusion menu**. Then select corresponding platform menu and click **Troubleshoot…**
+
+   ![Syncfusion Troubleshooter via Syncfusion menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Right-click the Project file in Solution Explorer, then select the command **Syncfusion Troubleshooter…** Refer to the following screenshot for more information. 
 
    ![Syncfusion Troubleshooter add-in](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img1.jpeg)
 

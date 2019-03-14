@@ -15,11 +15,21 @@ I> The Syncfusion ASP.NET Web Application Project Migration utility is available
 
 ## Migrate Syncfusion Project 
 
-The following steps direct you to migrate your existing Syncfusion ASP.NET application. 
+The following steps help you to migrate your existing Syncfusion ASP.NET application. 
 
-1. Right-click on **Syncfusion ASP.NET Project** from Solution Explorer and select **Syncfusion VS Extensions**. Choose **Migrate the Project to Another version**
+1. To open Migration Wizard, follow either one of the options below: 
 
-   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Migration add-in](Project-Migration_images/Project-Migration-img1.jpeg)
+   **Option 1:**   
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET (EJ1) > Migrate Project…** in **Visual Studio**.
+
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Migration via Syncfusion menu](Project-Migration_images/Syncfusion_Menu_Project_Migration1.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Right-click the **Syncfusion ASP.NET Application** from Solution Explorer and select **Syncfusion Essential JS 1**. Choose **Migrate the Essential JS 1 Project to Another version…**
+
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Migration add-in](Project-Migration_images/Project-Migration_img1.png)
 
 2. The **Project Migration** window appears. You can choose the required Essential Studio version that is installed in the machine. 
 

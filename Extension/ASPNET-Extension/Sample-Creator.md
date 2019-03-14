@@ -15,9 +15,19 @@ Sample Creator is the utility that allows you to create Syncfusion ASP.NET Proje
 
 The following steps help you to create the Syncfusion ASP.NET Web Project via the Sample Creator utility.
 
-1. Launch the Syncfusion Essential Studio Dashboard and select the ASP.NET platform. Select the SAMPLE CREATOR button to launch the ASP.NET Sample Creator Wizard. Refer the following screenshot for more information.
+1. To launch ASP.NET (Essential JS 1) Sample Creator application, follow either one of the options below: 
 
-   ![Syncfusion Essential JS 1 ASP.NET Web Forms control panel to launch Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator](Sample-Creator_images/SampleCreator-img1.jpeg)
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET (EJ1) > Launch Sample Creator…** in **Visual Studio**.
+
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms control panel to launch Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator](Sample-Creator_images/Syncfusion_Menu_Sample_Creator.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**
+   Launch the Syncfusion ASP.NET (EJ1) Control Panel. Select the Sample Creator button to launch the ASP.NET (Essential JS 1) Sample Creator application. Refer to the following screenshot for more information.
+
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms control panel to launch Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator](Sample-Creator_images/SampleCreator-img1.png)
 
 2. Syncfusion Sample Creator Wizard displaying the **Controls and its Feature Selection** section
 
