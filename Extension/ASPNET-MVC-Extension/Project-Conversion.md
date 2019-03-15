@@ -34,9 +34,20 @@ For Example - VS2013 : `C:\Program Files (x86)\Syncfusion\Essential Studio\13.2
 The following steps help you use the Syncfusion Project Conversion in the existing ASP.NET MVC (Web) Project.
 
 1. Open an existing Microsoft MVC Project or create a new Microsoft MVC Project.
-2. Right-click on Project and select Syncfusion VS Extensions and choose the Convert to Syncfusion MVC (Web) Application. Refer to the following screenshot for more information.
 
-   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img1.jpeg)
+2. To open Project Conversion Wizard, follow either one of the options below: 
+
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ1) > Convert to Syncfusion ASP.NET MVC Application…** in **Visual Studio**.
+
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion via Synfusion menu](Convert-into-Syncfusion-MVC-project_images/Syncfusion_Menu_Project_Conversion.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Right-click the Project from Solution Explorer, select **Syncfusion Essential JS 1**, and choose **Convert to Syncfusion MVC (Essential JS 1) Application...** Refer to the following screenshot for more information.
+
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img1.png)
 
 3. Project Conversion Wizard opens so that you can configure the project.
 

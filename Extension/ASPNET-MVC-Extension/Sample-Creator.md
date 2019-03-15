@@ -15,9 +15,19 @@ Sample Creator is the utility that allows you to create Syncfusion ASP.NET MVC/S
 
 The following steps help you to create the Syncfusion ASP.NET MVC Project via the Sample Creator utility.
 
-1. Launch the Syncfusion Essential Studio Dashboard and select the ASP.NET MVC/ASP.NET MVC (Classic) platform. Select the SAMPLE CREATOR button to launch the Sample Creator Wizard. Refer the following screenshot for more information. 
+1. To launch ASP.NET MVC (Essential JS 1) Sample Creator application, follow either one of the options below: 
 
-   ![Syncfusion Essential Studio control panel to launch the Essential JS 1 ASP.NET MVC Sample Creator](Sample-Creator_images/Sample-Creator-img1.jpeg)
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ1) > Launch Sample Creator…** in **Visual Studio**.
+
+   ![launch the Essential JS 1 ASP.NET MVC Sample Creator via Syncfusion menu](Sample-Creator_images/Syncfusion_Menu_SampleCreator.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Launch the Syncfusion Essential Studio Dashboard and select the ASP.NET MVC (Essential JS 1)/ASP.NET MVC (Classic) platform. Select the Sample Creator button to launch the ASP.NET MVC (Essential JS 1) Sample Creator application. Refer to the following screenshot for more information.
+ 
+   ![Syncfusion Essential Studio control panel to launch the Essential JS 1 ASP.NET MVC Sample Creator](Sample-Creator_images/Sample-Creator-img1.png)
 
 2. Syncfusion Sample Creator Wizard displaying the **Controls and its Feature Selection** section. 
 

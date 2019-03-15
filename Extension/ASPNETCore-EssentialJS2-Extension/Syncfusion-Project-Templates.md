@@ -15,9 +15,19 @@ I> The Syncfusion ASP.NET Core (Essential JS 2) project templates are available 
 
 ## Create Syncfusion ASP.NET Core (Essential JS 2) Application
 
-The following steps direct you to create the **Syncfusion** **ASP****.****NET** **Core** **(Essential JS 2)** **Application** through the **Visual** **Studio** **Project** **Template:**
+The following steps help you to create the **Syncfusion** **ASP****.****NET** **Core** **(Essential JS 2)** **Application** through the **Visual** **Studio** **Project** **Template:**
 
-1. To create a Syncfusion ASP.NET Core (Essential JS 2) project, choose  **New** **Project****->** **Syncfusion****->** **.NET** **Core****->** **Syncfusion** **ASP****.****NET** **Core** **(Essential JS 2)** **Web** **Application** from **Visual** **Studio**.
+1. To create a Syncfusion ASP.NET Core (Essential JS 2) project, follow either one of the options below:
+
+   **Option 1:**   
+    Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET Core (EJ2)** **>** **Create New Syncfusion Project...** in **Visual Studio**.
+    
+    ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion_Menu_Project_Template.png)
+
+    N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+    
+    **Option 2:**    
+    Choose **File > New > Project** and navigate to **Syncfusion > .NET Core > Syncfusion ASP.NET Core (Essential JS 2) Web Application** in **Visual Studio**.
 
    ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img1.jpeg)
 

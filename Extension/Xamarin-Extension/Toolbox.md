@@ -17,9 +17,19 @@ N> *Syncfusion Xamarin Toolbox will get installed when installed the Syncfusion 
 
 ## Add Syncfusion Xamarin (Xamarin.Forms) Controls in your Project
 
-Create the Xamarin or Syncfusion Xamarin project. The following steps direct you to add the Syncfusion controls through the Visual Studio Toolbox:
+Create the Xamarin or Syncfusion Xamarin project. The following steps help you to add the Syncfusion controls through the Visual Studio Toolbox:
 
-1. Choose **View** **->** **Other** **Windows** **->** **Syncfusion** **Toolbox** from **Visual** **Studio.**
+1. To open Syncfusion Toolbox Wizard, follow either one of the options below:
+
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for Xamarin > Launch Toolbox…** in **Visual Studio**.
+
+   ![Syncfusion Xamarin Custom Toolbox via Syncfusion menu](Toolbox_images/Syncfusion_Menu_Toolbox.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Choose **View > Other Windows > Syncfusion Toolbox** in **Visual Studio**.
 
    ![Syncfusion Xamarin Custom Toolbox menu](Toolbox_images/Toolbox-img1.jpeg)
    
