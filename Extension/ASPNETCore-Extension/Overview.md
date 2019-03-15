@@ -33,7 +33,7 @@ The Syncfusion provides the following extension supports in Visual Studio:
 
 **Selected Syncfusion ASP.NET Core (Essential JS1) application in Visual Studio**
 
-![Syncfusion Menu when Selected Synfusion ASP.NET Core (EJ1) application in Visual Studio](Overview_images/Syncfusion_Menu_OverView3.png)
+![Syncfusion Menu when Selected Synfusion ASP.NET Core EJ1 application in Visual Studio](Overview_images/Syncfusion_Menu_OverView3.png)
 
 N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
 
