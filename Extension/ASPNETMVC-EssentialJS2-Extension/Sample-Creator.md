@@ -17,7 +17,17 @@ I> The Syncfusion ASP.NET MVC (Essential JS 2) Sample Creator utility is availab
 
 The following steps help you to create the Syncfusion ASP.NET MVC (Essential JS 2) Application via the Sample Creator utility:
 
-1. Launch the Syncfusion ASP.NET MVC (Essential JS 2) Control Panel. Select the Sample Creator button to launch the ASP.NET MVC (Essential JS 2) Sample Creator application. Refer the following screenshot for more information. 
+1. To launch ASP.NET MVC (Essential JS 2) Sample Creator application, follow either one of the options below: 
+
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ2) > Launch Sample Creator…** in **Visual Studio**.
+
+   ![launch the Syncfusion Essential JS 2 ASP.NET MVC Sample Creator via Syncfusion menu](Sample-Creator_images\Syncfusion_Menu_SampleCreator.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Launch the Syncfusion ASP.NET MVC (Essential JS 2) Control Panel. Select the Sample Creator button to launch the ASP.NET MVC (Essential JS 2) Sample Creator application.Refer to the following screenshot for more information.
 
    ![Syncfusion Essential JS 2 ASP.NET MVC Control Panel to launch the Syncfusion Essential JS 2 ASP.NET MVC Sample Creator](Sample-Creator_images\SampleCreator-img1.jpg)
 

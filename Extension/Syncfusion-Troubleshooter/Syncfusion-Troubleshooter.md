@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Troubleshooter | Extension | Syncfusion
-description: The Syncfusion Troubleshooter is a Visual Studio extension to troubleshoot the configuration issues of Syncfusion controls in projects. If Visual Studio project has any configuration issue with in Syncfusion control like, wrong Framework Syncfusion assembly added to the project or missing any Syncfusion dependent assembly of a referred assembly, the Syncfusion Troubleshooter will investigate these type of problem and fix them. The Syncfusion Troubleshooter will be installed in Visual Studio along with Syncfusion Essential Studio setup installation
+description: Syncfusion Troubleshooter is Visual Studio extension to troubleshoot the configuration issues in Syncfusion assembly reference, webconfig entries in projects.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -17,9 +17,19 @@ The Syncfusion Troubleshooter will be installed in Visual Studio along with Sync
 
 ## Report the Configuration issues
 
-The following steps direct you to utilize the Syncfusion Troubleshooter by Visual Studio. 
+The following steps help you to utilize the Syncfusion Troubleshooter by Visual Studio. 
 
-1. Right click on the Project file in Solution Explorer, then select the command “Syncfusion Troubleshooter...”. Refer the following screenshot for more information. 
+1. To open Syncfusion Troubleshooter Wizard, follow either one of the options below: 
+   
+   **Option 1:**  
+   Open an existing Syncfusion Application, choose **Syncfusion menu**. Then select corresponding platform menu and click **Troubleshoot…**
+
+   ![Syncfusion Troubleshooter via Syncfusion menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Right-click the Project file in Solution Explorer, then select the command **Syncfusion Troubleshooter…** Refer to the following screenshot for more information. 
 
    ![Syncfusion Troubleshooter add-in](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img1.jpeg)
 

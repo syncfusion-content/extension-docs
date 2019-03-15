@@ -15,11 +15,21 @@ I> The Syncfusion ASP.NET Core project templates are available from v15.2.0.40.
 
 ## Create Syncfusion ASP.NET Core Application
 
-The following steps direct you to create the **Syncfusion** **ASP****.****NET** **Core** **Application** through the **Visual** **Studio** **Project** **Template**.
+The following steps help you to create the **Syncfusion** **ASP****.****NET** **Core** **Application** through the **Visual** **Studio** **Project** **Template**.
 
-1. To create a Syncfusion ASP.NET Core project, choose **New** **Project****->** **Syncfusion****->****.NET** **Core****->****Syncfusion** **ASP****.****NET** **Core** **Application** from **Visual** **Studio**.
+1. To create a Syncfusion ASP.NET Core (Essential JS 1) project, follow either one of the options below:
 
-   ![Choose Syncfusion ASP.NET Core Application from Visual Studio New Project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img1.jpeg)
+   **Option 1:**   
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET Core (EJ1) > Create New Syncfusion Project…** in **Visual Studio**.
+
+   ![Choose Syncfusion ASP.NET Core Application from Visual Studio New Project dialog via Syncfusion menu](Syncfusion-Project-Templates_images/Syncfusion_Menu_ProjectTemplate.png)
+
+   N>In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**   
+   Choose **File > New > Project** and navigate to **Syncfusion > .NET Core > Syncfusion ASP.NET Core (Essential JS 1) Web Application** in **Visual Studio**.
+
+   ![Choose Syncfusion ASP.NET Core Application from Visual Studio New Project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img1.png)
 
 2. Name the **Project**, choose the destination location when required and set the Framework of the project, then click **OK**. The Project Configuration Wizard appears.
 

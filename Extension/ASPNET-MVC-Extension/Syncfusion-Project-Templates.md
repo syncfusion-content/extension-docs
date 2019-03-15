@@ -33,11 +33,21 @@ Refer to the following steps to create the Syncfusion ASP.NET MVC and ASP.NET MV
 
 ## Create Syncfusion MVC (Web) Project    
 
-The following steps help you create the Syncfusion ASP.NET MVC Project via the Visual Studio Project Template.
+The following steps help you create the Syncfusion ASP.NET MVC (Essential JS 1) Application via the Visual Studio Project Template:
 
-1. To create a Syncfusion Project, choose New Project-> Syncfusion->Web->Syncfusion ASP.NET MVC Web Application from Visual Studio.
+1. To create a Syncfusion ASP.NET MVC (Essential JS 1) project, follow either one of the options below:
 
-   ![Choose Syncfusion ASP.NET MVC Web Application from Visual Studio new project dialog](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img1.jpeg)
+   **Option 1:**  
+    Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ1) > Create New Syncfusion Project…** in **Visual Studio**.
+
+    ![Choose Syncfusion ASP.NET MVC Web Application from Visual Studio new project dialog via Syncfusion menu](Create-Syncfusion-MVC-Project_images/Syncfusion_Menu_ProjectTemplate.png)
+
+    N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Choose **File > New > Project** and navigate to **Syncfusion > Web > Syncfusion ASP.NET MVC (Essential JS 1) Application** in **Visual Studio**.
+   
+   ![Choose Syncfusion ASP.NET MVC Web Application from Visual Studio new project dialog](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img1.png)
 
 2. Name the Project, choose the destination location as required and set the Framework of the project then click OK. The Project Configuration Wizard appears.  
 
