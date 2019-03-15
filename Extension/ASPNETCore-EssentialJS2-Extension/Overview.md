@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ASP.NET Core (Essential JS 2) Extension | Extension | Syncfusion
-description: The Syncfusion ASP.NET Core (Essential JS 2) Extensions provide quick access to create or configure the Syncfusion ASP.NET Core projects along with Essential JS 2 components
+description: Syncfusion ASP.NET Core (Essential JS2) Extensions create or configure the Syncfusion ASP.NET Core projects along with Essential JS2 components.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

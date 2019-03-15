@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ASP.NET Web Forms (Essential JS 1) Project Conversion | Extension | Syncfusion
-description: The Syncfusion ASP.NET Web Forms (Essential JS 1) Project Conversion is a Visual Studio add-in that converts an existing ASP.NET project into a Syncfusion Essential JS 1 ASP.NET Project by adding the required Essential JS 1 components
+title: Project Conversion | ASP.NET Web Forms (Essential JS1) | Syncfusion
+description: Syncfusion ASP.NET Web Forms (Essential JS1) Project Conversion Extension that converts an existing ASP.NET project into a Essential JS1 ASP.NET Project.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

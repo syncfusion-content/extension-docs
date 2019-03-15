@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configure Syncfusion assemblies in Visual Studio project | Extension | Syncfusion
+title: Reference Manager | Extension | Syncfusion
 description: configure syncfusion assemblies in visual studio project
 platform: extension
 control: Syncfusion Extensions

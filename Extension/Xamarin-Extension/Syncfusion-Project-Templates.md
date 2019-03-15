@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Xamarin Project Templates | Extension | Syncfusion
-description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion Xamarin platform to create the Syncfusion Xamarin Application by adding the required assemblies and NuGet packages
+description: Syncfusion Project Templates Extension creates the Syncfusion Xamarin Application by adding the required Syncfusion NuGet packages.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
