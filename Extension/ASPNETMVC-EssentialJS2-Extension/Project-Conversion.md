@@ -22,7 +22,7 @@ The following steps help you to use the Syncfusion Project Conversion in the exi
 2. To open Project Conversion Wizard, follow either one of the options below:
 
    **Option 1:**  
-    Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ2) > Convert to Syncfusion ASP.NET Mvc Application…** in **Visual Studio**.
+    Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ2) > Convert to Syncfusion ASP.NET MVC Application…** in **Visual Studio**.
 
    ![Syncfusion Essential JS 2 ASP.NET MVC Project Conversion via Syncfusion Menu](Project-Conversion_images/Syncfusion_Menu_ProjectConversion.png)
 
