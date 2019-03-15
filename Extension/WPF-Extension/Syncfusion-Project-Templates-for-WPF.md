@@ -16,9 +16,19 @@ I> The Syncfusion WPF templates are available from v16.1.0.24.
 
 ## Create Syncfusion WPF Project 
 
-The following steps direct you to create the Syncfusion WPF project through the Visual Studio Project Template. 
+The following steps help you to create the Syncfusion WPF project through the Visual Studio Project Template. 
 
-1. To create a Syncfusion WPF project, choose New Project-> Syncfusion->Windows->Syncfusion WPF Application from Visual Studio
+1. To create a Syncfusion WPF project, follow either one of the options below:
+
+   **Option 1:**  
+    Click **Syncfusion Menu** and choose **Essential Studio for WPF > Create New Syncfusion Project…** in **Visual Studio**.
+    
+    ![Choose Syncfusion WPF Application from Visual Studio new project dialog via Syncfusion menu](Project-Template-images\Syncfusion_Menu_ProjectTemplate.png)
+
+    N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+    **Option 2:**   
+    Choose **File > New > Project** and navigate to **Syncfusion > Windows > Syncfusion WPF Application** in **Visual Studio**.
 
    ![Choose Syncfusion WPF Application from Visual Studio new project dialog](Project-Template-images\Syncfusion-Project-Template-Gallery-1.png)
 

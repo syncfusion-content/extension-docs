@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syncfusion Project Templates for Windows Forms | Extension | Syncfusion
-description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion Windows Forms platform to create Syncfusion Windows Forms Application by adding the rquired assemblies
+title: Project Templates for Windows Forms | Extension | Syncfusion
+description: Syncfusion Project Templates Extension creates the Syncfusion Windows Forms Application by adding the required assemblies.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -16,9 +16,19 @@ I> The Syncfusion Windows Forms templates are available from v14.3.0.49.
 
 ## Create Syncfusion Windows Forms Project 
 
-The following steps direct you to create the Syncfusion Windows Forms project through the Visual Studio Project Template. 
+The following steps help you to create the Syncfusion Windows Forms project through the Visual Studio Project Template. 
 
-1. To create a Syncfusion Windows Forms project, choose New Project-> Syncfusion->Windows->Syncfusion Windows Forms Application from Visual Studio
+1. To create a Syncfusion Windows Forms project, follow either one of the options below:  
+    
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for WinForms > Create New Syncfusion Project…** in **Visual Studio**.
+
+   ![Choose Syncfusion Windows Forms Application via Syncfusion menu](Project-Template-images\Syncfusion_Menu_ProjectTemplate.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+    Choose **File > New > Project** and navigate to **Syncfusion > Windows > Syncfusion Windows Forms Application** in **Visual Studio**.
 
    ![Choose Syncfusion Windows Forms Application from Visual Studio new project dialog](Project-Template-images\Syncfusion-Project-Template-Gallery-1.png)
 

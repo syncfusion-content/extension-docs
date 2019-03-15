@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ASP.NET Web Forms (Essential JS 1) Project Conversion | Extension | Syncfusion
-description: The Syncfusion ASP.NET Web Forms (Essential JS 1) Project Conversion is a Visual Studio add-in that converts an existing ASP.NET project into a Syncfusion Essential JS 1 ASP.NET Project by adding the required Essential JS 1 components
+title: Project Conversion | ASP.NET Web Forms (Essential JS1) | Syncfusion
+description: Syncfusion ASP.NET Web Forms (Essential JS1) Project Conversion Extension that converts an existing ASP.NET project into a Essential JS1 ASP.NET Project.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -15,14 +15,24 @@ I> The Syncfusion ASP.NET Web Application Project Conversion utility is availabl
 
 ## Convert into Syncfusion ASP.NET Project 
 
-The following steps direct you to use the Syncfusion Project Conversion in the existing ASP.NET Project.
+The following steps help you to use the Syncfusion Project Conversion in the existing ASP.NET Project.
 
 
 1. Open an existing Microsoft ASP.NET Project or create a new Microsoft ASP.NET Project.
 
-2. Right-click on **Project** from Solution Explorer and select **Syncfusion VS Extensions** and choose the **Convert to Syncfusion ASP.NET Application**. Refer to the following screenshot for more information.
+2. To open Project Conversion Wizard, follow either one of the options below: 
 
-   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion add-in](Project-Conversion_images/Project-Conversion-img1.jpeg)
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET (EJ1) > Convert to Syncfusion ASP.NET Application…** in **Visual Studio**.
+
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion via Syncfusion menu](Project-Conversion_images/Syncfusion_Menu_Project_Conversion1.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**   
+   Right-click the Project from Solution Explorer, select **Syncfusion Essential JS 1**, and choose the **Convert to Syncfusion ASP.NET (Essential JS 1) Application...** Refer to the following screenshot for more information.
+
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion add-in](Project-Conversion_images/Project-Conversion-img1.png)
 
 3. Project Conversion Wizard opens to configure the project.
 

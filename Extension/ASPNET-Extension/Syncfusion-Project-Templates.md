@@ -15,11 +15,21 @@ I> The Syncfusion ASP.NET Website templates are available from v12.2.0.36 and th
 
 ## Create Syncfusion ASP.NET Project
 
-The following steps direct you to create the **Syncfusion** **ASP****.****NET** **project** through the **Visual** **Studio** **Project** **Template**.
+The following steps direct you to create the **Syncfusion ASP.NET (Essential JS 1) application** through the **Visual** **Studio** **Project** **Template**:
 
-1. To create a Syncfusion ASP.NET project, choose **New** **Project****->** **Syncfusion****->****Web****->****Syncfusion** **ASP****.****NET** **Web** **Application** **or** **Syncfusion** **ASP****.****NET** **Web** **Site** from **Visual** **Studio**.
+1. To create a Syncfusion ASP.NET (Essential JS 1) project, follow either one of the options below:
 
-   ![Choose Syncfusion ASP.NET Web Application or Syncfusion ASP.NET Web Site from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img1.jpeg)
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET (Essential JS1) > Create New Syncfusion Web Project…** or **Create New Syncfusion WebSite Project…** in **Visual Studio**.
+
+   ![Choose Syncfusion ASP.NET Web Application or Syncfusion ASP.NET Web Site from Visual Studio new project dialog via Syncfusion menu](Syncfusion-Project-Templates_images/Syncfusion_Menu_ProjectTemplate.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**  
+   Choose **File > New > Project** and navigate to **Syncfusion > Web > Syncfusion ASP.NET Web Application** or **Syncfusion ASP.NET Web Site** in **Visual Studio**.
+
+   ![Choose Syncfusion ASP.NET Web Application or Syncfusion ASP.NET Web Site from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img1.png)
 
 2. Name the **Project**, choose the destination location when required and set the Framework of the project, then click **OK**.
 

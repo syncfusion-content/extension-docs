@@ -17,7 +17,17 @@ I> The Syncfusion ASP.NET Core (Essential JS 2) Sample Creator utility is availa
 
 The following steps help you to create the Syncfusion ASP.NET Core (Essential JS 2) Web Application via the Sample Creator utility:
 
-1. Launch the Syncfusion ASP.NET Core (Essential JS 2) Control Panel. Select the Sample Creator button to launch the ASP.NET Core (Essential JS 2) Sample Creator application. Refer the following screenshot for more information. 
+1. To launch ASP.NET Core (Essential JS 2) Sample Creator application, follow either one of the options below: 
+
+   **Option 1:**  
+   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET Core (EJ2) > Launch Sample Creator…** in **Visual Studio**.
+
+   ![Syncfusion Essential JS 2 ASP.NET Core Control Panel to launch the Sample Creator](Sample-Creator_images\Syncfusion_Menu_Sample_Creator.png)
+
+   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+
+   **Option 2:**   
+   Launch the Syncfusion ASP.NET Core (Essential JS 2) Control Panel. Select the Sample Creator button to launch the ASP.NET Core (Essential JS 2) Sample Creator application. Refer the following screenshot for more information. 
 
    ![Syncfusion Essential JS 2 ASP.NET Core Control Panel to launch the Sample Creator](Sample-Creator_images\SampleCreator-img1.jpg)
 
