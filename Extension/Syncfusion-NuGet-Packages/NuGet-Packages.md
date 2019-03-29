@@ -69,7 +69,7 @@ Add packages can be used to search and install NuGet packages to the Visual Stud
 
     ![NuGet package manager add-in for macOS](NuGet_Packages_Images/img8.png)  
               
-2.	By default, the NuGet.org package is selected in the **Package source** drop-down. Select the appropriate feed name. 
+2.	By default, the NuGet.org package is selected in the **Package source** drop-down. 
 
     ![Add packages dialog](NuGet_Packages_Images/img9.png)  
 
