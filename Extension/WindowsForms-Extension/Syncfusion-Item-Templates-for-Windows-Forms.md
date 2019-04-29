@@ -34,7 +34,7 @@ Follow the given steps to add the Syncfusion item in Visual Studio:
 
    ![Select required Assembly Location in Syncfusion Item Template Wizard](Item-Template-images\Syncfusion-Item-Template-Gallery-7.png)
 
-   N> Installed location and GAC option will be available only when the Syncfusion Essential Windows Forms setup has been installed. You can use NuGet option without installing the Syncfusion Essential Windows Forms setup. If you add the Syncfusion item files in .Net Core Windows Forms application, GAC option will not be listed in the Assembly From option.
+   N> Installed location and GAC option will be available only when the Syncfusion Essential Windows Forms setup has been installed. You can use NuGet option without installing the Syncfusion Essential Windows Forms setup. If you add the Syncfusion item files in .NET Core Windows Forms application, GAC option will not be listed in the Assembly From option.
 
    **Version:** Choose the build version to add the corresponding version assemblies to the project.
 
