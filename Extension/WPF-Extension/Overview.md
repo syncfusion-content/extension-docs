@@ -11,6 +11,9 @@ documentation: ug
 
 The Syncfusion WPF Studio Extensions can be accessed through the Syncfusion Menu to create and configure the project with Syncfusion references in Visual Studio.The Syncfusion WPF Extensions supports Microsoft Visual Studio 2010 or higher.
 
+N> Syncfusion Extension is published in the Visual Studio Marketplace. Refer to the following link.
+[https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.WPFExtension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.WPFExtension)
+
 I> The Syncfusion WPF menu option is available from v17.1.0.32.
 
 The Syncfusion provides the following extension supports in Visual Studio:
