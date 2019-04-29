@@ -42,7 +42,7 @@ Use the following steps to create the Syncfusion Windows Forms project through t
                                                      
    ### Project configurations: 
 
-   **Project Type:** Select the project type, either .Net Framework or .Net Core.
+   **Project Type:** Select the project type, either .NET Framework or .NET Core.
 
    ![Choose the project type in Syncfusion Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery-11.png)
 
@@ -52,7 +52,7 @@ Use the following steps to create the Syncfusion Windows Forms project through t
 
    ![Choose the language in Syncfusion Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery-3.png)
 
-   N> C# language is available only when you choose .Net Core from project type option in Visual Studio 2019.
+   N> C# language is available only when you choose .NET Core from project type option in Visual Studio 2019.
 
    ![Choose the language in Syncfusion Windows Forms .NET Core project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery-9.png)
 
@@ -60,7 +60,7 @@ Use the following steps to create the Syncfusion Windows Forms project through t
 
    ![Choose the assembly location from where assemblies to be added to the project](Project-Template-images\Syncfusion-Project-Template-Gallery-4.png)
 
-   N> Installed location and GAC option will be available only when the Syncfusion Essential Windows Forms setup has been installed. You can use NuGet option without installing the Syncfusion Essential Windows Forms setup. Also, the GAC option will not be available when you choose .Net Core from project type option in Visual Studio 2019. 
+   N> Installed location and GAC option will be available only when the Syncfusion Essential Windows Forms setup has been installed. You can use NuGet option without installing the Syncfusion Essential Windows Forms setup. Also, the GAC option will not be available when you choose .NET Core from project type option in Visual Studio 2019. 
 
    **Installed ES Build Version:** Choose the build version to add the corresponding version assemblies to the project.
 
