@@ -299,7 +299,7 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
     
     **Source:** Syncfusion NuGet Feed URL.      
 
-    For example, Name: Syncfusion AspNet Core Packages, Source: [http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
+    For example, Name: Syncfusion AspNet Core Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
 
 5.	Click the **Update** button to add the name and source details to package sources. 
 
@@ -323,7 +323,7 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
     
     **Source:** Syncfusion NuGet Feed URL.      
 
-    For example, Name: Syncfusion ASP.NET Core Packages, Source: [http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
+    For example, Name: Syncfusion ASP.NET Core Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
     
 	![Add Package Source dialog to add Syncfusion NuGet feed](NuGet_Packages_Images/img5.png)
  
@@ -353,10 +353,10 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
 
     ~~~
     #For Windows platform
-    nuget.exe Sources Add –Name “Syncfusion Source” –Source “http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
+    nuget.exe Sources Add –Name “Syncfusion Source” –Source “https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
 
     #For MAC/Linux platform
-    mono nuget.exe Sources Add –Name “Syncfusion Source” –Source “http://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
+    mono nuget.exe Sources Add –Name “Syncfusion Source” –Source “https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore”
     ~~~
 
 
