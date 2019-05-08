@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Web NuGet Packages Details | Extension | Syncfusion
-description: Syncfusion Web NuGet Packages Details
+description: NuGet packages structure for the ASP.NET, ASP.NET MVC and JavaScript platform
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

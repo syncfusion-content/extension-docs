@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Reference Manager | Extension | Syncfusion
-description: Syncfusion Reference Manager is the Visual Studio Add-In for WPF, Windows Forms and Silverlight platforms. It adds the Syncfusion assembly reference to the project, either from the GAC location or from where Essential Studio is installed. It can also migrate the projects that contain the old versions of the Syncfusion assembly reference to newer or specific versions of the Syncfusion assembly reference
+description: Add the required Syncfusion assembly to Windows project reference based on the selected control(s).
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
