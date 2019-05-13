@@ -26,7 +26,7 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
 
     N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
     
-    **Option 2:**    
+   **Option 2:**    
     Choose **File > New > Project** and navigate to **Syncfusion > .NET Core > Syncfusion ASP.NET Core (Essential JS 2) Web Application** in **Visual Studio**.
 
   ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-CreateProject.jpg)
@@ -37,7 +37,7 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
    
 3. Choose the options to configure the Syncfusion ASP.NET Core (Essential JS 2) Application by using the following Project Configuration dialog.
   
-   ![Syncfusion Essential JS 2 ASP.NET Core Web Application Project Configuration Wizard](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-ProjectWizard.JPG)
+   ![Syncfusion Essential JS 2 ASP.NET Core Web Application Project Configuration Wizard](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-ProjectWizard.jpg)
 
    ### Project Configuration:
    
@@ -50,14 +50,14 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
    |Angular|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CDN, NPM|
    |React|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CND, NPM|
 
-   N> The Syncfusion ASP.NET Core (Essential JS 2) Project Template provides Blazor, Angular, and React project templates support from v17.1.0.47.      
+   N> *The Syncfusion ASP.NET Core (Essential JS 2) Project Template provides Blazor, Angular, and React project templates support from v17.1.0.47*.      
 	
 
    **.NET Core Version:** Select the version of ASP.NET Core Project
    
    ![Syncfusion Essential JS 2 ASP.NET Core Project .NET Core Versions](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-Netcore.jpg)
 
-   N> The ASP.NET Core version 2.2 and 3.0 option will be listed only when the latest .NET Core 3.0 setup has been installed.
+   N> *The ASP.NET Core version 2.2 and 3.0 option will be listed only when the latest .NET Core 3.0 setup has been installed*.
 
    **Assets From:** Load the Syncfusion Essential JS 2 assets to ASP.NET Core Project, either NPM, CDN or Installed Location.
 
