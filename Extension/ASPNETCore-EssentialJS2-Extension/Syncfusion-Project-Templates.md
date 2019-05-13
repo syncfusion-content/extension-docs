@@ -19,21 +19,21 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
 
 1. To create a Syncfusion ASP.NET Core (Essential JS 2) project, follow either one of the options below:
 
-   **Option 1:**   
-    Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET Core (EJ2)** **>** **Create New Syncfusion Project...** in **Visual Studio**.
+     **Option 1:**   
+     Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET Core (EJ2)** **>** **Create New Syncfusion Project...** in **Visual Studio**.
     
-  ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion_Menu_Project_Template.png)
+     ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion_Menu_Project_Template.png)
 
- N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+     N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
     
-   **Option 2:**    
-    Choose **File > New > Project** and navigate to **Syncfusion > .NET Core > Syncfusion ASP.NET Core (Essential JS 2) Web Application** in **Visual Studio**.
+     **Option 2:**    
+     Choose **File > New > Project** and navigate to **Syncfusion > .NET Core > Syncfusion ASP.NET Core (Essential JS 2) Web Application** in **Visual Studio**.
 
-  ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-CreateProject.jpg)
+    ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-CreateProject.jpg)
 
 2. Name the **Project**, choose the destination location, and set the framework of the project, and then click **OK**. The Project Configuration Wizard appears.
 
-   N> *Minimum target framework is 4.5 for Syncfusion ASP.NET Core (Essential JS 2) Project Templates*.
+    N> *Minimum target framework is 4.5 for Syncfusion ASP.NET Core (Essential JS 2) Project Templates*.
    
 3. Choose the options to configure the Syncfusion ASP.NET Core (Essential JS 2) Application by using the following Project Configuration dialog.
   
@@ -55,7 +55,7 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
    **.NET Core Version:** Select the version of ASP.NET Core Project
    
    ![Syncfusion Essential JS 2 ASP.NET Core Project .NET Core Versions](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-Netcore.jpg)
-
+ 
    N> *The ASP.NET Core version 2.2 and 3.0 option will be listed only when the latest .NET Core 3.0 setup has been installed*.
 
    **Assets From:** Load the Syncfusion Essential JS 2 assets to ASP.NET Core Project, either NPM, CDN or Installed Location.
