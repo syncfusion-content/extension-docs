@@ -50,17 +50,17 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
    |Angular|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CDN, NPM|
    |React|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CND, NPM|
 
-    N> *The Syncfusion ASP.NET Core (Essential JS 2) Project Template provides Blazor, Angular, and React project templates support from v17.1.0.47*.      
+   N> *The Syncfusion ASP.NET Core (Essential JS 2) Project Template provides Blazor, Angular, and React project templates support from v17.1.0.47*.      
 	
    **.NET Core Version:** Select the version of ASP.NET Core Project
    
    ![Syncfusion Essential JS 2 ASP.NET Core Project .NET Core Versions](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-Netcore.jpg)
-
-    N> *The ASP.NET Core version 2.2 and 3.0 option will be listed only when the latest .NET Core 3.0 setup has been installed*.
+ 
+   N> *The ASP.NET Core version 2.2 and 3.0 option will be listed only when the latest .NET Core 3.0 setup has been installed*.
 
    **Assets From:** Load the Syncfusion Essential JS 2 assets to ASP.NET Core Project, either NPM, CDN or Installed Location.
 
-    N> *Installed location option will be available only when the Syncfusion Essential JavaScript 2 setup has been installed*.
+   N> *Installed location option will be available only when the Syncfusion Essential JavaScript 2 setup has been installed*.
 
    **Theme Selection:** Themes will be listed out based on the selected project type and choose the required theme from the available list.
 
