@@ -29,7 +29,7 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
     **Option 2:**    
     Choose **File > New > Project** and navigate to **Syncfusion > .NET Core > Syncfusion ASP.NET Core (Essential JS 2) Web Application** in **Visual Studio**.
 
-   ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-createproject.jpg)
+   ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-CreateProject.jpg)
 
 2. Name the **Project**, choose the destination location, and set the framework of the project, and then click **OK**. The Project Configuration Wizard appears.
 
