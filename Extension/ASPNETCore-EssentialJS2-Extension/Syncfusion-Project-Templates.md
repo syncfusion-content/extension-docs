@@ -24,7 +24,7 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
     
   ![Choose Syncfusion Essential JS 2 ASP.NET Core Web Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion_Menu_Project_Template.png)
 
-    N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
     
    **Option 2:**    
     Choose **File > New > Project** and navigate to **Syncfusion > .NET Core > Syncfusion ASP.NET Core (Essential JS 2) Web Application** in **Visual Studio**.
@@ -33,7 +33,7 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
 
 2. Name the **Project**, choose the destination location, and set the framework of the project, and then click **OK**. The Project Configuration Wizard appears.
 
-   N> *Minimum target framework is 4.5 for Syncfusion ASP.NET Core (Essential JS 2) Project Templates*.
+N> *Minimum target framework is 4.5 for Syncfusion ASP.NET Core (Essential JS 2) Project Templates*.
    
 3. Choose the options to configure the Syncfusion ASP.NET Core (Essential JS 2) Application by using the following Project Configuration dialog.
   
@@ -45,14 +45,13 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
 
    |Project Type       |.NET Core Version|Themes|Assets From|
    |-------------------|-------------|------|-----------|
-   |Blazor (server-side) Blazor (ASP.NET Core hosted)Blazor (client-side)|3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CDN|
+   |Blazor (server-side, ASP.NET Core hosted, client-side)|3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CDN|
    |Web Application (Model-View-Controller)|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, High Contrast|CND, NPM, Installed Location|
    |Angular|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CDN, NPM|
    |React|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CND, NPM|
 
    N> *The Syncfusion ASP.NET Core (Essential JS 2) Project Template provides Blazor, Angular, and React project templates support from v17.1.0.47*.      
 	
-
    **.NET Core Version:** Select the version of ASP.NET Core Project
    
    ![Syncfusion Essential JS 2 ASP.NET Core Project .NET Core Versions](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-Netcore.jpg)
@@ -72,25 +71,25 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
 
 5. Required Syncfusion NuGet/NPM packages, Scripts, and CSS have been added to the Project.
 
-   **Blazor (server-side, ASP.NET Core hosted, client-side):**
+   #### Blazor (server-side, ASP.NET Core hosted, client-side):
         
       **NuGet:** Syncfusion.EJ2.AspNet.Core.RazorComponents NuGet package will be installed for all the Blazor projects.
      
       **Scripts/Styles:** Scripts and CSS entries will be added in _Host.cshtml or index.html based on the Blazor project types.
      
-   **Web Application (Model-View-Controller):**
+   #### Web Application (Model-View-Controller):
                     
       **NuGet:** Syncfusion.EJ2.AspNet.Core NuGet package will be installed.
   
       **Scripts/Styles:** Scripts and CSS entries will be added in _Layout.cshtml
     
-   **Angular:**
+   #### Angular:
               
       **NPM:** All the Syncfusion Angular NPM packages entries will be added in   package.json, it will automatically restore while build the application or save the  package.json file before compile the project.   
   
       **Styles:** CSS entries will be added in _Layout.cshtml or index.html based on the selected .NET Core version. 
            
-   **React:**
+   #### React:
 
       **NPM:** All the Syncfusion React NPM packages entries will be added in package.json, it will automatically restore while build the application or save the package.json file before compile the project. 
                     
