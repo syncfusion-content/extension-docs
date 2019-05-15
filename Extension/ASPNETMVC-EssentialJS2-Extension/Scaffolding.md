@@ -9,13 +9,13 @@ documentation: ug
 
 # Scaffolding
 
-Syncfusion provides **Visual Studio Scaffolding** for Syncfusion ASP.NET MVC platform to quickly add code that interacts with data models and reduce the amount of time to develop with data operation in your project. Scaffolding provides an easier way to create Views and Controller action methods for Syncfusion ASP.NET MVC DataGrid, Charts, and Scheduler controls.
+Syncfusion provides **Visual Studio Scaffolding** for Syncfusion ASP.NET MVC platform to quickly add code that interacts with data models and reduce the amount of time to develop with data operation in your project. Scaffolding provides an easier way to create Views and Controller action methods for Syncfusion ASP.NET MVC DataGrid, Charts, Scheduler, Diagram, Tree Grid, Rich Text Editor, Document Editor, and  PDF Viewer controls.
 
 I> The Syncfusion ASP.NET MVC UI Scaffolder is available from v16.4.0.40.
 
-## Add a Scaffolded Item
+## Add a scaffolded item
 
-The following steps explain you how to add a scaffolded item to your ASP.NET MVC Web application.
+The following steps explain how to add a scaffolded item to your ASP.NET MVC Web application:
 
 1. Right-click the **Controllers** folder in the Solution Explorer, click **Add**, and then select **New Scaffolded Item**. 
 
