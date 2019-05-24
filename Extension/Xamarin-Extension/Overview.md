@@ -19,6 +19,9 @@ The Syncfusion provides the following extension supports in Visual Studio:
 
 1.	[Syncfusion Xamarin Project Template](https://help.syncfusion.com/extension/xamarin-extension/syncfusion-project-templates): Create the Syncfusion Xamarin application by adding the required Syncfusion NuGet based on the control chosen.
 2.	[Item Template](https://help.syncfusion.com/extension/xamarin-extension/syncfusion-item-templates): Add the predefined Syncfusion items (Pages) in Xamarin.Form and install the required Syncfusion NuGet packages.
+
+     N> Xamarin Item Template is available only in marketplace. 
+
 3.	[Toolbox](https://help.syncfusion.com/extension/xamarin-extension/toolbox): Add the Syncfusion Xamarin components in Xamarin.Forms designer.
 
 
