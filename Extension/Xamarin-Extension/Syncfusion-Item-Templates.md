@@ -20,15 +20,17 @@ Follow these steps to add the Syncfusion Xamarin item in Visual Studio:
  
 2. Select the **Xamarin.Forms** project. Follow any of the given options:
 
-   **Option1:**  Select **Syncfusion > Essential Studio for Xamarin** from the top-level menu in Visual Studio and select the item template. Refer to the following screenshot for more information.
-
-
-    ![Syncfusion Menu for item template](Syncfusion-Item-Templates_images/Syncfuion-menu.png)
-
-   **Option2:** Right-click the **Xamarin.Form** Project from the **Solution Explorer**. Select the **Syncfusion UI for Xamarin** option. Refer to the following screenshot for more information.
+   **Option1:**  Right-click the **Xamarin.Form** Project from the **Solution Explorer**. Select the **Syncfusion UI for Xamarin** option. Refer to the following screenshot for more information.
 
     ![Syncfusion Item Template Context menu](Syncfusion-Item-Templates_images/Item-Template-Context-Menu.png)
 
+   **Option2:** Select **Syncfusion > Essential Studio for Xamarin** from the top-level menu in Visual Studio and select the item template. Refer to the following screenshot for more information.
+
+
+    ![Syncfusion Menu for item template](Syncfusion-Item-Templates_images/Syncfuion-menu.png)
+   
+      N> The **Syncfusion>Essential Studio for Xamarin** menu is not visible and it can be made visible by installing the Xamarin project template extension. It will not be visible if only Xamarin UI template is installed.
+   
    **Option3:** Right-click the **Xamarin.Form** Project from the **Solution Explorer**. Select **Add > New Item**. Refer to the following screenshot for more information.
  
      
