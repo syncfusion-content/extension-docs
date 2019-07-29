@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Create Project | ASP.NET Web Forms | Syncfusion
+title: Project Templates | ASP.NET Web Forms | Syncfusion
 description: Syncfusion provides Visual Studio Project Templates for the ASP.NET platform to create Syncfusion ASP.NET Web Application using Essential JS 1 components
-platform: aspnet
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
@@ -39,7 +39,7 @@ Use the following steps to create the **Syncfusion ASP.NET (Essential JS 1) Appl
 
     **Project Configurations**
 
-    **Proejct Type:** Choose the required Project Type either Website or WebApplication.
+    **Project Type:** Choose the required Project Type either Website or WebApplication.
 
     ![Choose required Project Type version](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img3.png)
 
@@ -63,7 +63,7 @@ Use the following steps to create the **Syncfusion ASP.NET (Essential JS 1) Appl
 
    ![Choose the Version](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img8.png)
 
-4. Select the controls which Assemblies and Scripts need to be added to the prjoect and click the create button then Syncfusion ASPNET Web Forms project created 
+4. Select the controls which Assemblies and Scripts need to be added to the project and click the create button then Syncfusion ASPNET Web Forms project created 
 
     ![Syncfusion Essential ASP.NET Web Feature selection](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img9.png)
 
