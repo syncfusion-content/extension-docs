@@ -13,7 +13,7 @@ Essential UI Kit for Xamarin.Forms includes predefined XAML templates for Xamari
 
 ## Installation of Syncfusion VS Extension
 
-Download the necessary [Syncfusion VS](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.XamarinExtension) extension from the market place and install them in your Visual Studio. So that, you can use the Syncfusion Extension from Syncfusion menu of your project.
+Download the necessary [Syncfusion VS](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Essential-UI-Kit-Xamarin.Forms) extension from the market place and install them in your Visual Studio. So that, you can use the Syncfusion Extension from Syncfusion menu of your project.
 
 ## Creating Syncfusion Xamarin application
 
