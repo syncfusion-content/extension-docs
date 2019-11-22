@@ -45,12 +45,11 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
 
    |Project Type       |.NET Core Version|Themes|Assets From|
    |-------------------|-------------|------|-----------|
-   |Blazor (server-side, ASP.NET Core hosted, client-side)|3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CDN|
    |Web Application (Model-View-Controller)|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, High Contrast|CND, NPM, Installed Location|
    |Angular|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CDN, NPM|
    |React|2.0, 2.1, 2.2, and 3.0 Preview 5|Material, Fabric, Bootstrap, Bootstrap 4, High Contrast|CND, NPM|
 
-   N> *The Syncfusion ASP.NET Core (Essential JS 2) Project Template provides Blazor, Angular, and React project templates support from v17.1.0.47*.      
+   N> *The Syncfusion ASP.NET Core (Essential JS 2) Project Template provides Angular, and React project templates support from v17.1.0.47*.      
 	
    **.NET Core Version:** Select the version of ASP.NET Core Project
    
@@ -69,12 +68,6 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
 4. Click **Create**, the Syncfusion ASP.NET Core (Essential JS 2) Application has been created.
 
 5. Required Syncfusion NuGet/NPM packages, Scripts, and CSS have been added to the Project.
-
-   #### Blazor (server-side, ASP.NET Core hosted, client-side):
-        
-      **NuGet:** Syncfusion.EJ2.AspNet.Core.RazorComponents NuGet package will be installed for all the Blazor projects.
-     
-      **Scripts/Styles:** Scripts and CSS entries will be added in _Host.cshtml or index.html based on the Blazor project types.
      
    #### Web Application (Model-View-Controller):
                     
