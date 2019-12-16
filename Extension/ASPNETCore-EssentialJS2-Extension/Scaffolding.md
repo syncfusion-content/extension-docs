@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scaffolding | ASP.NET MVC (Essential JS 2) | Syncfusion
+title: Scaffolding | ASP.NET Core | Syncfusion
 description: Code-generation Framework for Syncfusion ASP.NET Core platform to quickly create the Controller and Views in a short time.
 platform: extension
 control: Syncfusion Extensions
@@ -50,6 +50,6 @@ The following steps explain you how to add a scaffolded item to your ASP.NET Cor
 
 Refer to the following UG links to render Syncfusion control after performed scaffolding. 
 
-[Configure Essential JS 2 using Syncfusion.EJ2.AspNet.Core package](https://ej2.syncfusion.com/aspnetcore/documentation/getting-started/visual-studio-2017/)
+[Configure  using Syncfusion.EJ2.AspNet.Core package](https://ej2.syncfusion.com/aspnetcore/documentation/getting-started/visual-studio-2017/)
 
 
