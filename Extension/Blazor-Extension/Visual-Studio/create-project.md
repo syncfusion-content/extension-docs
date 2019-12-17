@@ -1,4 +1,11 @@
-# Visual Studio Extensions
+---
+layout: post
+title: Project Templates | Blazor | Syncfusion
+description: Syncfusion provides Visual Studio Project Templates for Blazor platform to create the Syncfusion Blazor Application using Syncfusion components
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
 
 ## Create project
 

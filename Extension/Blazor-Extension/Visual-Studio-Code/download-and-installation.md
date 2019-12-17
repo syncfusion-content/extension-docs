@@ -1,3 +1,12 @@
+---
+layout: post
+title: Download and Installation | Blazor | Syncfusion
+description: SDownload and Installation
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
 # Download and Installation
 
 Syncfusion publishes the Visual Studio Code extension in [Visual Studio Code marketplace](https://marketplace.visualstudio.com/search?term=syncfusion&target=VSCode&category=All%20categories&sortBy=Relevance). You can either install it from Visual Studio Code or download and install it from Visual Studio Code marketplace.

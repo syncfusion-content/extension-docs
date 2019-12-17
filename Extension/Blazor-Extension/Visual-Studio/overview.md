@@ -1,4 +1,11 @@
-# Visual Studio Integration
+---
+layout: post
+title: Blazor Extension | Extension | Syncfusion
+description: An Extension provides you with quick access so that you can create or configure the Syncfusion Blazor projects along with Syncfusion components
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
 
 ## Overview
 
