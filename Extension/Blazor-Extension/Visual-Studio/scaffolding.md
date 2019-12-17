@@ -68,7 +68,7 @@ N>Scheduler control is not applicable for Blazor Hosted application.
 	
 Refer to the following UG links to render Syncfusion control after performing scaffolding:
 
-WebAssembly App: [Configure Blazor controls using Sycnfusion.EJ2.Blazor NuGet Package](https://ej2.syncfusion.com/blazor/documentation/getting-started/vs-blazor/)
+WebAssembly App: [Configure Blazor controls using Syncfusion.EJ2.Blazor NuGet Package](https://ej2.syncfusion.com/blazor/documentation/getting-started/vs-blazor/)
 
-Blazor Server App: [Configure Blazor controls using Sycnfusion.EJ2.Blazor NuGet Package](https://ej2.syncfusion.com/blazor/documentation/getting-started/vs-blazor-server/)
+Blazor Server App: [Configure Blazor controls using Syncfusion.EJ2.Blazor NuGet Package](https://ej2.syncfusion.com/blazor/documentation/getting-started/vs-blazor-server/)
 	
