@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download and Installation | Blazor | Syncfusion
-description: SDownload and Installation
+description: How to download and install the Syncfusion Blazor Visual Studio Extensions from Visual Studio Market Place
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
