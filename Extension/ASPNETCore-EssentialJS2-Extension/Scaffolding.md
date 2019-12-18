@@ -18,32 +18,32 @@ I> The Syncfusion ASP.NET Core UI Scaffolder is available from v17.4.0.39.
 ## Add a scaffolded item
 
 The following steps explain you how to add a scaffolded item to your ASP.NET Core Web application.
+    
+ 1. Right-click the **Controllers** folder in the Solution Explorer, click **Add**, and then select **New Scaffolded Item…**
 
-1. Right-click the **Controllers** folder in the Solution Explorer, click **Add**, and then select **New Scaffolded Item…**
+    ![Syncfusion Scaffolded add-in](Scaffolding_Images/Scaffolding_Add_Item1.png)
 
-   ![Syncfusion Scaffolded add-in](Scaffolding_Images/Scaffolding_Add_Item1.png)
+ 2. In the **Add Scaffold dialog**, select **Syncfusion ASP.NET Core UI Scaffolder**, and then click **‘Add’**.
 
-2. In the **Add Scaffold dialog**, select **Syncfusion ASP.NET Core UI Scaffolder**, and then click **‘Add’**.
+    ![Choose Syncfusion Scaffolding from Visual Studio Add scaffold dialog](Scaffolding_Images/Scaffolding_Add_Item2.png)
 
-   ![Choose Syncfusion Scaffolding from Visual Studio Add scaffold dialog](Scaffolding_Images/Scaffolding_Add_Item2.png)
+ 3. In the Syncfusion UI Scaffolder dialog, select the desired Syncfusion control to perform scaffolding, and then click **Next**.
 
-3. In the Syncfusion UI Scaffolder dialog, select the desired Syncfusion control to perform scaffolding, and then click **Next**.
+    ![Choose required control](Scaffolding_Images/Scaffolding_Add_Item3.png)
 
-   ![Choose required control](Scaffolding_Images/Scaffolding_Add_Item3.png)
+ 4. Syncfusion UI Scaffolder for the selected control dialog will be opened. Enter the **Controller Name** and **View Name** as application requirements, and then select the required **Model Class** of the active project and its relevant **Data Context Class**, and then click **Next**.
 
-4. Syncfusion UI Scaffolder for the selected control dialog will be opened. Enter the **Controller Name** and **View Name** as application requirements, and then select the required **Model Class** of the active project and its relevant **Data Context Class**, and then click **Next**.
+    ![Choose required Model](Scaffolding_Images/Scaffolding_Add_Item4.png)
 
-   ![Choose required Model](Scaffolding_Images/Scaffolding_Add_Item4.png)
+ 5. Syncfusion UI Scaffolder for the selected control feature dialog will be opened. Select the required features, update the required data field, and then click **Add**.
 
-5. Syncfusion UI Scaffolder for the selected control feature dialog will be opened. Select the required features, update the required data field, and then click **Add**.
+    ![Choose required selected control features](Scaffolding_Images/Scaffolding_Add_Item5.png)
 
-   ![Choose required selected control features](Scaffolding_Images/Scaffolding_Add_Item5.png)
+ 6. The **Controller** and the corresponding **View** files are created into the application  with the selected features of Syncfusion control code snippet.
 
-6. The **Controller** and the corresponding **View** files are created into the application  with the selected features of Syncfusion control code snippet.
+    ![Required Controller and View files added in the project for the selected control](Scaffolding_Images/Scaffolding_Add_Item6.png)
 
-   ![Required Controller and View files added in the project for the selected control](Scaffolding_Images/Scaffolding_Add_Item6.png)
-
-7. Then, add navigation to the created view file based on your requirement to open in the webpage.
+ 7. Then, add navigation to the created view file based on your requirement to open in the webpage.
 
 
 ## How to render Syncfusion control?
