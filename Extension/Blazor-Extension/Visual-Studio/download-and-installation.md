@@ -49,7 +49,7 @@ The following steps illustrate how to install the extensions for Syncfusion Blaz
 
 The following steps illustrate how to download and install the Syncfusion Blazor extension from the Visual Studio Marketplace.
 
-1. Download the [Syncfusion Blazor Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-Extensions) from the Visual Studio Marketplace.
+1. Download the [Syncfusion Blazor Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-Extension) from the Visual Studio Marketplace.
 
 2. Close all Visual Studio instances running, if any.
 

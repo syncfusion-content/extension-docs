@@ -51,9 +51,9 @@ The following steps explains how to install the Syncfusion Blazor extensions fro
 
 The following steps explain how to download Syncfusion Blazor applications from the Visual Studio Code Marketplace and install them.
 
-1. Open the [Syncfusion Blazor Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-Extensions) in Visual Studio Code Marketplace.
+1. Open the [Syncfusion Blazor Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) in Visual Studio Code Marketplace.
 
-2. Click Install from Visual Studio Code Marketplace. The browser opens the popup with the information like **“Open Visual Studio Code”**. Click Open Visual Studio Code,then [Syncfusion Blazor Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-Extensions) will open in Visual Studio Code.
+2. Click Install from Visual Studio Code Marketplace. The browser opens the popup with the information like **“Open Visual Studio Code”**. Click Open Visual Studio Code,then [Syncfusion Blazor Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) will open in Visual Studio Code.
 
 3. Click the Install button in the **"Blazor Project Templates - Syncfusion"** extension.
 
