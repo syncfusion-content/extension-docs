@@ -37,9 +37,9 @@ The following NuGet packages are added as NuGet references based on application 
 
 | Syncfusion Blazor NuGet packages  | Application type  |
 |---|---|
-| `Syncfusion.Blazor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App |
+| `Syncfusion.Blazor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application)|
 | `Syncfusion.Blazor.PdfViewerServer.Windows`  | Syncfusion Blazor Server App  |
-| `Syncfusion.Blazor.WordProcessor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App |
+| `Syncfusion.Blazor.WordProcessor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/>  Syncfusion Blazor WebAssembly App (Progressive Web Application) |
 
 The NuGet packages added to the project file as follows.
 
@@ -52,7 +52,7 @@ The Syncfusion Blazor scripts and the selected theme (while converting the proje
 | Application type  | File location  |
 |---|---|
 | Syncfusion Blazor Server App | {Project location}\pages\\_Host.cshtml |
-| Syncfusion Blazor WebAssembly App (ASPNET Core hosted) | {Client Project location}\wwwroot\index.html  |
+| Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
 
 ![CDNLink](images/CDNLink.png)
