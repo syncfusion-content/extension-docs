@@ -79,8 +79,6 @@ The following steps will help you create your **Syncfusion Blazor Application** 
 
     ![Choose required Project Configuration](images/Configuration.png)
 
-    N> You can back to Feature section by click either **Back** button or **3. Features** tab.
-
     **Project details section**
 
     You can change the below configuration details in the Project Details section, 
@@ -121,9 +119,9 @@ The following NuGet packages can be added as NuGet references based on applicati
 
 | Syncfusion Blazor NuGet packages  | Application type  |
 |---|---|
-| `Syncfusion.Blazor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) |
+| `Syncfusion.Blazor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) |
 | `Syncfusion.Blazor.PdfViewerServer.Windows`  | Syncfusion Blazor Server App  |
-| `Syncfusion.Blazor.WordProcessor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br> Syncfusion Blazor WebAssembly App (Progressive Web Application) |
+| `Syncfusion.Blazor.WordProcessor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br> Syncfusion Blazor WebAssembly App (Progressive Web Application) <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) |
 
 > The installed Syncfusion extension version of a NuGet package will be added as reference entry if there is no internet connection. You have to restore the NuGet packages when internet becomes available.
 
@@ -136,8 +134,8 @@ The Syncfusion Blazor scripts and selected themes (while creating the project) a
 | Application type  | File location  |
 |---|---|
 | Syncfusion Blazor Server App | {Project location}\Pages\\_Host.cshtml |
-| Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
-| Syncfusion Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
+| Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
+| Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Project location}\wwwroot\index.html|
 
 ![CDNLink](images/CDNLink.png)
 
