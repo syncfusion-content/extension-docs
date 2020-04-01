@@ -58,6 +58,7 @@ The following steps will help you create your **Syncfusion Blazor Application** 
    ![Controls add and remove button](images/ControlsSection2.png)
 
    To unselect the added control, use either of the following options:
+   
    **Option 1:** Click **Remove** in the corresponding control box.
 
    **Option 2:** Click the close option in the Control List from **Project Details**.
@@ -134,7 +135,7 @@ The Syncfusion Blazor scripts and selected themes (while creating the project) a
 
 | Application type  | File location  |
 |---|---|
-| Syncfusion Blazor Server App | {Project location}\pages\\_Host.cshtml |
+| Syncfusion Blazor Server App | {Project location}\Pages\\_Host.cshtml |
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
 
@@ -142,7 +143,7 @@ The Syncfusion Blazor scripts and selected themes (while creating the project) a
 
 **Namespaces**
 
-The Syncfusion Blazor component Grid, Calendar, and Button namespaces are added to the **_imports.razor** file in the application. You can add the required other component namespaces for development.
+The Syncfusion Blazor component Grid, Calendar, and Button namespaces are added to the **`_imports.razor`** file in the application. You can add the required other component namespaces for development.
 
 ![NameSpace](images/NameSpace.png)
 
