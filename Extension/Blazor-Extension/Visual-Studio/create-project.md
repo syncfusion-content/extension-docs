@@ -31,7 +31,7 @@ The following steps will help you create your **Syncfusion Blazor Application** 
 
 3. Select the Syncfusion Blazor Application and select the Next button.
 
-    ![CreateNewWizard](images/CreateNewWizard.png)
+    ![CreateNewWizard](images/CreateNewWizard_old.png)
 
 4. Name the project, pick the location of the destination, then press the Create button. Appears the configuration wizard for the Syncfusion Blazor project.
 
