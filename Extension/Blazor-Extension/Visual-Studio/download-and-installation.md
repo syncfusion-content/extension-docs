@@ -9,7 +9,7 @@ documentation: ug
 
 # Download and Installation
 
-Syncfusion publishing the Visual Studio extension in [Visual Studio marketplace](https://marketplace.visualstudio.com/search?term=syncfusion&target=VS&category=All%20categories&vsVersion=&sortBy=Relevance). You can either install it from Visual Studio or download and install it from Visual Studio marketplace.
+Syncfusion publishing the Visual Studio extension in [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-Extension). You can either install it from Visual Studio or download and install it from Visual Studio marketplace.
 
 ## Prerequisites
 
