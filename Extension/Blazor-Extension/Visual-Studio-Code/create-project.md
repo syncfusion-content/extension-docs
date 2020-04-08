@@ -9,51 +9,51 @@ documentation: ug
 
 ## Create project
 
-Syncfusion provides **Visual Studio Code project templates** to create Syncfusion Blazor applications. Syncfusion Blazor creates applications with the required Syncfusion NuGet packages, namespaces, component code snippets, and CDN links for making development easier with Syncfusion components.
+Syncfusion provides **project templates** for **Visual Studio Code** to create Syncfusion Blazor applications. Syncfusion Blazor creates applications with the required Syncfusion NuGet packages, namespaces, and component render code for the Calendar, Button, and DataGrid components, and the style for making development easier with Syncfusion components.
 
 The following steps help you create **Syncfusion Blazor Applications** through the **Visual Studio Code:**
 
-1. To create a Syncfusion Blazor project, click **Ctrl+Shift+P** in Visual Studio Code. The Visual Studio Code palette opens and you can get the Syncfusion-provided templates using the **Search** option with the word **Syncfusion**.
+1. In Visual Studio Code, open the command palette by pressing **Ctrl+Shift+P** to create a Syncfusion Blazor project. When the Visual Studio Code palette opens, search for the word **Syncfusion** so you can get the templates provided.
 
     ![CreateProjectPalette](images/CreateProjectPalette.png)
 
-2. Select **Create Syncfusion Blazor Project**, and then click **Enter**. The **Project Location** palette appears to store the application.
+2. Select **Create Syncfusion Blazor Project** and then click **Enter**. The **Project Location** palette appears to store the application.
 
     ![ProjectLocation](images/ProjectLocation.png)
 
-3. Provide the destination location, and then click **Enter**. The **Project Name** palette appears.
+3. Provide the destination location and then press **Enter**. The **Project Name** palette appears.
 
     ![ProjectName](images/ProjectName.png)
 
-    > The Syncfusion Visual Studio Code project template provides Blazor project template support from `v17.4.0.39`.
+    > The Syncfusion Visual Studio Code project template provides support for Blazor project templates from `v17.4.0.39`.
 
-4.	Choose the required .NET Core version, and then click **Enter**.
+4. Select the required version of .NET Core and then press **Enter**.
 
     ![Choose required NET Core Version](images/NETCoreVersion.png)
 
-5. Provide the project name, and then click **Enter**. The Syncfusion Blazor project types palette appears. Syncfusion Blazor has the following two types of projects:
+5. Fill in the name of the project, and then press **Enter**. The palette of project types for Syncfusion Blazor appears. Syncfusion Blazor has two types of projects:
    1.	Syncfusion Blazor Server App
    2.	Syncfusion Blazor WebAssembly App
 
     ![ProjectTypes](images/ProjectTypes.png)  
 
-    If you choose a Syncfusion Blazor Web Assembly App, you get the option to include ASP.NET Core hosted and Progressive Web Applications.
+    If you choose a Syncfusion Blazor Web Assembly App, you will have the option to include ASP.NET Core hosted and Progressive Web Application.
 
     ![SubProjectTypes](images/SubProjectTypes.png)  
 
-6. Choose the preferred Syncfusion Blazor application and then click **Enter**. The theme selection palette appears. Choose the preferred theme and then click **Enter**. The project will be created.
+6. Select and desired Syncfusion Blazor application and then press **Enter**. The palette of theme selection appears. Choose the preferred theme and then click **Enter**. The project will be created.
 
     ![Themes](images/Themes.png)
 
-7. The created Syncfusion Blazor application is configured with Syncfusion NuGet packages, CDN links, and the Syncfusion component code snippets added in the Index, Counter, and FetchData pages.
+7. The created Syncfusion Blazor app is configured with the Syncfusion NuGet packages, styles, and the component render code for the Syncfusion component added to the Index, Counter, and FetchData pages.
 
-8.	You can run the application by clicking **F5** or navigate to **Debug>Start Debugging** to see the Syncfusion components.
+8. To show the Syncfusion components, you can run the application. Click on **F5** or navigate to **Debug>Start Debugging**.
 
     ![Debug](images/Debug.png)
 
-## Syncfusion integration
+**Syncfusion integration**
 
-Add the required latest version of Syncfusion Blazor NuGet packages, CDN scripts, namespaces, and the Syncfusion component code snippets.
+The latest Syncfusion Blazor NuGet packages, styles, namespaces, and component render code for Syncfusion components are added in the created application.
 
 **NuGet Packages**
 
@@ -67,13 +67,13 @@ The following NuGet packages are added as NuGet references based on application 
 
 ![NuGetPackage](images/NuGetPackage.png)
 
-**CDN links**
+**Style**
 
-The Syncfusion Blazor scripts and the selected themes (while creating the project) are added as a CDN link in the following locations of Blazor applications.
+The selected theme is added from Syncfusion Nuget and its referred at these Blazor application locations.
 
 | Application type  | File location  |
 |---|---|
-| Syncfusion Blazor Server App | {Project location}\pages\\_Host.cshtml |
+| Syncfusion Blazor Server App | {Project location}\Pages\\_Host.cshtml |
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
 
@@ -81,13 +81,13 @@ The Syncfusion Blazor scripts and the selected themes (while creating the projec
 
 **Namespaces**
 
-The Syncfusion Blazor component Grid, Calendar, and Button namespaces are added to the _imports.razor file in the application. You can add the other required component namespaces for development.
+The Syncfusion Blazor namespaces are added in the **`_imports.razor`** file.
 
 ![NameSpace](images/NameSpace.png)
 
-**Code snippets**
+**Component render code**
 
-The Syncfusion Blazor component code snippets are added in the created application. The code changes are as follows.
+The Calendar, Button, and DataGrid component render code is in the Razor files in the pages folder. The render code is updated in these Razor files.
 
 | File name  | Code snippet added |
 |---|---|
