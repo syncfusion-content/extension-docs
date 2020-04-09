@@ -103,7 +103,7 @@ The following NuGet packages can be added as NuGet references based on applicati
 
 **Style**
 
-The selected theme is added as a CDN link based on the application type at these locations.
+The selected theme is added from Syncfusion NuGet and its reference at these applications locations in Blazor.
 
 | Application type  | File location  |
 |---|---|
@@ -111,7 +111,7 @@ The selected theme is added as a CDN link based on the application type at these
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Project location}\wwwroot\index.html|
 
-![CDNLink](images/CDNLink.png)
+![StyleReference](images/CDNLink.png)
 
 **Namespaces**
 
