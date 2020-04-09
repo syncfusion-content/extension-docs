@@ -69,7 +69,7 @@ The following NuGet packages are added as NuGet references based on application 
 
 **Style**
 
-The selected theme is added from Syncfusion Nuget and its referred at these Blazor application locations.
+The selected theme is added from Syncfusion NuGet and its reference at these applications locations in Blazor.
 
 | Application type  | File location  |
 |---|---|
@@ -77,7 +77,7 @@ The selected theme is added from Syncfusion Nuget and its referred at these Blaz
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
 
-![CDNLink](images/CDNLink.png)
+![StyleReference](images/CDNLink.png)
 
 **Namespaces**
 
