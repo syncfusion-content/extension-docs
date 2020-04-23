@@ -47,7 +47,9 @@ The following steps help you create **Syncfusion Blazor Applications** through t
 
 7. The created Syncfusion Blazor app is configured with the Syncfusion NuGet packages, styles, and the component render code for the Syncfusion component added to the Index, Counter, and FetchData pages.
 
-8. To show the Syncfusion components, you can run the application. Click on **F5** or navigate to **Debug>Start Debugging**.
+8. If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
+
+9. To show the Syncfusion components, you can run the application. Click on **F5** or navigate to **Debug>Start Debugging**.
 
     ![Debug](images/Debug.png)
 

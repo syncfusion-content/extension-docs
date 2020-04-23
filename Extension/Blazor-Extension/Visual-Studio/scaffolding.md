@@ -62,7 +62,9 @@ N>Scheduler control is not applicable for Blazor Hosted application.
 	If you select **Remote Data**, controller file and razor file will be added to the project.
 	![Required Controller and Razor files added in the project for the selected control](images/Files_for_remote_data.png)
 	
-7. Then, add navigation to the created razor file based on your requirement to open in the webpage.	
+7. Then, add navigation to the created razor file based on your requirement to open in the webpage.
+
+8. If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
 	
 ## How to render Syncfusion control?	
 	

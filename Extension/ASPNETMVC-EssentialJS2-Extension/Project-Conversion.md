@@ -57,6 +57,7 @@ The following steps help you to use the Syncfusion Project Conversion in the exi
    
    ![Configured required assemblies and namespaces entry in Web.config file of the Syncfusion Essential JS 2 ASP.NET MVC project](Project-Conversion_images/Project-Conversion-img6.jpg)
 
+6. If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
    
 ## Rendering Control after Syncfusion ASP.NET MVC Conversion
 

@@ -37,6 +37,8 @@ Download the necessary [Xamarin UI Kit Extension](https://marketplace.visualstud
 
    ![Added Resources](Essential-UI-Kit-images/Resources.png)
 
+6. If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
+
 ## Template Selection and naming
 
 The name of the categories such as Login, Chat, E-Commerce page can be changed while adding it to your project. Therefore, the corresponding category will be displayed with the provided name in the View, ViewModel and Model classes of the application.
