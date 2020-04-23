@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Essential UI Kit | Xamarin | Syncfusion
-description: The Syncfusion Essential UI Kit extension provides predefined design for the Xamarin.Forms.
+description: The Syncfusion Xamarin Essential UI Kit extension provides the predefined design for the Xamarin.Forms.
 platform: xamarin
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Essential UI Kit
+# Xamarin Essential UI Kit
 
 Essential UI Kit for Xamarin.Forms includes predefined XAML templates for Xamarin.Forms apps. The UI kit allows to build a user interface in a cross-platform application. It provides a clear separation of View, View Model, and Model classes, so integrating your business logic and making changes in the existing view is simple. 
 
