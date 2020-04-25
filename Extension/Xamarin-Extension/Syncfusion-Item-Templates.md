@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Xamarin Item Template | Extension | Syncfusion
-description: The Syncfusion Item Templates extension provides predefined design for the Xamarin.Forms.
+description: The Syncfusion Xamarin Item Templates extension provides the predefined design for the Xamarin.Forms.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -47,6 +47,8 @@ Follow these steps to add the Syncfusion Xamarin item in Visual Studio:
    ![Syncfusion Packages is installed in project](Syncfusion-Item-Templates_images/syncfusion-package.png)
 
    ![After Resource files add in project](Syncfusion-Item-Templates_images/Resource-file.png)
+
+4. If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
 
 ## How to render the Syncfusion Xamarin item template
 You should make the selected template page as startup page in this application. To do this, open the **App.xaml.cs** and make the following changes.

@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Essential UI Kit | Xamarin | Syncfusion
-description: The Syncfusion Essential UI Kit extension provides predefined design for the Xamarin.Forms.
+description: The Syncfusion Xamarin Essential UI Kit extension provides the predefined design for the Xamarin.Forms.
 platform: xamarin
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Essential UI Kit
+# Xamarin Essential UI Kit
 
 Essential UI Kit for Xamarin.Forms includes predefined XAML templates for Xamarin.Forms apps. The UI kit allows to build a user interface in a cross-platform application. It provides a clear separation of View, View Model, and Model classes, so integrating your business logic and making changes in the existing view is simple. 
 
@@ -36,6 +36,8 @@ Download the necessary [Xamarin UI Kit Extension](https://marketplace.visualstud
    ![Added NuGet](Essential-UI-Kit-images/Add-NuGet.png)
 
    ![Added Resources](Essential-UI-Kit-images/Resources.png)
+
+6. If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
 
 ## Template Selection and naming
 
