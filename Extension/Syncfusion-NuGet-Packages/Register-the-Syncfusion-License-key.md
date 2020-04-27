@@ -20,7 +20,7 @@ While using Syncfusion NuGet package of version that is **prior to 13.2.0.29**, 
 
    Synckeynoui.exe “Unlock key”
 
-   N> You should provide the unlock key as a parameter for this Syncfusion License tool.
+   N> You should provide the unlock key which is started with "@" and ended with "=" as a parameter for this Syncfusion License tool.
 
    ![Command for register the Syncfusion Unlock key](Register-the-Syncfusion-License-key_images/Register-the-Syncfusion-License-key-img1.png)
 
