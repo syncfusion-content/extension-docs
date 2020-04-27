@@ -16,7 +16,7 @@ While using Syncfusion NuGet package of version that is **prior to 13.2.0.29**, 
 1. Download the [Syncfusion License](http://files2.syncfusion.com/Installs/Support/KB/RegisterProductkeyinBuildMachine.zip) Register tool and extract the file. 
 2. Open the Command Prompt with administrator privileges.
 3. Navigate to the root location of the extracted downloaded, Syncfusion license.
-4. Run the following command to register the unlock key.
+4. Run the following command to register the Unlock key.
 
    Synckeynoui.exe “Unlock key”
 
