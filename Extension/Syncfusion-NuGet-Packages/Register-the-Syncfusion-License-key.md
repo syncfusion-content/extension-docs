@@ -20,8 +20,6 @@ While using Syncfusion NuGet package of version that is **prior to 13.2.0.29**, 
 
    Synckeynoui.exe “Unlock key”
 
-   **For Ex:** Synckeynoui.exe “@31382e312e30n2cGUbvL9MpgkMhWIkMeRWOeKknlRQgXcck3oZ30YGE=”
-
    N> You should provide the unlock key as a parameter for this Syncfusion License tool.
 
    ![Command for register the Syncfusion Unlock key](Register-the-Syncfusion-License-key_images/Register-the-Syncfusion-License-key-img1.png)
