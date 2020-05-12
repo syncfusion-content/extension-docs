@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Get rid of from multiple version alert message in Xamarin Toolbox
+title: Get rid of from multiple version alert in Syncfusion Xamarin Toolbox
 description: how to get rid of from multiple version alert message when drag and drop a Syncfusion Xamarin component from Syncfusion Xamarin Toolbox?
 platform: extension
 control: Syncfusion Extensions
