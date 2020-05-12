@@ -1,13 +1,13 @@
 ---
 layout: post
-title: How to get rid of from multiple version alert message in Syncfusion Xamarin Toolbox | Extension | Syncfusion
-description: how to get rid of from multiple version alert message in syncfusion xamarin toolbox?
+title: Get rid of from multiple version alert message in Xamarin Toolbox | Extension | Syncfusion
+description: how to get rid of from multiple version alert message when drag and drop a Syncfusion Xamarin component from Syncfusion Xamarin Toolbox?
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# How to get rid of from multiple version alert message in Syncfusion Xamarin Toolbox?
+# Get rid of from multiple version alert message in Xamarin Toolbox?
 
 When drag and drop a Syncfusion Xamarin control from Syncfusion Xamarin Toolbox in a project with multiple version NuGet packages which is already installed, two types of alert message will be displayed based on the following  scenarios:
 
@@ -28,7 +28,7 @@ Following alert message will be displayed when different Syncfusion Xamarin NuGe
 
 ![Syncfusion Xamarin toolbox alert message when different Syncfusion Xamarin NuGet packages are installed with multiple version in the project](Alert-message-in-Syncfusion-Xamarin-Toolbox_images\Diferent-NuGet-Multiple-Version-Installed.jpg)
 
-So, manually install all the required version Syncfusion Xamarin NuGet packages in the same version to your project and Drag the required control from the Syncfusion Xamarin Toolbox and Drop the render code snippet in the Xaml file of your project. Please refer the [help link](https://help.syncfusion.com/extension/xamarin-extension/toolbox) to use the Syncfusion Xamarin Toolbox.
+So, manually install all the required version Syncfusion Xamarin NuGet packages in the same version to your project and Drag the required control from the Syncfusion Xamarin Toolbox and Drop the render code snippet in the XAML file of your project. Please refer the [help link](https://help.syncfusion.com/extension/xamarin-extension/toolbox) to use the Syncfusion Xamarin Toolbox.
 
 
 
