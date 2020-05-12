@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Get rid of from multiple version alert message in Xamarin Toolbox?
+# Get rid of from multiple version alert message in Xamarin Toolbox
 
 When drag and drop a Syncfusion Xamarin control from Syncfusion Xamarin Toolbox in a project with multiple version NuGet packages which is already installed, two types of alert message will be displayed based on the following  scenarios:
 
