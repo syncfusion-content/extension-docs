@@ -28,7 +28,7 @@ Following alert message will be displayed when different Syncfusion Xamarin NuGe
 
 ![Syncfusion Xamarin toolbox alert message when different Syncfusion Xamarin NuGet packages are installed with multiple version in the project](Alert-message-in-Syncfusion-Xamarin-Toolbox_images\Diferent-NuGet-Multiple-Version-Installed.jpg)
 
-So, manually install all the required version Syncfusion Xamarin NuGet packages in the same version to your project and Drag the required control from the Syncfusion Xamarin Toolbox and Drop the render code snippet in the XAML file of your project. Please refer the [help link](https://help.syncfusion.com/extension/xamarin-extension/toolbox) to use the Syncfusion Xamarin Toolbox.
+So, manually install all the required version Syncfusion Xamarin NuGet packages in the same version to your project and Drag the required Syncfusion component from the Syncfusion Xamarin Toolbox and Drop the render code snippet in the XAML file of your project. Please refer the [help link](https://help.syncfusion.com/extension/xamarin-extension/toolbox) to use the Syncfusion Xamarin Toolbox.
 
 
 
