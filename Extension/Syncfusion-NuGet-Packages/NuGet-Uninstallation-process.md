@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NuGet Uninstallation process | Extension | Syncfusion
-description: Describing the nuget uninstallation process using NuGet Package Manager and Package Manager console
+description: Describing the nuget uninstallation process using NuGet Package Manager dialog and Package Manager console window
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -28,7 +28,7 @@ You can uninstall already installed Syncfusion NuGet packages from project using
 
 N> You cannot uninstall the dependent package because of the package being referred in other NuGet Packages. It removes Project Reference and package from the project location.
 
-4. If you don't want to uninstall the dependent NuGet packages when uninstall the Syncfusion NuGet packages, you can select the **Ignore Dependencies** option to ignore the uninstallation for dependend packages.
+4. If you don't want to uninstall the dependent NuGet packages when uninstall the Syncfusion NuGet packages, you can select the **Ignore Dependencies** option to ignore the uninstallation for dependent packages.
 
    ![Installed packages details in NuGet Package Manager dialog](NuGet-Uninstallation_images/NuGet-Uninstallation-img4.png)
 
