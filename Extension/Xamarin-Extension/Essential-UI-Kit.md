@@ -23,7 +23,7 @@ Download the necessary [Xamarin UI Kit Extension](https://marketplace.visualstud
 
    ![Syncfusion Essential UI Kit Context menu](Essential-UI-Kit-images/Context-Menu.png)
 
-N> The **Essential UI Kit for Xamarin.Forms** add-in will be shown when the project have the **Xamarin.Forms** NuGet package as a referrence and also, Xamarin.Forms project should be a NETStandard project. 
+N> The **Essential UI Kit for Xamarin.Forms** add-in will be shown when the project have the **Xamarin.Forms** NuGet package as a reference and also, Xamarin.Forms project should be a NETStandard project. 
 
 3. Then the Category dialog window will open with its predefined template   
 
