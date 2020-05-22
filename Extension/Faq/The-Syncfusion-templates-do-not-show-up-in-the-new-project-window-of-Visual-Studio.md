@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Syncfusion templates do not show up in the new project window of Visual Studio How can to get them installed | Extension | Syncfusion
+title: Syncfusion template not shown in new project window of Visual Studio
 description: The syncfusion templates do not show up in the new project window of visual studio.  how can to get them installed?
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# The Syncfusion templates do not show up in the new project window of Visual Studio.  How can to get them installed?
+# Syncfusion template not shown in new project window of Visual Studio
 
 Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension build has been installed in the machine or not.
 
