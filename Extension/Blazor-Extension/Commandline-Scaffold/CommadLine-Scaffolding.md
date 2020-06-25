@@ -35,8 +35,7 @@ The following steps explains how to add a scaffolded item from commandline to yo
 	
 	sycfusion-scaffold.exe [control][arguments]
 	
-	
-| Commands                      | Descriptions                                                                  | Control           |
+| Parameter                     | Description                                                                   | Control           |
 |-------------------------------|-------------------------------------------------------------------------------|-------------------|
 | -p\|--project                 | Path to .csproj file in the project.                                          | All Controls      |
 | -cname\|--controller-filename | Name of controller file to be added in project.                               | All controls      |
@@ -46,15 +45,14 @@ The following steps explains how to add a scaffolded item from commandline to yo
 | -pkey\|--primary-key          | Set Feature name/column name as primarykey.                                   | DataGrid/TreeGrid |
 | -tid\|--treegrid-id           | Id of Tasks.                                                                  | TreeGrid          |
 | -pid\|--parent-id             | ParentId value                                                                | TreeGrid/Diagram  |
-| -x\|--x-axis                  | -x\|--x-axis                                                                  | Charts            |
-| -Y\|--Y-axis                  | -Y\|--Y-axis                                                                  | Charts            |
-| -sid\|--scheduler-id          | -sid\|--scheduler-id                                                          | Scheduler         |
-| -stime\|--start-time          | -stime\|--start-time                                                          | Scheduler         |
+| -x\|--x-axis                  | Xaxis of Chart                                                                | Charts            |
+| -Y\|--Y-axis                  | Y-axis of Chart                                                               | Charts            |
+| -sid\|--scheduler-id          | Id of Scheduler Event.                                                        | Scheduler         |
+| -stime\|--start-time          | StartTime of Scheduler Event.                                                 | Scheduler         |
 | -etime\|--end-time            | EndTime of Scheduler Event.                                                   | Scheduler         |
 | --is-all-day                  | Set IsALLDay for Scheduler Event.                                             | Scheduler         |
-| -did\|--diagram-id            | Id of Diagram layout.                                                         | Diagram           |
-|                               |                                         
-	
+| -did\|--diagram-id            | Id of Diagram layout.                                                         | Diagram           |	
+
 2. If you run the sycfusion-scaffold.exe [control] command, the parameters of control shown like below image.
 	
 	![control parameter details](images/controlparameter.png)
