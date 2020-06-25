@@ -27,31 +27,31 @@ The following steps explains how to add a scaffolded item from commandline to yo
 
 1. After installed Syncfusion.Scaffolding tool, we can invoke sycfusion-scaffold command it shows the available controls
 
-	sycfusion-scaffold.exe 
+	**sycfusion-scaffold.exe**
 	
 	![CommandLine Scaffold Available Controls](images/AvailableControl.png)
 	
 2. For add a scaffolded item from command line you have to invoke Syncfusion scaffold exe in below syntax	
 	
-	sycfusion-scaffold.exe [control][arguments]
+	**sycfusion-scaffold.exe [control][arguments]**
 	
-| Parameter                     | Description                                                                   | Control           |
-|-------------------------------|-------------------------------------------------------------------------------|-------------------|
-| -p\|--project                 | Path to .csproj file in the project.                                          | All Controls      |
-| -cname\|--controller-filename | Name of controller file to be added in project.                               | All controls      |
-| -vname\|--view-filename       | Name of view file to be added in project.                                     | All Controls      |
-| -m\|--model                   | Database model name with namespace (example: WebApplication1.Models.Tasks).   | All Controls      |
-| -dc\|--db-context             | DbContext name with namespace (example: WebApplication1.Models.TasksContext). | All Controls      |
-| -pkey\|--primary-key          | Set Feature name/column name as primarykey.                                   | DataGrid/TreeGrid |
-| -tid\|--treegrid-id           | Id of Tasks.                                                                  | TreeGrid          |
-| -pid\|--parent-id             | ParentId value                                                                | TreeGrid/Diagram  |
-| -x\|--x-axis                  | Xaxis of Chart                                                                | Charts            |
-| -Y\|--Y-axis                  | Y-axis of Chart                                                               | Charts            |
-| -sid\|--scheduler-id          | Id of Scheduler Event.                                                        | Scheduler         |
-| -stime\|--start-time          | StartTime of Scheduler Event.                                                 | Scheduler         |
-| -etime\|--end-time            | EndTime of Scheduler Event.                                                   | Scheduler         |
-| --is-all-day                  | Set IsALLDay for Scheduler Event.                                             | Scheduler         |
-| -did\|--diagram-id            | Id of Diagram layout.                                                         | Diagram           |	
+	| Parameter                     | Description                                                                   | Control           |
+	|-------------------------------|-------------------------------------------------------------------------------|-------------------|
+	| -p\|--project                 | Path to .csproj file in the project.                                          | All Controls      |
+	| -cname\|--controller-filename | Name of controller file to be added in project.                               | All controls      |
+	| -vname\|--view-filename       | Name of view file to be added in project.                                     | All Controls      |
+	| -m\|--model                   | Database model name with namespace (example: WebApplication1.Models.Tasks).   | All Controls      |
+	| -dc\|--db-context             | DbContext name with namespace (example: WebApplication1.Models.TasksContext). | All Controls      |
+	| -pkey\|--primary-key          | Set Feature name/column name as primarykey.                                   | DataGrid/TreeGrid |
+	| -tid\|--treegrid-id           | Id of Tasks.                                                                  | TreeGrid          |
+	| -pid\|--parent-id             | ParentId value                                                                | TreeGrid/Diagram  |
+	| -x\|--x-axis                  | Xaxis of Chart                                                                | Charts            |
+	| -Y\|--Y-axis                  | Y-axis of Chart                                                               | Charts            |
+	| -sid\|--scheduler-id          | Id of Scheduler Event.                                                        | Scheduler         |
+	| -stime\|--start-time          | StartTime of Scheduler Event.                                                 | Scheduler         |
+	| -etime\|--end-time            | EndTime of Scheduler Event.                                                   | Scheduler         |
+	| --is-all-day                  | Set IsALLDay for Scheduler Event.                                             | Scheduler         |
+	| -did\|--diagram-id            | Id of Diagram layout.                                                         | Diagram           |	
 
 2. If you run the sycfusion-scaffold.exe [control] command, the parameters of control shown like below image.
 	
