@@ -37,7 +37,7 @@ The following steps explains how to add a scaffolded item from commandline to yo
 	
 	| Parameter                     | Description                                                                   | Control           |
 	|-------------------------------|-------------------------------------------------------------------------------|-------------------|
-	| -p\|--project                 | Path to .csproj file in the project.                                          | All Controls      |
+	| -p|--project                  | Path to .csproj file in the project.                                          | All Controls      |
 	| -cname\|--controller-filename | Name of controller file to be added in project.                               | All controls      |
 	| -vname\|--view-filename       | Name of view file to be added in project.                                     | All Controls      |
 	| -m\|--model                   | Database model name with namespace (example: WebApplication1.Models.Tasks).   | All Controls      |
