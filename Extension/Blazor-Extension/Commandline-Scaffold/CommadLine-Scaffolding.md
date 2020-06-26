@@ -69,7 +69,7 @@ The following steps explains how to add a scaffolded item from commandline to yo
 	![Core added Files](images/Corefiles.png)
 	![Core Service changes](images/CoreScript.png)
 	
-	If you pass ASPNETCore Project controller(.cs) file and view(.razor) file will be added in project
+	If you pass Blazor Project controller(.cs) file and view(.razor) file will be added in project
 	
 	![Blazor added Files](images/blazorfile.png)
 	![Blazor Service Changes](images/blazorstyle.png)
