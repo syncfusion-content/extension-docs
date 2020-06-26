@@ -33,6 +33,8 @@ The following steps explains how to add a scaffolded item from commandline to yo
 2. For add a scaffolded item from command line you have to invoke Syncfusion scaffold exe in below syntax	
 	
 	**sycfusion-scaffold.exe [control][arguments]**
+
+### Arguments
 	
 	| Parameter                     | Description                                                                   | Control           |
 	|-------------------------------|-------------------------------------------------------------------------------|-------------------|
