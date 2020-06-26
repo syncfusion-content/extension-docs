@@ -62,7 +62,7 @@ Install **syncfusion.scaffolding** tool globally by using below command
 
 ## Update Command-line Scaffolding
 
-Update **Syncfusion.Scaffolding** tool globally by using below command 
+Update **syncfusion.scaffolding** tool globally by using below command 
 
 **dotnet tool update -g syncfusion.scaffolding** 
 
