@@ -66,7 +66,7 @@ Update **syncfusion.scaffolding** tool globally by using below command
 
 **dotnet tool update -g syncfusion.scaffolding** 
 
-## Add a scaffolded item from command line scaffold
+## Add a scaffolded item from command-line scaffold
 
 The following steps explains how to add a scaffolded item from command line to your ASPNETCore application.
 
@@ -76,7 +76,7 @@ The following steps explains how to add a scaffolded item from command line to y
 	
 	![CommandLine Scaffold Available Controls](Scaffolding_Images/AvailableControl.png)
 	
-2. For add a scaffolded item from command line you have to invoke syncfusion-scaffold application like below syntax	
+2. For add a scaffolded item from command-line you have to invoke syncfusion-scaffold application like below syntax	
 	
 	**syncfusion-scaffold [control][arguments]**
 
@@ -103,7 +103,7 @@ The following steps explains how to add a scaffolded item from command line to y
 	
 	![control parameter details](Scaffolding_Images/controlparameter.png)
 	
-3. Run the following command to generate controller and view files through command line by passing required arguments of the given control.
+3. Run the following command to generate controller and view files through command-line by passing required arguments of the given control.
 	
 	**sycfusion_scaffold {controlName} --project "{projectFileNamewithPath}" --model {model} -dc {dbContext} -cname {controllerName} -vname {viewName} [controlMantoryParameter] [controlMantatoryParameterValue]**
 	
