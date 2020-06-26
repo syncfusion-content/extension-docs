@@ -34,10 +34,9 @@ The following steps explains how to add a scaffolded item from commandline to yo
 	
 	**sycfusion-scaffold.exe [control][arguments]**
 
-### Arguments
 	
-	| Parameter                     | Description                                                                   | Control           |
-	|-------------------------------|-------------------------------------------------------------------------------|-------------------|
+	| Parameter                         | Description                                                                   | Control           |
+	|-----------------------------------|-------------------------------------------------------------------------------|-------------------|
 	| -p&#124;--project                 |  Path to .csproj file in the project.                                         |  All Controls     | 
 	| -cname&#124;--controller-filename | Name of controller file to be added in project.                               | All controls      |
 	| -vname&#124;--view-filename       | Name of view file to be added in project.                                     | All Controls      |
