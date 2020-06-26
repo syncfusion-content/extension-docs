@@ -48,9 +48,9 @@ The following steps explain you how to add a scaffolded item to your ASP.NET Cor
  8. If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
  
 
-## Syncfusion ASPNETCore Commandline Scaffolding
+## Syncfusion ASPNETCore Command line Scaffolding
 
-Syncfusion provides **Commandline Scaffolding** for Syncfusion ASPNETCore platform to quickly add code that interacts with data models and reduce the amount of time to develop with data operation in your project. Scaffolding provides an easier way to create view file and Controller action methods for Syncfusion Blazor DataGrid, Charts, Scheduler, Diagram, Tree Grid, Rich Text Editor, Document Editor, and PDF Viewer controls.
+Syncfusion provides **Command line Scaffolding** for Syncfusion ASPNETCore platform to quickly add code that interacts with data models and reduce the amount of time to develop with data operation in your project. Scaffolding provides an easier way to create view file and Controller action methods for Syncfusion Blazor DataGrid, Charts, Scheduler, Diagram, Tree Grid, Rich Text Editor, Document Editor, and PDF Viewer controls.
 
 N>Check that at least one Entity Framework model exists, and the application has been compiled once. If no Entity Framework model exist in your application, refer to this [documentation](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1) to generate the Entity Framework model. After the model file has been added, check that the required DBContext and properties are added. Now, build the application, and try scaffolding. If any changes made in the model properties, rebuild the application once before perform scaffolding.
 
@@ -70,15 +70,15 @@ Update **Syncfusion.Scaffolding** tool globally by using below command
 
 The following steps explains how to add a scaffolded item from command line to your ASPNETCore/Blazor application.
 
-1. After installed Syncfusion.Scaffolding tool, we can invoke sycfusion-scaffold command it shows the available controls
+1. After installed Syncfusion.Scaffolding tool, we can invoke Syncfusion-scaffold command it shows the available controls
 
-	**Sycfusion-scaffold.exe**
+	**Syncfusion-scaffold.exe**
 	
 	![CommandLine Scaffold Available Controls](Scaffolding_Images/AvailableControl.png)
 	
 2. For add a scaffolded item from command line you have to invoke Syncfusion scaffold exe in below syntax	
 	
-	**Sycfusion-scaffold.exe [control][arguments]**
+	**Syncfusion-scaffold.exe [control][arguments]**
 
 	
 	| Parameter                         | Description                                                                   | Control           |
