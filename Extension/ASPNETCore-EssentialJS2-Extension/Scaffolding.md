@@ -68,17 +68,17 @@ Update **syncfusion.scaffolding** tool globally by using below command
 
 ## Add a scaffolded item from command-line scaffold
 
-The following steps explains how to add a scaffolded item from command line to your ASPNETCore application.
+The following steps explains how to add a scaffolded item from command-line to your ASPNETCore application.
 
-1. After installed syncfusion.scaffolding tool, we can invoke syncfusion-scaffold command it shows the available controls
+1. After installed syncfusion.scaffolding tool, we can invoke syncfusion_scaffold command it shows the available controls
 
-	**syncfusion-scaffold**
+	**syncfusion_scaffold**
 	
 	![CommandLine Scaffold Available Controls](Scaffolding_Images/AvailableControl.png)
 	
-2. For add a scaffolded item from command-line you have to invoke syncfusion-scaffold application like below syntax	
+2. For add a scaffolded item from command-line you have to invoke syncfusion_scaffold application like below syntax	
 	
-	**syncfusion-scaffold [control][arguments]**
+	**syncfusion_scaffold [control][arguments]**
 
 	
 	| Parameter                         | Description                                                                   | Control           |
@@ -99,7 +99,7 @@ The following steps explains how to add a scaffolded item from command line to y
 	| --is-all-day                  	| Set IsALLDay for Scheduler Event.                                             | Scheduler         |
 	| -did&#124;--diagram-id            | Id of Diagram layout.                                                         | Diagram           |	
 
-2. If you run the sycfusion-scaffold [control] command, the parameters of control shown like below image.
+2. If you run the sycfusion_scaffold [control] command, the parameters of control shown like below image.
 	
 	![control parameter details](Scaffolding_Images/controlparameter.png)
 	

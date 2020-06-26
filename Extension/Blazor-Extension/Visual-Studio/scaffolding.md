@@ -88,15 +88,15 @@ Update **syncfusion.scaffolding** tool globally by using below command
 
 The following steps explains how to add a scaffolded item from command-line to your Blazor application.
 
-1. After installed syncfusion.scaffolding tool, we can invoke syncfusion-scaffold command it shows the available controls
+1. After installed syncfusion.scaffolding tool, we can invoke syncfusion_scaffold command it shows the available controls
 
-	**syncfusion-scaffold**
+	**syncfusion_scaffold**
 	
 	![CommandLine Scaffold Available Controls](images/AvailableControl.png)
 	
-2. For add a scaffolded item from command-line you have to invoke syncfusion-scaffold application like below syntax	
+2. For add a scaffolded item from command-line you have to invoke syncfusion_scaffold application like below syntax	
 	
-	**syncfusion-scaffold [control][arguments]**
+	**syncfusion_scaffold [control][arguments]**
 
 	
 	| Parameter                         | Description                                                                   | Control           |
@@ -117,11 +117,11 @@ The following steps explains how to add a scaffolded item from command-line to y
 	| --is-all-day                  	| Set IsALLDay for Scheduler Event.                                             | Scheduler         |
 	| -did&#124;--diagram-id            | Id of Diagram layout.                                                         | Diagram           |	
 
-2. If you run the sycfusion-scaffold [control] command, the parameters of control shown like below image.
+2. If you run the sycfusion_scaffold [control] command, the parameters of control shown like below image.
 	
 	![control parameter details](images/controlparameter.png)
 	
-3. Run the following command to generate controller and view files through command line by passing required arguments of the given control.
+3. Run the following command to generate controller and view files through command-line by passing required arguments of the given control.
 	
 	**sycfusion_scaffold {controlName} --project "{projectFileNamewithPath}" --model {model} -dc {dbContext} -cname {controllerName} -vname {viewName} [controlMantoryParameter] [controlMantatoryParameterValue]**
 	
