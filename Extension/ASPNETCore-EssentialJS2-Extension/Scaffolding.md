@@ -53,31 +53,31 @@ Syncfusion provides **Commandline Scaffolding** for Syncfusion ASPNETCore platfo
 
 N>Check that at least one Entity Framework model exists, and the application has been compiled once. If no Entity Framework model exist in your application, refer to this [documentation](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1) to generate the Entity Framework model. After the model file has been added, check that the required DBContext and properties are added. Now, build the application, and try scaffolding. If any changes made in the model properties, rebuild the application once before perform scaffolding.
 
-## Install Commandline Scaffolding
+## Install Command line Scaffolding
 
 Install **Syncfusion.Scaffolding** tool globally by using below command 
 
 **dotnet tool install -g Syncfusion.Scaffolding** 
 
-## Update Commandline Scaffolding
+## Update Command line Scaffolding
 
 Update **Syncfusion.Scaffolding** tool globally by using below command 
 
 **dotnet tool update -g Syncfusion.Scaffolding** 
 
-## Add a scaffolded item from commandline scaffold
+## Add a scaffolded item from command line scaffold
 
-The following steps explains how to add a scaffolded item from commandline to your ASPNETCore/Blazor application.
+The following steps explains how to add a scaffolded item from command line to your ASPNETCore/Blazor application.
 
 1. After installed Syncfusion.Scaffolding tool, we can invoke sycfusion-scaffold command it shows the available controls
 
-	**sycfusion-scaffold.exe**
+	**Sycfusion-scaffold.exe**
 	
 	![CommandLine Scaffold Available Controls](Scaffolding_Images/AvailableControl.png)
 	
 2. For add a scaffolded item from command line you have to invoke Syncfusion scaffold exe in below syntax	
 	
-	**sycfusion-scaffold.exe [control][arguments]**
+	**Sycfusion-scaffold.exe [control][arguments]**
 
 	
 	| Parameter                         | Description                                                                   | Control           |
@@ -95,16 +95,16 @@ The following steps explains how to add a scaffolded item from commandline to yo
 	| -sid&#124;--scheduler-id          | Id of Scheduler Event.                                                        | Scheduler         |
 	| -stime&#124;--start-time          | StartTime of Scheduler Event.                                                 | Scheduler         |
 	| -etime&#124;--end-time            | EndTime of Scheduler Event.                                                   | Scheduler         |
-	| --is-all-day                  | Set IsALLDay for Scheduler Event.                                             | Scheduler         |
+	| --is-all-day                  	| Set IsALLDay for Scheduler Event.                                             | Scheduler         |
 	| -did&#124;--diagram-id            | Id of Diagram layout.                                                         | Diagram           |	
 
-2. If you run the sycfusion-scaffold.exe [control] command, the parameters of control shown like below image.
+2. If you run the Sycfusion-scaffold.exe [control] command, the parameters of control shown like below image.
 	
 	![control parameter details](Scaffolding_Images/controlparameter.png)
 	
 3. Run the following command to generate controller and view files through command line by passing  required arguments	of the given control.
 	
-	**sycfusion_scaffold {controlName} --project "{projectFileNamewithPath}" --model {model} -dc {dbContext} -cname {controllerName} -vname {viewName} [controlMantoryParameter] [controlMantatoryParameterValue]**
+	**Sycfusion_scaffold {controlName} --project "{projectFileNamewithPath}" --model {model} -dc {dbContext} -cname {controllerName} -vname {viewName} [controlMantoryParameter] [controlMantatoryParameterValue]**
 	
 	![CommandLine Scaffold](Scaffolding_Images/commandline.png)
 	
