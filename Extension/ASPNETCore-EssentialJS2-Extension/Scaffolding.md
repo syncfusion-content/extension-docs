@@ -99,13 +99,13 @@ The following steps explains how to add a scaffolded item from command-line to y
 	| --is-all-day                  	| Set IsALLDay for Scheduler Event.                                             | Scheduler         |
 	| -did&#124;--diagram-id            | Id of Diagram layout.                                                         | Diagram           |	
 
-2. If you run the sycfusion_scaffold [control] command, the parameters of control shown like below image.
+2. If you run the syncfusion_scaffold [control] command, the parameters of control shown like below image.
 	
 	![control parameter details](Scaffolding_Images/controlparameter.png)
 	
 3. Run the following command to generate controller and view files through command-line by passing required arguments of the given control.
 	
-	**sycfusion_scaffold {controlName} --project "{projectFileNamewithPath}" --model {model} -dc {dbContext} -cname {controllerName} -vname {viewName} [controlMantoryParameter] [controlMantatoryParameterValue]**
+	**syncfusion_scaffold {controlName} --project "{projectFileNamewithPath}" --model {model} -dc {dbContext} -cname {controllerName} -vname {viewName} [controlMantoryParameter] [controlMantatoryParameterValue]**
 	
 	![CommandLine Scaffold](Scaffolding_Images/commandline.png)
 	
