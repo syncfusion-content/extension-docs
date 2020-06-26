@@ -59,7 +59,7 @@ The following steps explains how to add a scaffolded item from commandline to yo
 	
 3. Run the following command to generate controller and view files through command line by passing  required arguments	of the given control.
 	
-	**sycfusion_scaffold {controlName} --project "{projectFileNamewithPath}" --model {model} -dc {dbContext}  -dsource {dataSource} -cname {controllerName} -vname {viewName} [controlMantoryParameter] [controlMantatoryParameterValue]**
+	**sycfusion_scaffold {controlName} --project "{projectFileNamewithPath}" --model {model} -dc {dbContext} -cname {controllerName} -vname {viewName} [controlMantoryParameter] [controlMantatoryParameterValue]**
 	
 	![CommandLine Scaffold](images/commandline.png)
 	
