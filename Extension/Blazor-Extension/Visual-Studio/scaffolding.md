@@ -88,7 +88,7 @@ Update **Syncfusion.Scaffolding** tool globally by using below command
 
 The following steps explains how to add a scaffolded item from command line to your ASPNETCore/Blazor application.
 
-1. After installed Syncfusion.Scaffolding tool, we can invoke Sycfusion-scaffold command it shows the available controls
+1. After installed Syncfusion.Scaffolding tool, we can invoke Syncfusion-scaffold command it shows the available controls
 
 	**Syncfusion-scaffold.exe**
 	
