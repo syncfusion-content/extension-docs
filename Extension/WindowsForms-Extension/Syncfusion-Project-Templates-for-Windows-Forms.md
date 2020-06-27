@@ -32,6 +32,10 @@ Use the following steps to create the Syncfusion Windows Forms project through t
 
    ![Choose Syncfusion Windows Forms Application from Visual Studio new project dialog](Project-Template-images\Syncfusion-Project-Template-Gallery-1.png)
 
+   In Visual Studio 2019 Select File -> New -> Project. Opens a new dialog to create a new project. You can obtain the templates provided by Syncfusion for Winforms  by filtering the project type with Syncfusion or by using the Syncfusion keyword in the search option.
+
+   ![Choose Syncfusion Windows Forms Application from Visual Studio new project dialog](Project-Template-images\Syncfusion-Project-Template-Gallery2019-1.png)
+
 2. Name the Project, choose the destination location when required, and set the Framework of the project, then click OK.  
 
    N> Minimum target Framework is 3.5 for Syncfusion Windows Forms project templates. 
@@ -39,20 +43,25 @@ Use the following steps to create the Syncfusion Windows Forms project through t
 3. Choose the options to configure the Syncfusion Windows Forms Application by using the following Project Configuration Wizard.  
   
    ![Syncfusion Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery-2.png)
+
+   In Visual Studio 2019 Syncfusion Windows Froms Application project configuration wizard.
+
+   ![Syncfusion Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery2019-2.png)
+         
                                                      
    ### Project configurations: 
 
-   **Project Type:** Select the project type, either .NET Framework or .NET Core.
+   **Project Type:** Select the project type, either .Net 5.0, .Net Core 3.1 or .Net Framework.
 
    ![Choose the project type in Syncfusion Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery-11.png)
 
-   N> Project type selection option will be available only in Visual Studio 2019 Syncfusion Windows Forms Project template configuration. The .NET Core option will be listed in project type only when the Dotnet Core 3.0 setup has been installed.
+   N> Project type selection option will be available only in Visual Studio 2019 Syncfusion Windows Forms Project template configuration. The .Net Core 3.1 and .Net 5.0 option will be listed in project type only when the .Net Core 3.1 and .Net 5.0 setup has been installed.
 
    **Language:** Select the language, either C# or VB. 
 
    ![Choose the language in Syncfusion Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery-3.png)
 
-   N> C# language is available only when you choose .NET Core from project type option in Visual Studio 2019.
+   N> C# language is available only when you choose .NET 5.0 and .Net Core 3.1 from project type option in Visual Studio 2019.
 
    ![Choose the language in Syncfusion Windows Forms .NET Core project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery-9.png)
 
@@ -60,7 +69,7 @@ Use the following steps to create the Syncfusion Windows Forms project through t
 
    ![Choose the assembly location from where assemblies to be added to the project](Project-Template-images\Syncfusion-Project-Template-Gallery-4.png)
 
-   N> Installed location and GAC option will be available only when the Syncfusion Essential Windows Forms setup has been installed. You can use NuGet option without installing the Syncfusion Essential Windows Forms setup. Also, the GAC option will not be available when you choose .NET Core from project type option in Visual Studio 2019. 
+   N> Installed location and GAC option will be available only when the Syncfusion Essential Windows Forms setup has been installed. You can use NuGet option without installing the Syncfusion Essential Windows Forms setup. Also, the GAC option will not be available when you choose .NET 5.0 and .Net Core 3.1 from project type option in Visual Studio 2019.
 
    **Installed ES Build Version:** Choose the build version to add the corresponding version assemblies to the project.
 

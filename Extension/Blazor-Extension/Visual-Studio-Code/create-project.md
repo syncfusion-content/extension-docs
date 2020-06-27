@@ -37,6 +37,8 @@ The following steps help you create **Syncfusion Blazor Applications** through t
 
     ![ProjectTypes](images/ProjectTypes.png)  
 
+    > Syncfusion Blazor WebAssembly App will be enabled only if selected core version is .Net Core 3.1 version.
+
     If you choose a Syncfusion Blazor Web Assembly App, you will have the option to include ASP.NET Core hosted and Progressive Web Application.
 
     ![SubProjectTypes](images/SubProjectTypes.png)  

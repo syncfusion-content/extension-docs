@@ -43,6 +43,8 @@ The following steps will help you create your **Syncfusion Blazor Application** 
    * Syncfusion Blazor Server App
    * Syncfusion Blazor WebAssembly App
 
+   N> The Syncfusion Blazor WebAssembly App will be enabled only if selected .Net Core version is ASP NET Core 3.1. 
+
    In the Syncfusion Blazor WebAssembly App project type, we can choose **ASP.NET Core hosted**, **Progressive Web Application**, or both.
 
     ![ProjectTypeWizard](images/ProjectTypeWizard.png)
@@ -69,7 +71,7 @@ The following steps will help you create your **Syncfusion Blazor Application** 
 
 6. Click either **Next** or the **Features** tab, and you will see the features listed for the selected controls. You can choose the required features.
 
-7. Click either **Next** or the **Configuration** tab, and the Configuration section will be loaded. You can choose the required .NET Core version, themes, https configuration, and Blazor Web Assembly project types (ASP.NET Core hosted and Progressive Web Application).
+7. Click either **Next** or the **Configuration** tab, and the Configuration section will be loaded. You can choose the required (.NET 5.0 and ASP NET Core 3.1), themes, https configuration, and Blazor Web Assembly project types (ASP.NET Core hosted and Progressive Web Application).
 
    N> ASP.NET Core hosted and Progressive Web Application options are only visible for the Blazor Web Assembly App project type.
 
@@ -129,5 +131,11 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 You can run the application and see the Syncfusion components you selected. Select a component to see component output.
 ![Blazor Template output page](images/HomePage.png)
+
+You can select a culture language in combobox at top right on the page to apply the culture in the application. 
+
+![Blazor Template output page](images/Localization.png)
+
+> **Note:** Above combobox will be enabled in sample output only if localization option is selected in configuration window from Blazor Template Studio wizard. 
 
 If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
