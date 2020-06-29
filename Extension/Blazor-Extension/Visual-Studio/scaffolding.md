@@ -68,23 +68,23 @@ N>Scheduler control is not applicable for Blazor Hosted application.
 
 ## Syncfusion Blazor Command-line Scaffolding
 
-Syncfusion provides **Command-line Scaffolding** from command-line for Syncfusion Blazor platform to quickly add code that interacts with data models and reduce the amount of time to develop with data operation in your project. Scaffolding provides an easier way to create view file and Controller action methods for Syncfusion Blazor DataGrid, Charts, Scheduler, Diagram, Tree Grid, Rich Text Editor, Document Editor, and PDF Viewer controls.
+Syncfusion provides **Scaffolding command-line** for Syncfusion ASP.NET Core to quickly add code that interacts with data models and reduce the amount of time to develop with data operation in your project. Scaffolding provides an easier way to create view file and Controller action methods for Syncfusion Blazor DataGrid, Charts, Scheduler, Diagram, Tree Grid, Rich Text Editor, Document Editor, and PDF Viewer controls.
 
-N> Check that at least one Entity Framework model exists, and the application has been compiled once. If no Entity Framework model exist in your application, refer to this [documentation](https://www.freecodecamp.org/news/how-to-create-an-application-using-blazor-and-entity-framework-core-1c1679d87c7e/) to generate the Entity Framework model. After the model file has been added, check that the required DBContext and properties are added. Now, build the application, and try scaffolding. If any changes made in the model properties, rebuild the application once before perform scaffolding.
+N> Check that at least one Entity Framework model exists. If no Entity Framework model exist in your application, refer to this [documentation](https://www.freecodecamp.org/news/how-to-create-an-application-using-blazor-and-entity-framework-core-1c1679d87c7e/) to generate the Entity Framework model. After the model file has been added, check that the required DBContext and properties are added. Now, build the application, and try scaffolding. If any changes made in the model properties, rebuild the application once before perform scaffolding.
 
 ## Install Command-line Scaffolding
 
-Install **syncfusion.scaffolding** tool globally by using below command 
+Install **syncfusion.scaffolding** tool globally by using below command.
 
 **dotnet tool install -g syncfusion.scaffolding** 
 
 ## Update Command-line scaffolding
 
-Update **syncfusion.scaffolding** tool globally by using below command 
+Update **syncfusion.scaffolding** tool globally by using below command. 
 
 **dotnet tool update -g syncfusion.scaffolding** 
 
-## Add a scaffolded item from command-line scaffold
+## Add a scaffolded item from command-line
 
 The following steps explains how to add a scaffolded item from command-line to your Blazor application.
 
@@ -94,7 +94,7 @@ The following steps explains how to add a scaffolded item from command-line to y
 	
 	![CommandLine Scaffold Available Controls](images/AvailableControl.png)
 	
-2. For add a scaffolded item from command-line you have to invoke syncfusion_scaffold application like below syntax	
+2. To add a scaffolded item from command-line you have to invoke syncfusion_scaffold application like below syntax	
 	
 	**syncfusion_scaffold [control][arguments]**
 
