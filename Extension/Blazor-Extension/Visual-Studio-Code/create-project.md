@@ -35,7 +35,7 @@ The following steps help you create **Syncfusion Blazor Applications** through t
    1.	Syncfusion Blazor Server App
    2.	Syncfusion Blazor WebAssembly App
 
-    ![ProjectTypes](images/ProjectTypes.png)  
+    ![ProjectTypes](images/ProjectTypes.png)
 
     If you choose a Syncfusion Blazor Web Assembly App, you will have the option to include ASP.NET Core hosted and Progressive Web Application.
 
