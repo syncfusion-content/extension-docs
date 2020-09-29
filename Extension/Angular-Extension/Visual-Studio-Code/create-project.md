@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion provides **project templates** for **VisualStudio Code** to create Syncfusion Angular applications. Syncfusion Angular creates applications with the required Syncfusion NPM packages, and component render code for the Grid, Chart, and Scheduler components, and the style for making development easier with Syncfusion components.
 
-   > The Syncfusion Visual Studio Code project template provides support for Angular project templates from v18.3.0.*.
+   > The Syncfusion Visual Studio Code project template provides support for Angular project templates from v18.3.0.35.
 
 The following steps help you create **Syncfusion Angular Applications** through the **Visual Studio Code:**
 

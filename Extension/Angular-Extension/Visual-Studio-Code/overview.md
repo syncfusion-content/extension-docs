@@ -13,4 +13,4 @@ The Syncfusion Essential Studio Angular extension for Visual Studio Code allows 
 
 The Syncfusion Angular provides the following support in Visual Studio Code:
 
-[Project-Template](./visual-studio-code-extensions/create-project):  Creates Syncfusion Angular applications by adding the required Syncfusion Angular components.
+[Project-Template](https://help.syncfusion.com/extension/angular-extension/visual-studio-code/create-project): Creates Syncfusion Angular applications by adding the required Syncfusion Angular components.
