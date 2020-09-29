@@ -33,17 +33,17 @@ The following steps explain how to install the Syncfusion Angular extensions fro
 
 3. Type **“Syncfusion Angular** in the search box.
 
-     ![Extension](../images/Extension.png)
+     ![Extension](images/Extension.png)
 
 4. Click the Install button on the **"Angular Project Templates - Syncfusion"** extension.
 
 5. After the installation, reload the Visual Studio Code using the **Reload Window** command in Visual Studio Code palette.
 
-     ![Reload-Window](../images/Reload-Window.png)
+     ![Reload-Window](images/Reload-Window.png)
 
 6. Now, use the Syncfusion extensions from the Visual Studio Code palette.
 
-     ![CreateProjectPalette](../images/CreateProjectPalette.png)
+     ![CreateProjectPalette](images/CreateProjectPalette.png)
 
 ## Install from the Visual Studio Code Marketplace
 
@@ -57,8 +57,8 @@ The following steps explain how to download Syncfusion Angular applications from
 
 4. After the installation, reload the Visual Studio Code using the Reload Window command in Visual Studio Code palette.
 
-     ![Reload-Window](../images/Reload-Window.png)
+     ![Reload-Window](images/Reload-Window.png)
 
 5. Now, use the Syncfusion extensions from the Visual Studio Code palette.
 
-     ![CreateProjectPalette](../images/CreateProjectPalette.png)
+     ![CreateProjectPalette](images/CreateProjectPalette.png)

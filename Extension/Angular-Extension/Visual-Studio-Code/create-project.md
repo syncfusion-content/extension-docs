@@ -17,27 +17,27 @@ The following steps help you create **Syncfusion Angular Applications** through 
 
 1. In Visual Studio Code, open the command palette by pressing **Ctrl+Shift+P**. The Visual Studio Code palette opens, search the word **Syncfusion** so you can get the templates provided.
 
-    ![CreateProjectPalette](../images/CreateProjectPalette.png)
+    ![CreateProjectPalette](images/CreateProjectPalette.png)
 
 2. Select **Create Syncfusion Angular Project** and then press **Enter**. The **Project Location** palette appears to store the application.
 
-    ![ProjectLocation](../images/ProjectLocation.png)
+    ![ProjectLocation](images/ProjectLocation.png)
 
 3. Provide the destination location and then press **Enter**. The **Project Name** palette appears. Provide the name of the application and enter.  
 
-    ![ProjectName](../images/ProjectName.png)
+    ![ProjectName](images/ProjectName.png)
 
 4. The palette of theme selection appears. Choose the preferred theme and then click Enter. The project will be created.
 
-    ![Themes](../images/Themes.png)
+    ![Themes](images/Themes.png)
 
 5. The created Syncfusion Angular app is configured with the Syncfusion NPM packages, styles, and the component render code for the Syncfusion component added.
 
-    ![NPM Packages](../images/npm-install.png)
+    ![NPM Packages](images/npm-install.png)
 
-    ![Styles](../images/styles.png)
+    ![Styles](images/styles.png)
 
-    ![Components](../images/components.png)
+    ![Components](images/components.png)
 
 ## Run the application
 
@@ -47,14 +47,14 @@ To run the application,follow the below steps.
 
 2. Then run the **npm install** command to restore the NPM packages.
 
-    ![NPM Command](../images/npm-command.png)
+    ![NPM Command](images/npm-command.png)
 
 3. Now, run the **ng serve** command to compile the Syncfusion Angular application.
 
-    ![NG Command](../images/ng-command.png)
+    ![NG Command](images/ng-command.png)
 
     > To run the ng serve command, you should be installed the Angular CLI by using the command **npm install -g @angular/cli**
 
 4. After compilation process completed, open the local host link in browser to see the output.
 
-    ![Output](../images/output.png)
+    ![Output](images/output.png)
