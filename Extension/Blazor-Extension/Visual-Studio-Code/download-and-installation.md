@@ -21,7 +21,7 @@ The following prerequisites software need to be installed for the Syncfusion Bla
 
 * [Visual Studio 2019 16.3 Preview 2](https://visualstudio.microsoft.com/vs/) or later.
 
-* [.NET Core 3.0](https://dotnet.microsoft.com/download/dotnet-core/3.0) or later.
+* [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1) or later.
 
 * [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 
