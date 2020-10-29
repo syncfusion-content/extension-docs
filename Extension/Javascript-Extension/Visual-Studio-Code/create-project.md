@@ -9,7 +9,7 @@ documentation: ug
 
 ## Create project
 
-Syncfusion provides **project templates** for **VisualStudio Code** to create Syncfusion Web applications. Syncfusion Web creates applications with the choosed Frameworks(React, Angular, and Vue) required Syncfusion NPM packages, and component render code for the Grid, Chart, and Scheduler components, and the style for making development easier with Syncfusion components.
+Syncfusion provides **project templates** for **VisualStudio Code** to create Syncfusion Web applications. Syncfusion Web creates applications with the selected Frameworks(React, Angular, and Vue) required Syncfusion NPM packages, and component render code for the Grid, Chart, and Scheduler components, and the style for making development easier with Syncfusion components.
 
    > The Syncfusion Visual Studio Code project template provides support for Web project templates from v18.3.0.47.
 
@@ -25,7 +25,7 @@ The following steps help you create **Syncfusion Web Applications** through the 
 
 3. Click either **Next** or the **Framework** tab. The Frameworks types will appears. Choose one of the Frameworks:
    * React
-   * Angulat
+   * Angular
    * Vue
 
     ![Frameworks](images/frameworktype.png)

@@ -13,7 +13,7 @@ Syncfusion publishes the Visual Studio Code extension in [Visual Studio Code mar
 
 ## Prerequisites
 
-The following prerequisites software needs to be installed for the Syncfusion Web extension installation and for creating the Syncfusion Web applications along with any one of the Frameworks(React, Angular, and VUe).
+The following prerequisites software needs to be installed for the Syncfusion Web extension installation and for creating the Syncfusion Web applications along with any one of the Frameworks(React, Angular, and Vue).
 
 * [Visual Studio Code](https://code.visualstudio.com/download)
 
@@ -47,7 +47,7 @@ The following steps explain how to install the Syncfusion Web extensions from Vi
 
 The following steps explain how to download Syncfusion Web applications from the Visual Studio Code Marketplace and install them.
 
-1. Open the [Syncfusion Wwb Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Web-VSCode-Extensions)
+1. Open the [Syncfusion Web Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Web-VSCode-Extensions)
 
 2. Click Install from Visual Studio Code Marketplace. The browser opens the popup with the information like **“Open Visual Studio Code”**. Click Open Visual Studio Code, then [Syncfusion Web Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Angular-VSCode-Extensions) will open in Visual Studio Code.
 
