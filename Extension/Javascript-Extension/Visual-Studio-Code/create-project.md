@@ -67,6 +67,7 @@ The following steps help you create **Syncfusion Web Applications** through the 
 
 6. Click on **F5** or navigate to **Debug>Start debugging**
 
+    ![Run](images/run.png)
 
 7. After compilation process completed, open the local host link in browser to see the output.
     
