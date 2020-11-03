@@ -13,7 +13,7 @@ Syncfusion publishes the Visual Studio Code extension in [Visual Studio Code mar
 
 ## Prerequisites
 
-The following prerequisites software needs to be installed for the Syncfusion Web extension installation and for creating the Syncfusion Web applications along with any one of the Frameworks(React, Angular, and Vue).
+The following prerequisites software needs to be installed for the Syncfusion Web extension installation and for creating the Syncfusion Web applications along with any one of the Framework(React, Angular, and Vue).
 
 * [Visual Studio Code](https://code.visualstudio.com/download)
 
@@ -37,7 +37,7 @@ The following steps explain how to install the Syncfusion Web extensions from Vi
 
 4. Click the Install button on the **"Web VSCode Extensions - Syncfusion"** extension.
 
-5. After the installation, reload the Visual Studio Code using the **Reload Required** command in Visual Studio Code palette.
+5. After the installation, reload the Visual Studio Code using the **Reload Required** in Visual Studio Code palette.
 
 6. Now, use the Syncfusion Web extensions from the Visual Studio Code palette.
 
