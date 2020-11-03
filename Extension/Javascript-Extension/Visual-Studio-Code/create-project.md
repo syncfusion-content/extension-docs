@@ -23,7 +23,7 @@ The following steps help you create **Syncfusion Web Applications** through the 
 
     ![ProjectLocation](images/ProjectLocationName.png)
 
-3. Click either **Next** or the **Framework** tab, and the Framework types will be appears.Choose any one of the Framework:
+3. Click either **Next** or the **Framework** tab, and the Framework types will be appears. Choose any one of the Framework:
    * React
    * Angular
    * Vue
