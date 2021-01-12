@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-## Overview
+# About Web VSCode Extension Overview
 
 The Syncfusion Essential Studio Web extension for Visual Studio Code allows you to use the Syncfusion JavaScript components(React, Angular, and Vue) easily by configuring the Syncfusion NPM packages and themes.
 
