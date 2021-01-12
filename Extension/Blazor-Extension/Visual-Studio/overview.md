@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-## Overview
+# Blazor Extension for Visual Studio
 
 The Syncfusion Essential Studio for Blazor extensions for Visual Studio that make it easier to use the Syncfusion component by creating Syncfusion Blazor application in Visual Studio and updating the Syncfusion version from the application.
 
