@@ -13,7 +13,7 @@ Syncfusion provides **Visual Studio Scaffolding** for Syncfusion ASP.NET Core pl
 
 N>Check that at least one Entity Framework model exists, and the application has been compiled once. If no Entity Framework model exist in your application, refer to this [documentation](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1) to generate the Entity Framework model. After the model file has been added, check that the required DBContext and properties have been added. Build the application before try scaffolding. If any changes have been done in the model properties, rebuild the application once before performing scaffolding. 
 
-I> The Syncfusion ASP.NET Core UI Scaffolder is available from v17.4.0.39.
+I> The Syncfusion ASP.NET Core UI Scaffolder is available from v17.4.0.39 for ASP.NET Core MVC application  and provided the Scaffolding support to ASP.NET Core web application from 18.4.0.39.
 
 ## Add a scaffolded item
 
