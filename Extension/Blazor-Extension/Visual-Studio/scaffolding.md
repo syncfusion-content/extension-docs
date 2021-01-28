@@ -13,7 +13,7 @@ Syncfusion provides **Visual Studio Scaffolding** for Syncfusion Blazor platform
 
 N>Check that at least one Entity Framework model exists, and the application has been compiled once. If no Entity Framework model exist in your application, refer to this [documentation](https://www.freecodecamp.org/news/how-to-create-an-application-using-blazor-and-entity-framework-core-1c1679d87c7e/) to generate the Entity Framework model. After the model file has been added, check that the required DBContext and properties are added. Now, build the application, and try scaffolding. If any changes made in the model properties, rebuild the application once before perform scaffolding.
 
-I>The Syncfusion Blazor Scaffolder is available from v17.4.0.39 for Blazor ServerSide and Blazor Hosted application and provided the Scaffolding support to Blazor client application from v18.4.0.39.
+I>The Syncfusion Blazor Scaffolder is available from v17.4.0.39 for Blazor serve-side application and provided the Scaffolding support to Blazor client-side application from v18.4.0.39.
 
 ## Add a scaffolded item
 
