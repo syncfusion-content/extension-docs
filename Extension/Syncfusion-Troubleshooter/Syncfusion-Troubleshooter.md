@@ -71,7 +71,7 @@ The Syncfusion Troubleshooter deals with below assembly reference issues in Sync
 
 3. Framework version mismatching (Syncfusion Assemblies) with project’s .NET Framework version. Find the supported .NET Framework details for Syncfusion assemblies in below link,
 
-   <https://help.syncfusion.com/common/essential-studio/supported-environments#net-framework> 
+   <https://help.syncfusion.com/common/essential-studio/assembly-information#supported-framework-version-for-essential-studio-assemblies> 
 
    **For Instance:** The.NET Framework of the application is v4.5 and “Syncfusion.Tools.WPF” assembly (v15.2400.0.43 & .NET Framework version 4.0) referred in same application. The Syncfusion Troubleshooter will be shown Syncfusion assembly .NET Framework version is incompatible with project’s .NET Framework version.
 
