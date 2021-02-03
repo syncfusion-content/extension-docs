@@ -33,6 +33,8 @@ For Example - VS2013 : `C:\Program Files (x86)\Syncfusion\Essential Studio\13.2
 
 The following steps help you use the Syncfusion Project Conversion in the existing ASP.NET MVC (Web) Project.
 
+> Before use, the Syncfusion ASP.NET MVC (Essential JS 1) Project Conversion, check whether the **Syncfusion Essential JS1 AspNet MVC VSExtensions** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed. Also, check whether the corresponding Essential Studio version build installed or not. If the Essential Studio version is not same for both the Extension and build, then the Project Conversion will not be shown.
+
 1. Open an existing Microsoft MVC Project or create a new Microsoft MVC Project.
 
 2. To open Project Conversion Wizard, follow either one of the options below: 
