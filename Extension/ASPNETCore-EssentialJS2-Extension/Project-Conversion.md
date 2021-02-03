@@ -17,6 +17,8 @@ I> The Syncfusion ASP.NET Core (Essential JS 2) Web Application Project Conversi
 
 The following steps direct you to use the Syncfusion Project Conversion in the existing ASP.NET Core Web Application.
 
+> Before use, the Syncfusion ASP.NET Core Project Conversion, check whether the **ASP.NET Core Extensions - Syncfusion** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed. Also, check whether the corresponding Essential Studio version build installed or not. If the Essential Studio version is not same for both the Extension and build, then the Project Conversion will not be shown.
+
 1. Open an existing Microsoft ASP.NET Core Web Application or create a new Microsoft ASP.NET Core Web Application. 
 
 2. To open Project Conversion Wizard, follow either one of the options below:
