@@ -7,13 +7,15 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Create Project
+# Create ASP.NET Web Forms application
 
 Syncfusion provides the **Visual** **Studio** **Project** **Templates** for the Syncfusion ASP.NET platform to create Syncfusion ASP.NET Web Application or Syncfusion ASP.NET Web Site. 
 
 I> The Syncfusion ASP.NET Website templates are available from v12.2.0.36 and the Syncfusion ASP.NET Web Application templates are available from v13.3.0.7. 
 
 Use the following steps to create the **Syncfusion ASP.NET (Essential JS 1) Application** through the **Visual Studio Project Template**:
+
+> Before use the Syncfusion ASP.NET Web Forms Project Template, check whether the **ASP.NET Web Forms Extensions - Syncfusion** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed.
 
 1.To create a Syncfusion ASP.NET (Essential JS 1) Web Forms project, follow either one of the options below:
 

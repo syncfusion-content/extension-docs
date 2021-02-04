@@ -19,6 +19,8 @@ N> *Syncfusion Xamarin Toolbox will get installed when installed the Syncfusion 
 
 Create the Xamarin or Syncfusion Xamarin project. The following steps help you to add the Syncfusion controls through the Visual Studio Toolbox:
 
+> Before use the Syncfusion Xamarin Toolbox, check whether the **Xamarin Extensions - Syncfusion** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed.
+
 1. To open Syncfusion Toolbox Wizard, follow either one of the options below:
 
    **Option 1:**  

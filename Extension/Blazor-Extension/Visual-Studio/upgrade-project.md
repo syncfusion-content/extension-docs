@@ -13,6 +13,8 @@ Syncfusion Blazor migration is a Visual Studio add-in that allows you to migrate
 
 The following steps will help you **upgrade the Syncfusion version** to the Syncfusion Blazor application via **Visual Studio 2019**:
 
+> Before use the Syncfusion Blazor Project Migration, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed.
+
 1. Open the Blazor application that uses the Syncfusion component.
 
 2. To open the Migration Wizard, either of the following options should be followed:
