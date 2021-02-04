@@ -17,6 +17,8 @@ I> The Syncfusion ASP.NET MVC UI Scaffolder is available from v16.4.0.40.
 
 The following steps explain how to add a scaffolded item to your ASP.NET MVC Web application:
 
+> Before use, the Syncfusion ASP.NET MVC Scaffolding, check whether the **ASP.NET MVC Extensions - Syncfusion** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed.
+
 1. Right-click the **Controllers** folder in the Solution Explorer, click **Add**, and then select **New Scaffolded Item**. 
 
    ![Syncfusion Scaffolded add-in](Scaffolding_Images/Scaffolding_Add_Item1.png)
