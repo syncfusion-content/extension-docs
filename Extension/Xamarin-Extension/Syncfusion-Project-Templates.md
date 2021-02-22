@@ -60,7 +60,7 @@ Choose the Project, Android, iOS, and UWP by on/off
 
 **Choose controls**
 
-Choose atleast one Syncfusion control to create the Syncfusion Xamarin application.
+Choose at least one Syncfusion control to create the Syncfusion Xamarin application.
 
 N> *If you want to add other Syncfusion Xamarin controls in the created Syncfusion Xamarin application, you can use our [Syncfusion Xamarin toolbox](https://help.syncfusion.com/xamarin/visual-studio-integration/visual-studio-extensions/toolbox-control)*
 
