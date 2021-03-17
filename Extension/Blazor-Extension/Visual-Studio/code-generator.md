@@ -13,7 +13,7 @@ Syncfusion provides the Code Generator for the Syncfusion Blazor platform to gen
 
 The following steps will help you to generate the Syncfusion components code in your Blazor application through **Visual Studio 2019**:
 
-> Before use the Syncfusion Blazor Project Template, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If it is not installed then please install the [Syncfusin Blazor Template Studio](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/).
+> Before use the Syncfusion Blazor Project Template, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If it is not installed then please install the [Syncfusion Blazor Template Studio](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/).
 
 1. Open your existing Blazor application.
 
