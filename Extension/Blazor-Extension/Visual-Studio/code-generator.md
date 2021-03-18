@@ -1,23 +1,23 @@
 ---
 layout: post
 title: Code Generator | Blazor | Syncfusion
-description: Syncfusion provides the Code Genearator for Blazor platform to generate a Syncfusion Blazor component code in the Blazor application
+description: Syncfusion provides the Code Genearator for Blazor platform to add a Syncfusion Blazor component code in the Blazor application
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Generate Syncfusion Blazor component code
+# Add Syncfusion Blazor component code
 
-Syncfusion provides the Code Generator for the Syncfusion Blazor platform to generate a Syncfusion Blazor component code in the Blazor application quickly at your required razor file place. The Syncfusion extension added the required Syncfusion component to render the code with namespaces, styles, and NuGet references. The Code Generator provides an easy-to-use wizard that interacts with data models in your application and helps you to add Syncfusion components in your application with required features.
+Syncfusion provides the Code Generator for the Syncfusion Blazor platform to add a Syncfusion Blazor component code in the Blazor application quickly at your required razor file place. The Syncfusion extension added the required Syncfusion control to render the code with namespaces, styles, and NuGet references. The Code Generator provides an easy-to-use wizard that interacts with data models in your application and helps you to add Syncfusion controls in your application with required features.
 
-The following steps will help you to generate the Syncfusion components code in your Blazor application through **Visual Studio 2019**:
+The following steps will help you to add the Syncfusion components code in your Blazor application through **Visual Studio 2019**:
 
-> Before use the Syncfusion Blazor Project Template, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If it is not installed then please install the [Syncfusion Blazor Template Studio](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/).
+> Before use the Syncfusion Blazor Code Generator, check whether the Syncfusion Blazor Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If it is not installed then please install the [Syncfusion Blazor Extension](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/).
 
 1. Open your existing Blazor application.
 
-2. To open the Syncfusion Blazor Code Generator Wizard, either follow one of the following options in the Razor file where required to add Syncfusion components: 
+2. To open the Syncfusion Blazor Code Generator Wizard, either follow one of the following options in the Razor file where required to add Syncfusion controls: 
 
    **Option 1:**
 
@@ -35,9 +35,9 @@ The following steps will help you to generate the Syncfusion components code in 
 
     ![CodeGeneratorWizard](code-generator-images/CodeGeneratorWizard.png)
 
-    **Data Binding:** In this section, you can see the data operation fields if the selected control has data. The data will be listed in your application. It interacts with data models and reduces the amount of time to develop with data operation in your project. You can choose the required Data model class, Data source, id, and more from your application.
+    **Data Binding:** In this section, you can see the data operation fields if the selected control has requires data. The data are listed from your application. It interacts with data models and reduces the amount of time to develop with data operation in your project. You can choose the required Data model class, Data source, id, and more from your application.
 
-    **Feature:** You can see the list of component features for the selected control. You can choose the required features.
+    **Feature:** You can see the list of control features for the selected control. You can choose the required features.
     
     **Control requirements:** In this section, you can see the required user input fields for the selected control that requires any input from the user. You can provide the required value for that fields to generate control code. 
     
@@ -51,11 +51,11 @@ The following steps will help you to generate the Syncfusion components code in 
 
 **Syncfusion integration**
 
-The project will configure with the required NuGet packages, style, namespaces, and services when adding the Syncfusion component.
+The project will configure with the required NuGet packages, style, namespaces, and services when adding the Syncfusion control.
 
 **NuGet Packages**
 
-The corresponding component NuGet packages will be added as NuGet references.
+The corresponding control NuGet packages will be added as NuGet references.
 
 > The installed Syncfusion extension version of a NuGet package will be added as a reference entry if there is no internet connection. You have to restore the NuGet packages when the internet becomes available.
 
