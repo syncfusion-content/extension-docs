@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# WPF Extension
+# Syncfusion WPF Extension
 
 The Syncfusion WPF Studio Extensions can be accessed through the Syncfusion Menu to create and configure the project with Syncfusion references in Visual Studio.The Syncfusion WPF Extensions supports Microsoft Visual Studio 2010 or higher.
 
