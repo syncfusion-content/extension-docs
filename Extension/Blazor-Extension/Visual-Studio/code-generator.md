@@ -9,7 +9,7 @@ documentation: ug
 
 # Add Syncfusion Blazor component code
 
-Syncfusion provides the Code Generator for the Blazor platform to add a code in the application quickly at the required place in the razor file. The Syncfusion extension adds the required Syncfusion component to render the code with namespaces, styles, and NuGet references. The Code Generator provides an easy-to-use wizard that interacts with data models and adds Syncfusion components with the required features to your application.
+Syncfusion provides the Code Generator for the Blazor platform to add a code in the application quickly at the required place in the razor file. The Syncfusion extension adds the required Syncfusion control to render the code with namespaces, styles, and NuGet references. The Code Generator provides an easy-to-use wizard that interacts with data models and adds Syncfusion controls with the required features to your application.
 
 The following steps will help you to add the Syncfusion components code in your Blazor application through **Visual Studio 2019**:
 
@@ -17,7 +17,7 @@ The following steps will help you to add the Syncfusion components code in your 
 
 1. Open your existing Blazor application.
 
-2. To open the Syncfusion Blazor Code Generator Wizard, one of the following options in the Razor file, and add Syncfusion components:
+2. To open the Syncfusion Blazor Code Generator Wizard, one of the following options in the Razor file, and add Syncfusion controls:
 
    **Option 1:**
 
@@ -35,13 +35,13 @@ The following steps will help you to add the Syncfusion components code in your 
 
     ![CodeGeneratorWizard](code-generator-images/CodeGeneratorWizard.png)
 
-    **Data Binding:** Data operation fields will be visible if the selected component has data. The data will be listed from your application. It interacts with data models and reduces the amount of time spent developing your project. You can choose the required Data Model Class, Data Source, Id, and more from your application.
+    **Data Binding:** Data operation fields will be visible if the selected control has data. The data will be listed from your application. It interacts with data models and reduces the amount of time spent developing your project. You can choose the required Data Model Class, Data Source, Id, and more from your application.
 
-    **Feature:** Selected component features are listed. You can select the required features.
+    **Feature:** Selected control features are listed. You can select the required features.
 
-    **Control requirements:** Contains the required user input fields for the selected component. You can provide the required value for those fields to add the component code.
+    **Control requirements:** Contains the required user input fields for the selected control. You can provide the required value for those fields to add the component code.
 
-    Click **Insert**. This wizard generates the selected component render code and inserts it wherever the cursor is positioned.
+    Click **Insert**. This wizard generates the selected control render code and inserts it wherever the cursor is positioned.
 
     ![ComponentRenderCode](code-generator-images/ComponentRenderCode.png)
 
@@ -51,11 +51,11 @@ The following steps will help you to add the Syncfusion components code in your 
 
 **Syncfusion integration**
 
-The project will configure the required NuGet packages, style, namespaces, and services when the Syncfusion component is being added.
+The project will configure the required NuGet packages, style, namespaces, and services when the Syncfusion control is being added.
 
 **NuGet Packages**
 
-The corresponding component NuGet packages will be added as NuGet references.
+The corresponding control NuGet packages will be added as NuGet references.
 
 > The installed Syncfusion extension version of a NuGet package will be added as a reference entry if there is no internet connection. You have to restore the NuGet packages when the internet connection is restored.
 
@@ -75,13 +75,13 @@ The Default (Bootstrap4) theme will be added from Syncfusion NuGet to these appl
 
 **Namespaces**
 
-The required namespaces are added to the **`_imports.razor`** file based on the selected component, if it is not already available.
+The required namespaces are added to the **`_imports.razor`** file based on the selected control, if it is not already available.
 
 ![NameSpace](code-generator-images/NameSpace.png)
 
 **Services**
 
-The required service code added to the the **`Startup.cs/Program.cs`** file to render the component based on the selected component if it is not already added.
+The required service code added to the the **`Startup.cs/Program.cs`** file to render the control based on the selected control if it is not already added.
 
 ![Services code](code-generator-images/ServicesCode.png)
 
