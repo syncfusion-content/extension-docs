@@ -7,11 +7,13 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-## Add the Syncfusion Blazor component
+# Add Syncfusion Blazor component in the Blazor application
 
 The Syncfusion Blazor code snippet utility for Visual Studio Code provides snippets for adding a Syncfusion Blazor component with various features in the Razor code editor file of the Blazor Application.
 
    > The Syncfusion Blazor code snippet is available from Essential Studio 2021 Volume 1 (`v19.1.0.54`).
+
+## Add a Syncfusion Blazor component
 
 The following steps help you to use the Syncfusion Blazor code snippet in your Blazor Application.
 
@@ -38,7 +40,7 @@ The following steps help you to use the Syncfusion Blazor code snippet in your B
 
     ![Help](images/Help.png)
 
-## Configure Blazor application
+## Configure Blazor application with Syncfusion
 
 The Syncfusion Blazor snippet only adds the code in the razor file. You need to configure the Blazor application with Syncfusion by adding the required Syncfusion Blazor NuGet, namespace, themes, and register the Syncfusion Blazor Service. Refer to the following steps to configure:
 
