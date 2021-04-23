@@ -11,6 +11,8 @@ documentation: ug
 
 Syncfusion provides the license per developer licensing model. Each license is for a single named user. Also, Syncfusion doesn’t require separate license for any servers. So, if you have license for each developer it is not necessary to do license key registration to use the Syncfusion NuGet packages. 
 
+N> Syncfusion license registration was needed for versions between v13.2.0.29 to v16.2.0.41.
+
 ## How to register Syncfusion license on or after to 16.2.0.41 version
 
 We have introduced a new licensing system starting with version 16.2.0.41 release of Essential Studio. These changes apply to all evaluators and only to paid customers who use NuGet packages from [nuget.org](https://www.nuget.org/). Starting with v16.2.0.41, if you reference Syncfusion assemblies from evaluation installer or from the NuGet feed, you also have to include a license key in your projects. Please note that this license key is different from the installer unlock key that you might have used in the past, and needs to be separately generated from Syncfusion website. The following steps guide you as to how to register the Syncfusion license.
