@@ -9,7 +9,9 @@ documentation: ug
 
 # Syncfusion NuGet Package Licensing 
 
-Syncfusion provides the license per developer licensing model. Each license is for a single named user. Also, Syncfusion doesn’t require separate license for any servers. So, if you have license for each developer it is not necessary to do license key registration to use the Syncfusion NuGet packages. 
+Syncfusion provides the license per developer licensing model. Each license is for a single named user. Also, Syncfusion doesn’t require separate license for any servers. So, if you have license for each developer it is not necessary to do license key registration to use the Syncfusion NuGet packages.
+
+N> Syncfusion removed the runtime and design time license key from v13.2.0.29 to v16.2.0.41. So, no need to register the license key either in application or system if you are using the Essential Studio from v13.2.0.29 to v16.2.0.41 versions.
 
 N> Syncfusion removed the runtime and design time license key from v13.2.0.29 to v16.2.0.41. So, no need to register the license key either in application or system if you are using the Essential Studio from v13.2.0.29 to v16.2.0.41 versions.
 
