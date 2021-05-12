@@ -15,8 +15,8 @@ The following Extensions supports are provided by Syncfusion Blazor in Visual St
 
 [Project-Template](https://help.syncfusion.com/extension/blazor-extension/visual-studio/template-studio):  Creates a Syncfusion Blazor application by adding the required Syncfusion Blazor components.
 
+[Code Generator](https://help.syncfusion.com/extension/blazor-extension/visual-studio/code-generator):  Add Syncfusion Blazor component code in razor file at required place.
+
 [Convert project:](https://help.syncfusion.com/extension/blazor-extension/visual-studio/convert-project):  Converts the existing Blazor application to the Syncfusion Blazor application by adding the required NuGet Syncfusion and CDN links.
 
 [Upgrade project](https://help.syncfusion.com/extension/blazor-extension/visual-studio/upgrade-project):  Upgrades the existing Syncfusion Blazor application from one version of Essential Studio to another.
-
-[Code Generator](https://help.syncfusion.com/extension/blazor-extension/visual-studio/code-generator):  Add Syncfusion Blazor component code in razor file at required place.
