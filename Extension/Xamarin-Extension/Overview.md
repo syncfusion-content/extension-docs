@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Xamarin Extension
+# Xamarin Extension Overview
 
 ## Overview
 
