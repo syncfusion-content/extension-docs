@@ -72,6 +72,8 @@ Update **syncfusion.scaffolding** tool globally by using below command
 
 The following steps explains how to add a scaffolded item from command-line to your ASP.NET Core application.
 
+> Before add the scaffolded item from command-line, check whether the **dotnet-aspnet-codegenerator** tool is installed or not by give this command ```dotnet tool list -g``` in command prompt. if it is not installed, then install **dotnet-aspnet-codegenerator** tool globally by using this command ```dotnet tool install -g dotnet-aspnet-codegenerator```
+
 1. After installed syncfusion.scaffolding tool, we can invoke syncfusion_scaffold command it shows the available controls
 
 	**syncfusion_scaffold**
