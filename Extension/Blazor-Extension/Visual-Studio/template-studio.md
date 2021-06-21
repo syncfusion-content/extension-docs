@@ -71,7 +71,7 @@ The following steps will help you create your **Syncfusion Blazor Application** 
 
 6. Click either **Next** or the **Features** tab, and you will see the features listed for the selected controls. You can choose the required features.
 
-7. Click either **Next** or the **Configuration** tab, and the Configuration section will be loaded. You can choose the required (.NET 5.0 and ASP NET Core 3.1), themes, https configuration, authentication type(None, Individual Accounts, Microsoft Identity Platform, and Windows), and Blazor Web Assembly project types (ASP.NET Core hosted and Progressive Web Application).
+7. Click either **Next** or the **Configuration** tab, and the Configuration section will be loaded. You can choose the required (.NET 5.0 and ASP NET Core 3.1), themes, https configuration, authentication type (None, Individual Accounts, Microsoft Identity Platform, and Windows), and Blazor Web Assembly project types (ASP.NET Core hosted and Progressive Web Application).
 
    N> ASP.NET Core hosted and Progressive Web Application options are only visible for the Blazor Web Assembly App project type.
 
@@ -143,7 +143,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
     ![Google API Oauth client Id](images/OauthclientId.png)
 
-3. Select Application type as Web Application in client Id Creation.
+3. Select Application type as Web Application in client Id creation.
 
     ![ApplicationType](images/ClientIdApplicationtype.PNG)
 
@@ -336,17 +336,17 @@ You can select a culture language in combobox at top right on the page to apply 
 
     ![Register the application](images/RegisterApplication.png)
 
-2. Confirming registration by clicking **Click here to confirm your account**
+2. Confirming registration by clicking **Click here to confirm your account.**
 
     ![Register the confirmation](images/RegisterConfirmation.png)
 
-3. Submit your registered email address and password to login the application
+3. Submit your registered email address and password to login the application.
 
     ![login to the application](images/Login.png)
 
 **Web Application and Progressive Web Application**
 
-1. login to the application using Gmail accounts.
+1. Login to the application using Gmail accounts.
 
     ![Google login](images/GoogleLogin.PNG)
 
@@ -354,7 +354,7 @@ You can select a culture language in combobox at top right on the page to apply 
 
 **Server Application, Web Application, Progressive Application, ASP.NET Core Hosted Web Application, and ASP.NET Core Hosted with Progressive Web Application**
 
-1. login to your application using your Microsoft account
+1. Login to your application using your Microsoft account.
 
 2. Accept permission request of your Application.
 
