@@ -135,7 +135,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 1. Go to below crendentials page for the Google cloud platform API console.
 
-https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104
+    https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104
 
 2. Click Create Credentials and OAuth Client Id.
 
@@ -145,7 +145,7 @@ https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104
 
 3. Select Application type as Web Application in client Id Creation.
 
-![ApplicationType](images/ClientIdApplicationtype.png)
+![ApplicationType](images/ClientIdApplicationtype.PNG)
 
 4. Add your publish URL link as an Authorized URI and login URL as Redirected URI.
 
@@ -173,7 +173,7 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Regis
 
 2. Click New Registration in App Registration page.
 
-![AppRegistration](images/AppRegistration.PNG)
+![AppRegistration](images/AppRegistration.png)
 
 3. Give name of the application and selected supported type as single tenant.
 
@@ -193,7 +193,7 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Regis
 
 7. Configure those client tenant id, application id, and domain in your project appsettings.json file.
 
-![Project configuration](images/configuration1.PNG)
+![Project configuration](images/configuration1.png)
 
 **Web Application and Progressive Web Application**
 
@@ -211,7 +211,7 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Regis
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-![Platform and Redirect URI](images/AADRedirectedURI.PNG)
+![Platform and Redirect URI](images/AADRedirectedURI.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
@@ -249,7 +249,7 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Regis
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-![Platform and Redirect URI](images/AADRedirectedURI.PNG)
+![Platform and Redirect URI](images/AADRedirectedURI.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
@@ -285,7 +285,7 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Regis
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-![Platform and Redirect URI](images/AADRedirectedURI.PNG)
+![Platform and Redirect URI](images/AADRedirectedURI.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
@@ -303,7 +303,7 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Regis
 
 8. Give scope name, admin consent display name, and admin consent description and click Add scope.Scope API will be created, copy those scope API Value.
 
-![Add scope API configuration](images/AddScopeAPI1.PNG)
+![Add scope API configuration](images/AddScopeAPI1.png)
 
 9. Get client tenant id and application id form overview page.
 
@@ -311,7 +311,7 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Regis
 
 10. Configure those client tenant id, application id, and domain in your project appsettings.json file.
 
-![Project configuration](images/configuration1.PNG)
+![Project configuration](images/configuration1.png)
 
 11. Configure the scope API in client project program.cs file below highlighted place.
 
