@@ -139,29 +139,29 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 2. Click Create Credentials and OAuth Client Id.
 
-![Google API console credentials page](images/GoogelAPIConsoleCredentials.png)
+    ![Google API console credentials page](images/GoogelAPIConsoleCredentials.png)
 
-![Google API Oauth client Id](images/OauthclientId.png)
+    ![Google API Oauth client Id](images/OauthclientId.png)
 
 3. Select Application type as Web Application in client Id Creation.
 
-![ApplicationType](images/ClientIdApplicationtype.PNG)
+    ![ApplicationType](images/ClientIdApplicationtype.PNG)
 
 4. Add your publish URL link as an Authorized URI and login URL as Redirected URI.
 
-![RedirectedURI](images/RedirectedURI.png)
+    ![RedirectedURI](images/RedirectedURI.png)
 
 5. Click save then Oauth client id will be created and copy that credentials.
 
-![ClientIdCreation](images/ClientIdCreation.PNG)
+    ![ClientIdCreation](images/ClientIdCreation.PNG)
 
 6. Add that Client Id, and RedirectUri in appsettings.json file of your project.
 
-![ClinetIdConfiguration](images/ClinetIdConfiguration.PNG)
+    ![ClinetIdConfiguration](images/ClinetIdConfiguration.PNG)
 
 7. Change the build configuration bind as google from Local in program.cs file.
 
-![buildconfigurationbind](images/buildconfigurationbind.PNG)
+    ![buildconfigurationbind](images/buildconfigurationbind.PNG)
 
 **Microsoft Identity Platform Authentication**
 
@@ -169,67 +169,67 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 1. Go to below Azure Active Directory App Registration page.
 
-https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
+    https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
 
 2. Click New Registration in App Registration page.
 
-![AppRegistration](images/AppRegistration.png)
+    ![AppRegistration](images/AppRegistration.png)
 
 3. Give name of the application and selected supported type as single tenant.
 
-![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-![Platform and Redirect URI](images/AADRedirectedURI.PNG)
+    ![Platform and Redirect URI](images/AADRedirectedURI.PNG)
 
 5. App will be registered, go to the Authentication page and tick Id token check box.
 
-![Access token and Id token](images/AuthenticationCheckBox1.PNG)
+    ![Access token and Id token](images/AuthenticationCheckBox1.PNG)
 
 6. Get client tenant id and application id form overview page.
 
-![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenat id](images/ClinetTenantId.PNG)
 
 7. Configure those client tenant id, application id, and domain in your project appsettings.json file.
 
-![Project configuration](images/configuration1.png)
+    ![Project configuration](images/configuration1.png)
 
 **Web Application and Progressive Web Application**
 
 1. Go to below Azure Active Directory App Registration page.
 
-https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
+    https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
 
 2. Click New Registration in App Registration page.
 
-![AppRegistration](images/AppRegistration.PNG)
+    ![AppRegistration](images/AppRegistration.PNG)
 
 3. Give name of the application and selected supported type as single tenant.
 
-![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Platform and Redirect URI](images/AADRedirectedURI.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
-![Access token and Id token](images/AuthenticationCheckBox.PNG)
+    ![Access token and Id token](images/AuthenticationCheckBox.PNG)
 
 6. Migrate the API by clicking the highlighted arrow like in below image.
 
-![API Migration](images/Migration1.PNG)
+    ![API Migration](images/Migration1.PNG)
 
-![Migration configuration](images/Migration2.PNG)
+    ![Migration configuration](images/Migration2.PNG)
 
 7. Get client tenant id and application id form overview page.
 
-![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenat id](images/ClinetTenantId.PNG)
 
 8. Configure those client tenant id and application id in your project appsettings.json file.
 
-![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.PNG)
+    ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.PNG)
 
 **ASP.NET Core Hosted Web Application, and ASP.NET Core Hosted with Progressive Web Application**
 
@@ -237,87 +237,85 @@ https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/Regis
 
 1. Go to below Azure Active Directory App Registration page.
 
-https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
+    https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
 
 2. Click New Registration in App Registration page.
 
-![AppRegistration](images/AppRegistration.PNG)
+    ![AppRegistration](images/AppRegistration.PNG)
 
 3. Give name of the application and selected supported type as single tenant.
 
-![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Platform and Redirect URI](images/AADRedirectedURI.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
-![Access token and Id token](images/AuthenticationCheckBox.PNG)
+    ![Access token and Id token](images/AuthenticationCheckBox.PNG)
 
 6. Migrate the API by clicking the highlighted arrow like in below image.
 
-![API Migration](images/Migration1.PNG)
+    ![API Migration](images/Migration1.PNG)
 
-![Migration configuration](images/Migration2.PNG)
+    ![Migration configuration](images/Migration2.PNG)
 
 7. Get client tenant id and application id form overview page.
 
-![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenat id](images/ClinetTenantId.PNG)
 
 8. Configure those client tenant id and application id in your project appsettings.json file.
 
-![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.PNG)
+    ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.PNG)
 
 **Server project Registration and configuration**
 
 1. Go to below Azure Active Directory App Registration page.
 
-https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
+    https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps
 
 2. Click New Registration in App Registration page.
 
-![AppRegistration](images/AppRegistration.PNG)
+    ![AppRegistration](images/AppRegistration.PNG)
 
 3. Give name of the application and selected supported type as single tenant.
 
-![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Platform and Redirect URI](images/AADRedirectedURI.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
-![Access token and Id token](images/AuthenticationCheckBox.PNG)
+    ![Access token and Id token](images/AuthenticationCheckBox.PNG)
 
 6. Migrate the API by clicking the highlighted arrow like in below image.
 
-![API Migration](images/Migration1.PNG)
+    ![API Migration](images/Migration1.PNG)
 
-![Migration configuration](images/Migration2.PNG)
+    ![Migration configuration](images/Migration2.PNG)
 
 7. Add a scope API in Expose an API page.
 
-![Add scope API](images/AddScopeAPI.png)
+    ![Add scope API](images/AddScopeAPI.png)
 
 8. Give scope name, admin consent display name, and admin consent description and click Add scope.Scope API will be created, copy those scope API Value.
 
-![Add scope API configuration](images/AddScopeAPI1.png)
+    ![Add scope API configuration](images/AddScopeAPI1.png)
 
 9. Get client tenant id and application id form overview page.
 
-![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenat id](images/ClinetTenantId.PNG)
 
 10. Configure those client tenant id, application id, and domain in your project appsettings.json file.
 
-![Project configuration](images/configuration1.png)
+    ![Project configuration](images/configuration1.png)
 
 11. Configure the scope API in client project program.cs file below highlighted place.
 
-![Scope API configuration](images/ScopeAPIConfiguration.PNG)
-
-
+    ![Scope API configuration](images/ScopeAPIConfiguration.PNG)
 
 **Run application**
 
@@ -336,21 +334,21 @@ You can select a culture language in combobox at top right on the page to apply 
 
 1. For register the application, submit your email address and create a password.
 
-![Register the application](images/RegisterApplication.png)
+    ![Register the application](images/RegisterApplication.png)
 
 2. Confirming registration by clicking **Click here to confirm your account**
 
-![Register the confirmation](images/RegisterConfirmation.png)
+    ![Register the confirmation](images/RegisterConfirmation.png)
 
 3. Submit your registered email address and password to login the application
 
-![login to the application](images/Login.png)
+    ![login to the application](images/Login.png)
 
 **Web Application and Progressive Web Application**
 
 1. login to the application using gmail accounts.
 
-![Google login](images/GoogleLogin.PNG)
+    ![Google login](images/GoogleLogin.PNG)
 
 **Microsoft Identity Platform**
 
@@ -360,7 +358,7 @@ You can select a culture language in combobox at top right on the page to apply 
 
 2. Accept permission request of your Application.
 
-![Accept permission](images/MicrosoftAuthentication.png)
+    ![Accept permission](images/MicrosoftAuthentication.PNG)
 
 
 
