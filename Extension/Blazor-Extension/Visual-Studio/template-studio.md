@@ -193,7 +193,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 7. Configure those client tenant id, application id, and domain in your project appsettings.json file.
 
-    ![Project configuration](images/configuration1.png)
+    ![Project configuration](images/Configuration1.png)
 
 **Web Application and Progressive Web Application**
 
@@ -311,7 +311,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 10. Configure those client tenant id, application id, and domain in your project appsettings.json file.
 
-    ![Project configuration](images/configuration1.png)
+    ![Project configuration](images/Configuration1.png)
 
 11. Configure the scope API in client project program.cs file below highlighted place.
 
@@ -359,8 +359,6 @@ You can select a culture language in combobox at top right on the page to apply 
 2. Accept permission request of your Application.
 
     ![Accept permission](images/MicrosoftAuthentication.PNG)
-
-
 
 > **Note:** Above combobox will be enabled in sample output only if localization option is selected in configuration window from Blazor Template Studio wizard. 
 
