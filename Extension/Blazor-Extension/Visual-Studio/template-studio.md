@@ -133,7 +133,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 **Web Application and Progressive Web Application**
 
-1. Go to below crendentials page for the Google cloud platform API console.
+1. Go to below credentials page for the Google cloud platform API console.
 
     https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104
 
@@ -151,7 +151,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
     ![RedirectedURI](images/RedirectedURI.png)
 
-5. Click save then Oauth client id will be created and copy that credentials.
+5. Click save then OAuth client id will be created and copy that credentials.
 
     ![ClientIdCreation](images/ClientIdCreation.PNG)
 
@@ -346,7 +346,7 @@ You can select a culture language in combobox at top right on the page to apply 
 
 **Web Application and Progressive Web Application**
 
-1. login to the application using gmail accounts.
+1. login to the application using Gmail accounts.
 
     ![Google login](images/GoogleLogin.PNG)
 
