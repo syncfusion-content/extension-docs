@@ -277,7 +277,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 2. Click New Registration in App Registration page.
 
-    ![AppRegistration](images/AppRegistration.PNG)
+    ![Server App Registration](images/AppRegistration.PNG)
 
 3. Give name of the application and selected supported type as single tenant.
 
@@ -285,7 +285,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-    ![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Server Platform and Redirect URI](images/AADRedirectedURI.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
