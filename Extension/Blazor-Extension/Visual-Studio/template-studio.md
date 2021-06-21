@@ -193,7 +193,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 7. Configure those client tenant id, application id, and domain in your project appsettings.json file.
 
-    ![Project configuration](images/configuration1.png)
+    ![Project configuration](images/configuration1.PNG)
 
 **Web Application and Progressive Web Application**
 
