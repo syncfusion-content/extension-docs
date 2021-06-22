@@ -129,7 +129,7 @@ The selected Syncfusion Blazor components and features render code added as .raz
 
 **Authentication Configuration**
 
-We need to register the created application in [Google Platform API Console](https://console.cloud.google.com/apis/credentials) for Individual Accounts and [Azure Active Directory](https://portal.azure.com/) for Microsoft Identity Platform. From [Google Platform API Console](https://console.cloud.google.com/apis/credentials) registration we can get the client id for Individual Accounts. From [Azure Active Directory](https://portal.azure.com/) registrations we can get the tenant id and project client id for Microsoft Identity Platform.We need to configure these id values in created applications then only project will be run correctly with authentication support.
+We need to register the created application in Google Platform API Console for Individual Accounts and Azure Active Directory for Microsoft Identity Platform. From Google Platform API Console registration we can get the client id for Individual Accounts. From Azure Active Directory registrations we can get the tenant id and project client id for Microsoft Identity Platform.We need to configure these id values in created applications then only project will be run correctly with authentication support.
 
 **Individual Accounts Authentication**
 
