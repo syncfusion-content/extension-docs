@@ -7,23 +7,23 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-## Upgrade project
+## Upgrading Syncfusion Blazor application to latest version
 
-Syncfusion Blazor migration is a Visual Studio add-in that allows you to migrate the existing Syncfusion Blazor Application from one version of Essential Studio to another. This helps to avoid manual work in the required places when migrating the Syncfusion version.
+The Syncfusion Blazor migration add-in for Visual Studio allows you to migrate an existing Syncfusion Blazor application from one version of Essential Studio version to another version. This reduces the amount of manual work required when migrating the Syncfusion version.
 
-The following steps will help you **upgrade the Syncfusion version** to the Syncfusion Blazor application via **Visual Studio 2019**:
+The steps below will assist you to upgrade the Syncfusion version in the Syncfusion Blazor application via Visual Studio 2019:
 
 > Before use the Syncfusion Blazor Project Migration, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed.
 
-1. Open the Blazor application that uses the Syncfusion component.
+1. Open the Syncfusion Blazor application that uses the Syncfusion component.
 
-2. To open the Migration Wizard, either of the following options should be followed:
+2. To open the Migration Wizard, either one of the following options should be followed:
 
     **Option 1**
 
-    Choose **Extensions-> Syncfusion-> Essential Studio for Blazor ->Migrate Project…** from Visual Studio 2019 menu.
+    Choose **Extensions -> Syncfusion -> Essential Studio for Blazor -> Migrate Project…** from Visual Studio 2019 menu.
 
-    ![MigrationMenu](images/MigrationMenu.png)
+    ![MigrationMenu](images/MigrationMenu.PNG)
 
     **Option 2**
 
@@ -31,27 +31,34 @@ The following steps will help you **upgrade the Syncfusion version** to the Sync
 
     ![MigrationAddin](images/MigrationAddin.png)
 
-3. The Syncfusion Project Migration window appears. You can choose the required version of Syncfusion Blazor to migrate.
+3. The Syncfusion Project Migration window will appear. You can choose the required version of Syncfusion Blazor to migrate.
 
-   > The versions are loaded from the Syncfusion Blazor NuGet packages published in [`NuGet.org`](https://www.nuget.org/) and it requires internet connectivity.
+    > The versions are loaded from the Syncfusion Blazor NuGet packages published in [`NuGet.org`](https://www.nuget.org/packages?q=Tags%3A%22blazor%22syncfusion) and it requires internet connectivity.
 
-    ![MigrationWizard](images/MigrationWizard.png)
+    ![MigrationWizard](images/Migration.png)
 
-4. Once the migration process is completed, you will get a successful message window
+4. Check the **“Enable a backup before migrating”** checkbox if you want to take the project backup and choose the location.
 
-    ![MigrationSuccessMessage](images/MigrationSuccessMessage.png)
-5. The Syncfusion Blazor NuGet packages and CDN links are updated to the respective versions in the application.
+5. Once the migration process is completed, you will get a successful message window
 
-6. If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
+    ![MigrationSuccessMessage](images/MigrationSuccess.png)
 
-### NuGet Packages
+    If you enabled project backup before migrating, the old project was saved in the specified backup path location, as shown below once the migration process completed.
 
-The installed packages of Syncfusion Blazor NuGet are updated with the selected version of Syncfusion Blazor.
+    ![MigrationBackupLocation](images/Backuplocation.png)
+
+6. The Syncfusion Blazor NuGet packages are updated to the respective version in the application.
+
+6. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
+
+## NuGet Packages
+
+The installed Syncfusion Blazor NuGet packages are updated to the selected version of Syncfusion Blazor.
 
 ![NuGetPackage](images/NuGetPackage.png)
 
-### CDN
+## Theme link
 
-The selected version of Syncfusion Blazor updated in the Syncfusion CDN links in the host.cshtml or index.html file.
+The Syncfusion theme links in the `~/Pages/Host.cshtml` or `~/wwwroot/index.html` file have been updated.
 
 ![CDNLink](images/CDNLink.png)

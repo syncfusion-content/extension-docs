@@ -7,17 +7,17 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Template Studio in Blazor Extension
+# Syncfusion Blazor Template Studio
 
 Syncfusion provides the Blazor Template Studio to create a Syncfusion Blazor application with Syncfusion components. The Syncfusion Blazor application is created with the required Syncfusion NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that teaches you how to create an application with Syncfusion components.
 
-The following steps will help you create your **Syncfusion Blazor Application** through **Visual Studio 2019**:
+The steps below will assist you to create your **Syncfusion Blazor Application** through **Visual Studio 2019**:
 
 > Before use the Syncfusion Blazor Project Template, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed.
 
 1. Open Visual Studio 2019.
 
-2. To create a Syncfusion Blazor project, use either of the following options:
+2. To create a Syncfusion Blazor project, use either one of the following options:
 
    **Option 1**
 
@@ -27,7 +27,7 @@ The following steps will help you create your **Syncfusion Blazor Application** 
 
    **Option 2**
 
-   Select **File -> New -> Project**. This opens a new dialog to create a new project. The templates provided by Syncfusion for Blazor can be obtained by filtering the project type for Syncfusion, or by using **Syncfusion** as the keyword in the search option.
+   Choose **File -> New -> Project** from the menu. This launches a new dialogue for creating a new project. Syncfusion templates for Blazor can be found by filtering the project type for **Syncfusion** or by entering **Syncfusion** as a keyword in the search option.
 
     ![CreateNewWindow](images/CreateNewWindow.png)
 
@@ -35,7 +35,7 @@ The following steps will help you create your **Syncfusion Blazor Application** 
 
     ![CreateNewWizard](images/CreateNewWizard.png)
 
-4. The Template Studio wizard for configuring the Syncfusion Blazor app will appear. Select the Blazor type.
+4. The Template Studio wizard for configuring the Syncfusion Blazor app will be launched. Choose the Syncfusion Blazor project type.
 
    ![ProjectWizard](images/TemplateStudio.png)
 
@@ -55,11 +55,11 @@ The following steps will help you create your **Syncfusion Blazor Application** 
 
    ![Controls Section](images/ControlsSection1.png)
 
-   Choose the required controls by clicking **Add**.
+   Choose the required control(s) by clicking **Add**.
 
    ![Controls add and remove button](images/ControlsSection2.png)
 
-   To unselect the added control, use either of the following options:
+   To unselect the added control(s), use either one of the following options:
 
    **Option 1:** Click **Remove** in the corresponding control box.
 
@@ -79,33 +79,27 @@ The following steps will help you create your **Syncfusion Blazor Application** 
 
    **Project details section**
 
-   You can change the configuration details below in the Project Details section to change the project type, delete controls, or change the configurations.
+   You can change the configuration details below in the Project Details section to change the project type, remove control(s) from the selected controls, or change the configurations.
 
    ![Configure required Project details](images/ProjectDetails.png)
 
-8. Click **Create**. The Syncfusion Blazor application has been created.
+8. Click **Create** button. The Syncfusion Blazor application has been created. The created Syncfusion Blazor app has the Syncfusion NuGet packages, styles, and the render code for the Syncfusion component.
 
 **Syncfusion integration**
 
-The latest Syncfusion Blazor NuGet packages, styles, namespaces, and component render code for Syncfusion components are added in the created application.
+The Syncfusion Blazor application configures with most recent Syncfusion Blazor NuGet packages version, styles, namespaces, and component render code for Syncfusion components.
 
 **NuGet Packages**
 
-The following NuGet packages can be added as NuGet references based on application type.
+Based on the selected Syncfusion Blazor controls, the individual NuGet packages can be added as NuGet references. Refer [this topic](https://blazor.syncfusion.com/documentation/nuget-packages/) to know about the individual Blazor NuGet packages.
 
-| Syncfusion Blazor NuGet packages  | Application type  |
-|---|---|
-| `Syncfusion.Blazor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) |
-| `Syncfusion.Blazor.PdfViewerServer.Windows`  | Syncfusion Blazor Server App  |
-| `Syncfusion.Blazor.WordProcessor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br> Syncfusion Blazor WebAssembly App (Progressive Web Application) <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) |
-
-> The installed Syncfusion extension version of a NuGet package will be added as reference entry if there is no internet connection. You have to restore the NuGet packages when internet becomes available.
+> The latest Syncfusion Essential Studio version of a NuGet package will be added as reference entry from nuget.org if there is no internet connection. You should restore the NuGet packages when internet becomes available.
 
 ![NuGetPackage](images/NuGetPackage.png)
 
 **Style**
 
-The selected theme is added from Syncfusion NuGet and its reference at these applications locations in Blazor.
+The selected Syncfusion Blazor theme is added from Syncfusion NuGet and this theme reference will be added at these applications locations in Blazor.
 
 | Application type  | File location  |
 |---|---|
@@ -324,7 +318,7 @@ We need to register the created application in Google Platform API Console for I
 You can run the application and see the Syncfusion components you selected. Select a component to see component output.
 ![Blazor Template output page](images/HomePage.png)
 
-You can select a culture language in combobox at top right on the page to apply the culture in the application. 
+You can select a culture language in combobox at top right on the output page to apply the culture in the application. 
 
 ![Blazor Template output page](images/Localization.png)
 
@@ -362,6 +356,6 @@ You can select a culture language in combobox at top right on the page to apply 
 
     ![Accept permission](images/MicrosoftAuthentication.PNG)
 
-> **Note:** Above combobox will be enabled in sample output only if localization option is selected in configuration window from Blazor Template Studio wizard. 
+> **Note:** Above culture combobox will be enabled in sample output if localization option is selected in configuration window from Syncfusion Blazor Template Studio wizard. 
 
-If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
+If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
