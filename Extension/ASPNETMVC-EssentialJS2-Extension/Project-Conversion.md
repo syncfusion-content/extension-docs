@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Converting ASP.NET MVC application to Syncfusion ASP.NET MVC application
+# Syncfusion Project Conversion
 
 Syncfusion ASP.NET MVC conversion is a Visual Studio add-in that converts an existing ASP.NET MVC application into a Syncfusion ASP.NET MVC (Essential JS 2) Web application by adding the required assemblies and resource files.
 
