@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-## Create project
+# Create project With Syncfusion Visual Studio Code project Templates
 
 Syncfusion provides **project templates** for **VisualStudio Code** to create Syncfusion Web applications. Syncfusion Web Project template creates applications with the selected Framework(React, Angular, and Vue), required Syncfusion NPM packages, component render code for the Grid, Chart, Scheduler components, and the style for making development easier with Syncfusion components.
 
