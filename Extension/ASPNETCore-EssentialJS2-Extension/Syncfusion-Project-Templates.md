@@ -69,7 +69,7 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
 
 4. Click **Create**, the Syncfusion ASP.NET Core (Essential JS 2) Application has been created.
 
-     ![Syncfusion Essential JS 2 ASP.NET Core Readme](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img6.png)
+     ![Syncfusion Essential JS 2 ASP.NET Core Readme](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img6.PNG)
 
 5. Required Syncfusion NuGet/NPM packages, Scripts, and CSS have been added to the Project.
      
