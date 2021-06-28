@@ -51,7 +51,7 @@ The following steps help you to create the **Syncfusion** **ASP****.****NET** **
    
 4. Click **Create**, the Syncfusion ASP.NET MVC (Essential JS 2) Application  has been created.
 
-    ![Required Syncfusion Scripts and Themes added to the Syncfusion Essential JS 2 ASP.NET MVC project](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img6.png)
+    ![Required Syncfusion Scripts and Themes added to the Syncfusion Essential JS 2 ASP.NET MVC project](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject_img6.PNG)
 
 5. Required Syncfusion NuGet packages, Scripts and CSS have been added to the project.
 
