@@ -85,6 +85,8 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
 8. Click **Create** button. The Syncfusion Blazor application has been created. The created Syncfusion Blazor app has the Syncfusion NuGet packages, styles, and the render code for the Syncfusion component.
 
+   ![Blazor Readme](images/readme-file.PNG)
+
 **Syncfusion integration**
 
 The Syncfusion Blazor application configures with most recent Syncfusion Blazor NuGet packages version, styles, namespaces, and component render code for Syncfusion components.
