@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion Project Templates
+# Syncfusion Project Templates for ASP.NET MVC (Essential JS 1)
 
 Syncfusion provides the Visual Studio Project Templates for the Syncfusion ASP.NET MVC, Syncfusion ASP.NET MVC (Classic) and ASP.NET MVC (Mobile) platforms to create a Syncfusion MVC application.
 
