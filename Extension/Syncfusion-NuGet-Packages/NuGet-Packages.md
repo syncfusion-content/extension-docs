@@ -7,7 +7,7 @@ control: NuGet Packages
 documentation: ug
 ---
 
-# NuGet Packages
+# Syncfusion NuGet Packages Overview
 
 [NuGet](https://www.nuget.org/) can be used to automatically add files and references to your Visual Studio projects. You can use the Syncfusion NuGet packages without installing the Essential Studio or platform installation to development with the Syncfusion controls. From v16.2.0.46 (2018 Volume 2 Service Pack 1) onwards, all the Syncfusion components are available as NuGet packages at [nuget.org](https://www.nuget.org/profiles/SyncfusionInc). 
 
