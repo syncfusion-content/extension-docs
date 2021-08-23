@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Reference Manager | Extension | Syncfusion
-description: Add the required Syncfusion assembly to Windows project reference based on the selected control(s).
+description: Learn here all about adding the required Syncfusion assembly to Windows project reference based on the selected control(s).
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
