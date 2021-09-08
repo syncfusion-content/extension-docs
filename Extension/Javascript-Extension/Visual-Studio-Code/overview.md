@@ -14,3 +14,5 @@ The Syncfusion Essential Studio Web extension for Visual Studio Code allows you 
 The Syncfusion Web Extension provides the following support in Visual Studio Code:
 
 [Project-Template](https://help.syncfusion.com/extension/javascript-extension/visual-studio-code/create-project): Creates Syncfusion Web applications by adding the required Syncfusion JavaScript components.
+
+[Code Snippet](https://help.syncfusion.com/extension/javascript-extension/visual-studio-code/code-snippet):  Adds a Syncfusion Angular component with various features to the Angular Application's HTML code editor.
