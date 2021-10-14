@@ -10,7 +10,7 @@ documentation: ug
 
 # Download and Installation
 
-In [Visual Studio marketplace]https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.XamarinExtension), Syncfusion publishing the Xamarin Visual Studio extension. You can either use the Visual Studio to install it or go to the Visual Studio marketplace to download and install it.
+In [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.XamarinExtension), Syncfusion publishing the Xamarin Visual Studio extension. You can either use the Visual Studio to install it or go to the Visual Studio marketplace to download and install it.
 
 ## Install through the Visual Studio Manage Extensions
 
