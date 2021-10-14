@@ -1,3 +1,12 @@
+---
+layout: post
+title: Code Snippet | Blazor | Syncfusion
+description: Code snippet adding a Syncfusion Blazor component with various features in the Razor code editor file of the Blazor Application.
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
 # Add Syncfusion Blazor component in the Blazor application
 
 The Syncfusion Blazor code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion Blazor component with various features into the Blazor Application's Razor code editor.

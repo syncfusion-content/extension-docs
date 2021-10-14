@@ -1,3 +1,12 @@
+---
+layout: post
+title: Scaffolding | Blazor | Syncfusion
+description: Code-generation Framework for Syncfusion Blazor platform to quickly create the Controller and Razor in a short time.
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
 # Syncfusion Blazor Scaffolding
 
 Syncfusion provides **Visual Studio Scaffolding** for the Syncfusion Blazor platform, that allowing you to quickly add code that interacts with data models and reduce the time it takes to develop with data operations in your application. Scaffolding simplifies the creation of Razor and Controller action methods for Syncfusion Blazor DataGrid, Charts, Scheduler, Diagram, Tree Grid, Rich Text Editor, and Document Editor, and PDF Viewer controls.

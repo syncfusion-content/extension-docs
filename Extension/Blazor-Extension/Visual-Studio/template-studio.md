@@ -1,3 +1,12 @@
+---
+layout: post
+title: Template Studio | Blazor | Syncfusion
+description: Syncfusion provides the Blazor Template Studio for Blazor platform to create the Syncfusion Blazor Application using Syncfusion components
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
 # Syncfusion Blazor Template Studio
 
 Syncfusion provides the Blazor Template Studio, which allows you to create a Syncfusion Blazor application with Syncfusion components. The Syncfusion Blazor app is created with the required component Syncfusion NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion components.

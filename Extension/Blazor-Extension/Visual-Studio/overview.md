@@ -1,6 +1,13 @@
-# Visual Studio Integration
+---
+layout: post
+title: Blazor Extension | Extension | Syncfusion
+description: An Extension provides you with quick access so that you can create or configure the Syncfusion Blazor projects along with Syncfusion components
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
 
-## Overview
+# Blazor Extension for Visual Studio
 
 The Syncfusion Essential Studio Blazor extension for Visual Studio simplifies the use of the Syncfusion Blazor components by configuring the Syncfusion Blazor NuGet packages and themes.
 

@@ -1,4 +1,13 @@
-# Create Sample
+---
+layout: post
+title: Sample Creator | ASP.NET Core (Essential JS 2) | Syncfusion
+description: Sample Creator is a utility that allows you to create the Syncfusion ASP.NET Core (Essential JS 2) Projects with required Syncfusion controls
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
+# Sample Creator
 
 The Syncfusion Sample Creator is a tool that lets you make Syncfusion ASP.NET Core (Essential JS 2) projects with sample code for required Syncfusion component features and Syncfusion control configuration.
 

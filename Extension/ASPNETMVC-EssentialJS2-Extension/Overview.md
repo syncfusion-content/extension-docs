@@ -1,6 +1,13 @@
-# Visual Studio Integration
+---
+layout: post
+title: ASP.NET MVC (Essential JS 2) Extension | Extension | Syncfusion
+description: Syncfusion ASP.NET MVC (Essential JS2) Extensions create or configure the Syncfusion ASP.NET MVC projects along with Essential JS2 components.
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
 
-## Overview
+# ASP.NET MVC (Essential JS 2) Extension
 
 The Syncfusion ASP.NET MVC (Essential JS 2) Visual Studio Extensions can be accessed through the Syncfusion Menu to create and configure the project with Syncfusion references in Visual Studio.
 

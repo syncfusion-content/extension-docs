@@ -1,6 +1,13 @@
-# Visual Studio Code Integration
+---
+layout: post
+title: Blazor VSCode Extension | Extension | Syncfusion
+description: An Extension provides you with quick access so that you can create or configure the Syncfusion Blazor projects along with Syncfusion components
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
 
-## Overview
+#Overview
 
 The Syncfusion Essential Studio Blazor extension for Visual Studio Code simplifies the use of the Syncfusion Blazor components by configuring the Syncfusion Blazor NuGet packages and themes.
 

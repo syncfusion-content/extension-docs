@@ -1,4 +1,13 @@
-# Converting Blazor application to Syncfusion Blazor application
+---
+layout: post
+title: Project Conversion | Blazor | Syncfusion
+description: Project Conversion is a add-in that converts Blazor application into a Syncfusion Blazor application by adding required Syncfusion components
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
+# Convert project
 
 The Syncfusion Blazor conversion is an add-in for Visual Studio Code that converts an existing Blazor application into a Syncfusion Blazor Web Application by adding the required NuGet packages and themes.
 

@@ -1,3 +1,13 @@
+---
+layout: post
+title: Download and Installation | ASP.NET Core (Essential JS2) | Syncfusion
+description: How to download and install the Syncfusion ASP.NET Core (Essential JS2) Visual Studio Extensions from Visual Studio Market Place
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
+
 # Download and Installation
 
 Syncfusion publishes the Visual Studio extension in the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETCoreExtensions). You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.

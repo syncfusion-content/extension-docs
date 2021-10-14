@@ -1,4 +1,13 @@
-# Scaffolding
+---
+layout: post
+title: Scaffolding | ASP.NET Core | Syncfusion
+description: Code-generation Framework for Syncfusion ASP.NET Core platform to quickly create the Controller and Views in a short time.
+platform: extension
+control: Syncfusion Extensions
+documentation: ug
+---
+
+# ASP.NET Core Scaffolding
 
 Syncfusion provides **Visual Studio Scaffolding** for Syncfusion ASP.NET Core platform to quickly add code that interacts with data models and reduce the amount of time to develop with data operation in your project. Scaffolding provides an easier way to create Views and Controller action methods for Syncfusion ASP.NET Core DataGrid, Charts, Scheduler, Diagram, Tree Grid, Rich Text Editor, Document Editor, and PDF Viewer controls.
 

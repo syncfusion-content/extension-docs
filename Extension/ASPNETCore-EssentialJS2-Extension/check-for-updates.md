@@ -1,4 +1,13 @@
-# Check for Updates
+---
+layout: post
+title: Check for Updates | ASP.NET MVC (Essential JS2) | Syncfusion
+description: Syncfusion Check for Updates provides Extensions to update most recent version of the Essential Studio release.
+platform: extension
+control: Visual Studio Extensions
+documentation: ug
+---
+
+# Check for updates in Syncfusion ASP.NET Core (Essential JS2)
 
 Syncfusion provides the check for update extensions to find latest version of essential release was available, if it was available then provide option update most recent version of the Essential Studio release. So that, you always get the latest features, fixes, and improvements by installing the latest version.
 
