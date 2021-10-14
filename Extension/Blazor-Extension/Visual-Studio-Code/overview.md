@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Overview
+# Blazor Extension for Visual Studio Code
 
 The Syncfusion Essential Studio Blazor extension for Visual Studio Code simplifies the use of the Syncfusion Blazor components by configuring the Syncfusion Blazor NuGet packages and themes.
 
