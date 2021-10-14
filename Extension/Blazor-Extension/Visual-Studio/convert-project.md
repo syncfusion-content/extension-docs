@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-## Converting Blazor application to Syncfusion Blazor application
+# Converting Blazor application to Syncfusion Blazor application
 
 Syncfusion Blazor conversion is a Visual Studio add-in that converts an existing Blazor application to the Syncfusion Blazor application by adding the required assemblies and theme files.
 
