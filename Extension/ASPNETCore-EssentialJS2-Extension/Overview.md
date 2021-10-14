@@ -1,37 +1,32 @@
----
-layout: post
-title: ASP.NET Core (Essential JS 2) Extension | Extension | Syncfusion
-description: Syncfusion ASP.NET Core (Essential JS2) Extensions create or configure the Syncfusion ASP.NET Core projects along with Essential JS2 components.
-platform: extension
-control: Syncfusion Extensions
-documentation: ug
----
-
-# ASP.NET Core (Essential JS 2) Extension
+# Visual Studio Integration
 
 ## Overview
 
 The Syncfusion ASP.NET Core (Essential JS 2) Visual Studio Extensions can be accessed through the Syncfusion Menu to create and configure the project with Syncfusion references in Visual Studio.
 
-I> The Syncfusion ASP.NET Core (Essential JS 2) menu option is available from v17.1.0.32.
+> Syncfusion Extension is published in Visual Studio Marketplace. You can download ASP.NET Core (EJ2) Extensions [here](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETCoreExtensions)
 
-The Syncfusion provides the following extension supports in Visual Studio:
+## IMPORTANT
 
-1.	[Syncfusion ASP.NET Core (Essential JS 2) Project Template](https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/syncfusion-project-templates): To create the Syncfusion ASP.NET Core (Essential JS 2) application by adding the required Essential JS 2 components.
-2.	[Project Conversion](https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/project-conversion): To convert an existing ASP.NET Core application into a Syncfusion ASP.NET Core (Essential JS 2) Web application by adding the required Syncfusion assemblies and resource files.
-3.	[Migrate Project](https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/project-migration): Migrate the existing Syncfusion ASP.NET Core Web Application from one Essential Studio version to another version.
-4.	[Sample Creator](https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/sample-creator): Create the Syncfusion ASP.NET Core (Essential JS 2) Projects with the required Syncfusion configuration to start development with the required Syncfusion controls.
+The Syncfusion ASP.NET Core (Essential JS 2) menu option is available from v17.1.0.32.
 
-**No project selected in Visual Studio**
+The Syncfusion provides the following supports in Visual Studio:
 
-![Syncfusion Menu when No project selected in Visual Studio](Overview_images/Syncfusion_Menu_OverView1.png)
+1. [Project-Template](./visual-studio-extensions/create-project):  Creates the Syncfusion ASP.NET Core (Essential JS 2) application by adding the required Essential JS 2 components.
+2. [Convert project](./visual-studio-extensions/convert-project): Converts an existing ASP.NET Core application into a Syncfusion ASP.NET Core (Essential JS 2) application by adding the required Syncfusion assemblies and resource files.
+3. [Upgrade project](./visual-studio-extensions/upgrade-project): Upgrades the existing Syncfusion ASP.NET Core (Essential JS 2) application from one Essential Studio version to another version.
+4. [Creator sample](./visual-studio-extensions/create-samples): Creates the Syncfusion ASP.NET Core (Essential JS2) application with the sample code of required controls and features.
 
-**Selected Microsoft ASP.NET Core Web application in Visual Studio**
+### No project selected in Visual Studio
 
-![Syncfusion Menu when Selected Microsoft ASP.NET Core Web application in Visual Studio](Overview_images/Syncfusion_Menu_OverView2.png)
+![no project selected](images/no-project-selected.png)
 
-**Selected Syncfusion ASP.NET Core (Essential JS2) application in Visual Studio**
+### Selected Microsoft ASP.NET Core Web application in Visual Studio
 
-![Syncfusion Menu when Selected Synfusion ASP.NET Core EJ2 Web application in Visual Studio](Overview_images/Syncfusion_Menu_OverView3.png)
+![selected microsoft](images/selected-project.png)
 
-N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+### Selected Syncfusion ASP.NET Core (Essential JS2) application in Visual Studio
+
+![selected syncfusion](images/selected-syncfusion-project.png)
+
+> In Visual Studio 2019, Syncfusion menu is available under Extension in Visual Studio menu.

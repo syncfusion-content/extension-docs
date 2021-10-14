@@ -1,22 +1,15 @@
----
-layout: post
-title: Blazor VSCode Extension | Extension | Syncfusion
-description: An Extension provides you with quick access so that you can create or configure the Syncfusion Blazor projects along with Syncfusion components
-platform: extension
-control: Syncfusion Extensions
-documentation: ug
----
+# Visual Studio Code Integration
 
 ## Overview
 
-The Syncfusion Essential Studio Blazor extension for Visual Studio Code allows you to use the Syncfusion Blazor components easily by configuring the Syncfusion NuGet packages and themes.
+The Syncfusion Essential Studio Blazor extension for Visual Studio Code simplifies the use of the Syncfusion Blazor components by configuring the Syncfusion Blazor NuGet packages and themes.
 
 The Syncfusion Blazor provides the following support in Visual Studio Code:
 
-[Project-Template](https://help.syncfusion.com/extension/blazor-extension/visual-studio-code/create-project):  Creates Syncfusion Blazor applications by adding the required Syncfusion Blazor components.
+[Project-Template](./visual-studio-code-extensions/create-project):  Creates Syncfusion Blazor applications with required configuration for development with Syncfusion Blazor component.
 
-[Code Snippet](https://help.syncfusion.com/extension/blazor-extension/visual-studio-code/code-snippet):  Adding a Syncfusion Blazor component with various features in the Razor code editor file of the Blazor Application.
+[Code Snippet](./visual-studio-code-extensions/code-snippet):  Adds a Syncfusion Blazor component with various features to the Blazor Application's Razor code editor.
 
-[Convert project:](https://help.syncfusion.com/extension/blazor-extension/visual-studio-code/convert-project):  Converts an existing Blazor Web Application into a Syncfusion Blazor Web Application by adding the required Syncfusion NuGet packages and resource files.
+[Convert project](./visual-studio-code-extensions/convert-project):  Converts an existing Blazor Web Application to a Syncfusion Blazor Web Application by importing the necessary Syncfusion NuGet packages.
 
-[Upgrade project](https://help.syncfusion.com/extension/blazor-extension/visual-studio-code/upgrade-project):  Upgrades the existing Syncfusion Blazor Web Application from one Essential Studio version to another version.
+[Upgrade project](./visual-studio-code-extensions/upgrade-project):  Upgrades the existing Syncfusion Blazor Web Application from one Essential Studio version to another version.

@@ -1,66 +1,55 @@
----
-layout: post
-title: Download and Installation | Blazor | Syncfusion
-description: How to download and install the Syncfusion Blazor Visual Studio Extensions from Visual Studio Market Place
-platform: extension
-control: Syncfusion Extensions
-documentation: ug
----
-
 # Download and Installation
 
-Syncfusion publishes the Visual Studio Code extension in [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions). You can either install it from Visual Studio Code or download and install it from Visual Studio Code marketplace.
+Syncfusion publishes the Visual Studio Code extension in the [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions). You can either install it directly from Visual Studio Code or download and install it from the Visual Studio Code marketplace.
 
 ## Prerequisites
 
-The following prerequisites software need to be installed for the Syncfusion Blazor extension installation and for creating, converting and upgrading the Syncfusion Blazor applications.
+The following software prerequisites must be installed to install the Syncfusion Blazor extension, as well as to creating, adding component code, converting, and upgrading Syncfusion Blazor applications.
 
-* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download)
 
- > The minimum version of Visual Studio Code is 1.29.0 to use the Syncfusion Blazor Extension.
+* [Visual Studio 2019 16.3 Preview 2](https://visualstudio.microsoft.com/vs/) or later
 
-* [Visual Studio 2019 16.3 Preview 2](https://visualstudio.microsoft.com/vs/) or later.
-
-* [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1) or later.
+* [.NET Core 3.1](https://dotnet.microsoft.com/download/dotnet-core/3.1) or later
 
 * [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 
 ## Install through the Visual Studio Code Extensions
 
-The following steps explains how to install the Syncfusion Blazor extensions from Visual Studio Code Extensions.
+The instructions below describe the process of installing the Syncfusion Blazor extensions from Visual Studio Code Extensions.
 
 1. Open Visual Studio Code.
 
-2. Go to **View > Extensions**, and open Manage Extensions.
+2. Navigate to **View > Extensions**, and the Manage Extensions option will appear on the left side of the window.
 
-3. Type **“Syncfusion Blazor”** in the search box.
+3. By entering the keyword **"Syncfusion Blazor"** in the search box, you can find the Syncfusion Blazor Visual Studio Code extension in the Visual Studio Code Marketplace.
 
      ![Extension](images/Extension.png)
 
-4. Click the Install button on the **"Blazor VSCode Extensions - Syncfusion"** extension.
+4. Install the **"Blazor VSCode Extensions - Syncfusion"** extension by clicking the **Install** button.
 
-5. After the installation, reload the Visual Studio Code using the **Reload Window** command in Visual Studio Code palette.
-
-     ![Reload-Window](images/Reload-Window.png)
-
-6. Now, use the Syncfusion extensions from Visual Studio Code palette.
-
-     ![CreateProjectPalette](images/CreateBlazorProjectPalette.png)
-
-## Install from the Visual Studio Marketplace
-
-The following steps explain how to download Syncfusion Blazor applications from the Visual Studio Code Marketplace and install them.
-
-1. Open the [Syncfusion Blazor VSCode Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) in Visual Studio Code Marketplace.
-
-2. Click Install from Visual Studio Code Marketplace. The browser opens the popup with the information like **“Open Visual Studio Code”**. Click Open Visual Studio Code,then [Syncfusion Blazor VSCode Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) will open in Visual Studio Code.
-
-3. Click the Install button in the **"Blazor VSCode Extensions - Syncfusion"** extension.
-
-4. After the installation, reload the Visual Studio Code using the Reload Window command in Visual Studio Code palette.
+5. Reload Visual Studio Code after installation by using the **Reload Window** command in the Visual Studio Code palette. You can open the command palette by pressing **Ctrl+Shift+P** and find the Reload Window from Visual Studio Code commands.
 
      ![Reload-Window](images/Reload-Window.png)
 
-5. Now, use the Syncfusion extensions from Visual Studio Code palette.
+6. Now, you can create a new Syncfusion Blazor application by using the Syncfusion Blazor extensions from the Visual Studio Code Palette Find the **Syncfusion Blazor Template Studio: Launch** from Visual Studio Code commands to open the Syncfusion Blazor Template Studio wizard.
 
-     ![CreateProjectPalette](images/CreateBlazorProjectPalette.png)
+     ![CreateProjectPalette](images/CreateProjectPalette.png)
+
+## Install from the Visual Studio Code Marketplace
+
+The instructions below describe the process of downloading and installing Syncfusion Blazor applications from the Visual Studio Code Marketplace.
+
+1. Open [Syncfusion Blazor Code Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) in Visual Studio Code Marketplace.
+
+2. Click Install from Visual Studio Code Marketplace. The browser displays a popup window with information such as **"Open Visual Studio Code"**. When you click Open Visual Studio Code, the [Syncfusion Blazor Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) will launch in Visual Studio Code.
+
+3. Install the **"Blazor VSCode Extensions - Syncfusion"** extension by clicking the **Install** button.
+
+4. Reload Visual Studio Code after installation by using the **Reload Window** command in the Visual Studio Code palette. You can open the command palette by pressing **Ctrl+Shift+P** and find the Reload Window from Visual Studio Code commands.
+
+     ![Reload-Window](images/Reload-Window.png)
+
+5. Now, you can create a new Syncfusion Blazor application by using the Syncfusion Blazor extensions from the Visual Studio Code Palette Find the **Syncfusion Blazor Template Studio: Launch** from Visual Studio Code commands to open the Syncfusion Blazor Template Studio wizard.
+
+     ![CreateProjectPalette](images/CreateProjectPalette.png)
