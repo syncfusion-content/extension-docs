@@ -19,7 +19,7 @@ Install the appropriate [Xamarin UI Kit Extension](https://marketplace.visualstu
 
 1.	Launch a new or existing Xamarin application.
 
-2.	Select the Essential UI Kit for Xamarin.Forms from the Solution Explorer by right-clicking on your Xamarin.Forms project
+2.	Select the **Essential UI Kit for Xamarin.Forms** from the **Solution Explorer** by right-clicking on your **Xamarin.Forms** project
 
 	![Syncfusion Essential UI Kit Context menu](Essential-UI-Kit-images/Context-Menu.png)
 

@@ -22,7 +22,7 @@ The steps below assist you to how to install the Syncfusion Xamarin extensions f
 3.	On the left, click the **Online** tab and type **"Xamarin Extensions"** in the search box.
 
 	![Manage Extension](Download-and-Installation-images/ManageExtension.PNG)
-4.	Click the Download button in the “Xamarin Extensions - Syncfusion”.
+4.	Click the Download button in the “**Xamarin Extensions - Syncfusion**”.
 5.	Close all Visual Studio instances after downloading the extensions to begin the installation process. You can see the following VSIX installation prompt.
 	
 	![Vsix Modify Window](Download-and-Installation-images/VSIXModify.PNG)
