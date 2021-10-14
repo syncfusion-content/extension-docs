@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Create Project with Syncfusion Visual Studio Project Templates
+# Create Project with Syncfusion Blazor Template Studio
 
 Syncfusion provides the Visual Studio Project Templates to create the Syncfusion Blazor Application. The Syncfusion Blazor application creates an application with the required Syncfusion references, namespaces, component code snippet, and CDN links for the earlier development with Syncfusion components.
 
@@ -19,7 +19,7 @@ The following steps will help you create your **Syncfusion Blazor Application** 
 
     **Option 1**
 
-    Choose **Extension->Syncfusion->Essential Studio for Blazor->Create New Syncfusion Project...** from the **Visual Studio menu**.
+    Choose **Extension -> Syncfusion -> Essential Studio for Blazor -> Create New Syncfusion Project...** from the **Visual Studio menu**.
 
     ![CreateMenu](images/CreateMenu.png)
 
@@ -64,7 +64,7 @@ The following NuGet package(s) are added as NuGet references based on applicatio
 | `Syncfusion.Blazor.PdfViewerServer.Windows`  | Syncfusion Blazor Server App  |
 | `Syncfusion.Blazor.WordProcessor`  | Syncfusion Blazor Server App <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App |
 
-> The installed Syncfusion Extension version of NuGet package will be added as reference entry if there is no internet connection. You have to restore the NuGet packages when internet available.
+> The installed Syncfusion Extension version of the NuGet package will be added as reference entry if there is no internet connection. You have to restore the NuGet packages when the internet available.
 
 ![NuGetPackage](images/NuGetPackage.png)
 
@@ -75,7 +75,7 @@ following locations of Blazor type application.
 
 | Application type  | File location  |
 |---|---|
-| Syncfusion Blazor Server App | {Project location}\pages\\_Host.cshtml |
+| Syncfusion Blazor Server App | {Project location}\Pages\_Host.cshtml |
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
 
@@ -93,6 +93,6 @@ The Syncfusion Blazor components code snippets are added in the created applicat
 
 | File name  | Code snippet added |
 |---|---|
-| `Index.razor`  | ![IndexFileChange](images/IndexFileChange.png) |
-| `Counter.razor` | ![CounterPageChange](images/CounterPageChange.png) |
-| `FetchData.razor`  | ![FetchDataPageChange](images/FetchDataPageChange.png) |
+| `~/Pages/Index.razor`  | ![IndexFileChange](images/IndexFileChange.png) |
+| `~/Pages/Counter.razor` | ![CounterPageChange](images/CounterPageChange.png) |
+| `~/Pages/FetchData.razor`  | ![FetchDataPageChange](images/FetchDataPageChange.png) |
