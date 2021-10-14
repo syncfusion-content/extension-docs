@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Create project
+# Create Project with Syncfusion Blazor Template Studio
 
 Syncfusion provides **Visual Studio Code project templates** for creating Syncfusion Blazor application. Syncfusion Blazor generates application that include the necessary Syncfusion NuGet packages, namespaces, and component render code for the Calendar, Button, and DataGrid components, as well as the style for making Syncfusion component development easier.
 
