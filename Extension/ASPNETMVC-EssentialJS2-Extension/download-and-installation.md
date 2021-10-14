@@ -28,13 +28,13 @@ The steps below assist you to how to install the Syncfusion ASP.NET MVC extensio
 
 3. On the left, click the **Online** tab and type **"Syncfusion EJ2 MVC"** in the **search box**.
 
-    ![Online-Manage-Extension-window](/images/OnlineExtension.png)
+    ![Online-Manage-Extension-window](images/OnlineExtension.png)
 
 4. Click the **Download** button in the **“ASP.NET MVC Extension - Syncfusion”**.
 
 5. Close all Visual Studio instances after downloading the extensions to begin the installation process. You will see the following VSIX installation prompt.
 
-    ![VSIX-Installation-Window](/images/InstallUpdatedVersion.png)
+    ![VSIX-Installation-Window](images/InstallUpdatedVersion.png)
 
 6. Click the **Modify** button.
 
@@ -42,7 +42,7 @@ The steps below assist you to how to install the Syncfusion ASP.NET MVC extensio
 
 8. Now, under the menu **Extensions**, you can use the Syncfusion extensions from the Visual Studio.
 
-    ![SyncfusionMenu](/images/SyncfusionMenu.png)
+    ![SyncfusionMenu](images/SyncfusionMenu.png)
 
 ## Install from the Visual Studio Marketplace
 
@@ -54,10 +54,10 @@ The steps below illustrate how to download and install the Syncfusion ASP.NET MV
 
 3. Double-click to install the downloaded VSIX file. You will see the VSIX installation prompts for the Visual Studio 2019 version. If Visual Studio 2019 is not installed, it will not be possible to install the extension.
 
-    ![VSIX-Installation-Window](/images/InstallUpdatedVersion.png)
+    ![VSIX-Installation-Window](images/InstallUpdatedVersion.png)
 
 4. Click the **Modify** button.
 
 5. After the installation is complete, open Visual Studio 2019. You can now use Syncfusion extensions from the Visual Studio under the **Extensions** menu.
 
-     ![SyncfusionMenu](/images/SyncfusionMenu.png)
+     ![SyncfusionMenu](images/SyncfusionMenu.png)

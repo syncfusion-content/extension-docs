@@ -7,7 +7,7 @@ control: Visual Studio Extensions
 documentation: ug
 ---
 
-# Check for updates in Syncfusion ASP.NET MVC (Essential JS2)
+# Check for updates in Syncfusion ASP.NET MVC
 
 Syncfusion provides the check for update extensions to find latest version of essential release was available, if it was available then provide option update most recent version of the Essential Studio release. So that, you always get the latest features, fixes, and improvements by installing the latest version.
 
@@ -23,6 +23,6 @@ You can check updates availability in Visual Studio, and then install the update
 
 2. When there is an update, **Update** dialog box opens.
 
-    ![update dialog](/images/update-dialog.png)
+    ![update dialog](images/update-dialog.png)
 
 3. You can download the Syncfusion Essential Studio from the Syncfusion website by selecting **Download**.

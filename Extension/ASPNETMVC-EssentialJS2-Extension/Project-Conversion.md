@@ -1,13 +1,4 @@
----
-layout: post
-title: Project Conversion | ASP.NET MVC (Essential JS 2) | Syncfusion
-description: Project Conversion is a add-in that converts an existing ASP.NET MVC project into a Syncfusion ASP.NET MVC project by adding required Essential JS 2 components
-platform: extension
-control: Syncfusion Extensions
-documentation: ug
----
-
-# Syncfusion Project Conversion
+# Converting ASP.NET MVC application to Syncfusion ASP.NET MVC application
 
 Syncfusion ASP.NET MVC conversion is a Visual Studio add-in that converts an existing ASP.NET MVC application into a Syncfusion ASP.NET MVC (Essential JS 2) Web application by adding the required assemblies and resource files.
 
@@ -23,7 +14,7 @@ The steps below help you to convert the ASP.NET MVC application to the Syncfusio
 
     Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC > Convert to Syncfusion ASP.NET MVC Application…** in **Visual Studio Menu**.
 
-    ![convert-to-syncfusion](/images/convert-project.png)
+    ![convert-to-syncfusion](images/convert-project.png)
 
     > In Visual Studio 2019, Syncfusion menu is available under **Extensions** in Visual Studio menu.
 
@@ -31,11 +22,11 @@ The steps below help you to convert the ASP.NET MVC application to the Syncfusio
 
     Right-click the **Project** from Solution Explorer, select **Syncfusion Web**, and choose the **Convert to Syncfusion ASP.NET MVC Application…** Refer to the following screenshot for more information.
 
-    ![syncfusion-aspnet mvc](/images/convert-syncfusion-aspmvc-application.png)
+    ![syncfusion-aspnet mvc](images/convert-syncfusion-aspmvc-application.png)
 
 3. The Syncfusion ASP.NET MVC Project Conversion window will appear. You can choose the required version of Syncfusion ASP.NET MVC, Assets from, and Themes to convert the application.
 
-    ![project conversion wizard](/images/project-conversion-wizard.png)
+    ![project conversion wizard](images/project-conversion-wizard.png)
 
     > The versions are loaded from the Syncfusion ASP.NET MVC NuGet packages which published in [NuGet.org](https://www.nuget.org/packages?q=Tags%3A%22aspnetmvc%22syncfusion) and it requires internet connectivity.
 
@@ -51,14 +42,14 @@ The steps below help you to convert the ASP.NET MVC application to the Syncfusio
 
 5. The required Syncfusion NuGet packages, Scripts and CSS are included in the ASP.NET MVC Web Application. Refer to the following screenshots for more information.
 
-    ![syncfusion assemblies](/images/syncfusion-reference.png)
+    ![syncfusion assemblies](images/syncfusion-reference.png)
 
-    ![syncfusion layout](/images/layout.png)
+    ![syncfusion layout](images/layout.png)
 
-    ![web-config](/images/web-config.png)
+    ![web-config](images/web-config.png)
 
     if you enabled project backup before converting, the old project was saved in the specified backup path location, as shown below once the conversion process completed.
 
-    ![BackupLocation](/images/BackupLocation.png)
+    ![BackupLocation](images/BackupLocation.png)
 
 6. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio.
