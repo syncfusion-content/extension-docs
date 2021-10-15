@@ -21,9 +21,9 @@ The Syncfusion provides the following extension supports in Visual Studio:
 
 1.	[Syncfusion Windows Forms Project Template](https://help.syncfusion.com/extension/windowsforms-extension/syncfusion-project-templates-for-windows-forms): To create the Syncfusion Windows Forms application by adding the required Syncfusion assemblies and forms.
 2.	[Item Template](https://help.syncfusion.com/extension/windowsforms-extension/syncfusion-item-templates-for-windows-forms): Add predefined Syncfusion items (Forms) and the required Syncfusion assemblies in WinForms Application.
-3.	[Reference Manager](https://help.syncfusion.com/extension/syncfusion-reference-manager/configure-syncfusion-assemblies-in-visual-studio-project): To add the required Syncfusion assembly to Windows project reference based on the selected control.
-4.	[Toolbox Configuration](https://help.syncfusion.com/common/essential-studio/utilities#toolbox-configuration): To configure the Syncfusion controls into the Visual Studio .NET toolbox.
-5.	[Troubleshooter](https://help.syncfusion.com/extension/syncfusion-troubleshooter/syncfusion-troubleshooter): Troubleshoot the project with the Syncfusion configuration and apply the fix like, wrong Framework Syncfusion assembly added to the project or missing any Syncfusion dependent assembly of a referred assembly.
+3.	[Reference Manager](./add-references): To add the required Syncfusion assembly to Windows project reference based on the selected control.
+4.	[Toolbox Configuration](toolbox-configuration): To configure the Syncfusion controls into the Visual Studio .NET toolbox.
+5.	[Troubleshooter](troubleshooting): Troubleshoot the project with the Syncfusion configuration and apply the fix like, wrong Framework Syncfusion assembly added to the project or missing any Syncfusion dependent assembly of a referred assembly.
 
 **No project selected in Visual Studio**
 
