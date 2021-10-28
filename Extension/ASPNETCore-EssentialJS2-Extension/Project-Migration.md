@@ -29,7 +29,7 @@ The steps below will assist you to upgrade the Syncfusion version in the Syncfus
 
     ![migrate project](images/migrate-project.png)
 
-    > In Visual Studio 2019, Syncfusion menu is available under **Extensions** in Visual Studio menu.
+    > From Visual Studio 2019, Syncfusion menu is available under **Extensions** in Visual Studio menu.
 
     **Option 2**
 

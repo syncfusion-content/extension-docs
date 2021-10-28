@@ -25,7 +25,7 @@ The following steps is used to create the **Syncfusion ASP.NET Core (Essential J
 
     ![new project](images/new-project.png)
 
-    > In Visual Studio 2019, Syncfusion menu is available under Extension in Visual Studio menu.
+    > From Visual Studio 2019, Syncfusion menu is available under Extension in Visual Studio menu.
 
     ![new project](images/SyncfusionMenu.png)
 

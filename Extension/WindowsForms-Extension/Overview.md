@@ -37,7 +37,7 @@ The Syncfusion provides the following extension supports in Visual Studio:
 
 ![Syncfusion Menu when Selected Synfusion Windows Forms application in Visual Studio](Overview-images/Syncfusion_Menu_OverView3.png)
 
-N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+N> From Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
 
 
 The Syncfusion Windows Forms Visual Studio Extensions are installed along with the following setups,
