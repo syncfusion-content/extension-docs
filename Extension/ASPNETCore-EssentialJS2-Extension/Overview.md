@@ -38,4 +38,4 @@ The Syncfusion provides the following supports in Visual Studio:
 
 ![selected syncfusion](images/selected-syncfusion-project.png)
 
-> In Visual Studio 2019, Syncfusion menu is available under Extension in Visual Studio menu.
+> From Visual Studio 2019, Syncfusion menu is available under Extension in Visual Studio menu.

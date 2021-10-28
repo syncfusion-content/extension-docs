@@ -25,7 +25,7 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     ![convert project](images/convert-new-app.png)
 
-    > In Visual Studio 2019, Syncfusion menu is available under **Extensions** in Visual Studio menu.
+    > From Visual Studio 2019, Syncfusion menu is available under **Extensions** in Visual Studio menu.
 
     ![convert project](images/convert-new-app-2019.png)
 

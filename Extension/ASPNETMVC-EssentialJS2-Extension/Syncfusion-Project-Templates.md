@@ -25,7 +25,7 @@ Use the following steps to create the **Syncfusion ASP.NET MVC (Essential JS 2) 
 
     ![create new syncfusion project](images/new-syncfusion-project.png)
 
-    > In Visual Studio 2019, Syncfusion menu is available under Extension in Visual Studio menu.
+    > From Visual Studio 2019, Syncfusion menu is available under Extension in Visual Studio menu.
 
     ![SyncfusionMenu](images/SyncfusionMenu.png)
 

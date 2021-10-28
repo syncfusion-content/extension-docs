@@ -25,7 +25,7 @@ The steps below help you to convert the ASP.NET MVC application to the Syncfusio
 
     ![convert-to-syncfusion](images/convert-project.png)
 
-    > In Visual Studio 2019, Syncfusion menu is available under **Extensions** in Visual Studio menu.
+    > From Visual Studio 2019, Syncfusion menu is available under **Extensions** in Visual Studio menu.
 
     **Option 2:**
 
