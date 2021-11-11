@@ -7,77 +7,74 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Sample Creator
+# Creating Syncfusion ASP.NET MVC application
 
-The Syncfusion Sample Creator is a utility that allows you to create the Syncfusion ASP.NET MVC (Essential JS 2) Projects with required Syncfusion configuration in project to start the development with Syncfusion controls.
+The Syncfusion Sample Creator is a tool that lets you make Syncfusion ASP.NET MVC (Essential JS 2) projects with sample code for required Syncfusion component features and Syncfusion control configuration.
 
-I> The Syncfusion ASP.NET MVC (Essential JS 2) Sample Creator utility is available from v16.3.0.17.
+> The Syncfusion ASP.NET MVC (Essential JS 2) Sample Creator utility is available from v16.3.0.17.
 
-## Create Syncfusion ASP.NET MVC (Essential JS 2) Application from Sample Creator
+Use the following steps to create the Syncfusion ASP.NET MVC (Essential JS 2) Application through the Sample Creator utility:
 
-The following steps help you to create the Syncfusion ASP.NET MVC (Essential JS 2) Application via the Sample Creator utility:
+1. Follow one of the options below to launch the ASP.NET MVC (Essential JS 2) Sample Creator application:
 
-1. To launch ASP.NET MVC (Essential JS 2) Sample Creator application, follow either one of the options below: 
+    **Option 1:** Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ2) > Launch Sample Creator…** in **Visual Studio**.
 
-   **Option 1:**  
-   Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ2) > Launch Sample Creator…** in **Visual Studio**.
+    ![launch sample creator](images/launch-sample-creator.png)
 
-   ![launch the Syncfusion Essential JS 2 ASP.NET MVC Sample Creator via Syncfusion menu](Sample-Creator_images\Syncfusion_Menu_SampleCreator.png)
+    **Option 2:**
 
-   N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
+    Launch the Syncfusion ASP.NET MVC (Essential JS 2) Control Panel. Select the Sample Creator button to launch the ASP.NET MVC (Essential JS 2) Sample Creator application. Refer to the following screenshot for more information.
 
-   **Option 2:**  
-   Launch the Syncfusion ASP.NET MVC (Essential JS 2) Control Panel. Select the Sample Creator button to launch the ASP.NET MVC (Essential JS 2) Sample Creator application.Refer to the following screenshot for more information.
+    ![sample creator application](images/sample-creator-application.png)
 
-   ![Syncfusion Essential JS 2 ASP.NET MVC Control Panel to launch the Syncfusion Essential JS 2 ASP.NET MVC Sample Creator](Sample-Creator_images\SampleCreator-img1.jpg)
+2. Syncfusion controls and features are listed in the ASP.NET MVC (Essential JS 2) Sample Creator.
 
-2. ASP.NET MVC (Essential JS 2) Sample Creator list the Syncfusion controls and its features. 
+    ![sample creator lists](images/sample-creator-list.png)
 
-   ![Syncfusion Essential JS 2 ASP.NET MVC Sample Creator wizard](Sample-Creator_images\SampleCreator-img2.jpg)
+    **Controls Selection**: Choose the required controls. The controls are grouped with Syncfusion products.
 
-   ### Controls Selection
+    ![control selection](images/control-selection.png)
 
-   Choose the required controls. The controls are grouped with Syncfusion products.
+    **Feature Selection**: Based on the controls, the feature is enabled to choose the features of the corresponding controls.
 
-   ![Controls selection in Syncfusion Essential JS 2 ASP.NET MVC Sample Creator](Sample-Creator_images\SampleCreator-img3.jpg)
+    ![feature selection](images/feature-list.png)
 
-   ### Feature Selection
+## Project Configuration
 
-   Based on the controls, the feature is enabled to choose the features of the corresponding controls.
+1. You can configure the project with the following details:
 
-   ![Feature selection in Syncfusion Essential JS 2 ASP.NET MVC Sample Creator for the selected controls](Sample-Creator_images\SampleCreator-img4.jpg)
+    * **MVC Version**: Choose the required MVC Version.
 
-   ### Project Configuration
+    * **VS Version**: Choose the Visual Studio version and Framework.
 
-   1. You can configure the project with following details.
+    * **View Engine**: By default, Syncfusion supports only Razor view engine for ASP.NET MVC projects.
 
-      * **MVC Version**: Choose the required MVC Version. 
-      * **VS Version**: Choose the Visual Studio version and Framework.
-      * **View Engine**: By default, Syncfusion supports only Razor view engine for ASP.NET MVC projects.
-      * **Assets From**: Load the Syncfusion Essential JS 2 assets to ASP.NET MVC Project, either NuGet, CDN or Installed Location.
+    * **Assets From**: Choose the Syncfusion Essential JS 2 assets to ASP.NET MVC Project, either NuGet, CDN or Installed Location.
 
-      N> Installed location option will be available only when the Syncfusion Essential JavaScript 2 setup has been installed.
-  
-      *	**Name**: Name your Syncfusion ASP.NET MVC (Essential JS 2) Application.
-      *	**Location**: Choose the target location of your project.
-      *	**Theme Selection**: Choose the required theme. This section shows the controls preview before creating the Syncfusion project.
+    > Installed location option will be available only when the Syncfusion Essential JavaScript 2 setup has been installed.
 
-      ![Syncfusion Essential JS 2 ASP.NET MVC Sample Creator project configuration section](Sample-Creator_images\SampleCreator-img5.jpg)
+    * **Name**: Name your Syncfusion ASP.NET MVC (Essential JS 2) Application.
 
-   2. Click **Create** button. Once the project is created you can open the project by clicking **Yes**. If you click **No** the corresponding location of the project will be opened. Refer the following screenshot for more information.
+    * **Location**: Choose the target location of your project.
 
-      ![The project successfully created using Syncfusion Essential JS 2 ASP.NET MVC Sample Creator](Sample-Creator_images\SampleCreator-img6.jpg)
+    * **Theme Selection**: Choose the required theme. This section shows the controls preview before creating the Syncfusion project.
 
-   3. The new Syncfusion ASP.NET MVC (Essential JS 2) project is created with the resources.
+    ![sample creator theme selection](images/aspnet-mvc-samplecreator.png)
 
-      * Added the required Controllers and View files in the project.
-  
-      ![Required Controllers and View files for the selected Syncfusion Essential JS 2 ASP.NET MVC controls added in the project](Sample-Creator_images\SampleCreator-img7.jpg)
+2. Click **Create** button. After creating the project, open the project by clicking **Yes**. If you click **No**, the corresponding location of the project will be opened. Refer to the following screenshot for more information.
 
-      * Included the required Syncfusion ASP.NET MVC (Essential JS 2) scripts and theme files.
-  
-      ![Required Scripts and Themes references added in the Syncfusion Essential JS 2 ASP.NET MVC project](Sample-Creator_images\SampleCreator-img8.jpg)
+    ![create](images/sample-creator-create.png)
 
-      * The required Syncfusion assemblies are added for selected controls under Project Reference.
- 
-      ![Required Syncfusion reference assemblies added in the Syncfusion Essential JS 2 ASP.NET MVC project](Sample-Creator_images\SampleCreator-img9.jpg)  
+3. The new Syncfusion ASP.NET MVC (Essential JS 2) project is created with the resources.
+
+    * Added the required Controllers and View files in the project.
+
+        ![required controllers](images/required-controllers.png)
+
+    * Included the required Syncfusion ASP.NET MVC (Essential JS 2) scripts and theme files.
+
+        ![script-theme references](images/scripts-theme.png)
+
+    * The required Syncfusion assemblies are added for selected controls under Project Reference.
+
+        ![syncfusion assemblies](images/syncfusion-assemblies.png)
