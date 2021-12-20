@@ -23,6 +23,8 @@ The instructions below assist you in creating **Syncfusion Blazor Applications**
 
     ![TemplateStudioWizard](images/ProjectLocationName.png)
 
+    > ASP.NET Core Version .NET 6.0 was available from V19.4.0.38.
+
 3. Select either **Next** or the **Project Type** tab. Syncfusion Blazor Project Types will be displayed. Select one of the following Syncfusion Blazor project types:
    * Syncfusion Blazor Server App
    * Syncfusion Blazor WebAssembly App
