@@ -23,6 +23,8 @@ The instructions below assist you in creating **Syncfusion Blazor Applications**
 
     ![TemplateStudioWizard](images/ProjectLocationName.png)
 
+    > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
+
 3. Select either **Next** or the **Project Type** tab. Syncfusion Blazor Project Types will be displayed. Select one of the following Syncfusion Blazor project types:
    * Syncfusion Blazor Server App
    * Syncfusion Blazor WebAssembly App
