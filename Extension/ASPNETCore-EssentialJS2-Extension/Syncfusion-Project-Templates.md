@@ -41,7 +41,7 @@ The following steps is used to create the **Syncfusion ASP.NET Core (Essential J
 
     ![project configuration](images/project-configuration.png)
 
-    > ASP.NET Core 6.0 was available from V19.4.0.38 and support from Visual Studio 2022 in Syncfusion ASP.NET Core project configuration wizard.
+    > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
 
     **Project configurations**
 

@@ -39,7 +39,7 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
      ![ProjectWizard](images/TemplateStudio.png)
 
-     > ASP.NET Core Version .NET 6.0 was available from V19.4.0.38 and support from Visual Studio 2022 in select version.
+     > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
 
      **Project type section**
 
