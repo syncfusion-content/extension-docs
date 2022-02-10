@@ -30,7 +30,7 @@ To launch the Syncfusion Toolbox from Visual Studio 2017, click **Syncfusion** i
 
    ![Syncfusion Xamarin Custom Toolbox via Syncfusion menu](Toolbox_images/Syncfusion_Menu_Toolbox.png)
 
-## Launching Syncfusion Xamarin Toolbox from Viewmenu
+## Launching Syncfusion Xamarin Toolbox from View menu
 
 To launch the Visual Studio Toolbox from Visual Studio menu in Visual Studio 2017 and later, click **View > Other Windows > Syncfusion Toolbox** in Visual Studio.
 
