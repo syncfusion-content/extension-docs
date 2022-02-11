@@ -2,7 +2,7 @@
 layout: post
 title: Add References| Wpf | Syncfusion
 description: Syncfusion Reference Manger extension is add-in to add the Syncfusion references into the WinForms application
-platform: wpf
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

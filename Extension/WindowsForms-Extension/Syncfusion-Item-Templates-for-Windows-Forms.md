@@ -2,7 +2,7 @@
 layout: post
 title: Syncfusion Item Template | WinForms | Syncfusion
 description: Syncfusion Item Templates provides to add the predefined forms with Syncfusion component in Windows Forms application.
-platform: windowsforms
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

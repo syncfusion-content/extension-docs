@@ -2,7 +2,7 @@
 layout: post
 title: Convert Project | ASP.NET Web Forms (Essential JS1) | Syncfusion
 description: Syncfusion ASP.NET Web Forms (Essential JS1) Project Conversion Extension that converts an existing ASP.NET project into a Essential JS1 ASP.NET Project.
-platform: aspnet
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
