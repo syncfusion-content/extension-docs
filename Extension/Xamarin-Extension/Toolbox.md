@@ -2,7 +2,7 @@
 layout: post
 title: Toolbox Control | xamarin | Syncfusion
 description: Syncfusion Xamarin Toolbox to add the Syncfusion Xamarin (Xamarin.Forms) controls in your project without coding in the Visual Studio designer.
-platform: xamarin
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

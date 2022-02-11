@@ -2,7 +2,7 @@
 layout: post
 title: Download and Installation | Xamarin | Syncfusion
 description: How to download and install the Syncfusion Xamarin Visual Studio Extensions from Visual Studio Market Place
-platform: Xamarin
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
