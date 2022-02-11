@@ -2,7 +2,7 @@
 layout: post
 title: Check for Updates | Xamarin | Syncfusion
 description: Syncfusion Check for Updates provides Extensions to update most recent version of the Essential Studio release.
-platform: Xamarin
+platform: extension
 control: Visual Studio Extensions
 documentation: ug
 ---

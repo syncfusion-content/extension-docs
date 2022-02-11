@@ -2,7 +2,7 @@
 layout: post
 title: Upgrade Project | ASP.NET Web Forms | Syncfusion
 description: Project Migration is a add-in that allows you to migrate existing Syncfusion ASP.NET Web Forms project from one Essential Studio version to another version
-platform: aspnet
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

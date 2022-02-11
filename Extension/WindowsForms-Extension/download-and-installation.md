@@ -2,7 +2,7 @@
 layout: post
 title: Downloand and Installation | WinForms | Syncfusion
 description: this section provide the information about how to download and install the extensions in Visual Studio.
-platform: windowsforms
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Check for Updates | WinForms | Syncfusion
 description: Syncfusion Check for Updates provides Extensions to update most recent version of the Essential Studio release.
-platform: windowsforms
+platform: extension
 control: Visual Studio Extensions
 documentation: ug
 ---

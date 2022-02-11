@@ -2,7 +2,7 @@
 layout: post
 title: Syncfusion Item Template for WPF | Wpf | Syncfusion
 description: Syncfusion item template extension supports to add the Syncfusion WPF Window into WPF application with add Syncfusion WPF references.
-platform: wpf
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---

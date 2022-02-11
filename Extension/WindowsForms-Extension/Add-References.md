@@ -2,7 +2,7 @@
 layout: post
 title: Add a Syncfusion References| WinForms | Syncfusion
 description: Syncfusion Reference Manger extension is add-in to add the Syncfusion references into the WinForms application
-platform: windowsforms
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
