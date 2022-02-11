@@ -2,7 +2,7 @@
 layout: post
 title: Toolbox Configuration | Wpf | Syncfusion
 description: This section provides information regarding all the Syncfusion Essential Studio utilities and its usage
-platform: wpf
+platform: extension
 control: Essential Studio
 documentation: ug
 ---

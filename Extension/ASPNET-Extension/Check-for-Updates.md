@@ -2,7 +2,7 @@
 layout: post
 title: Check for Updates | ASP.NET | Syncfusion
 description: Syncfusion Check for Updates provides Extensions to update most recent version of the Essential Studio release.
-platform: aspnet
+platform: extension
 control: Visual Studio Extensions
 documentation: ug
 ---
