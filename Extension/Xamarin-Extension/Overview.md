@@ -9,15 +9,13 @@ documentation: ug
 
 # Xamarin Extension Overview
 
-## Overview
-
 The Syncfusion Xamarin  Visual Studio Extensions can be accessed through the Syncfusion Menu to create and configure the project with Syncfusion references in Visual Studio.
 
 I> The Syncfusion Xamarin  menu option is available from v17.1.0.32.
 
 The Syncfusion provides the following extension supports in Visual Studio:
 
-1.	[Syncfusion Xamarin Project Template](https://help.syncfusion.com/extension/xamarin-extension/syncfusion-project-templates): Create the Syncfusion Xamarin application by adding the required Syncfusion NuGet based on the control chosen.
+1.	[Syncfusion Xamarin Project Template](https://help.syncfusion.com/extension/xamarin-extension/create-project): Create the Syncfusion Xamarin application by adding the required Syncfusion NuGet based on the control chosen.
 2.	[Essential UI Kit](https://help.syncfusion.com/extension/xamarin-extension/essential-ui-kit#template-selection-and-naming): Add the predefined Syncfusion XAML templates in Xamarin.Form and install the required Syncfusion NuGet packages.
 
      N> Xamarin Item Template is available only in marketplace. 
