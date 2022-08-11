@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download ASPNET MVC Extension | Extension | Syncfusion
-description: download asp.net mvc extension 
+description: Learn here about download asp.net mvc extension in Syncfusion Essential ASP.NET MVC Extension Control, its elements, and more.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
