@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Sample Creator
+# Sample Creator in ASP.NET MVC Extensions
 
 Sample Creator is the utility that allows you to create Syncfusion ASP.NET MVC/Syncfusion ASP.NET MVC (Classic) Projects along with the samples based on Controls and Features selection.
 
