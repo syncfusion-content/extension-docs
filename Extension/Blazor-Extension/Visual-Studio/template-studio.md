@@ -15,7 +15,7 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
 > Before use the Syncfusion Blazor Project Template, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/) help topic.
 
-1. Open Visual Studio 2019.
+1. Open Visual Studio 2022.
 
 2. To create a Syncfusion Blazor application, use either one of the following options:
 
@@ -41,6 +41,8 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
      > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
 
+     > .NET 7.0 is available from v20.4.0.38 and support from Visual Studio 2022.
+
      **Project type section**
 
      Choose one of the Syncfusion Blazor application types:
@@ -51,7 +53,7 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
      ![ProjectTypeWizard](images/ProjectTypeWizard.png)
 
-     > **Note:** The Progressive Web Application will be enabled if .NET Core version 3.1.200 or higher is installed.
+     > **Note:** The Progressive Web Application will be enabled if .NET 6.0 version or higher is installed.
 
 5. Click either **Next** or the **Controls** tab. The Syncfusion Blazor components you can add to the application are listed.
 
@@ -69,7 +71,7 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
 6. Click either **Next** or the **Features** tab, and you will see the features listed for the selected controls. You can choose the required features.
 
-7. Click either **Next** or the **Configuration** tab, and the Configuration section will be loaded. You can choose the required (.NET 6.0, .NET 5.0 and ASP NET Core 3.1), themes, https configuration, authentication type (None, Individual Accounts, Microsoft Identity Platform, and Windows), and Blazor Web Assembly application types (ASP.NET Core hosted and Progressive Web Application).
+7. Click either **Next** or the **Configuration** tab, and the Configuration section will be loaded. You can choose the required (.NET 6.0 and .NET 7.0), themes, https configuration, authentication type (None, Individual Accounts, Microsoft Identity Platform, and Windows), and Blazor Web Assembly application types (ASP.NET Core hosted and Progressive Web Application).
 
      > **Note:** ASP.NET Core hosted and Progressive Web Application options are only visible for the Blazor Web Assembly App application type.
 
