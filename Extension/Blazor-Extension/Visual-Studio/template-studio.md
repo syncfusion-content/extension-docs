@@ -39,7 +39,9 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
      ![ProjectWizard](images/TemplateStudio.png)
 
-     > .NET 6.0 and .NET 7.0 is available from v19.4.0.38 and support from Visual Studio 2022.
+     > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
+
+     > .NET 7.0 is available from v20.4.0.38 and support from Visual Studio 2022.
 
      **Project type section**
 
@@ -51,7 +53,7 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
      ![ProjectTypeWizard](images/ProjectTypeWizard.png)
 
-     > **Note:** The Progressive Web Application will be enabled if .NET Core version 3.1.200 or higher is installed.
+     > **Note:** The Progressive Web Application will be enabled if .NET 6.0 version or higher is installed.
 
 5. Click either **Next** or the **Controls** tab. The Syncfusion Blazor components you can add to the application are listed.
 
