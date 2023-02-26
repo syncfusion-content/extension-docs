@@ -25,7 +25,7 @@ The NuGet Package Manager can be used to search and install NuGet packages in th
 
     Alternatively, click **Tools** menu, `NuGet Package Manager | Manage NuGet Packages for Solution...`
 
-2.	By default, the NuGet.org package is selected in the **Package source** drop-down. If NuGet.org is not configured in your Visual Studio, refer to the [Microsoft docs](https://docs.microsoft.com/en-us/nuget/tools/package-manager-ui#package-sources) to configure NuGet.org feed URL in your Visual Studio.
+2.	By default, the NuGet.org package is selected in the **Package source** drop-down. If NuGet.org is not configured in your Visual Studio, refer to the [Microsoft docs](https://learn.microsoft.com/en-us/nuget/consume-packages/install-use-packages-visual-studio#package-sources) to configure NuGet.org feed URL in your Visual Studio.
 
      ![NuGet package manager dialog window](NuGet_Packages_Images/img7.png)             
 
@@ -145,7 +145,7 @@ The NuGet Command Line Interface (CLI), Dotnet.exe, provides the full extent of 
     dotnet restore
     ~~~
 
-	To know more command about the dotnet CLI, refer [here](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet?tabs=netcore2x).
+	To know more command about the dotnet CLI, refer [here](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet?tabs=netcore2x).
 
 ## Managing NuGet package for Visual Studio online application
 
