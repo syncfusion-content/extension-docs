@@ -46,7 +46,9 @@ To add the Syncfusion assembly references in Visual Studio, follow the steps bel
 
    N> The platform selection option will appear only if Essential Studio for Enterprise Edition with the platforms WPF and Windows Forms has been installed, or if both Essential Studio for WPF and WinForms has been installed.
 
-   **Assembly From:** Choose the assembly location, from where the assembly is added to the project.
+   **Assembly From:** Choose the assembly location, from NuGet packages, the build installed location, or by using the GAC location.
+
+   N> The installed location and GAC option will be available only when the Syncfusion Essential Studio WPF setup has been installed.
 
    ![Assembly location option in Syncfusion Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img4.png)
 

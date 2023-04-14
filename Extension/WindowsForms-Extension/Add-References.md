@@ -41,7 +41,9 @@ Follow the given steps to add the Syncfusion references in Visual Studio:
 
    ![Platform selection option in Syncfusion Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img3.png)
 
-   **Assembly From:** Choose the assembly location, from where the assembly is added to the project.
+   **Assembly From:** Choose the assembly location, from NuGet packages, the build installed location, or by using the GAC location.
+
+   N> The installed location and GAC option will be available only when the Syncfusion Essential Studio Winforms setup has been installed.
 
    ![Assembly location option in Syncfusion Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img4.png)
 

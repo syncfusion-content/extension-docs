@@ -37,6 +37,8 @@ To add the assemblies:
 5. Reference assemblies
    * You can add Syncfusion assemblies from NuGet packages, the build installed location, or by using the GAC location. This option determines the location of the assemblies that are referenced in the project.
 
+   N> The installed location and GAC option will be available only when the Syncfusion Essential Studio setup has been installed.
+
    ![Options for assembly location in Syncfusion Reference Manager](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger-img8.png)
 
     N> The GAC option will not be available if you have selected a .NET 7.0 or .NET 6.0 application in Visual Studio 2022.
