@@ -35,8 +35,16 @@ To add the assemblies:
     ![Tooltip information for Syncfusion Reference Manager themes option](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger-img5.png)
 
 5. Reference assemblies
-   * Syncfusion assemblies can either be from GAC or from installed location. These options determine the location of the assemblies that are referenced in the project.
-   * Syncfusion Essential Studio versions that were previously installed in your machine. This option determines the assembly version that is referenced in the project.
+   * You can add Syncfusion assemblies from NuGet packages, the build installed location, or by using the GAC location. This option determines the location of the assemblies that are referenced in the project.
+
+   ![Options for assembly location in Syncfusion Reference Manager](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger-img8.png)
+
+    N> The GAC option will not be available if you have selected a .NET 7.0 or .NET 6.0 application in Visual Studio 2022.
+
+   * Select the Syncfusion Essential Studio versions that were previously installed on your machine.This option determines the assembly version that is referenced in the project.
+
+   ![Versions for assemblies in Syncfusion Reference Manager](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger-img9.png)
+
    * Choose the required controls that you want include in project
 6. Click Done to add the required assemblies for the selected controls into the project. The   following screenshot shows the list of required assemblies for 
    the selected controls to be added.
