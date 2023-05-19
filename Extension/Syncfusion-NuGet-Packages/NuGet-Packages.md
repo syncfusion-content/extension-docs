@@ -156,7 +156,7 @@ The following steps help you to configure and restore the Syncfusion NuGet packa
 1.  Create and add the NuGet.config file in your Visual Studio online application location. By default, the NuGet.org feed link can be added in the NuGet.config file. 
 
     N> If you need to Install v16.2.0.46 before Syncfusion NuGet packages, add the required Syncfusion platform NuGet feed links in the NuGet.config file. You can get the Syncfusion NuGet package feed link by clicking the **Copy URL** label from the required platform provided in the following link:
-    <http://nuget.syncfusion.com>
+    <https://nuget.syncfusion.com/>
      
     ![Sample project configuration page in Visual Studio Online Application](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline-img1.png)
 
