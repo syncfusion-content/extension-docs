@@ -54,4 +54,4 @@ Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension b
 
 
 
-3. If the respective version of Syncfusion MVC Extension is not installed in the machine, download the Extension setup from the following link.        [http://www.syncfusion.com/downloads/extension/](http://www.syncfusion.com/downloads/extension/)
+3. If the respective version of Syncfusion MVC Extension is not installed in the machine, download the Extension setup from the following link.        [http://www.syncfusion.com/downloads/extension/](http://www.syncfusion.com/downloads/extension)
