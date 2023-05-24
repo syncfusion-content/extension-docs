@@ -145,7 +145,7 @@ The NuGet Command Line Interface (CLI), Dotnet.exe, provides the full extent of 
     dotnet restore
     ~~~
 
-	To know more command about the dotnet CLI, refer [here](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet?tabs=netcore2x).
+	To know more command about the dotnet CLI, refer [here](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet?tabs=netcore2x).
 
 ## Managing NuGet package for Visual Studio online application
 
