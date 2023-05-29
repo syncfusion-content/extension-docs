@@ -40,18 +40,18 @@ The following steps help you migrate from one version to another version of your
    **Option 1:**  
    Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ1) > Migrate Project…** in **Visual Studio**.
 
-   ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration via Syncfusion menu](Migrate-Syncfusion-Project_images/SyncfusionMenu_ProjectMigration_img.png)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Extension in Project Migration via Syncfusion menu](migrate-syncfusion-project-images/aspnet-mvc-extension-for-project-migration-in-syncfusion-menu.png)
 
    N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
 
    **Option 2:**  
    Right-click the **Syncfusion ASP.NET MVC Application** from Solution Explorer and select **Syncfusion Essential JS 1**. Choose **Migrate the Essential JS 1 Project to Another Version...**
 
-   ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration add-in](Migrate-Syncfusion-Project_images/ProjectMigration_img.png)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Extension in Project Migration add-in](migrate-syncfusion-project-images/aspnet-mvc-extension-in-project-migration-add-in.png)
 
 2. The Project Migration window appears. You can choose the required Syncfusion version that is installed in the machine that is either Syncfusion ASP.NET MVC or Syncfusion ASP.NET MVC (Classic).
 
-   ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration wizard](Migrate-Syncfusion-Project_images/ProjectMigration-img2.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Extension in Project Migration wizard](migrate-syncfusion-project-images/project-migration-window-in-aspnet-mvc-extension.jpeg)
 
 3. The Project Migration window allows you to configure the following options:
 
@@ -65,7 +65,7 @@ The following steps help you migrate from one version to another version of your
 
 4. Click the Migrate Button. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before migrate the Syncfusion project. If click No it will migrate the project to required Syncfusion version without backup. 
 
-     ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration backup dialog](Migrate-Syncfusion-Project_images/ProjectMigration-img3.jpeg)
+     ![Syncfusion Essential JS 1 ASP.NET MVC Extension for Project Migration backup dialog](migrate-syncfusion-project-images/aspnet-mvc-extension-for-project-migration-backup-dialog.jpeg)
       
 5. The Syncfusion Reference Assemblies, Scripts and CSS are updated to the corresponding version in the project.
 
