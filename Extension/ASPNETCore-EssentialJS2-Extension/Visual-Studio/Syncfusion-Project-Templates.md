@@ -27,7 +27,7 @@ The following steps is used to create the **Syncfusion ASP.NET Core (Essential J
 
     > From Visual Studio 2019, Syncfusion menu is available under Extension in Visual Studio menu.
 
-    ![new project](images/SyncfusionMenu.png)
+    ![syncfusion menu in new project for Extension ASP.NET Core essentialjs2 project template](images/aspnet-core-essentialjs2-extension-with-project-templates-syncfusion-menu.png)
 
     **Option 2**
 
@@ -76,7 +76,7 @@ The following steps is used to create the **Syncfusion ASP.NET Core (Essential J
 
 4. Click Create, the Syncfusion ASP.NET Core (Essential JS 2) Application has been created.
 
-    ![css refernce](images/readme-file.PNG)
+    ![css refernce for Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-created-application.PNG)
 
 5. The required Syncfusion NuGet/NPM packages, Scripts, and CSS have been added to the Project.
 
@@ -102,7 +102,7 @@ The following steps is used to create the **Syncfusion ASP.NET Core (Essential J
 
     ![css refernce](images/project-structure.png)
 
-6. Then, Syncfusion licensing registration required message box will be shown, if you installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/whats-new-in-2018-volume-2-licensing-changes-in-the-1620x-version-of-essential-studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
+6. Then, Syncfusion licensing registration required message box will be shown, if you installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
     ![syncfusion license](images/syncfusion-license.png)
 
@@ -118,23 +118,23 @@ We need to register the created application in Azure Active Directory for **Micr
 
 **Step:2** Click New Registration in App Registration page.
 
-![AppRegistration](images/AppRegistration.PNG)
+![App Registration for Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/extension-aspnet-core-essentialjs2-with-project-templates-app-registration.PNG)
              
 **Step:3** Give name of the application and selected supported type as single tenant.
 
-![SingleTenant](images/SingleTenant.png)
+![Single Tenant in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-single-tenant.png)
 
 **Step:4** Dropdown the page, select platform as web and give your application Redirect URI like {Redirect URI}/signin-oidc and click Register.
 
-![SelectPlatform](images/SelectPlatform.png)
+![Select the Platform in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-to-select-platform.png)
 
 **Step:5** App will be registered, go to the Authentication page and tick Id token check box.
 
-![IdToken](images/IdToken.png)
+![Id Token check box for Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-token-id.png)
 
 **Step:6** Get client tenant id and application id form overview page.
 
-![ClinetTenantId](images/ClientTenantId.png)
+![ClinetTenant Id in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/extension-aspnet-core-essentialjs2-with-project-templates-client-tenant-id.png)
 
 
 **Step:7** Configure those client tenant id, application id, and domain in your application appsettings.json file.
@@ -147,19 +147,19 @@ We need to register the created application in Azure Active Directory for **Micr
 
 **Step:1** For register the application, submit your email address and create a password.
 
-![Register](images/Register.png)
+![Registering application in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-application-registration.png)
 
 **Step:2** Confirming registration by clicking **Click here to confirm your account**.
 
-![Confirm](images/Confirm.png)
+![Confirm account registration in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-for-registered-account-confirmation.png)
 
 **Step:3** Submit your registered email address and password to login the application.
 
-![Login](images/Login.png)
+![Login application in Extension ASP.NET Core essentialjs2 with syncfusion project templates ](images/aspnet-core-essentialjs2-extension-with-project-templates-for-login.png)
 
 ### Microsoft Identity Platform
 
 1. Login to your application using your Microsoft account.
 2. Accept permission request of your application.
 
-![Permission](images/Permission.png)
+![Permission request in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-Permission-request.png)

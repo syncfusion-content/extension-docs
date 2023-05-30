@@ -35,7 +35,7 @@ The steps below will assist you to upgrade the Syncfusion version in the Syncfus
 
     Right-click the **Syncfusion ASP.NET Core Application** from Solution Explorer and select **Syncfusion Web**. Choose **Migrate the Syncfusion ASP.NET Core Project to Another Version…**
 
-    ![migrate syncfuion project](images/migrate-syncfusion-EJ2.png)
+    ![migrate syncfuion project with ASP.NET Core Essentialjs2-Extension ](images/aspnet-core-essentialjs2-extension-project-migration-in-syncfusion-application.png)
 
 3. The Syncfusion Project Migration window will appear. You can choose the required version of Syncfusion ASP.NET Core to migrate.
 
@@ -53,6 +53,6 @@ The steps below will assist you to upgrade the Syncfusion version in the Syncfus
 
     If you enabled project backup before migrating, the old project was saved in the specified backup path location, as shown below once the migration process completed
 
-    ![BackupLocation](images/BackupLocation.png)
+    ![Backup Location in ASP.NET Core Essentialjs2-Extension with project migration](images/aspnet-core-essentialjs2-extension-with-project-migration-backup-location.png)
 
 6. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion license key to your project since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio.
