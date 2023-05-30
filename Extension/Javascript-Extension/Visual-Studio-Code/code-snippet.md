@@ -34,7 +34,7 @@ The following steps help you to use the Syncfusion Angular code snippet in your 
 
 5. After adding the Syncfusion Angular component to the html file, use the tab key to fill in the required values to render the component with data. You can also find the Syncfusion help link at the top of the added snippet to learn more about the new Syncfusion Angular component feature.
 
-    ![Help](images/Help.png)
+    ![Help in JavaScript Extension](code-snippet_images/javascript-extension-help.png)
 
 ## Configure Angular application with Syncfusion
 
@@ -42,12 +42,12 @@ The Syncfusion Angular snippet only add the code snippet alone in the html file.
 
 1. Open the Angular package.json file and add the required Syncfusion Angular individual NPM package(s) for the Syncfusion Angular components manually. Then navigate to the packages.json file location in the command prompt and run the ***npm install*** command to restore all the Syncfusion Angular NPM packages.
 
-    ![NPM Package](images/NPM.png)
+    ![NPM Package in JavaScript Extension](code-snippet_images/javascript-extension-npm-package.png)
 
 2. Open your module file and add the required Syncfusion Angular component(s) module entries to render the Syncfusion components in your application. 
 
-    ![Module](images/Module.png)
+    ![Module in Javascript Extension](code-snippet_images/javascript-extension-module.png)
 
 3. Add the Syncfusion Angular [theme](https://ej2.syncfusion.com/documentation/appearance/theme/) entry in the **style.css** file.
 
-    ![Themes](images/Themes-Snippet.png)
+    ![Themes in JavaScript Extension](code-snippet_images/javascript-extension-themes-snippet.png)
