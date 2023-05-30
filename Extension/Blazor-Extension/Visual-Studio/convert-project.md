@@ -13,7 +13,7 @@ Syncfusion Blazor conversion is a Visual Studio add-in that converts an existing
 
 The steps below help you to convert the **Blazor application** to the **Syncfusion Blazor application** via the **Visual Studio 2019**:
 
-> Before use the Syncfusion Blazor Project Conversion, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/) help topic.
+> Before use the Syncfusion Blazor Project Conversion, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation) help topic.
 
 1. Open your existing Blazor application or create a new Blazor application
 
@@ -23,17 +23,17 @@ The steps below help you to convert the **Blazor application** to the **Syncfusi
 
     Choose **Extensions -> Syncfusion -> Essential Studio for Blazor -> Convert Project...** in the Visual Studio 2019 menu.
 
-    ![ConversionMenu](images/ConversionMenu.png)
+    ![Conversion Menu in Blazor Extension](convert-project_images/blazor-extension-convert-project-conversion-menu.png)
 
     **Option 2:**
 
     Right-click the application from the **Solution Explorer** and select the **Syncfusion Blazor** and choose the **Convert to Syncfusion Blazor application...**
 
-    ![ConversionAddin](images/ConversionAddin.png)
+    ![Conversion Addin in Blazor Extension](convert-project_images/blazor-extension-convert-project-add-in.png)
 
 3. The Syncfusion Blazor Project Conversion window will appear. You can choose the required version of Syncfusion Blazor and Themes to convert the application.
 
-    ![ConversionWizard](images/Conversion.png)
+    ![Conversion Wizard in Blazor-Extension](convert-project_images/blazor-extension-convert-project-wizard-conversion.png)
 
     > The versions are loaded from the Syncfusion Blazor NuGet packages published in [`NuGet.org`](https://www.nuget.org/packages?q=Tags%3A%22blazor%22syncfusion) and it requires internet connectivity.
 
@@ -41,11 +41,11 @@ The steps below help you to convert the **Blazor application** to the **Syncfusi
 
 5. Once the conversion process has been completed, you will get a successful message window.
 
-    ![ConversionSuccessMessage](images/ConversionSuccess.png)
+    ![Conversion Success Message in Blazor Extension](convert-project_images/blazor-extension-convert-project-conversion-success-message.png)
 
     If you enabled project backup before converting, the old application was saved in the specified backup path location, as shown below once the conversion process completed.
 
-    ![ConversionBackupLocation](images/Backuplocation.png)
+    ![Conversion Backup Location in Blazor Extension](convert-project_images/blazor-extension-convert-project-backup-location.png)
 
 6. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion license key to your application since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
@@ -61,7 +61,7 @@ Based on the application type, the following NuGet packages are added as NuGet r
 
 The NuGet packages added to the application file as follows.
 
-![NuGetPackage](images/NuGetPackage.png)
+![NuGet Package in Blazor Extension](convert-project_images/blazor-extension-convert-project-nuget-package.png)
 
 ## Theme link
 
@@ -73,4 +73,4 @@ While converting the application, the Syncfusion Blazor theme is added in the fo
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Project location}\wwwroot\index.html|
 
-![CDNLink](images/CDNLink.png)
+![CDN Link in Blazor Extension](convert-project_images/blazor-extension-convert-project-cdn-link.png)

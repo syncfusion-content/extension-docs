@@ -19,15 +19,15 @@ The steps below assist you to using the Syncfusion Project conversion in your ex
 
 2. Select **Convert to Syncfusion Blazor Application...** from the context menu when you right-click on the **Project file** from Explorer (Workspace). Refer the screenshot below.
 
-    ![Conversion Add-in](images/Conversion.PNG)
+    ![Syncfusion Blazor Extension with Visual Studio Code for Project Conversion Add-in](convert-project_images/blazor-extension-project-conversion-application.PNG)
 
 3. **Select Blazor Version** (which published in `nuget.org`) from the palette appears.
 
-    ![Select Blazor Version](images/VersionSelection.PNG)
+    ![Select Blazor Extension Version in Visual Studio Code for Project Conversion](convert-project_images/blazor-extension-version-selection.PNG)
 
 4. Choose the **Theme** from the palette appears.
 
-    ![Select Themes](images/ChooseThemes.PNG)
+    ![Select Themes in Blazor Extension for Visual Studio Code in Project Conversion](convert-project_images/blazor-extension-theme-selected.PNG)
 
 5. The application configured with Syncfusion Blazor required NuGet packages and themes.
 
@@ -45,7 +45,7 @@ Based on the application type, the following NuGet packages are added as NuGet r
 
 The NuGet packages added to the application file as follows.
 
-![NuGetPackage](images/NuGetPackage.png)
+![NuGet Package for Blazor Extension visual studio code in Project Conversion](convert-project_images/blazor-extension-project-conversion-added-nuget-package.png)
 
 ## Theme links
 
@@ -57,4 +57,4 @@ While converting the application, the selected Syncfusion Blazor theme is added 
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application)| {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
 
-![CDNLink](images/CDNLink.png)
+![CDNLink in Syncfusion Blazor Extension for Visual Studio Code in Project Conversion ](convert-project_images/blazor-extension-theme-links.png)
