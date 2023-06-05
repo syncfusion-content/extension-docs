@@ -34,11 +34,11 @@ The instructions below guide you the process of using the Syncfusion Blazor code
 
 5. After adding the Syncfusion Blazor component to the razor file, use the tab key to fill in the required values to render the component with data. You can find the comment section in the code snippet to see what values are required.
 
-    ![Comment section in Blazor Extension visual Studio Code for Snippet](code-snippet_images/blazor-extension-snippet-comment-section.png)
+    ![Comment section in Blazor Extension visual Studio Code Snippet](blazor-extension-visual-studio-code_images/blazor-extension-snippet-comment-section.png)
 
 6. You can also find the Syncfusion help link at the top of the added snippet to learn more about the new Syncfusion Blazor component feature.
 
-    ![Get Help link from Syncfusion Blazor Extension for Visual Studio Code with Snippet](code-snippet_images/blazor-extension-snippet-help-link.png)
+    ![Get Help link from Syncfusion Blazor Extension for Visual Studio Code with Snippet](blazor-extension-visual-studio-code_images/blazor-extension-snippet-help-link.png)
 
 ## Configure Blazor application with Syncfusion
 
@@ -46,20 +46,20 @@ The Syncfusion Blazor snippet simply inserts the code into the razor file. You m
 
 1. Open the Blazor application file and manually add the required Syncfusion Blazor individual NuGet package(s) for the Syncfusion Blazor components as a package reference. Refer to [this section](https://blazor.syncfusion.com/documentation/nuget-packages/#benefits-of-using-individual-nuget-packages) to learn about the advantages of the individual NuGet packages. This NuGet package will be automatically restored when building the application.
 
-    ![syncfusion Blazor Extension NuGet Package in visual Studio Code for Snippet](code-snippet_images/blazor-extension-nuget-packages.png)
+    ![syncfusion Blazor Extension NuGet Package in visual Studio Code for Snippet](blazor-extension-visual-studio-code_images/blazor-extension-nuget-packages.png)
 
     > Starting with Volume 4, 2020 (v18.4.0.30) release, Syncfusion provides [individual NuGet packages](https://blazor.syncfusion.com/documentation/nuget-packages) for our Syncfusion Blazor components. We highly recommend this new standard for your Blazor production applications.
 
 2. To render the Syncfusion components in your application, open the **~/_Imports.razor** file and add the required Syncfusion Blazor namespace entries.
 
-    ![Syncfusion Blazor Extension Namespace with Visual Studio Code Snippet](code-snippet_images/blazor-extension-snippet-namespace.png)
+    ![Syncfusion Blazor Extension Namespace with Visual Studio Code Snippet](blazor-extension-visual-studio-code_images/blazor-extension-snippet-namespace.png)
 
 3. Add the Syncfusion Blazor [theme](https://blazor.syncfusion.com/documentation/appearance/themes) in the `<head>` element of the **~/Pages/_Host.html** page for server application and **~/wwwroot/index.html** page for a client application.
 
-    ![Syncfusion Blazor-Extension Themes with visual studio code with snippet](code-snippet_images/blazor-extension-themes-snippet.png)
+    ![Syncfusion Blazor-Extension Themes with visual studio code with snippet](blazor-extension-visual-studio-code_images/blazor-extension-themes-snippet.png)
 
 4. Open the **~/Startup.cs** file for server application and the **~/Program.cs** file for client application then register the Syncfusion Blazor Service.
 
-    ![Syncfusion Configuration for Blazor Extension with Visual Studio Code for Snippet](code-snippet_images/blazor-extension-snippet-configuration.png)
+    ![Syncfusion Configuration for Blazor Extension with Visual Studio Code for Snippet](blazor-extension-visual-studio-code_images/blazor-extension-snippet-configuration.png)
 
 5. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion license key to your application since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio.
