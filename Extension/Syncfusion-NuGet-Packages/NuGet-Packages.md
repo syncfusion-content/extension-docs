@@ -303,7 +303,7 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
 
 5.	Click the **Update** button to add the name and source details to package sources. 
 
-    ![NuGet Package Manager dialog with NuGet Extension feed URL for reference](extension-syncfusion-nuget-packages_images/nuget-packages-extension-refrence-url.png)
+    ![NuGet Package Manager dialog with NuGet Extension feed URL for reference](nuget-packages_images/nuget-packages-extension-refrence-url.png)
 
 #### macOS 
 
@@ -311,11 +311,11 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
 
 2.	Right-click the Packages folder in the project, and then select **Add Packages…**
  
-    ![NuGet package Extension manager add-in for macOS](extension-syncfusion-nuget-packages_images/nuget-packages-extension-manager-addin.png)
+    ![NuGet package Extension manager add-in for macOS](nuget-packages_images/nuget-packages-extension-manager-addin.png)
 
 3.	Choose the **Configure Sources…** from the dropdown that appears in the left corner of the Add Packages dialog. 
 
-    ![Add packages dialog to choose the Configure Sources in Extension](extension-syncfusion-nuget-packages_images/nuget-packages-extension-package-dialog.png)
+    ![Add packages dialog to choose the Configure Sources in Extension](nuget-packages_images/nuget-packages-extension-package-dialog.png)
 
 4.	At the bottom right corner of the dialog, click the **Add** button to enter the feed name and the URL. 
    
@@ -325,7 +325,7 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
 
     For example, Name: Syncfusion ASP.NET Core Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
     
-	![Add Package Source dialog to add Syncfusion NuGet Package Extension feed](extension-syncfusion-nuget-packages_images/nuget-packages-extension-package-source.png)
+	![Add Package Source dialog to add Syncfusion NuGet Package Extension feed](nuget-packages_images/nuget-packages-extension-package-source.png)
  
 5.	Now, click **Add Source** and then click **OK**.
 
