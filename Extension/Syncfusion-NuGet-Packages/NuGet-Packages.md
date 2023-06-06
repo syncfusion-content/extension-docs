@@ -21,13 +21,13 @@ The NuGet Package Manager can be used to search and install NuGet packages in th
 
 1.	Right-click the project or solution in the Solution Explorer tab, and choose **Manage NuGet Packages…** 
 
-    ![NuGet package Extension manager add-in for Windows](extension-syncfusion-nuget-packages_images/nuget-package-extension-window.png)
+    ![NuGet package Extension manager add-in for Windows](nuget-packages_images/nuget-package-extension-window.png)
 
     Alternatively, click **Tools** menu, `NuGet Package Manager | Manage NuGet Packages for Solution...`
 
 2.	By default, the NuGet.org package is selected in the **Package source** drop-down. If NuGet.org is not configured in your Visual Studio, refer to the [Microsoft docs](https://docs.microsoft.com/en-us/nuget/tools/package-manager-ui#package-sources) to configure NuGet.org feed URL in your Visual Studio.
 
-     ![NuGet package Extension manager dialog window](extension-syncfusion-nuget-packages_images/nuget-package-extension-dialog-window.png)             
+     ![NuGet package Extension manager dialog window](nuget-packages_images/nuget-package-extension-dialog-window.png)             
 
 3.	The Syncfusion NuGet Packages are listed the available package in the source feed URL. Search and install the required packages in your application, by clicking **Install** button.
 
@@ -67,11 +67,11 @@ Add packages can be used to search and install NuGet packages to the Visual Stud
 
 1.	Right-click the folder in the project, and then select **Add Packages…** 
 
-    ![NuGet package Extension manager add-in for macOS](extension-syncfusion-nuget-packages_images/nuget-package-extension-manager-addin-macos.png)  
+    ![NuGet package Extension manager add-in for macOS](nuget-packages_images/nuget-package-extension-manager-addin-macos.png)  
               
 2.	By default, the NuGet.org package is selected in the **Package source** drop-down. 
 
-    ![Add packages dialog with NuGet Extension](extension-syncfusion-nuget-packages_images/nuget-package-extension-dialog.png)  
+    ![Add packages dialog with NuGet Extension](nuget-packages_images/nuget-package-extension-dialog.png)  
 
 3.	The Syncfusion NuGet Packages available in the package source location will be listed. Search and install the required packages in your application, by clicking **Add Package** button.
 
@@ -158,31 +158,31 @@ The following steps help you to configure and restore the Syncfusion NuGet packa
     N> If you need to Install v16.2.0.46 before Syncfusion NuGet packages, add the required Syncfusion platform NuGet feed links in the NuGet.config file. You can get the Syncfusion NuGet package feed link by clicking the **Copy URL** label from the required platform provided in the following link:
     <http://nuget.syncfusion.com>
      
-    ![Sample project configuration page in Visual Studio Online Application in NuGet Package Extension](extension-syncfusion-nuget-packages_images/nuget-packages-extension-sample-project.png)
+    ![Sample project configuration page in Visual Studio Online Application in NuGet Package Extension](nuget-packages_images/nuget-packages-extension-sample-project.png)
 
 2.  If your application doesn't have any build definitions, create a new build definition by clicking the **New Definition** button under **Build & Release**. 
 
-    ![Build and Release section in Visual Studio Online Application in NuGet Extension](extension-syncfusion-nuget-packages_images/nuget-packages-extension-release-section.png)
+    ![Build and Release section in Visual Studio Online Application in NuGet Extension](nuget-packages_images/nuget-packages-extension-release-section.png)
 
-    ![Build process template selection section in Visual Studio Online Application in NuGet Package Extension](extension-syncfusion-nuget-packages_images/nuget-packages-extension-template-selection.png)
+    ![Build process template selection section in Visual Studio Online Application in NuGet Package Extension](nuget-packages_images/nuget-packages-extension-template-selection.png)
 
 ### NuGet installation
 
 1.  If your application has any build definitions, navigate to **Build & Release** tab and select the **Edit** option from corresponding application to include the NuGet restore process.
 
-    ![Build and release section with edit option in Visual Studio Online Application in NuGet Packages Extension](extension-syncfusion-nuget-packages_images/nuget-packages-extension-release-section.png)
+    ![Build and release section with edit option in Visual Studio Online Application in NuGet Packages Extension](nuget-packages_images/nuget-packages-extension-release-section.png)
      
     N> If you cannot find the NuGet restore process from these build definitions, add it by using **Add build step -> Package -> NuGet Installer**. 
 
 2.  Update path of the NuGet.config file in Path to NuGet.config textbox and Save this as build definition.
 	
-	![Edit NuGet.Config path in NuGet Package Extension](extension-syncfusion-nuget-packages_images/nuget-packages-extension-edit-nuget-config.png)
+	![Edit NuGet.Config path in NuGet Package Extension](nuget-packages_images/nuget-packages-extension-edit-nuget-config.png)
 
 3.  Then, start the build process by clicking the **Queue new build** button. The required NuGet packages are restored and the project will be compiled successfully.
 
-    ![Build compilation status in NuGet extension](extension-syncfusion-nuget-packages_images/nuget-packages-extension-complition-status.png)
+    ![Build compilation status in NuGet extension](nuget-packages_images/nuget-packages-extension-complition-status.png)
 	
-	![Build succeeded status in NuGet Package Extension](extension-syncfusion-nuget-packages_images/nuget-packages-extension-succeed-status.png)
+	![Build succeeded status in NuGet Package Extension](nuget-packages_images/nuget-packages-extension-succeed-status.png)
 
 ## Upgrading NuGet packages
 
@@ -201,7 +201,7 @@ Using **Update** context menu from Visual Studio for Mac application, NuGet pack
 
 1.	Right-click the Packages folder in the project, and select **Update**. 
 
-    ![NuGet package in extension manager add-in for macOS](nuget-Packages_images/nuget-package-extension-manager-addin-macos.png) 
+    ![NuGet package in extension manager add-in for macOS](nuget-packages_images/nuget-package-extension-manager-addin-macos.png) 
 
 2.	This will update the NuGet package to the latest version. You can double-click the **Add packages** and choose the specific version.
 
