@@ -21,7 +21,7 @@ I> The Syncfusion Xamarin Toolbox is available from Essential Studio 2018 Volume
 
 To launch the Syncfusion Toolbox from Visual Studio 2019 and later, click **Extensions** in Visual Studio menu and choose **Syncfusion > Essential Studio for Xamarin > Launch Toolbox…**
 
-   ![Syncfusion Xamarin Extension Custom Toolbox via Syncfusion menu](xamarin-extension-menu-launch.png)
+   ![Syncfusion Xamarin Extension Custom Toolbox via Syncfusion menu](toolbox_images/xamarin-extension-menu-launch.png)
 
 **Visual Studio 2017**
 
