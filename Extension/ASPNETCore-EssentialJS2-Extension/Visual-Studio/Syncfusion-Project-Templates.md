@@ -27,7 +27,7 @@ The following steps is used to create the **Syncfusion ASP.NET Core (Essential J
 
     > From Visual Studio 2019, Syncfusion menu is available under Extension in Visual Studio menu.
 
-    ![syncfusion menu in new project for Extension ASP.NET Core essentialjs2 project template](images/aspnet-core-essentialjs2-extension-with-project-templates-syncfusion-menu.png)
+    ![Create new project using ASP.NET Core template](images/create-new-project-using-aspnet-core-template-syncfusion-menu.png)
 
     **Option 2**
 
@@ -76,7 +76,7 @@ The following steps is used to create the **Syncfusion ASP.NET Core (Essential J
 
 4. Click Create, the Syncfusion ASP.NET Core (Essential JS 2) Application has been created.
 
-    ![css refernce for Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-created-application.PNG)
+    ![css refernce in ASP.NET Core project templates](images/create-new-project-using-aspnet-core-template-application.PNG)
 
 5. The required Syncfusion NuGet/NPM packages, Scripts, and CSS have been added to the Project.
 
@@ -118,23 +118,23 @@ We need to register the created application in Azure Active Directory for **Micr
 
 **Step:2** Click New Registration in App Registration page.
 
-![App Registration for Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/extension-aspnet-core-essentialjs2-with-project-templates-app-registration.PNG)
+![App Registration for ASP.NET Core templates](images/create-new-project-using-aspnet-core-template-app-registration.PNG)
              
 **Step:3** Give name of the application and selected supported type as single tenant.
 
-![Single Tenant in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-single-tenant.png)
+![Single Tenant in ASP.NET Core templates](images/create-new-project-using-aspnet-core-template-single-tenant.png)
 
 **Step:4** Dropdown the page, select platform as web and give your application Redirect URI like {Redirect URI}/signin-oidc and click Register.
 
-![Select the Platform in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-to-select-platform.png)
+![Select Platform in ASP.NET Core templates](images/create-new-project-using-aspnet-core-template-select-platform.png)
 
 **Step:5** App will be registered, go to the Authentication page and tick Id token check box.
 
-![Id Token check box for Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-token-id.png)
+![Id Token check box in ASP.NET Core visual studio templates](images/create-new-project-using-aspnet-core-template-token-id.png)
 
 **Step:6** Get client tenant id and application id form overview page.
 
-![ClinetTenant Id in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/extension-aspnet-core-essentialjs2-with-project-templates-client-tenant-id.png)
+![ClinetTenant Id with ASP.NET Core templates](images/create-new-project-using-aspnet-core-template-client-tenant-id.png)
 
 
 **Step:7** Configure those client tenant id, application id, and domain in your application appsettings.json file.
@@ -147,19 +147,19 @@ We need to register the created application in Azure Active Directory for **Micr
 
 **Step:1** For register the application, submit your email address and create a password.
 
-![Registering application in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-application-registration.png)
+![Registering application with ASP.NET Core templates](images/aspnet-core-essentialjs2-extension-with-project-templates-application-registration.png)
 
 **Step:2** Confirming registration by clicking **Click here to confirm your account**.
 
-![Confirm account registration in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-for-registered-account-confirmation.png)
+![Confirm account registration with ASP.NET Core templates](images/create-new-project-using-aspnet-core-template-registered-account-confirmation.png)
 
 **Step:3** Submit your registered email address and password to login the application.
 
-![Login application in Extension ASP.NET Core essentialjs2 with syncfusion project templates ](images/aspnet-core-essentialjs2-extension-with-project-templates-for-login.png)
+![Login application in ASP.NET Core  templates ](images/create-new-project-using-aspnet-core-template-login.png)
 
 ### Microsoft Identity Platform
 
 1. Login to your application using your Microsoft account.
 2. Accept permission request of your application.
 
-![Permission request in Extension ASP.NET Core essentialjs2 with syncfusion project templates](images/aspnet-core-essentialjs2-extension-with-project-templates-Permission-request.png)
+![Permission request in  ASP.NET Core templates](images/create-new-project-using-aspnet-core-template-Permission-request.png)
