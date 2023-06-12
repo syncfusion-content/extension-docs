@@ -17,11 +17,11 @@ The instructions below assist you in creating **Syncfusion Blazor Applications**
 
 1. To create a Syncfusion Blazor application in Visual Studio Code, open the command palette by pressing **Ctrl+Shift+P**. Search for the word **Syncfusion** in the Visual Studio Code palette to get the templates provided by Syncfusion.
 
-    ![Create Project Palette in Blazor Extension](create-project_images/blazor-extension-project-palette.png)
+    ![Create Project Palette in Blazor Extension](images/blazor-extension-project-palette.png)
 
 2. Select **Syncfusion Blazor Template Studio: Launch**, then press **Enter** key. The Template Studio wizard for configuring the Syncfusion Blazor app will be launched. Provide the Project Name and Project Path.
 
-    ![Template Studio Wizard in Blazor Extension](create-project_images/blazor-extension-project-location-name.png)
+    ![Template Studio Wizard in Blazor Extension](images/blazor-extension-project-location-name.png)
 
     > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
 
@@ -33,11 +33,11 @@ The instructions below assist you in creating **Syncfusion Blazor Applications**
 
     You can select ASP.NET Core hosted, Progressive Web Application, or both in the Syncfusion Blazor Web Assembly App project type.
 
-    ![Project Type in Blazor Extension](create-project_images/blazor-extension-project-type-details.png)
+    ![Project Type in Blazor Extension](images/blazor-extension-project-type-details.png)
 
 4. The Configuration section will be displayed when you click either **Next** or the **Configuration** tab. Here, you have the option for selecting the required .NET Core version, themes, https configuration, and Blazor Web Assembly project types (ASP.NET Core hosted and Progressive Web Application).
 
-    ![Configuration in Blazor Extension](create-project_images/blazor-extension-created-project-configuration.png)
+    ![Configuration in Blazor Extension](images/blazor-extension-created-project-configuration.png)
 
     > ASP.NET Core hosted and Progressive Web Application options are only visible if Blazor Web Assembly App project type is selected.
 
@@ -45,7 +45,7 @@ The instructions below assist you in creating **Syncfusion Blazor Applications**
 
 6. You can run the application to see the Syncfusion components. Click **F5** or go to **Run>Start Debugging**.
 
-    ![Debug in Blazor Extension](create-project_images/blazor-extension-debug.png)
+    ![Debug in Blazor Extension](images/blazor-extension-debug.png)
 
 7. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion license key to your application since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
@@ -57,7 +57,7 @@ The Syncfusion Blazor application configures with latest Syncfusion Blazor NuGet
 
 The `Syncfusion.Blazor` NuGet package will be added as NuGet references for all application types.
 
-![NuGet Package in Blazor Extension](create-project_images/blazor-extension-nuget-package.png)
+![NuGet Package in Blazor Extension](images/blazor-extension-nuget-package.png)
 
 ### Style
 
@@ -69,13 +69,13 @@ The selected theme is added from Syncfusion NuGet and its reference at these app
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
 
-![CDNLink for Blazor-Extension in visual studio code created project](create-project_images/blazor-extension-in-visual-studio-code-created-project-cdn-link.png)
+![CDNLink for Blazor-Extension in visual studio code created project](images/blazor-extension-in-visual-studio-code-created-project-cdn-link.png)
 
 ### Namespaces
 
 The Syncfusion Blazor namespaces are added in the **`_imports.razor`** file.
 
-![NameSpace in Blazor Extension](create-project_images/blazor-extension-namespace.png)
+![NameSpace in Blazor Extension](images/blazor-extension-namespace.png)
 
 ### Component render code
 
@@ -83,6 +83,6 @@ The Syncfusion Blazor Calendar, Button, and DataGrid component render code is in
 
 | File name  | Code snippet added |
 |---|---|
-| `~/Pages/Index.razor`  | ![Index File Change in Blazor Extension](create-project_images/blazor-extension-index-file-change.png) |
-| `~/Pages/Counter.razor` | ![Counter Page Change Blazor Extension](create-project_images/blazor-extension-counter-page-change.png) |
-| `~/Pages/FetchData.razor`  | ![Fetch Data Page Change in Blazor Extension](create-project_images/blazor-extension-fetch-data-page-change.png) |
+| `~/Pages/Index.razor`  | ![Index File Change in Blazor Extension](images/blazor-extension-index-file-change.png) |
+| `~/Pages/Counter.razor` | ![Counter Page Change Blazor Extension](images/blazor-extension-counter-page-change.png) |
+| `~/Pages/FetchData.razor`  | ![Fetch Data Page Change in Blazor Extension](images/blazor-extension-fetch-data-page-change.png) |
