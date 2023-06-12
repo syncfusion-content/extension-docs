@@ -34,7 +34,7 @@ The following steps help you to use the Syncfusion Angular code snippet in your 
 
 5. After adding the Syncfusion Angular component to the html file, use the tab key to fill in the required values to render the component with data. You can also find the Syncfusion help link at the top of the added snippet to learn more about the new Syncfusion Angular component feature.
 
-    ![Help in JavaScript Extension](images/javascript-extension-help.png)
+    ![Help link added in JavaScript code snippet](images/javascript-extension-help.png)
 
 ## Configure Angular application with Syncfusion
 
