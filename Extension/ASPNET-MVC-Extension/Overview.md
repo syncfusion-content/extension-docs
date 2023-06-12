@@ -23,15 +23,15 @@ The Syncfusion provides the following extension supports in Visual Studio:
 
 **No project selected in Visual Studio**
 
-![Syncfusion Menu when No project selected in Visual Studio for aspnet.mvc extension overview](overview-images/aspnet-mvc-extension-syncfusion-menu-overview.png)
+![Syncfusion Menu when No project selected in Visual Studio with aspnet.mvc extension](overview_images/aspnet-mvc-extension-menu.png)
 
 **Selected Microsoft ASP.NET MVC application in Visual Studio**
 
-![Syncfusion Menu when Selected Microsoft ASP.NET MVC Extension overview application in Visual Studio](overview-images/syncfusion-menu-microsoft-overview.png)
+![Syncfusion Menu when Selected Microsoft ASP.NET MVC Extension application in Visual Studio](overview_images/aspnet-mvc-extension-microsoft-menu.png)
 
 **Selected Syncfusion ASP.NET MVC (Essential JS1) application in Visual Studio**
 
-![Syncfusion Menu when Selected Synfusion ASP.NET MVC EJ1 application for extension overview in Visual Studio](overview-images/application-in-aspnet-mvc-extension-overview.png)
+![Syncfusion Menu when Selected Synfusion ASP.NET MVC Extension EJ1 Application in Visual Studio](overview_images/aspnet-mvc-extension-application.png)
 
 N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
 
