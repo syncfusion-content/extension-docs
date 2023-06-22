@@ -1,4 +1,4 @@
----ug
+---
 layout: post
 title: Notifications | ASP.NET MVC (Essential JS2) | Syncfusion
 description: For displaying the notifications about trial and newer version update information for Syncfusion applications.
