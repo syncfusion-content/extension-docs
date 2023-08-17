@@ -25,7 +25,7 @@ The NuGet Package Manager can be used to search and install NuGet packages in th
 
     Alternatively, click **Tools** menu, `NuGet Package Manager | Manage NuGet Packages for Solution...`
 
-2.	By default, the NuGet.org package is selected in the **Package source** drop-down. If NuGet.org is not configured in your Visual Studio, refer to the [Microsoft docs](https://docs.microsoft.com/en-us/nuget/tools/package-manager-ui#package-sources) to configure NuGet.org feed URL in your Visual Studio.
+2.	By default, the NuGet.org package is selected in the **Package source** drop-down. If NuGet.org is not configured in your Visual Studio, refer to the [Microsoft docs](https://learn.microsoft.com/en-us/nuget/consume-packages/install-use-packages-visual-studio#package-sources) to configure NuGet.org feed URL in your Visual Studio.
 
      ![NuGet package manager dialog window](NuGet_Packages_Images/img7.png)             
 
@@ -145,7 +145,7 @@ The NuGet Command Line Interface (CLI), Dotnet.exe, provides the full extent of 
     dotnet restore
     ~~~
 
-	To know more command about the dotnet CLI, refer [here](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet?tabs=netcore2x).
+	To know more command about the dotnet CLI, refer [here](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet?tabs=netcore2x).
 
 ## Managing NuGet package for Visual Studio online application
 
@@ -156,7 +156,7 @@ The following steps help you to configure and restore the Syncfusion NuGet packa
 1.  Create and add the NuGet.config file in your Visual Studio online application location. By default, the NuGet.org feed link can be added in the NuGet.config file. 
 
     N> If you need to Install v16.2.0.46 before Syncfusion NuGet packages, add the required Syncfusion platform NuGet feed links in the NuGet.config file. You can get the Syncfusion NuGet package feed link by clicking the **Copy URL** label from the required platform provided in the following link:
-    <http://nuget.syncfusion.com>
+    <https://nuget.syncfusion.com/>
      
     ![Sample project configuration page in Visual Studio Online Application](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline-img1.png)
 
