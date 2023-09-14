@@ -2,7 +2,7 @@
 layout: post
 title: Create Project | Wpf | Syncfusion
 description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion WPF platform to create Syncfusion WPF Application by addiing the required assemblies
-platform: wpf
+platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
