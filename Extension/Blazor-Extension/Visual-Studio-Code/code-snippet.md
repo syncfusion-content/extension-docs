@@ -48,13 +48,13 @@ The Syncfusion Blazor snippet simply inserts the code into the razor file. You m
 
     ![NuGet Package](images/NuGet-Snippet.png)
 
-    > Starting with Volume 4, 2020 (v18.4.0.30) release, Syncfusion provides [individual NuGet packages](https://blazor.syncfusion.com/documentation/nuget-packages/) for our Syncfusion Blazor components. We highly recommend this new standard for your Blazor production applications.
+    > Starting with Volume 4, 2020 (v18.4.0.30) release, Syncfusion provides [individual NuGet packages](https://blazor.syncfusion.com/documentation/nuget-packages) for our Syncfusion Blazor components. We highly recommend this new standard for your Blazor production applications.
 
 2. To render the Syncfusion components in your application, open the **~/_Imports.razor** file and add the required Syncfusion Blazor namespace entries.
 
     ![Namespace](images/Namespace-Snippet.png)
 
-3. Add the Syncfusion Blazor [theme](https://blazor.syncfusion.com/documentation/appearance/themes/) in the `<head>` element of the **~/Pages/_Host.html** page for server application and **~/wwwroot/index.html** page for a client application.
+3. Add the Syncfusion Blazor [theme](https://blazor.syncfusion.com/documentation/appearance/themes) in the `<head>` element of the **~/Pages/_Host.html** page for server application and **~/wwwroot/index.html** page for a client application.
 
     ![Themes](images/Themes-Snippet.png)
 

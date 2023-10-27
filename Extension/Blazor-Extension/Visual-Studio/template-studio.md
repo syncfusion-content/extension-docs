@@ -13,7 +13,7 @@ Syncfusion provides the Blazor Template Studio, which allows you to create a Syn
 
 The steps below will assist you to create your **Syncfusion Blazor Application** through **Visual Studio 2019**:
 
-> Before use the Syncfusion Blazor Project Template, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/) help topic.
+> Before use the Syncfusion Blazor Project Template, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/download-and-installation) help topic.
 
 1. Open Visual Studio 2022.
 
@@ -133,7 +133,7 @@ We need to register the created application in Google Platform API Console for I
 
 1. Go to below credentials page for the Google cloud platform API console.
 
-    <https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104>
+    <https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104&pli=1>
 
 2. Click Create Credentials and OAuth Client Id.
 
