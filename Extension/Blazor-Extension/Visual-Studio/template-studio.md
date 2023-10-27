@@ -13,7 +13,7 @@ Syncfusion provides the Blazor Template Studio, which allows you to create a Syn
 
 The steps below will assist you to create your **Syncfusion Blazor Application** through **Visual Studio 2019**:
 
-> Before use the Syncfusion Blazor Project Template, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/) help topic.
+> Before use the Syncfusion Blazor Project Template, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/download-and-installation) help topic.
 
 1. Open Visual Studio 2022.
 
@@ -23,21 +23,21 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
      Choose **Extension -> Syncfusion -> Essential Studio for Blazor -> Create New Syncfusion Project...** from the **Visual Studio menu**.
 
-     ![CreateMenu](images/CreateMenu.png)
+     ![Create Menu in Blazor Extension](template-studio_images/blazor-extension-template-studio-create-menu.png)
 
      **Option 2**
 
      Choose **File -> New -> Project** from the menu. This launches a new dialogue for creating a new application. Syncfusion templates for Blazor can be found by filtering the application type for **Syncfusion** or by entering **Syncfusion** as a keyword in the search option.
 
-     ![CreateNewWindow](images/CreateNewWindow.png)
+     ![Create New Window in Blazor Extension](template-studio_images/blazor-extension-template-studio-create-new-window.png)
 
 3. Select the **Syncfusion Blazor Template Studio** and click **Next**.
 
-     ![CreateNewWizard](images/CreateNewWizard.png)
+     ![Create New Wizard in Blazor Extension](template-studio_images/blazor-extension-template-studio-create-new-wizard.png)
 
 4. The Template Studio wizard for configuring the Syncfusion Blazor app will be launched. Choose the Syncfusion Blazor application type.
 
-     ![ProjectWizard](images/TemplateStudio.png)
+     ![Project Wizard in Blazor Extension](template-studio_images/blazor-extension-template-studio-template-studio.png)
 
      > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
 
@@ -51,13 +51,13 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
      In the Syncfusion Blazor WebAssembly App application type, we can choose **ASP.NET Core hosted**, **Progressive Web Application**, or both.
 
-     ![ProjectTypeWizard](images/ProjectTypeWizard.png)
+     ![ProjectTypeWizard in Blazor Extension](template-studio_images/blazor-extension-template-studio-project-type-wizard.png)
 
      > **Note:** The Progressive Web Application will be enabled if .NET 6.0 version or higher is installed.
 
 5. Click either **Next** or the **Controls** tab. The Syncfusion Blazor components you can add to the application are listed.
 
-     ![Controls Section](images/ControlsSection1.png)
+     ![Controls Section in Blazor extension](template-studio_images/blazor-extension-template-studio-controls-section-application.png)
 
      Choose the required control(s) by clicking **Add**.
 
@@ -75,7 +75,7 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
      > **Note:** ASP.NET Core hosted and Progressive Web Application options are only visible for the Blazor Web Assembly App application type.
 
-     ![Choose required Project Configuration](images/Configuration.png)
+     ![Choose required Project Configuration in Blazor Extension](template-studio_images/blazor-extension-template-studio-configuration.png)
 
      **Project details section**
 
@@ -97,7 +97,7 @@ Based on the selected Syncfusion Blazor controls, the individual NuGet packages 
 
 > The latest Syncfusion Essential Studio version of a NuGet package will be added as reference entry from nuget.org if there is no internet connection. You should restore the NuGet packages when internet becomes available.
 
-![NuGetPackage](images/NuGetPackage.png)
+![NuGet Package in Blazor Extension](template-studio_images/blazor-extension-template-studio-nuget-package.png)
 
 ### Style
 
@@ -109,19 +109,19 @@ The selected Syncfusion Blazor theme is added from Syncfusion NuGet and this the
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Project location}\wwwroot\index.html|
 
-![CDNLink](images/CDNLink.png)
+![CDN Link in Blazor Extension](template-studio_images/blazor-extension-template-studio-cdn-link.png)
 
 ### Namespaces
 
 The Syncfusion.Blazor namespaces are added in the **`_imports.razor`** file.
 
-![NameSpace](images/NameSpace.png)
+![NameSpace in Blazor Extension](template-studio_images/blazor-extension-template-studio-namespace.png)
 
 ### Component render code
 
 The selected Syncfusion Blazor components and features render code added as .razor files in the pages folder.
 
-![Selected control pagess added in project with selected features](images/ControlPages.png)
+![Selected control pagess added in project with selected featuresin Blazor extension](template-studio_images/blazor-extension-template-studio-control-pages.png)
 
 ### Authentication Configuration
 
@@ -137,29 +137,29 @@ We need to register the created application in Google Platform API Console for I
 
 2. Click Create Credentials and OAuth Client Id.
 
-    ![Google API console credentials page](images/GoogelAPIConsoleCredentials.png)
+    ![Google API Console Credentials Page in Blazor extension](template-studio_images/blazor-extension-template-studio-googel-api-console-credentials.png)
 
-    ![Google API Oauth client Id](images/OauthclientId.png)
+    ![Google API Oauth Client Id in Blazor Extension](template-studio_images/blazor-extension-template-studio-oauth-client-id.png)
 
 3. Select Application type as Web Application in client Id creation.
 
-    ![ApplicationType](images/ClientIdApplicationtype.PNG)
+    ![Application Type in Blazor extension](template-studio_images/blazor-extension-template-studio-client-id-application-type.PNG)
 
 4. Add your publish URL link as an Authorized URI and login URL as Redirected URI.
 
-    ![RedirectedURI](images/RedirectedURI.png)
+    ![Redirected URI in Blazor Extension](template-studio_images/blazor-extension-template-studio-redirected-uri.png)
 
 5. Click save then OAuth client id will be created and copy that credentials.
 
-    ![ClientIdCreation](images/ClientIdCreation.PNG)
+    ![Client Id Creation in Blazor Extension](template-studio_images/blazor-extension-template-studio-client-id-creation.PNG)
 
 6. Add that Client Id, and RedirectUri in appsettings.json file of your application.
 
-    ![ClinetIdConfiguration](images/ClinetIdConfiguration.PNG)
+    ![Clinet Id Configuration in Blazor Extension](template-studio_images/blazor-extension-template-studio-clinet-id-configuration.PNG)
 
 7. Change the build configuration bind as google from Local in program.cs file.
 
-    ![buildconfigurationbind](images/buildconfigurationbind.PNG)
+    ![Build Configuration Bind in Blazor extension](template-studio_images/blazor-extension-template-studio-build-configuration-bind.PNG)
 
 ### Microsoft Identity Platform Authentication
 
@@ -171,27 +171,27 @@ We need to register the created application in Google Platform API Console for I
 
 2. Click New Registration in App Registration page.
 
-    ![AppRegistration](images/AppRegistration.PNG)
+    ![App Registration in Blazor Extension](template-studio_images/blazor-extension-template-studio-app-registration.PNG)
 
 3. Give name of the application and selected supported type as single tenant.
 
-    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type in Blazor Extension](template-studio_images/blazor-extension-template-studio-name-supported-account-type.PNG)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-    ![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Platform and Redirect URI in Blazor Extension](template-studio_images/blazor-extension-template-studio-redirect-uri.png)
 
 5. App will be registered, go to the Authentication page and tick Id token check box.
 
-    ![Access token and Id token](images/AuthenticationCheckBox1.PNG)
+    ![Access token and Id token](template-studio_images/blazor-extension-template-studio-authentication-checkbox-page.PNG)
 
 6. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenant id in Blazor extension](template-studio_images/blazor-extension-template-studio-clinet-tenant-Id.PNG)
 
 7. Configure those client tenant id, application id, and domain in your application appsettings.json file.
 
-    ![Project configuration](images/Configuration1.png)
+    ![Project Configuration in Blazor Extension](template-studio_images/bkazor-extension-template-studio-configuration-file.png)
 
 #### Web Application and Progressive Web Application
 
@@ -201,33 +201,33 @@ We need to register the created application in Google Platform API Console for I
 
 2. Click New Registration in App Registration page.
 
-    ![AppRegistration](images/AppRegistration.PNG)
+    ![App Registration in Blazor Extension](template-studio_images/blazor-extension-template-studio-app-registration.PNG)
 
 3. Give name of the application and selected supported type as single tenant.
 
-    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type in Blazor Extension](template-studio_images/blazor-extension-template-studio-name-supported-account-type.PNG)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-    ![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Platform and Redirect URI in Blazor Extension](template-studio_images/blazor-extension-template-studio-redirect-uri.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
-    ![Access token and Id token](images/AuthenticationCheckBox.PNG)
+    ![Access token and Id token in Blazor extension](template-studio_images/blazor-extension-template-studio-authentication-checkbox.PNG)
 
 6. Migrate the API by clicking the highlighted arrow like in below image.
 
-    ![API Migration](images/Migration1.PNG)
+    ![API Migration in Blazor Extension](template-studio_images/blazor-extension-template-studio-api-migration.PNG)
 
-    ![Migration configuration](images/Migration2.PNG)
+    ![Migration configuration](template-studio_images/blazor-extension-template-studio-migration-configuration.PNG)
 
 7. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenant id in Blazor Extension](template-studio_images/blazor-extension-template-studio-clinet-tenant-Id.PNG)
 
 8. Configure those client tenant id and application id in your application appsettings.json file.
 
-    ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.PNG)
+    ![Clinet ID and Tenant ID configuration in Blazor Extension](template-studio_images/blazor-extension-template-studio-clinet-tenant-id-configuration.PNG)
 
 #### ASP.NET Core Hosted Web Application, and ASP.NET Core Hosted with Progressive Web Application
 
@@ -239,33 +239,33 @@ We need to register the created application in Google Platform API Console for I
 
 2. Click New Registration in App Registration page.
 
-    ![AppRegistration](images/AppRegistration.PNG)
+    ![App Registration in Blazor extension](template-studio_images/blazor-extension-template-studio-app-registration.PNG)
 
 3. Give name of the application and selected supported type as single tenant.
 
-    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type in Blazor Extension](template-studio_images/blazor-extension-template-studio-name-supported-account-type.PNG)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-    ![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Platform and Redirect URI in Blazor extension](template-studio_images/blazor-extension-template-studio-redirect-uri.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
-    ![Access token and Id token](images/AuthenticationCheckBox.PNG)
+    ![Access token and Id token in Blazor extension](template-studio_images/blazor-extension-template-studio-authentication-checkbox.PNG)
 
 6. Migrate the API by clicking the highlighted arrow like in below image.
 
-    ![API Migration](images/Migration1.PNG)
+    ![API Migration in Blazor Extension](template-studio_images/blazor-extension-template-studio-api-migration.PNG)
 
-    ![Migration configuration](images/Migration2.PNG)
+    ![Migration configuration](template-studio_images/blazor-extension-template-studio-migration-configuration.PNG)
 
 7. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenant id] in Blazor Extension(template-studio_images/bkazor-extension-template-studio-clinet-tenant-Id.PNG)
 
 8. Configure those client tenant id and application id in your application appsettings.json file.
 
-    ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.PNG)
+    ![Clinet ID and Tenant ID configuration in Blazor Extension](template-studio_images/bkazor-extension-template-studio-clinet-tenant-id-configuration.PNG)
 
 ##### Server project Registration and configuration
 
@@ -275,55 +275,55 @@ We need to register the created application in Google Platform API Console for I
 
 2. Click New Registration in App Registration page.
 
-    ![Server App Registration](images/AppRegistration.PNG)
+    ![Server App Registration in Blazor extension](template-studio_images/blazor-extension-template-studio-app-registration.PNG)
 
 3. Give name of the application and selected supported type as single tenant.
 
-    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type in Blazor Extension](template-studio_images/blazor-extension-template-studio-name-supported-account-type.PNG)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-    ![Server Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Server Platform and Redirect URI in Blazor Extension](template-studio_images/blazor-extension-template-studio-redirect-uri.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
-    ![Access token and Id token](images/AuthenticationCheckBox.PNG)
+    ![Access token and Id token in Blazor extension](template-studio_images/blazor-extension-template-studio-authentication-checkbox.PNG)
 
 6. Migrate the API by clicking the highlighted arrow like in below image.
 
-    ![API Migration](images/Migration1.PNG)
+    ![API Migration in Blazor Extension](template-studio_images/blazor-extension-template-studio-api-migration.PNG)
 
-    ![Migration configuration](images/Migration2.PNG)
+    ![Migration configuration in Blazor Extension](template-studio_images/blazor-extension-template-studio-migration-configuration.PNG)
 
 7. Add a scope API in Expose an API page.
 
-    ![Add scope API](images/AddScopeAPI.png)
+    ![Add Scope API in Blazor Extension](template-studio_images/blazor-extension-template-studio-add-scope-api.png)
 
 8. Give scope name, admin consent display name, and admin consent description and click Add scope. Scope API will be created, copy those scope API Value.
 
-    ![Add scope API configuration](images/AddScopeAPI1.png)
+    ![Add Scope API configuration in Blazor extension](template-studio_images/blazor-extension-template-studio-add-scope-api-configuration.png)
 
 9. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenant id in Blazor Extension](template-studio_images/blazor-extension-template-studio-clinet-tenant-Id.PNG)
 
 10. Configure those client tenant id, application id, and domain in your application appsettings.json file.
 
-    ![Project configuration](images/Configuration1.png)
+    ![Project Configuration in Blazor Extension](template-studio_images/blazor-extension-template-studio-configuration-file.png)
 
 11. Configure the scope API in client application program.cs file below highlighted place.
 
-    ![Scope API configuration](images/ScopeAPIConfiguration.PNG)
+    ![Scope API configuration in Blazor Extension](template-studio_images/blazor-extension-template-studio-scope-api-configuration.PNG)
 
 ### Run application
 
 You can run the application and see the Syncfusion components you selected. Select a component to see component output.
 
-![Blazor Template output page](images/HomePage.png)
+![Blazor Extension in Template output page](template-studio_images/blazor-extension-template-studio-home-page.png)
 
 You can select a culture language in combobox at top right on the output page to apply the culture in the application.
 
-![Blazor Template output page](images/Localization.png)
+![Blazor Extension in Template output page](template-studio_images/blazor-extension-template-studio-localization.png)
 
 > **Note:** Above culture combobox will be enabled in sample output if localization option is selected in configuration window from Syncfusion Blazor Template Studio wizard.
 
@@ -335,21 +335,21 @@ You can select a culture language in combobox at top right on the output page to
 
 1. For register the application, submit your email address and create a password.
 
-    ![Register the application](images/RegisterApplication.png)
+    ![Register the application in Blazor Extension](template-studio_images/blazor-extension-template-studio-register-application.png)
 
 2. Confirming registration by clicking **Click here to confirm your account.**
 
-    ![Register the confirmation](images/RegisterConfirmation.png)
+    ![Register the confirmation in Blazor Extension](template-studio_images/blazor-extension-template-studio-register-confirmation.png)
 
 3. Submit your registered email address and password to login the application.
 
-    ![login to the application](images/Login.png)
+    ![login to the application in Blazor Extansion](template-studio_images/blazor-extension-template-studio-login.png)
 
 #### Web Application and Progressive Web Application
 
 1. Login to the application using Gmail accounts.
 
-    ![Google login](images/GoogleLogin.PNG)
+    ![Google login in Blazor Extension](template-studio_images/blazor-extension-template-studio-google-login.PNG)
 
 ### Microsoft Identity Platform
 
@@ -359,4 +359,4 @@ You can select a culture language in combobox at top right on the output page to
 
 2. Accept permission request of your application.
 
-    ![Accept permission](images/MicrosoftAuthentication.PNG)
+    ![Accept Permission in Blazor Extension](template-studio_images/blazor-extension-template-studio-microsoft-authentication.PNG)

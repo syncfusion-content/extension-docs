@@ -13,7 +13,7 @@ The Syncfusion Blazor migration add-in for Visual Studio allows you to migrate a
 
 The steps below will assist you to upgrade the Syncfusion version in the Syncfusion Blazor application via Visual Studio 2019:
 
-> Before use the Syncfusion Blazor Project Migration, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/) help topic.
+> Before use the Syncfusion Blazor Project Migration, check whether the Syncfusion Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation) help topic.
 
 1. Open the Syncfusion Blazor application that uses the Syncfusion component.
 
@@ -23,29 +23,29 @@ The steps below will assist you to upgrade the Syncfusion version in the Syncfus
 
     Choose **Extensions -> Syncfusion -> Essential Studio for Blazor -> Migrate Project…** from Visual Studio 2019 menu.
 
-    ![MigrationMenu](images/MigrationMenu.PNG)
+    ![Migration Menu in Blazor Extension](upgrade-project_images/blazor-extension-migration-menu.PNG)
 
     **Option 2**
 
     Right-click the application from the **Solution Explorer** and select the **Syncfusion Blazor** and choose the **Migrate Syncfusion Blazor project from another version...**
 
-    ![MigrationAddin](images/MigrationAddin.png)
+    ![Migration Addin in Blazor Extension](upgrade-project_images/blazor-extension-migration-add-in.png)
 
 3. The Syncfusion Project Migration window will appear. You can choose the required version of Syncfusion Blazor to migrate.
 
     > The versions are loaded from the Syncfusion Blazor NuGet packages published in [`NuGet.org`](https://www.nuget.org/packages?q=Tags%3A%22blazor%22syncfusion) and it requires internet connectivity.
 
-    ![MigrationWizard](images/Migration.png)
+    ![Migration Wizard in Blazor Extension](upgrade-project_images/blazor-extension-migration.png)
 
 4. Check the **“Enable a backup before migrating”** checkbox if you want to take the project backup and choose the location.
 
 5. Once the migration process is completed, you will get a successful message window
 
-    ![MigrationSuccessMessage](images/MigrationSuccess.png)
+    ![Migration Success Message in Blazor Extension](upgrade-project_images/blazor-extension-migration-success-message.png)
 
     If you enabled project backup before migrating, the old application was saved in the specified backup path location, as shown below once the migration process completed.
 
-    ![MigrationBackupLocation](images/Backuplocation.png)
+    ![Migration Backup Location in Blazor Extension](upgrade-project_images/blazor-extension-backup-location.png)
 
 6. The Syncfusion Blazor NuGet packages are updated to the respective version in the application.
 
