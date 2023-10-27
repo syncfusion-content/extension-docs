@@ -16,21 +16,21 @@ You can uninstall already installed Syncfusion NuGet packages from project using
 
 1. Right-click on Project and select **Manage NuGet Packages** option. 
 
-   ![Installed packages details in NuGet Package Manager dialog](NuGet-Uninstallation_images/NuGet-Uninstallation-img2.png)
+   ![Installed/Uninstallation Process packages details in NuGet Package Manager dialog](nuget-package-extension-uninstallation-process-package-details.png)
    
 2. Select the **Installed** tab from NuGet Package Manager dialog and you can see the installed Syncfusion NuGet packages list by giving the Syncfusion keyword in search.
 
-   ![Installed packages details in NuGet Package Manager dialog](NuGet-Uninstallation_images/NuGet-Uninstallation-img3.png)
+   ![Installed/Uninstallation packages details in NuGet Package Extension Manager dialog](nuget-package-extension-uninstallation-process-details-dialog.png)
 
 3. Uninstall the Syncfusion NuGet packages which are not required for the project. 
 
-   ![Installed packages details in NuGet Package Manager dialog](NuGet-Uninstallation_images/NuGet-Uninstallation-img1.png)
+   ![Installed/Uninstalled Process packages details in NuGet Package Extension Manager dialog](nuget-uninstallation-process_images/nuget-package-extension-uninstallation-process-manager-dialog.png)
 
 N> You cannot uninstall the dependent package because of the package being referred in other NuGet Packages. It removes Project Reference and package from the project location.
 
 4. If you don't want to uninstall the dependent NuGet packages when uninstall the Syncfusion NuGet packages, you can select the **Ignore Dependencies** option to ignore the uninstallation for dependent packages.
 
-   ![Installed packages details in NuGet Package Manager dialog](NuGet-Uninstallation_images/NuGet-Uninstallation-img4.png)
+   ![Installed/Uninstallation packages details in NuGet Package Extension Manager dialog](nuget-uninstallation-process_images/nuget-package-extension-uninstallation-process-manager-dialog-details.png)
 
 ## NuGet Uninstallation by using Package Manager Console
 
@@ -44,7 +44,7 @@ You can uninstall already installed Syncfusion NuGet packages from project using
 
    Example: uninstall-package Syncfusion.SfChart.WPF –RemoveDependencies
       
-   ![NuGet package uninstallation log in Package Manager Console window](Uninstall-from-Package-Manager-Console_images/Uninstall-from-Package-Manager-Console-img1.png)
+   ![NuGet package uninstallation log in NuGet Package Extension Manager Console window](nuget-package-extension-uninstallation-process-console-window.png)
 
 3. You can uninstall the dependent NuGet package alone even if other NuGet packages depend on it by using the below command.
 
@@ -52,4 +52,4 @@ You can uninstall already installed Syncfusion NuGet packages from project using
 
    Example: uninstall-package Syncfusion.Shared.WPF -Force
 
-   ![NuGet package uninstallation log in Package Manager Console window](Uninstall-from-Package-Manager-Console_images/Uninstall-from-Package-Manager-Console-img2.png)   
+   ![NuGet package Extension Uninstallation log in Package Manager Console window](nuget-package-extension-uninstallation-process-log.png)   
