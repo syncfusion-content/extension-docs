@@ -55,6 +55,10 @@ The following steps is used to create the Syncfusion ASP.NET Core (Essential JS 
 
     > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
 
+    > .NET 7.0 is available from v20.4.0.38 and support from Visual Studio 2022.
+
+    > .NET 8.0 is available from v23.2.4 and support from Visual Studio 2022.
+
     **Assets From**: Choose the Syncfusion Essential JS 2 assets to ASP.NET Core Project, either NPM, CDN, or Installed Location.
 
     > Installed location option will be available only when the Syncfusion Essential JavaScript 2 setup has been installed.
