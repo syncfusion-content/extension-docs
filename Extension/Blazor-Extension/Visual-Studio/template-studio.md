@@ -53,8 +53,26 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
     In the **Syncfusion Blazor Web App** application type, you can configure the following options:
 
-    | [Interactivity type](https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0#render-modes) | Server, WebAssembly, Auto (Server and WebAssembly) |
-    | [Interactivity location](https://learn.microsoft.com/en-us/aspnet/core/blazor/tooling?view=aspnetcore-8.0&pivots=windows) | Global, Per page/component |
+    <table>
+    <tbody>
+    <tr>
+    <td>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0#render-modes" rel="nofollow">Interactivity type</a>
+    </td>
+    <td>
+    Server, WebAssembly, Auto (Server and WebAssembly)
+    </td>
+    </tr>
+    <tr>
+    <td>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/tooling?view=aspnetcore-8.0&pivots=windows" rel="nofollow">.NET 8.0</a>
+    </td>
+    <td>
+    Global, Per page/component
+    </td>
+    </tr>
+    </tbody>
+    </table>
 
     ![WebAppTemplate](images/WebAppTemplate.png)
 
