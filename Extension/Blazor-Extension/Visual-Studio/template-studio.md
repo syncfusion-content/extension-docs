@@ -53,8 +53,6 @@ The steps below will assist you to create your **Syncfusion Blazor Application**
 
     In the **Syncfusion Blazor Web App** application type, you can configure the following options:
 
-    | .NET SDK version | Supported Syncfusion Blazor Application Type |
-    | ------------- | ------------- |
     | [Interactivity type](https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0#render-modes) | Server, WebAssembly, Auto (Server and WebAssembly) |
     | [Interactivity location](https://learn.microsoft.com/en-us/aspnet/core/blazor/tooling?view=aspnetcore-8.0&pivots=windows) | Global, Per page/component |
 
