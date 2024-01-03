@@ -376,7 +376,7 @@ You can select a culture language in combobox at top right on the output page to
 
 ##### Applying Database Migrations and User Registration in the .NET 8.0 Blazor Web App
 
-###### Applying Database Migrations:
+##### Applying Database Migrations:
 
 In the Blazor Web App, it's essential to apply pending migrations to the database before proceeding with user registration. Choose one of the following options:
 
@@ -394,7 +394,7 @@ Open a command prompt in your project directory and execute the following comman
 
    ```dotnet ef database update```
 
-###### User Registration:
+##### User Registration:
 
 1.	Launch the application and register by submitting your email address and creating a password.
 
