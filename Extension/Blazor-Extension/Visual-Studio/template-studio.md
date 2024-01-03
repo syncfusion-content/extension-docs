@@ -376,25 +376,35 @@ You can select a culture language in combobox at top right on the output page to
 
 ##### Applying Database Migrations and User Registration in the .NET 8.0 Blazor Web App
 
-1. Navigate to **View -> Other Windows -> Package Manager Console** in Visual studio.
+###### Applying Database Migrations:
 
-2. Run the following command in the Package Manager Console to apply pending migrations to the database:
+In the Blazor Web App, it's essential to apply pending migrations to the database before proceeding with user registration. Choose one of the following options:
 
-    ```Update-Database```
+**Option 1: Using Visual Studio Package Manager Console**
+ 
+Navigate to **View -> Other Windows -> Package Manager Console** in Visual Studio.
+ 
+Run the following command in the Package Manager Console:
 
-   Alternatively, you can apply pending migrations from a command prompt in your project directory by running the following command:
+   ```Update-Database```
 
-    ```dotnet ef database update```
+**Option 2: Using Command Prompt**
+ 
+Open a command prompt in your project directory and execute the following command:
 
-3.	Now, launch the application and register by submitting your email address and creating a password.
+   ```dotnet ef database update```
+
+###### User Registration:
+
+1.	Launch the application and register by submitting your email address and creating a password.
 
     ![Register the WebApp](images/WebAppRegister.png)
 
-4.	Confirm your registration by clicking **Click here to confirm your account.**
+2.	Confirm your registration by clicking **Click here to confirm your account.**
 
     ![Confirming the WebApp registration](images/WebAppRegisterConfirmation.png)
 
-5.	Submit your registered email address and password to log in to the application.
+3.	Submit your registered email address and password to log in to the application.
 
     ![LogIn to the WebApp](images/WebApplogIn.png)
 
