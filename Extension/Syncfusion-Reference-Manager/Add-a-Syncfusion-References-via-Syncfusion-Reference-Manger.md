@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Add a Syncfusion References via Syncfusion Reference Manger | Extension | Syncfusion
-description: add a syncfusion references via syncfusion reference manger
+title: Add Reference Manger | Extension | Syncfusion
+description: Learn here all about how to add a syncfusion Essential  references via reference manger in Extenion, it's elements and more.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
