@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Add a Syncfusion References via Syncfusion Reference Manger | Extension | Syncfusion
-description: add a syncfusion references via syncfusion reference manger
+title: Add Reference Manger | Extension | Syncfusion
+description: Learn here all about how to add a syncfusion Essential  references via reference manger in Extenion, it's elements and more.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -26,7 +26,7 @@ To add the assemblies:
 
 4. If launched the Syncfusion Reference Manager from WPF project or select the WPF platform from platform selection option, **Themes** option will be appeared as option in Syncfusion Reference Manger. Choose the required themes based on your need. Refer the below link to know more about built in themes and its available assemblies.
 
-    [https://help.syncfusion.com/wpf/themes/](https://help.syncfusion.com/wpf/themes/)
+    [https://help.syncfusion.com/wpf/themes/skin-manager](https://help.syncfusion.com/wpf/themes/skin-manager)
 
     ![Themes selection option in Syncfusion Reference Manger](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger-img4.png)
 
@@ -57,7 +57,7 @@ To add the assemblies:
 
    ![Syncfusion Reference Manager success status in Visual Studio status bar](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger-img3.png)
 
-8. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
+8. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
    ![Syncfusion license registration required information dialog in Syncfusion Reference Manager](Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger_images/Add-a-Syncfusion-References-via-Syncfusion-Reference-Manger-img7.png)
 
