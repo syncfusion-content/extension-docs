@@ -22,7 +22,7 @@ The following alert message will be displayed if multiple versions of the same S
 
 To resolve this, follow these steps:
 1.	Uninstall the multiple versions of the same Syncfusion NuGet package currently installed in your project. 
-2.	Now, manually reinstall a single version of the Syncfusion NuGet package (e.g., Syncfusion.Xamarin.SfChart **v24.2.xx**(xamarin)  / Syncfusion.MAUI.Buttons **v24.2.xx** (maui)) and add the necessary control render code sample to your project.
+2.	Now, manually reinstall a single version of the Syncfusion NuGet package (e.g., Syncfusion.Xamarin.SfChart **v24.2.xx**(xamarin)  / Syncfusion.MAUI.Buttons **v24.2.xx** (Maui)) and add the necessary control render code sample to your project.
 
 ## Different NuGet with multiple versions installed
 
