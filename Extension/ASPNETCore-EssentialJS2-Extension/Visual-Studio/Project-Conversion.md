@@ -33,7 +33,7 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     Right-click the **Project** from Solution Explorer, select **Syncfusion Web**, and choose the **Convert to Syncfusion ASP.NET Core Application…**
 
-    ![convert to syncfusion](images/convert-to-syncfusion-ASpnet-core.png)
+    ![convert to syncfusion ASP.NET Core Essential JS2 Extension](images/aspnet-core-extension-project-conversion-steps.png)
 
 3. The Syncfusion ASP.NET Core Project Conversion window will appear. You can choose the required version of Syncfusion ASP.NET Core, Assets from, and Themes to convert the application.
 
@@ -59,6 +59,6 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     If you enabled project backup before converting, the old project was saved in the specified backup path location, as shown below once the conversion process completed.
 
-    ![BackupLocation](images/BackupLocation.png)
+    ![Backupn Location for ASP.NET Core Essential JS2 Extension](images/aspnet-core-extension-project-conversion-backup.png)
 
 6. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion license key to your application since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio.

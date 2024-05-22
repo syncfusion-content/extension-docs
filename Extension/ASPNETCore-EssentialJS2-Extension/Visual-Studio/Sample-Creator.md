@@ -51,7 +51,7 @@ The following steps is used to create the Syncfusion ASP.NET Core (Essential JS 
 
     **ASP.NET Core Version**: Select the version of ASP.NET Core Project.
 
-    ![aspnet core version](images/Aspnet-core-version.png)
+    ![ASP.NET Core essentialjs2 Extension Version for visual studio Sample Creator](images/aspnet-core-essentialjs2-extension-sample-creator-version.png)
 
     > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
 
