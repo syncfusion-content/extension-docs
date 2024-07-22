@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Scaffolding in Blazor Application | Syncfusion
+title: Scaffolding | Blazor | Syncfusion
 description: Learn here about scaffolding using Syncfusion Blazor Extension for Visual Studio to quickly add code to reduce the amount of development time.
-platform: Blazor
-component: Common
+platform: extension
+control: Syncfusion Extensions
 documentation: ug
 ---
 
@@ -30,8 +30,6 @@ N> Before use the Syncfusion Blazor Scaffolding, check whether the Syncfusion Bl
     If the application type is **Blazor Hosted**, right-click the **Controllers** folder from **{Project Name}.Server** application in the Solution Explorer, click **Add**, and then select **New Scaffolded Item**.
 
     ![Scaffolded add-in from the hosted project](images/Add_scaffold_hosted.png)
-
-    N> Scheduler control is not applicable for Blazor Hosted application.
 
 2. In the **Add New Scaffolded item** dialog, select **Syncfusion Blazor Scaffolder** and then click **‘Add’**.
 
