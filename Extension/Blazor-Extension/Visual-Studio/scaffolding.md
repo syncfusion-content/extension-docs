@@ -41,7 +41,7 @@ The steps below assist you to how to add a scaffolded item to your Blazor applic
 
 4. The Syncfusion UI Scaffolder dialog for the selected control will be displayed. As per the application requirements, follow these steps to set up your application.
 
-    ### Select Data Source Type ###
+### Select Data Source Type
     
     1. **Local Data (default selection)**
 
