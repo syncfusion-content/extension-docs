@@ -41,24 +41,24 @@ The steps below assist you to how to add a scaffolded item to your Blazor applic
 
 4. The Syncfusion UI Scaffolder dialog for the selected control will be displayed. As per the application requirements, follow these steps to set up your application.
 
-### Select Data Source Type
+    **Select Data Source Type**
     
-    1. **Local Data (default selection)**
+    1. Local Data (default selection)
 
         To set up your application with local data, first enter the **Controller/Service name** and then enter the **Razor page name**. Next, select the required **Model class** for the active application and choose the relevant **Data context class**. Finally, click **Next** to continue.
 
         ![Choose required Model](images/Model_Window_Local.png)
 
-        > **Note:** We are introducing Adaptor types in Blazor scaffolding for remote data. 
+        N> We are introducing Adaptor types in Blazor scaffolding for remote data. 
 
-    2. **Remote Data**
+    2. Remote Data
 
         To set up your application with remote data, first enter the **Razor page name**, choose the **Adaptor type**, and then enter the valid **URL**. Next, enter the **TValue**. Finally, click **Next** to continue.
 
-        > **Note:** In the DataGrid and TreeGrid controls, when selecting the **URL adaptor** in the **Adaptor type**, an additional **Remote service** option will appear. You need to select either the **Localhost URL** or **API URL**. 
+        N> In the DataGrid and TreeGrid controls, when selecting the **URL adaptor** in the **Adaptor type**, an additional **Remote service** option will appear. You need to select either the **Localhost URL** or **API URL**. 
         If you select the **Localhost URL**, enter the **Controller/Service name**. Then, select the required **Model class** for the active application and choose the relevant **Data context class**. Finally, click **Next** to continue. 
         If you select the **API URL**, enter the valid **URL**. Next, enter the **TValue**. Finally, click **Next** to continue.
-        
+
         ![Choose required Model](images/Model_Window_Remote.png)
 
         When using adaptor types in Blazor scaffolding, it's important to note that we provide default adaptor links for sample purposes only. These default links are designed to help you understand how the adaptors work, but they do not perform CRUD (Add, Edit, Update, Delete) operations. Instead, these default links are placeholders to demonstrate the integration process.
