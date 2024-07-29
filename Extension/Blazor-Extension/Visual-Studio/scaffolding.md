@@ -41,9 +41,9 @@ The steps below assist you to how to add a scaffolded item to your Blazor applic
 
 4. The Syncfusion UI Scaffolder dialog for the selected control will be displayed. As per the application requirements, follow these steps to set up your application.
 
-### Select Data Source Type
+    **Select Data Source Type**
     
-    1. **Local Data (default selection)**
+    1. Local Data (default selection)
 
         To set up your application with local data, first enter the **Controller/Service name** and then enter the **Razor page name**. Next, select the required **Model class** for the active application and choose the relevant **Data context class**. Finally, click **Next** to continue.
 
@@ -51,7 +51,7 @@ The steps below assist you to how to add a scaffolded item to your Blazor applic
 
         > **Note:** We are introducing Adaptor types in Blazor scaffolding for remote data. 
 
-    2. **Remote Data**
+    2. Remote Data
 
         To set up your application with remote data, first enter the **Razor page name**, choose the **Adaptor type**, and then enter the valid **URL**. Next, enter the **TValue**. Finally, click **Next** to continue.
 
