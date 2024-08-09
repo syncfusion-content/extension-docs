@@ -2,7 +2,7 @@
 layout: post
 title: Template Studio | Wpf | Syncfusion
 description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion WPF platform to create Syncfusion WPF Application by addiing the required assemblies
-platform: extension
+platform: wpf
 control: Syncfusion Extensions
 documentation: ug
 ---
@@ -48,11 +48,17 @@ Create the Syncfusion WPF project using the Visual Studio Project Template by fo
 
 	I> Visual Basic Language support is available in WPF Template Studio starting from version 25.1.35.
 
-5.	Click **Next** or navigate to the **Project type** tab, then select the desired Syncfusion WPF application type.
+5.	Click **Next** or navigate to the **Type** tab, then select the desired Syncfusion WPF application type. When selecting the type of template for your application, you have two options:
 
-	![Syncfusion WPF project type selection wizard](Template-Studio-Images/WPF-5.png)
+	![Syncfusion WPF project type selection wizard](Template-Studio-Images/WPF-4.png)
 
-6.	Click **Next** or navigate to the **Pages** tab to access a list of available Syncfusion WPF components you can add to the application.
+	**Predefined template:** Choose this option to select from 5 predefined templates, including Calendar, Contact, Outlook, Docking Manager, Spreadsheet, Tile view, and Word. By choosing one of these templates, you can create your application without needing to follow any further steps.
+    
+    ![Syncfusion WPF Predefined template wizard](Template-Studio-Images/WPFTemplate-6.png)
+    
+	**Project type:** Choose this option to select from 4 project types, including Navigation Pane, Blank, Menu Bar, and Ribbon .
+
+6. Click **Next** or navigate to the **Pages** tab to access a list of available Syncfusion WPF components you can add to the application.
 
 	![Syncfusion WPF pages selection wizard](Template-Studio-Images/WPF-6.png)
 
@@ -66,28 +72,67 @@ Create the Syncfusion WPF project using the Visual Studio Project Template by fo
 
 8.	Click **Next** or navigate the **App Features** tab to select the desired application features.
 
-	![Syncfusion WPF app features selection wizard](Template-Studio-Images/WPF-7.png)
+    ![Syncfusion WPF app features selection wizard](Template-Studio-Images/WPF-7.png)
 
-	**Project Details Section**
+**Project Details Section**
 
-	In the **Project Details** section, you can modify configurations and project types. Additionally, you can remove one or more controls from the selected list and remove the chosen application feature.
+In the **Project Details** section, you can modify configurations and project types. Additionally, you can remove one or more controls from the selected list and remove the chosen application feature.
 
-	![Syncfusion WPF project details selection and unselection wizard](Template-Studio-Images/WPF-8.png)
+![Syncfusion WPF project details selection and unselection wizard](Template-Studio-Images/WPF-8.png)
 
-9.	Click **Create** to initiate the process. This action generates the Syncfusion WPF application. The resulting Syncfusion WPF app has the necessary Syncfusion NuGet 	packages, styles, and rendering code specific to the chosen Syncfusion component.
+9. Click **Create** to generate the Syncfusion WPF application, which will include the necessary Syncfusion NuGet packages, styles, and rendering code specific to the chosen components. The application is configured with the latest versions of Syncfusion WPF NuGet packages, complete with the appropriate namespaces for seamless integration.
 
-	![Syncfusion WPF project created with readme](Template-Studio-Images/WPF-9.png)
+     ![Syncfusion WPF project created with readme](Template-Studio-Images/WPF-9.png)
 
-10.	The Syncfusion WPF application is configured with the latest versions of Syncfusion WPF NuGet packages, complete with the appropriate namespaces and component 			render code for seamless integration of Syncfusion components.
+10.	After creating the project and selecting the desired components, the necessary Syncfusion NuGet packages will be installed automatically. For example, if you add an `DataGrid` control, the corresponding Syncfusion NuGet packages required for that control will be installed. 
 
-	N> The .Net 6.0,.Net7.0, and .Net 8.0 option will be listed in  Select a framework version	 when only the .Net 6.0, .Net 7.0, and .Net 8.0 SDK setup has been installed.
+      ![NuGetEntry](Template-Studio-Images/NuGetEntry.png)
 
-	> .NET 6.0 version is available from v19.4.0.38 and it support from Visual Studio 2022.
+    To find out which NuGet packages are needed for other WPF controls, please refer to this [documentation link](https://help.syncfusion.com/wpf/control-dependencies) for detailed information on the required NuGet packages for each control.
 
-	> .NET 7.0 version is available from v20.4.0.38 and it support from Visual Studio 2022.
+11. When you create a WPF project, the following Dependency Injection (DI) setup is added to the `App.xaml.cs` file. This setup registers services, view models, and views with the DI container, ensuring proper functionality for the selected components and service management within your application. Below, the `ConfigureServices` method in `App.xaml.cs` sets up Dependency Injection (DI) in a WPF project to manage the application's services, view models, and views. Here's a simple breakdown:
 
-	> .NET 8.0 version is available from v23.2.4 and it support from Visual Studio 2022.
+      ![ConfigureServices](Template-Studio-Images/DI-Setup.png)
 
-11.	Then, Syncfusion licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion introduced the 			licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/			licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion license key to your 	project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in 		Essential Studio.
 
-	![Syncfusion license registration required information dialog in Syncfusion WPF project](Template-Studio-Images/Syncfusion-Project-Template-Gallery-9.png)   
+     I. Application Host:
+     - Registers `ApplicationHostService` to manage the app's lifecycle.      
+
+     II. Specific Services:
+     - Registers `PageService` and `NavigationService` for handling page navigation.
+
+     III. Views and ViewModels:
+     -  Registers ShellWindow and ShellViewModel for the main application window.
+     - Registers `DataGridViewModel` and `DataGridPage` for the added component DataGrid UI.
+     - Registers MainViewModel and MainPage for the main page of the app.
+
+     IV. Configuration:
+     - Binds the app's configuration settings to the `AppConfig` class using the settings from the configuration file.
+
+12. In a WPF MVVM application, the `PageService.cs` class helps manage navigation and page creation. For instance, it facilitates registering and navigating to pages associated with specific view models. Here's a simple explanation:
+
+       I. Initialization:
+      - The constructor of PageService takes a serviceProvider to access registered services.
+
+       II. Registering Pages:	
+      - Configure `<DataGridViewModel, DataGridPage>();` links the DataGridViewModel to the DataGridPage.
+    - Configure `<MainViewModel, MainPage>();` links the MainViewModel to the MainPage.
+    
+	![PageServices](Template-Studio-Images/PageService.png)
+
+13. Some components require additional resource files, such as images and other necessary files, to function correctly. For example, if you add the `PDFViewer` and `Carousel` component to your WPF project, the respective images and PDF files will be added to the Images and Assets folder in your project.
+
+	 ![Resources](Template-Studio-Images/Resources.png)
+
+	N> The .Net 6.0, .Net 7.0, and .Net 8.0 option will be listed in  Select a framework version	 when only the .Net 6.0, .Net 7.0, and .Net 8.0 SDK setup has been installed.
+
+    > | .NET Version | Available From Version | Supported from Visual Studio |
+    > |--------------|------------------------|-----------------------------|
+    > | .NET 6.0     | v19.4.0.38             | Visual Studio 2022          |
+    > | .NET 7.0     | v20.4.0.38             | Visual Studio 2022          |
+    > | .NET 8.0     | v23.2.4                | Visual Studio 2022          |
+
+
+14.   Then, Syncfusion licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion introduced the 			licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion license key to your 	project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in 		Essential Studio.
+
+       ![Syncfusion license registration required information dialog in Syncfusion WPF project](Template-Studio-Images/Syncfusion-Project-Template-Gallery-9.png)   
