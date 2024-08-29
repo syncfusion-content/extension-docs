@@ -125,7 +125,7 @@ Here's a simple explanation:
        ![Resources](Template-Studio-Images/Resources.png)
  
 
-     >The .NET 6.0, .NET 7.0, and .NET 8.0 options will be available in the Select a framework version dropdown only if the respective .NET SDKs are installed on your system. The table below outlines the .NET versions, the specific product versions from which they are available, and the Visual Studio versions that support them: 
+    >The .NET 6.0, .NET 7.0, and .NET 8.0 options will be available in the Select a framework version dropdown only if the respective .NET SDKs are installed on your system. The table below outlines the .NET versions, the specific product versions from which they are available, and the Visual Studio versions that support them: 
 	> <table>
 	>   <thead>
 	>     <tr>
