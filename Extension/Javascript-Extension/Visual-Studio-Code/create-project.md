@@ -17,11 +17,11 @@ The following steps help you create **Syncfusion Web Applications** through the 
 
 1. In Visual Studio Code, open the command palette by pressing **Ctrl+Shift+P**. The Visual Studio Code palette opens, search the word **Syncfusion**, so you can get the templates provided.
 
-    ![CreateProjectPalette](images/CreateProjectPalette.png)
+    ![Create Project Palette in JavaScript extension](images/javascript-extension-project-palette.png)
 
 2. Select Syncfusion Web Template Studio: Launch and then press Enter. The Template Studio wizard for configuring the Syncfusion Web app will appear. Provide the require Project Name and Path to create the new Syncfusion Web application along with any one of the Framework(React, Angular, and Vue).
 
-    ![ProjectLocation](images/ProjectLocationName.png)
+    ![Project Location in JavaScript Extension](images/javascript-extension-project-location-name.png)
 
 3. Click either **Next** or the **Framework** tab, and the Framework types will be appears. Choose any one of the Framework:
    * React
@@ -32,7 +32,7 @@ The following steps help you create **Syncfusion Web Applications** through the 
 
 4. Click either Next or the Configuration tab, and the Configuration section will be loaded. Choose the preferred theme and then click Create. The project will be created.
 
-    ![Themes](images/Themes.png)
+    ![Themes in JavaScript Extension](images/javascript-extension-themes.png)
 
 5. The created Syncfusion Web App is configured with the Syncfusion NPM packages, styles, and the component render code for the Syncfusion component added.
 
