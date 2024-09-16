@@ -42,76 +42,76 @@ The following steps help you create the Syncfusion ASP.NET MVC (Essential JS 1) 
    **Option 1:**  
     Click **Syncfusion Menu** and choose **Essential Studio for ASP.NET MVC (EJ1) > Create New Syncfusion Project…** in **Visual Studio**.
 
-    ![Choose Syncfusion ASP.NET MVC Web Application from Visual Studio new project dialog via Syncfusion menu](Create-Syncfusion-MVC-Project_images/Syncfusion_Menu_ProjectTemplate.png)
+    ![Choose Syncfusion ASP.NET MVC Extension Web Application from Visual Studio new project dialog via Syncfusion menu project template](create-syncfusion-mvc-project_images/syncfusion-menu-project-template-in-aspnet-mvc-extension.png)
 
     N> In Visual Studio 2019, Syncfusion menu available under Extension in Visual Studio menu.
 
    **Option 2:**  
    Choose **File > New > Project** and navigate to **Syncfusion > Web > Syncfusion ASP.NET MVC (Essential JS 1) Application** in **Visual Studio**.
    
-   ![Choose Syncfusion ASP.NET MVC Web Application from Visual Studio new project dialog](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img1.png)
+   ![Choose Syncfusion ASP.NET MVC Extension Web Application from Visual Studio new project dialog via syncfusion mVC Project Template](reate-syncfusion-mvc-project_images/create-syncfusion-mvc-project-with aspnet-mvc-extension-web-application.png)
 
 2. Name the Project, choose the destination location as required and set the Framework of the project then click OK. The Project Configuration Wizard appears.  
 
 3. Choose the options to configure the Syncfusion ASP.NET MVC Application by using the following Project Configuration window.
 
-   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project configuration wizard](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img2.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVCExtension for Web Project created templates configuration wizard](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-configuration-option.jpeg)
 
    ### Project configurations:
 
    **Target MVC Version:** Choose the required MVC Version.
 
-   ![Choose required MVC version](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img3.jpeg)
+   ![Choose required MVC version in ASP.NET MVC Extension for created project Template ](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-target-version.jpeg)
 
    **View Engine:** Choose the View Engine of the Sample.
 
-   ![Choose rquired View Engine](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img4.jpeg)
+   ![Choose required View Engine in ASP.NET MVC Extension for created project Template](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-view-engine.jpeg)
 
    **Theme:** Choose the Required Theme.
 
-   ![Choose required theme](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img5.jpeg)
+   ![Choose required theme in ASP.NET MVC Extension for created project Template](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-required-theme.jpeg)
 
    **Language:** Select the language, either C# or VB.
 
-   ![Choose required language](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img6.jpeg)
+   ![Choose required language in ASP.NET MVC Extension for created project Template](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-language-selection.jpeg)
 
    **Assemblies From:** Choose the assembly location from where it is going to be added to the project.
 
-   ![Choose the assembly location from where it is going to be added to the project](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img7.jpeg)
+   ![Choose the assembly location from where it is going to be added to the ASP.NET MVC Extension created template project](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-project-assembly-location.jpeg)
 
    **Use CDN Support:** The master page of the project will be updated based on required Syncfusion CDN links.
 
-   ![Choose CDN support](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img28.jpeg)
+   ![Choose CDN support in ASP.NET MVC Extension for created project Template ](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-cdn-support.jpeg)
 
 4. When you have not chosen the Add Samples option then the Syncfusion ASP.NET MVC/ Syncfusion ASP.NET MVC (Classic) project is created with required assemblies, CSS and Script files only.
 
 5. By choosing the Add Samples option you can add the code examples for your selected controls and its features.
 
-   ![Syncfusion Essential JS 1 ASP.NET MVC Web Feature selection](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img8.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Extension for Web Feature selection with project template created](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-add-sample-option.jpeg)
 
    **Select Control:** Choose the control based on your need.
 
-   ![Choose required controls](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img9.jpeg)
+   ![Choose required controls in ASP.NET MVC Extension to create syncfusion MVC created project Template](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-control-selection.jpeg)
 
    **Select Feature:** Choose Feature based on your need.
 
-   ![Choose required features](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img10.jpeg)
+   ![Choose required features in ASP.NET MVC Extension to create syncfusion MVC project Template](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-feature.jpeg)
 
 6. Once the Project Configuration Wizard is done, the Syncfusion MVC Project is created.
 
-   ![Required View and Controller files are added in the project for the selected controls](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img11.jpeg)
+   ![Required View and Controller files are added in ASP.NEt MVC Extension with the syncfusion MVC project template for the selected controls](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-files.jpeg)
 
 7. Syncfusion references, Scripts, CSS and required Web.config entries are added to the Project.
 
-   ![Required Syncfusion assemblies added in the project created for the selected controls](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img12.jpeg)
+   ![Required Syncfusion ASP.NET MVC Extension assemblies added in the project created templates for the selected controls](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-required-entries.jpeg)
 
-   ![Required scripts and themes added in the project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img13.jpeg)
+   ![Required Syncfusion ASP.NET MVC Extension scripts and themes added in the Template project created](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project-template-with-aspnet-mvc-extension-for-added-scripts-and-themes.jpeg)
 
-   ![Web.config file configured for the selected controls in the project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img14.jpeg)
+   ![Web.config file configured for the selected controls in Syncfusion ASP.NET MVC Extension project Template created](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-web-config-files.jpeg)
 
 8. Then, Syncfusion licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion license key to your project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio.
 
-   ![Syncfusion license registration required message box for Syncfusion Essential JS 1 ASP.NET MVC web projects](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img29.jpeg)
+   ![Syncfusion license registration required message box for Syncfusion Essential JS 1 ASP.NET MVC Extension web created in projects Templates](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-license-message-box.jpeg)
 
 ## Create Syncfusion MVC (Mobile) Project
 
@@ -119,51 +119,51 @@ The following steps help you create the Syncfusion ASP.NET MVC (Mobile) Project 
 
 1. To create a Syncfusion Project, choose **New Project -> Syncfusion -> Mobile -> Syncfusion ASP.NET MVC(Mobile) Application** from Visual Studio.
 
-   ![Choose Syncfusion ASP.NET MVC Mobile Application from Visual Studio new project dialog](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img15.jpeg)
+   ![Choose Syncfusion ASP.NET MVC Extension in Mobile Application from Visual Studio new project dialog](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img15.jpeg)
 
 2. Name the Project, choose the destination location as required and set the Framework of the project then click OK. The Project Configuration Wizard appears.  
 3. Choose the options to configure the Syncfusion ASP.NET MVC Application by using the following Project Configuration window.
 
-   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile project configuration wizard](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img16.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Extension for Mobile project created templates with configuration wizard](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-mobile-wizard.jpeg)
 
    ### Project configurations:
 
    **Target MVC Version:** Choose the required MVC Version.
 
-   ![Choose the target MVC Version](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img17.jpeg)
+   ![Choose the target MVC Version for Syncfusion ASP.NET MVC Extension created project template](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-target-version.jpeg)
 
    **View Engine:** Choose the View Engine of the Sample.
 
-   ![Choose View Engine](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img18.jpeg)
+   ![Choose View Engine in Syncfusion ASP.NET MVC Extension created project template](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-view-engine.jpeg)
 
    **Theme:** Choose the Required Theme.
 
-   ![Choose the required theme](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img19.jpeg)
+   ![Choose the required theme in Syncfusion ASP.NET MVC Extension created project template](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-required-theme.jpeg)
 
    **Language:** Select the language, either C# or VB.
 
-   ![Choose the project language](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img20.jpeg)
+   ![Choose the created project template language for syncfusion ASP.NET MVC Extension](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-language.jpeg)
 
    **Assemblies From:** Choose the assembly location from where it is going to be added to the project.
 
-   ![Choose the assembly location](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img7.jpeg)
+   ![Choose the assembly location in Syncfusion ASP.NET MVC Extension created project template](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-assembly-location.jpeg)
 
    **Project templates:** Choose the required Control.
 
-   ![Choose the required controls](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img22.jpeg)
+   ![Choose the required controls for syncfusion ASP.NET MVC Extension with created project templates](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-projet-template-control.jpeg)
 
 4. Once the Project Configuration Wizard is done, the Syncfusion MVC Project is created.
 
-   ![Required view and controller files added in the Syncfusion Essential JS 1 ASP.NET MVC Mobile project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img23.jpeg)
+   ![Required view and controller files added in the Syncfusion Essential JS 1 ASP.NET MVC Extension Mobile project created templates](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-required-files.jpeg)
 
 5. Syncfusion references, Scripts, CSS and required Web.config entries are added to the Project.
 
-   ![Required assemblies added as a reference in the project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img24.jpeg)
+   ![Required assemblies added as a reference in syncfusion ASP.NET MVC Extension with the project created templates](create-syncfusion-mvc-project_images/create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-refrence-assemblies.jpeg)
 
-   ![Required themes and scripts added to the project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img25.jpeg)
+   ![Required themes and scripts added to the project created templates in syncfusion ASP.NET MVC Extension](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-required-themes-and-scripts.jpeg)
  
-   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile project required scripts](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img26.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC in syncfusion ASP.NET MVC Extension Mobile project created templates required scripts](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-mobile-project.jpeg)
 
-   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile project Web.config configuration](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img27.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Extension in Mobile project created templates for Web.config configuration](create-syncfusion-mvc-project_images/created-syncfusion-mvc-project-template-with-aspnet-mvc-extension-web-config-configuration.jpeg)
 
 
