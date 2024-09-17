@@ -14,7 +14,7 @@ Syncfusion provides the component Code Generator for the Blazor platform, which 
 
 The steps below will assist you to add the Syncfusion components code in your Blazor application through **Visual Studio 2019**:
 
-> Before using the Syncfusion Blazor Code Generator, check whether the Syncfusion Blazor Extension is installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/) help topic.
+> Before using the Syncfusion Blazor Code Generator, check whether the Syncfusion Blazor Extension is installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/download-and-installation) help topic.
 
 1. Open your existing Blazor application or create a new Blazor application.
 
@@ -24,17 +24,17 @@ The steps below will assist you to add the Syncfusion components code in your Bl
 
     To generate a specific component code, right-click on the editor of the Razor file at the required line and Select the **Syncfusion Blazor Code Generator...**
 
-    ![CodeGeneratorCommand](images/Code-Generator-Command.PNG)
+    ![Code Generator Command in Blazor Extension](code-generator_images/blazor-extension-code-generator-command.PNG)
 
     **Option 2:**
 
     Open the .razor file and choose **Extension -> Syncfusion -> Essential Studio for Blazor -> Syncfusion Blazor Code Generator...** from the **Visual Studio 2019 menu**.
 
-    ![CodeGeneratorMenu](images/Code-Generator-Menu.PNG)
+    ![Code Generator Menu in Blazor Extension](code-generator_images/blazor-extension-code-generator-menu.PNG)
 
 3. The wizard for the Syncfusion Blazor Code Generator will appear. Choose a required control.
 
-    ![CodeGeneratorWizard](images/Code-Generator-MainWizard.png)
+    ![Code Generator Wizard in Blazor Extension](code-generator_images/blazor-extension-code-generator-wizard.png)
 
     **Data Binding:** Data operation fields will be visible if the selected component has data. The data will be listed from your application. It interacts with data models and reduces the amount of time spent developing your application. You can choose the required Data Model Class, Data Source, Id, and more from your application.
 
@@ -44,11 +44,11 @@ The steps below will assist you to add the Syncfusion components code in your Bl
 
     Click **Insert**. It generates the selected component render code and inserts it wherever the cursor is positioned.
 
-    ![ComponentRenderCode](images/Code-Generator-ComponentRenderCode.PNG)
+    ![Component Render Code in Blazor Extension](code-generator_images/blazor-extension-code-generator-component-render-code.PNG)
 
 4. In the Output window, select the **Syncfusion Blazor Code Generator** from the **“Show output from”** drop-down to see the changes made to your application.
 
-    ![OutputWindow](images/Code-Generator-OutputWindow.PNG)
+    ![Output Window] in Blazor Extension(code-generator_images/blazor-extension-code-generator-output-window.PNG)
 
 5. If you have installed the trial setup or NuGet packages from nuget.org, you must register the Syncfusion license key to your application as Syncfusion has introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post to know more about the licensing changes introduced in Essential Studio.
 
@@ -62,7 +62,7 @@ Based on the selected Syncfusion Blazor controls, the individual NuGet packages 
 
 > The latest Syncfusion Essential Studio version of a NuGet package will be added as reference entry from nuget.org if there is no internet connection. You should restore the NuGet packages when internet becomes available.
 
-![NuGetPackage](images/Code-Generator-NuGetPackage.PNG)
+![NuGet Package in Blazor extension](code-generator_images/blazor-extension-code-generator-nuget-package.PNG)
 
 ### Style
 
@@ -74,16 +74,16 @@ The selected Syncfusion Blazor theme is added from Syncfusion NuGet and this the
 | Syncfusion Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
 | Syncfusion Blazor WebAssembly App <br/> Syncfusion Blazor WebAssembly App (Progressive Web Application) | {Project location}\wwwroot\index.html|
 
-![StyleReference](images/Code-Generator-CDNLink.PNG)
+![Style Reference in Blazor extension](code-generator_images/blazor-extension-code-generator-style-refrence.PNG)
 
 ### Namespaces
 
 The required namespaces are added to the **`_imports.razor`** file based on the selected component, if it is not already available.
 
-![NameSpace](images/Code-Generator-NameSpace.PNG)
+![NameSpace in Blazor extension](code-generator_images/blazor-extension-code-generator-namespace.PNG)
 
 ### Services
 
 The required service code added to the **`Startup.cs/Program.cs`** file to render the component based on the selected component if it is not already added.
 
-![Services code](images/Code-Generator-ServicesCode.PNG)
+![Services code in Blazor Extension](code-generator_images/blazor-extension-code-generator-services-code.PNG)
