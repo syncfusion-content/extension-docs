@@ -31,8 +31,12 @@ documentation: ug
 
 Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
 
+**From column header:**
+
    ![Filter-Icon](images/Filter-Icon.png)
 
    ![FilterDropdown](images/FilterDropdown.png)
+
+**Right clicking on the cell:**
 
    ![CellFilter](images/CellFilter.png)
