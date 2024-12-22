@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download and Installation | DocumentViewer | Syncfusion
-description: How to download and install the Syncfusion Document Viewer extension Studio Code Market Place
+description: How to download the Syncfusion Document Viewer extension from the Visual Studio code marketplace site and from the Extensions View tab.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

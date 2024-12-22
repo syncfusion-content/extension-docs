@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Getting Started | Extension | Syncfusion
-description: Easily view and manage your documents within VSCode using our intuitive features.
+description: The Syncfusion Document Viewer extension enables you to easily view and manage your documents within VSCode using our intuitive features.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-## Open and Edit Files
+# Open and Edit Files
 
 **Open a File**:
 

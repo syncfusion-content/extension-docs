@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Configuration Options | Extension | Syncfusion
-description: Enables to configure the document viewer extension features.
+description: The Syncfusion Document Viewer extension allows users to configure and customize its intuitive features effortlessly.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-## Configuration Options
+# Configuration Options
 
 ### Read-Only Mode
 
