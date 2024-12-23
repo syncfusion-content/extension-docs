@@ -1,6 +1,6 @@
 ---
 layout: post
-title: FAQ | Extension | Syncfusion
+title: FAQ Content | Extension | Syncfusion
 description: The Syncfusion Document Viewer extension enables you to easily view and manage your documents within VSCode using our intuitive features.
 platform: extension
 control: Syncfusion Extensions
