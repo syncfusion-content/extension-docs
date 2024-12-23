@@ -7,7 +7,9 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Open and Edit Files
+# Getting Started with Syncfusion® Document Viewer
+
+### Open and Edit Files
 
 **Open a File**:
 
@@ -27,7 +29,7 @@ documentation: ug
 
 ---
 
-## Sort and Filter Data
+### Sort and Filter Data
 
 Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
 
