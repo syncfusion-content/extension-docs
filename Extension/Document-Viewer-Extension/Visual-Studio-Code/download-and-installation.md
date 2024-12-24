@@ -34,7 +34,7 @@ The following steps explain how to install the Syncfusion® Document Viewer exte
 
 4. Click the Install button on the **"Syncfusion® Document Viewer"** extension.
 
-5. After the installation, restart Visual Studio Code when suggested.
+5. After the installation completes, restart Visual Studio Code if prompted.
 
 
 ## Install from the Visual Studio Code Marketplace
