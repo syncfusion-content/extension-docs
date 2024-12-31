@@ -7,9 +7,9 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion Troubleshooter
+# Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter
 
-The Syncfusion Troubleshooter is a Visual Studio extension to troubleshoot the configuration issues of Syncfusion controls in projects. It supports Microsoft Visual Studio 2010 or higher. If Visual Studio project has any configuration issue with in Syncfusion control like, wrong Framework Syncfusion assembly added to the project or missing any Syncfusion dependent assembly of a referred assembly, the Syncfusion Troubleshooter will investigate these type of problem and fix them. The Syncfusion Troubleshooter available from Syncfusion Essential Studio v14.3.0.49. Currently the Syncfusion Troubleshooter is available for the following project types.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter is a Visual Studio extension to troubleshoot the configuration issues of Syncfusion<sup style="font-size:70%">&reg;</sup> controls in projects. It supports Microsoft Visual Studio 2010 or higher. If Visual Studio project has any configuration issue with in Syncfusion<sup style="font-size:70%">&reg;</sup> control like, wrong Framework Syncfusion<sup style="font-size:70%">&reg;</sup> assembly added to the project or missing any Syncfusion<sup style="font-size:70%">&reg;</sup> dependent assembly of a referred assembly, the Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter will investigate these type of problem and fix them. The Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter available from Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> v14.3.0.49. Currently the Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter is available for the following project types.
 
 * Windows Forms Application.
 
@@ -23,18 +23,18 @@ The Syncfusion Troubleshooter is a Visual Studio extension to troubleshoot the c
 
 * Universal Windows Platform Application.
 
-The Syncfusion Troubleshooter Visual Studio extension is installed along with the following Essential Studio setups. 
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter Visual Studio extension is installed along with the following Essential Studio<sup style="font-size:70%">&reg;</sup> setups. 
 
-* Essential Studio for Windows Forms.
+* Essential Studio<sup style="font-size:70%">&reg;</sup> for Windows Forms.
 
-* Essential Studio for WPF.
+* Essential Studio<sup style="font-size:70%">&reg;</sup> for WPF.
 
-* Essential Studio for ASP.NET Web Forms.
+* Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Web Forms.
 
-* Essential Studio for ASP.NET MVC.
+* Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET MVC.
 
-* Essential Studio for ASP.NET Core.
+* Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core.
 
-* Essential Studio for UWP.
+* Essential Studio<sup style="font-size:70%">&reg;</sup> for UWP.
 
-* Essential Studio Enterprise Edition with any platform of mentioned above. 
+* Essential Studio<sup style="font-size:70%">&reg;</sup> Enterprise Edition with any platform of mentioned above. 
