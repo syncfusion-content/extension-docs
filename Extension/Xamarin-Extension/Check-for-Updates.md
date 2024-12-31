@@ -7,24 +7,24 @@ control: Visual Studio Extensions
 documentation: ug
 ---
 
-# Check for Updates in Syncfusion Xamarin
+# Check for Updates in Syncfusion<sup style="font-size:70%">&reg;</sup> Xamarin
 
-Syncfusion provides Extensions to update the most recent version of the Essential Studio release. Installing the most recent version ensures that you always have the most up-to-date features, fixes, and improvements.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides Extensions to update the most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup> release. Installing the most recent version ensures that you always have the most up-to-date features, fixes, and improvements.
 
-I> The Syncfusion Check for updates is available from v17.1.0.32.
+I> The Syncfusion<sup style="font-size:70%">&reg;</sup> Check for updates is available from v17.1.0.32.
 
 You can check updates availability in Visual Studio, and then install the update version if required.
 
-1. Choose **Syncfusion -> Check for Updates…** in the Visual Studio menu
+1. Choose **Syncfusion<sup style="font-size:70%">&reg;</sup> -> Check for Updates…** in the Visual Studio menu
 
-   ![Syncfusion check for updates menu](Check-for-Updates_images/Check-for-Updates_images-img1.png)
+   ![Syncfusion<sup style="font-size:70%">&reg;</sup> check for updates menu](Check-for-Updates_images/Check-for-Updates_images-img1.png)
 
-   N> From Visual Studio 2019, Syncfusion menu is available under Extensions in Visual Studio menu.
+   N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
 
-   ![Syncfusion check for updates menu](Check-for-Updates_images/Check-for-Updates_images-img1_2019.png)
+   ![Syncfusion<sup style="font-size:70%">&reg;</sup> check for updates menu](Check-for-Updates_images/Check-for-Updates_images-img1_2019.png)
    
 2. When an update is available, the Update dialog box appears.
 
-   ![Syncfusion check for updates wizard](Check-for-Updates_images/Check-for-Updates_images-img2.png)
+   ![Syncfusion<sup style="font-size:70%">&reg;</sup> check for updates wizard](Check-for-Updates_images/Check-for-Updates_images-img2.png)
 
-3. You can download the Syncfusion Essential Studio from the Syncfusion website by selecting **Download**.
+3. You can download the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> from the Syncfusion<sup style="font-size:70%">&reg;</sup> website by selecting **Download**.
