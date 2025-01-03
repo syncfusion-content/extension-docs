@@ -59,7 +59,7 @@ To create the **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET (Essent
 
 **Assets From:** Choose the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS assets to be added to the ASP.NET Web Forms Project from the NuGet, CDN, or Installed Location.
 
-   ![Choose the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS assets to ASP.NET Web Forms Project, either NuGet, CDN or Installed Location](Create-Project_images/Syncfusion-Project-Templates-img7.png)
+   ![Choose the Syncfusion Essential JS assets to ASP.NET Web Forms Project, either NuGet, CDN or Installed Location](Create-Project_images/Syncfusion-Project-Templates-img7.png)
 
 **Installed Version** Choose the version of the project that needs to be created.
 
