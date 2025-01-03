@@ -7,9 +7,9 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion template not shown in new project window of Visual Studio
+# Syncfusion<sup style="font-size:70%">&reg;</sup> template not shown in new project window of Visual Studio
 
-Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension build has been installed in the machine or not.
+Perform the given steps to ensure whether the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Extension build has been installed in the machine or not.
 
 1. Navigate to the following either one of the location:
 
@@ -36,12 +36,12 @@ Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension b
    ![Syncfusion ASP.NET MVC Extension installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img4.png)
 
 
-2. When the above path exists, it means that the ASP.NET MVC Extension build has already been installed in the machine. So now you can install the following Syncfusion
+2. When the above path exists, it means that the ASP.NET MVC Extension build has already been installed in the machine. So now you can install the following Syncfusion<sup style="font-size:70%">&reg;</sup>
    Extensions manually:
-   * Syncfusion Project Templates
-   * Syncfusion Visual Studio Extensions
+   * Syncfusion<sup style="font-size:70%">&reg;</sup> Project Templates
+   * Syncfusion<sup style="font-size:70%">&reg;</sup> Visual Studio Extensions
 
-   ## To Install Syncfusion Project Templates: 
+   ## To Install Syncfusion<sup style="font-size:70%">&reg;</sup> Project Templates: 
 
    **Before 17.1.0.32-beta version**
 
@@ -58,7 +58,7 @@ Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension b
 
    **On or After 17.1.0.32-beta version**
 
-   Navigate to the following location and run the “Syncfusion Essential JS1 AspNet MVC VSExtensions.vsix” extension.
+   Navigate to the following location and run the “Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS1 AspNet MVC VSExtensions.vsix” extension.
 
    _{Syncfusion Build installed location}\Utilities\Extensions_
 
@@ -69,11 +69,11 @@ Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension b
 
    ![Syncfusion ASP.NET MVC Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img4.png)
 
-   ## To Install Syncfusion Visual Studio Extension:
+   ## To Install Syncfusion<sup style="font-size:70%">&reg;</sup> Visual Studio Extension:
 
    **Before 17.1.0.32-beta version**
 
-   Navigate to the following Location and run the “Syncfusion Web Conversion and Migration.vsix” extension. 
+   Navigate to the following Location and run the “Syncfusion<sup style="font-size:70%">&reg;</sup> Web Conversion and Migration.vsix” extension. 
 
    _{Syncfusion Build installed location}\Utilities\Extensions\Project Conversion\{Visual Studio Version}_
    Refer the following screenshot.
@@ -85,6 +85,6 @@ Perform the given steps to ensure whether the Syncfusion ASP.NET MVC Extension b
 
    **On or After 17.1.0.32-beta version**
 
-   Syncfusion Web Conversion and Migration.vsix extension has been added as a dependency VSIX package to the Syncfusion Essential JS1 AspNet MVC VSExtensions.vsix extension from the **v17.1.0.32- beta** and the Syncfusion Web Conversion and Migration.vsix extension will be installed along with the Syncfusion Essential JS1 AspNet MVC VSExtensions.vsix extension.
+   Syncfusion<sup style="font-size:70%">&reg;</sup> Web Conversion and Migration.vsix extension has been added as a dependency VSIX package to the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS1 AspNet MVC VSExtensions.vsix extension from the **v17.1.0.32- beta** and the Syncfusion<sup style="font-size:70%">&reg;</sup> Web Conversion and Migration.vsix extension will be installed along with the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS1 AspNet MVC VSExtensions.vsix extension.
 
-3. If the respective version of Syncfusion MVC Extension is not installed in the machine, download the Extension setup from the following link.        [http://www.syncfusion.com/downloads/extension/](http://www.syncfusion.com/downloads/extension/)
+3. If the respective version of Syncfusion<sup style="font-size:70%">&reg;</sup> MVC Extension is not installed in the machine, download the Extension setup from the following link.        [http://www.syncfusion.com/downloads/extension/](http://www.syncfusion.com/downloads/extension/)
