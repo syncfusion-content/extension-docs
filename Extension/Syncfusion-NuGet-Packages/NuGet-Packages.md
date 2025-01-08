@@ -7,11 +7,11 @@ control: NuGet Packages
 documentation: ug
 ---
 
-# Syncfusion NuGet Packages Overview
+# Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet Packages Overview
 
-[NuGet](https://www.nuget.org/) can be used to automatically add files and references to your Visual Studio projects. You can use the Syncfusion NuGet packages without installing the Essential Studio or platform installation to development with the Syncfusion controls. From v16.2.0.46 (2018 Volume 2 Service Pack 1) onwards, all the Syncfusion components are available as NuGet packages at [nuget.org](https://www.nuget.org/profiles/SyncfusionInc). 
+[NuGet](https://www.nuget.org/) can be used to automatically add files and references to your Visual Studio projects. You can use the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages without installing the Essential Studio<sup style="font-size:70%">&reg;</sup>  or platform installation to development with the Syncfusion<sup style="font-size:70%">&reg;</sup>  controls. From v16.2.0.46 (2018 Volume 2 Service Pack 1) onwards, all the Syncfusion<sup style="font-size:70%">&reg;</sup>  components are available as NuGet packages at [nuget.org](https://www.nuget.org/profiles/SyncfusionInc). 
 
-N> Starting from v17.1.0.32 (2018 Volume 1), Syncfusion will no longer publish NuGet packages at [nuget.syncfusion.com](https://nuget.syncfusion.com/).
+N> Starting from v17.1.0.32 (2018 Volume 1), Syncfusion<sup style="font-size:70%">&reg;</sup>  will no longer publish NuGet packages at [nuget.syncfusion.com](https://nuget.syncfusion.com/).
 
 ## Installing NuGet Packages
 
@@ -29,15 +29,15 @@ The NuGet Package Manager can be used to search and install NuGet packages in th
 
      ![NuGet package manager dialog window](NuGet_Packages_Images/img7.png)             
 
-3.	The Syncfusion NuGet Packages are listed the available package in the source feed URL. Search and install the required packages in your application, by clicking **Install** button.
+3.	The Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet Packages are listed the available package in the source feed URL. Search and install the required packages in your application, by clicking **Install** button.
 
 
-N> The Syncfusion NuGet packages are published in public [NuGet.org](https://www.nuget.org/) from v16.2.0.46. So, If you need to Install earlier version of 16.2.0.46 Syncfusion NuGet packages, [configure Syncfusion private feed URL](https://help.syncfusion.com/extension/syncfusion-nuget-packages/nuget-packages#syncfusion-nuget-feed-url-configuration).
+N> The Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages are published in public [NuGet.org](https://www.nuget.org/) from v16.2.0.46. So, If you need to Install earlier version of 16.2.0.46 Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages, [configure Syncfusion<sup style="font-size:70%">&reg;</sup>  private feed URL](https://help.syncfusion.com/extension/syncfusion-nuget-packages/nuget-packages#syncfusion-nuget-feed-url-configuration).
 
 
 ### Using Package Manager Console
 
-To reference the Syncfusion component using the Package Manager Console as NuGet packages, follow the below steps. 
+To reference the Syncfusion<sup style="font-size:70%">&reg;</sup>  component using the Package Manager Console as NuGet packages, follow the below steps. 
 
 1.	On the **Tools** menu, select **NuGet Package Manager**, and then **Package Manager Console**. 
 
@@ -73,7 +73,7 @@ Add packages can be used to search and install NuGet packages to the Visual Stud
 
     ![Add packages dialog](NuGet_Packages_Images/img9.png)  
 
-3.	The Syncfusion NuGet Packages available in the package source location will be listed. Search and install the required packages in your application, by clicking **Add Package** button.
+3.	The Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet Packages available in the package source location will be listed. Search and install the required packages in your application, by clicking **Add Package** button.
 
 ## Managing NuGet package using NuGet CLI
 
@@ -115,7 +115,7 @@ The NuGet Command Line Interface (CLI), nuget.exe, provides the full extent of N
     mono nuget.exe install “C:\Users\SyncfusionApplication\package.config”
     ~~~
 
-N> If you need to Install earlier version of 16.2.0.46 Syncfusion NuGet packages, [configure Syncfusion private feed URL](https://help.syncfusion.com/extension/syncfusion-nuget-packages/nuget-packages#syncfusion-nuget-feed-url-configuration).
+N> If you need to Install earlier version of 16.2.0.46 Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages, [configure Syncfusion<sup style="font-size:70%">&reg;</sup>  private feed URL](https://help.syncfusion.com/extension/syncfusion-nuget-packages/nuget-packages#syncfusion-nuget-feed-url-configuration).
 
 ## Managing NuGet package using Dotnet CLI
 
@@ -149,13 +149,13 @@ The NuGet Command Line Interface (CLI), Dotnet.exe, provides the full extent of 
 
 ## Managing NuGet package for Visual Studio online application
 
-The following steps help you to configure and restore the Syncfusion NuGet packages in Visual Studio online application.
+The following steps help you to configure and restore the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages in Visual Studio online application.
 
 ### Configure NuGet feed URL 
 
 1.  Create and add the NuGet.config file in your Visual Studio online application location. By default, the NuGet.org feed link can be added in the NuGet.config file. 
 
-    N> If you need to Install v16.2.0.46 before Syncfusion NuGet packages, add the required Syncfusion platform NuGet feed links in the NuGet.config file. You can get the Syncfusion NuGet package feed link by clicking the **Copy URL** label from the required platform provided in the following link:
+    N> If you need to Install v16.2.0.46 before Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages, add the required Syncfusion<sup style="font-size:70%">&reg;</sup>  platform NuGet feed links in the NuGet.config file. You can get the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet package feed link by clicking the **Copy URL** label from the required platform provided in the following link:
     <https://nuget.syncfusion.com/>
      
     ![Sample project configuration page in Visual Studio Online Application](NuGet-VisualStudioonline_images/NuGet-VisualStudioonline-img1.png)
@@ -209,7 +209,7 @@ N> To update all the projects from solution, use update option in the solution l
 
 ### Using Package Manger Console
 
-To update the installed Syncfusion NuGet packages using the Package Manager Console, follow the below steps. 
+To update the installed Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages using the Package Manager Console, follow the below steps. 
 
 1.	On the **Tools** menu, select **NuGet Package Manager**, and then **Package Manager Console.** 
 
@@ -229,7 +229,7 @@ To update the installed Syncfusion NuGet packages using the Package Manager Cons
     **For example:**
 
     ~~~
-    #Update specified Syncfusion NuGet package 
+    #Update specified Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet package 
     Update-Package Syncfusion.EJ.AspNet.Core
 
     #Update specified package in specified project 
@@ -248,7 +248,7 @@ Using the NuGet CLI, all the NuGet packages in the project can be updated to the
     nuget update -self
     ~~~
 
-2.	Open the downloaded executable location in the command window. Run the following “update commands” to update the Syncfusion ASP.NET Core NuGet packages.
+2.	Open the downloaded executable location in the command window. Run the following “update commands” to update the Syncfusion<sup style="font-size:70%">&reg;</sup>  ASP.NET Core NuGet packages.
 
     ~~~ 
     #update all NuGet packages from config file
@@ -269,21 +269,21 @@ Using the NuGet CLI, all the NuGet packages in the project can be updated to the
 
     N> Update command is not working as expected in Mono (Mac and Linux) and projects using PackageReference format.
    
-## Syncfusion NuGet feed URL Configuration
+## Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet feed URL Configuration
 
-### Get the Syncfusion NuGet feed URL 
+### Get the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet feed URL 
 
-You should get the private Syncfusion NuGet feed URL to install or upgrade the Syncfusion NuGet packages. To get the URL from Syncfusion website use the following steps:
+You should get the private Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet feed URL to install or upgrade the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages. To get the URL from Syncfusion<sup style="font-size:70%">&reg;</sup>  website use the following steps:
 
 1. Navigate to [nuget.syncfusion.com](https://nuget.syncfusion.com/), and select the required platform tab.     
 
-2. Click the Copy URL label under required platform to copy the Syncfusion required platform NuGet feed to clipboard.
+2. Click the Copy URL label under required platform to copy the Syncfusion<sup style="font-size:70%">&reg;</sup>  required platform NuGet feed to clipboard.
 
     ![Syncfusion Essential JS 2 ASP.NET Core NuGet feed URL](NuGet_Packages_Images/img1.png)
 
-3. Now, use this NuGet feed URL to access the Syncfusion NuGet Packages in Visual Studio. 
+3. Now, use this NuGet feed URL to access the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet Packages in Visual Studio. 
 
-### Add the Syncfusion NuGet feed URL
+### Add the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet feed URL
 
 #### Windows
 
@@ -293,17 +293,17 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
 
 3.	Expand the **NuGet Package Manager** and select **Package Sources**.
 
-4.	Click the **Add** button (green plus), and enter the ‘Package Name’ and ‘Package Source URL’ of the Syncfusion NuGet packages.
+4.	Click the **Add** button (green plus), and enter the ‘Package Name’ and ‘Package Source URL’ of the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages.
     
     **Name:** Name of the package source.
     
-    **Source:** Syncfusion NuGet Feed URL.      
+    **Source:** Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet Feed URL.      
 
-    For example, Name: Syncfusion AspNet Core Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
+    For example, Name: Syncfusion<sup style="font-size:70%">&reg;</sup>  AspNet Core Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
 
 5.	Click the **Update** button to add the name and source details to package sources. 
 
-    ![NuGet Package Manager dialog with Syncfusion Essential JS 2 NuGet feed URL for reference](NuGet_Packages_Images/img2.png)
+    ![NuGet Package Manager dialog with Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential JS 2 NuGet feed URL for reference](NuGet_Packages_Images/img2.png)
 
 #### macOS 
 
@@ -321,11 +321,11 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
    
     **Name:** Name of the package source.
     
-    **Source:** Syncfusion NuGet Feed URL.      
+    **Source:** Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet Feed URL.      
 
-    For example, Name: Syncfusion ASP.NET Core Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
+    For example, Name: Syncfusion<sup style="font-size:70%">&reg;</sup>  ASP.NET Core Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
     
-	![Add Package Source dialog to add Syncfusion NuGet feed](NuGet_Packages_Images/img5.png)
+	![Add Package Source dialog to add Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet feed](NuGet_Packages_Images/img5.png)
  
 5.	Now, click **Add Source** and then click **OK**.
 
@@ -339,7 +339,7 @@ You should get the private Syncfusion NuGet feed URL to install or upgrade the S
     nuget update -self
     ~~~
 
-2.	Open the downloaded executable location in the command window, and run the following commands to configure the Syncfusion NuGet packages: 
+2.	Open the downloaded executable location in the command window, and run the following commands to configure the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages: 
 
     ~~~
     #Add specified package source in NuGet.config file for Windows platform

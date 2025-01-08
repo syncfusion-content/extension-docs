@@ -1,17 +1,17 @@
 ---
 layout: post
 title: Check for Updates | Wpf | Syncfusion
-description: Syncfusion Check for Updates provides Extensions to update most recent version of the Essential Studio release.
+description: Syncfusion  Check for Updates provides Extensions to update most recent version of the Essential Studio release.
 platform: extension
 control: Visual Studio Extensions
 documentation: ug
 ---
 
-# Check for Updates in Syncfusion Essential WPF
+# Check for Updates in Syncfusion<sup style="font-size:70%">&reg;</sup>  Essential WPF
 
-Syncfusion provides Extensions to update the most recent version of the Essential Studio release. Installing the most recent version ensures that you always have the most up-to-date features, fixes, and improvements.
+Syncfusion provides Extensions to update the most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup>  release. Installing the most recent version ensures that you always have the most up-to-date features, fixes, and improvements.
 
-I> The Syncfusion Check for updates is available from v17.1.0.32.
+I> The Syncfusion<sup style="font-size:70%">&reg;</sup>  Check for updates is available from v17.1.0.32.
 
 You can check the availability of updates in Visual Studio and then install the update version if required.
 
@@ -19,7 +19,7 @@ You can check the availability of updates in Visual Studio and then install the 
 
 	![Syncfusion check for updates menu](Check-for-Updates_images/Check-for-Updates_images-img1.png)
 
-	N> From Visual Studio 2019, Syncfusion menu is available under Extensions in Visual Studio menu.
+	N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup>  menu is available under Extensions in Visual Studio menu.
 
 	![Syncfusion check for updates menu](Check-for-Updates_images/Check-for-Updates_images-img1_2019.png)
    
@@ -27,4 +27,4 @@ You can check the availability of updates in Visual Studio and then install the 
 
 	![Syncfusion check for updates wizard](Check-for-Updates_images/Check-for-Updates_images-img2.png)
 
-3.	Syncfusion Essential Studio can be downloaded from the Syncfusion website by clicking the **Download** button.
+3.	Syncfusion Essential Studio<sup style="font-size:70%">&reg;</sup>  can be downloaded from the Syncfusion<sup style="font-size:70%">&reg;</sup>  website by clicking the **Download** button.

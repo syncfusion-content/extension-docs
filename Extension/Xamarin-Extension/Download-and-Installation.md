@@ -1,20 +1,20 @@
 ---
 layout: post
 title: Download and Installation | Xamarin | Syncfusion
-description: How to download and install the Syncfusion Xamarin Visual Studio Extensions from Visual Studio Market Place
+description: How to download and install the Syncfusion  Xamarin Visual Studio Extensions from Visual Studio Market Place
 platform: extension
-control: Syncfusion Extensions
+control: Syncfusion  Extensions
 documentation: ug
 ---
 
 
 # Download and Installation
 
-In [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.XamarinExtension), Syncfusion publishing the Xamarin Visual Studio extension. You can either use the Visual Studio to install it or go to the Visual Studio marketplace to download and install it.
+In [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.XamarinExtension), Syncfusion<sup style="font-size:70%">&reg;</sup>  publishing the Xamarin Visual Studio extension. You can either use the Visual Studio to install it or go to the Visual Studio marketplace to download and install it.
 
 ## Install through the Visual Studio Manage Extensions
 
-The steps below assist you to how to install the Syncfusion Xamarin extensions from Visual Studio **Manage Extensions**.
+The steps below assist you to how to install the Syncfusion<sup style="font-size:70%">&reg;</sup>  Xamarin extensions from Visual Studio **Manage Extensions**.
 
 1.	Open the Visual Studio.
 2.	Navigate to **Extension -> Manage Extensions** and open the Manage Extensions.
@@ -28,13 +28,13 @@ The steps below assist you to how to install the Syncfusion Xamarin extensions f
 	![Vsix Modify Window](Download-and-Installation-images/VSIXModify.PNG)
 6.	Click the **Modify** button.
 7.	When the installation is finished, launch the Visual Studio.
-8.	Now, you can use the Syncfusion extensions from Visual Studio under the Extensions menu.
+8.	Now, you can use the Syncfusion<sup style="font-size:70%">&reg;</sup>  extensions from Visual Studio under the Extensions menu.
 	
 	![Syncfusion Xamarin Menu](Download-and-Installation-images/SyncfusionXamarinMenu.png)
 
 ##	Install from the Visual Studio Marketplace
 
-The steps below illustrate how to download and install the Syncfusion Xamarin extension from the Visual Studio Marketplace.
+The steps below illustrate how to download and install the Syncfusion<sup style="font-size:70%">&reg;</sup>  Xamarin extension from the Visual Studio Marketplace.
 
 1.	Download the [Syncfusion Xamarin Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.XamarinExtension) from the Visual Studio Marketplace.
 2.	If any Visual Studio instances are still open, close them.
@@ -42,6 +42,6 @@ The steps below illustrate how to download and install the Syncfusion Xamarin ex
 	
 	![Vsix Modify Window](Download-and-Installation-images/VSIXInstall.png)
 4.	Click the **Install** button.
-5.	After the installation is complete, open Visual Studio 2019. You can now use Syncfusion extensions from the Visual Studio under the Extensions menu.
+5.	After the installation is complete, open Visual Studio 2019. You can now use Syncfusion<sup style="font-size:70%">&reg;</sup>  extensions from the Visual Studio under the Extensions menu.
 	
 	![Syncfusion Xamarin Menu](Download-and-Installation-images/SyncfusionXamarinMenu.png)
