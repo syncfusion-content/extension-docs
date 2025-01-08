@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download and Installation of .NET MAUI Extension | Syncfusion
-description: Check out the documentation for download and installation of Syncfusion .NET MAUI Extension for Visual Studio.
+description: Check out the documentation for download and installation of Syncfusion  .NET MAUI Extension for Visual Studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -16,7 +16,7 @@ Syncfusion publishes the Visual Studio extension in the below Visual Studio mark
 
 ## Prerequisites
 
-The following software prerequisites must be installed to install the Syncfusion .NET MAUI extension, as well as for creating, adding snippet in Syncfusion .NET MAUI applications.
+The following software prerequisites must be installed to install the Syncfusion<sup style="font-size:70%">&reg;</sup>  .NET MAUI extension, as well as for creating, adding snippet in Syncfusion<sup style="font-size:70%">&reg;</sup>  .NET MAUI applications.
 
 * [Visual Studio 2022 17.3 or later](https://visualstudio.microsoft.com/downloads/).
 
@@ -25,7 +25,7 @@ The following software prerequisites must be installed to install the Syncfusion
 
 ## Install through the Visual Studio Manage Extensions
 
-The following steps will guide you on how to install the Syncfusion .NET MAUI extensions using **Visual Studio Manage Extensions**.
+The following steps will guide you on how to install the Syncfusion<sup style="font-size:70%">&reg;</sup>  .NET MAUI extensions using **Visual Studio Manage Extensions**.
 
 1. Open Visual Studio 2022.
 
@@ -45,15 +45,15 @@ The following steps will guide you on how to install the Syncfusion .NET MAUI ex
 
 7. After the installation is complete, open the Visual Studio.
 
-8. You can utilize the Syncfusion extensions under the **Extensions** menu in Visual Studio
+8. You can utilize the Syncfusion<sup style="font-size:70%">&reg;</sup>  extensions under the **Extensions** menu in Visual Studio
 
      ![SyncfusionMenu](images/MenuExtensions.png)
 
 ## Install from the Visual Studio Marketplace
 
-The following steps illustrate how to download and install the Syncfusion .NET MAUI extension from the Visual Studio Marketplace.
+The following steps illustrate how to download and install the Syncfusion<sup style="font-size:70%">&reg;</sup>  .NET MAUI extension from the Visual Studio Marketplace.
 
-1. Download the Syncfusion .NET MAUI Extensions from the below Visual Studio Marketplace.
+1. Download the Syncfusion<sup style="font-size:70%">&reg;</sup>  .NET MAUI Extensions from the below Visual Studio Marketplace.
 
    [Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.MAUIVSExtension)
 
@@ -65,6 +65,6 @@ The following steps illustrate how to download and install the Syncfusion .NET M
 
 4. Click the **Modify** button.
 
-5. Launch Visual Studio after the installation is complete. You can utilize the Syncfusion extensions under the **Extensions** menu in Visual Studio
+5. Launch Visual Studio after the installation is complete. You can utilize the Syncfusion<sup style="font-size:70%">&reg;</sup>  extensions under the **Extensions** menu in Visual Studio
 
      ![SyncfusionMenu](images/MenuExtensions.png)
