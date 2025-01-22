@@ -9,7 +9,7 @@ documentation: ug
 
 # Getting Started with Syncfusion® Document Viewer
 
-### Open and View Files
+### Open and Edit Files
 
 **Open a File**:
 
@@ -18,6 +18,14 @@ documentation: ug
 - Or, go to `File > Open File` and select the file from your system.
 
     ![OpenFile](images/OpenFile.gif)
+
+**Edit and Save**:
+
+- Make your changes directly in the editor.
+
+- Save your changes by selecting `File > Save` or using the shortcut `Ctrl+S` (Windows) / `Cmd+S` (Mac).
+
+> **Note:** Syncfusion® Document Viewer allows basic editing of Excel, CSV, and TSV files directly within VS Code.
 
 ---
 

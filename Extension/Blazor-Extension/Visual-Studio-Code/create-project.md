@@ -1,39 +1,39 @@
 ---
 layout: post
 title: Project Templates | Blazor | Syncfusion
-description: Syncfusion  provides Visual Studio Code Project Templates for Blazor platform to create the Syncfusion  Blazor Application using Syncfusion components
+description: Syncfusion provides Visual Studio Code Project Templates for Blazor platform to create the Syncfusion Blazor Application using Syncfusion components
 platform: extension
-control: Syncfusion  Extensions
+control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Create Project with Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor Template Studio
+# Create Project with Syncfusion® Blazor Template Studio
 
-Syncfusion provides **Visual Studio Code project templates** for creating Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor application. Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor generates application that include the necessary Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages, namespaces, and component render code for the Calendar, Button, and DataGrid components, as well as the style for making Syncfusion<sup style="font-size:70%">&reg;</sup>  component development easier.
+Syncfusion® provides **Visual Studio Code project templates** for creating Syncfusion® Blazor application. Syncfusion® Blazor generates application that include the necessary Syncfusion® NuGet packages, namespaces, and component render code for the Calendar, Button, and DataGrid components, as well as the style for making Syncfusion® component development easier.
 
-> Blazor project templates from `v17.4.0.39` are supported by the Syncfusion<sup style="font-size:70%">&reg;</sup>  Visual Studio Code project template.
+> Blazor project templates from `v17.4.0.39` are supported by the Syncfusion® Visual Studio Code project template.
 
-The instructions below assist you in creating **Syncfusion Blazor Applications** using **Visual Studio Code**:
+The instructions below assist you in creating **Syncfusion® Blazor Applications** using **Visual Studio Code**:
 
-1. To create a Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor application in Visual Studio Code, open the command palette by pressing **Ctrl+Shift+P**. Search for the word **Syncfusion** in the Visual Studio Code palette to get the templates provided by Syncfusion.
+1. To create a Syncfusion® Blazor application in Visual Studio Code, open the command palette by pressing **Ctrl+Shift+P**. Search for the word **Syncfusion®** in the Visual Studio Code palette to get the templates provided by Syncfusion®.
 
     ![CreateProjectPalette](images/CreateBlazorProjectPalette.png)
 
-2. Select **Syncfusion Blazor Template Studio: Launch**, then press **Enter** key. The Template Studio wizard for configuring the Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor app will be launched. Provide the Project Name and Project Path.
+2. Select **Syncfusion® Blazor Template Studio: Launch**, then press **Enter** key. The Template Studio wizard for configuring the Syncfusion® Blazor app will be launched. Provide the Project Name and Project Path.
 
     ![TemplateStudioWizard](images/ProjectLocationName.png)
 
-N> Refer to the .NET SDK support for Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor Components [here](https://blazor.syncfusion.com/documentation/system-requirements#net-sdk).
+N> Refer to the .NET SDK support for Syncfusion® Blazor Components [here](https://blazor.Syncfusion.com/documentation/system-requirements#net-sdk).
 
-3. Select either **Next** or the **Project Type** tab. Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor project types will be displayed. Choose one of the following Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor project types based on the version of the .NET SDK you are using.
+3. Select either **Next** or the **Project Type** tab. Syncfusion® Blazor project types will be displayed. Choose one of the following Syncfusion® Blazor project types based on the version of the .NET SDK you are using.
 
-    | .NET SDK version | Supported Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor Application Type |
+    | .NET SDK version | Supported Syncfusion® Blazor Application Type |
     | ------------- | ------------- |
-    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor Web App |
-    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor WebAssembly App |
-    | [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor Server App |
+    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion® Blazor Web App |
+    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion® Blazor WebAssembly App |
+    | [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion® Blazor Server App |
 
-    In the **Syncfusion Blazor Web App** application type, you can configure the following options:
+    In the **Syncfusion® Blazor Web App** application type, you can configure the following options:
 
     <table>
     <tbody>
@@ -58,7 +58,7 @@ N> Refer to the .NET SDK support for Syncfusion<sup style="font-size:70%">&reg;<
 
     ![WebAppTemplate](images/WebAppType.png)
 
-     In the **Syncfusion Blazor WebAssembly App** application type, you can choose ASP.NET Core hosted, Progressive Web Application, or both.
+     In the **Syncfusion® Blazor WebAssembly App** application type, you can choose ASP.NET Core hosted, Progressive Web Application, or both.
 
      ![ProjectType](images/ProjectTypeDetails.png)
 
@@ -68,17 +68,17 @@ N> Refer to the .NET SDK support for Syncfusion<sup style="font-size:70%">&reg;<
 
     > ASP.NET Core hosted and Progressive Web Application options are only visible if Blazor Web Assembly App project type is selected.
 
-5. Click the **Create** button. The Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor application has been created. The created Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor app has the Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet packages, styles, and the component render code for the Syncfusion<sup style="font-size:70%">&reg;</sup>  component added to the Index, Counter, and FetchData pages.
+5. Click the **Create** button. The Syncfusion® Blazor application has been created. The created Syncfusion® Blazor app has the Syncfusion® NuGet packages, styles, and the component render code for the Syncfusion® component added to the Index, Counter, and FetchData pages.
 
-6. You can run the application to see the Syncfusion<sup style="font-size:70%">&reg;</sup>  components. Click **F5** or go to **Run>Start Debugging**.
+6. You can run the application to see the Syncfusion® components. Click **F5** or go to **Run>Start Debugging**.
 
     ![Debug](images/Debug.png)
 
-7. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion<sup style="font-size:70%">&reg;</sup>  license key to your application since Syncfusion<sup style="font-size:70%">&reg;</sup>  introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup>  release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup>  license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio.
+7. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-Syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.Syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
-## Syncfusion<sup style="font-size:70%">&reg;</sup>  integration
+## Syncfusion® integration
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor application configures with latest Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor NuGet packages, styles, namespaces, and component render code for Syncfusion<sup style="font-size:70%">&reg;</sup>  components are added in the created application.
+The Syncfusion® Blazor application configures with latest Syncfusion® Blazor NuGet packages, styles, namespaces, and component render code for Syncfusion® components are added in the created application.
 
 ### NuGet Packages
 
@@ -88,25 +88,25 @@ The `Syncfusion.Blazor` NuGet package will be added as NuGet references for all 
 
 ### Style
 
-The selected theme is added from Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet and its reference at these applications locations in Blazor.
+The selected theme is added from Syncfusion® NuGet and its reference at these applications locations in Blazor.
 
 | Application type  | File location  |
 |---|---|
-| Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor Server App | {Project location}\Pages\\_Host.cshtml |
-| Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor WebAssembly App (Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
-| Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
+| Syncfusion® Blazor Server App | {Project location}\Pages\\_Host.cshtml |
+| Syncfusion® Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion® Blazor WebAssembly App (Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
+| Syncfusion® Blazor WebAssembly App  | {Project location}\wwwroot\index.html|
 
 ![CDNLink](images/CDNLink.png)
 
 ### Namespaces
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor namespaces are added in the **`_imports.razor`** file.
+The Syncfusion® Blazor namespaces are added in the **`_imports.razor`** file.
 
 ![NameSpace](images/NameSpace.png)
 
 ### Component render code
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup>  Blazor Calendar, Button, and DataGrid component render code is in the Razor files in the pages folder. The render code is updated in these Razor files.
+The Syncfusion® Blazor Calendar, Button, and DataGrid component render code is in the Razor files in the pages folder. The render code is updated in these Razor files.
 
 | File name  | Code snippet added |
 |---|---|
