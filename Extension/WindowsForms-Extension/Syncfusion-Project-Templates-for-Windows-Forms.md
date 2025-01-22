@@ -24,18 +24,18 @@ Use the following steps to create the Syncfusion® Windows Forms project through
    **Option 1:**  
    Click **Syncfusion® Menu** and choose **Essential Studio® for WinForms > Create New Syncfusion® Project…**  in **Visual Studio**.
 
-   ![Choose Syncfusion® Windows Forms Application via Syncfusion® menu](Project-Template-images\Syncfusion-menu.png)
+   ![Choose Syncfusion Windows Forms Application via Syncfusion menu](Project-Template-images\Syncfusion-menu.png)
 
    N> In Visual Studio 2015 or lower, you can see the Syncfusion® menu directly in the Visual Studio menu.
 
    **Option 2:**  
     Choose **File -> New -> Project**. Opens a new dialog to create a new project. You can obtain the templates provided by Syncfusion® for WinForms by filtering the project type with Syncfusion® or by using the Syncfusion® keyword in the search option
 
-   ![Choose Syncfusion® Windows Forms Application from Visual Studio new project dialog](Project-Template-images\Syncfusion-Project-Template-Gallery2019-1.png)
+   ![Choose Syncfusion Windows Forms Application from Visual Studio new project dialog](Project-Template-images\Syncfusion-Project-Template-Gallery2019-1.png)
 
    In Visual Studio 2015 or lower, Select File > New > Project and navigate to Syncfusion® > Windows > Syncfusion® Windows Forms Application in Visual Studio.
 
-   ![Choose Syncfusion® Windows Forms Application from Visual Studio new project dialog](Project-Template-images\Syncfusion-Project-Template-Gallery-1.png)
+   ![Choose Syncfusion Windows Forms Application from Visual Studio new project dialog](Project-Template-images\Syncfusion-Project-Template-Gallery-1.png)
 
 2. Name the **Project**, choose the destination location when required, select the project type, and choose the reference from where the assembly is added to the project then click **OK**.  
 
@@ -43,11 +43,11 @@ Use the following steps to create the Syncfusion® Windows Forms project through
 
 3. Choose the options to configure the Syncfusion® WinForms Application by using the following Project Configuration Wizard.  
   
-   ![Syncfusion® Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery2019-2.png)
+   ![Syncfusion Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery2019-2.png)
 
    In Visual Studio 2015 or lower, Syncfusion® Windows Forms Application project configuration wizard.
 
-   ![Syncfusion® Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery-2.png)
+   ![Syncfusion Windows Forms project configuration wizard](Project-Template-images\Syncfusion-Project-Template-Gallery-2.png)
                                                      
    **Project Configurations**
 
@@ -67,12 +67,12 @@ Use the following steps to create the Syncfusion® Windows Forms project through
       
 4. After choosing above project configuration options in the Project Configuration Wizard, click the create button then Syncfusion® WinForms project is created with the necessary XAML files and required Syncfusion® WinForms assemblies/NuGet packages. 
 
-   ![Syncfusion® Windows Forms project created with required references](Project-Template-images\Syncfusion-Project-Template-Gallery-6.png)
+   ![Syncfusion Windows Forms project created with required references](Project-Template-images\Syncfusion-Project-Template-Gallery-6.png)
 
-   ![Syncfusion® Windows Forms project created with required forms](Project-Template-images\Syncfusion-Project-Template-Gallery-7.png)
+   ![Syncfusion Windows Forms project created with required forms](Project-Template-images\Syncfusion-Project-Template-Gallery-7.png)
 
-   ![Syncfusion® Windows Forms project created with readme](Project-Template-images\Syncfusion-Project-Template-Gallery-9.PNG)
+   ![Syncfusion Windows Forms project created with readme](Project-Template-images\Syncfusion-Project-Template-Gallery-9.PNG)
 
 5. Then, the Syncfusion® licensing registration required message box will be shown, if you installed the trial setup or NuGet packages since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion® license key to your project. Refer to this [blog](https://blog.Syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post to learn more the licensing changes introduced in Essential Studio®.
 
-   ![Syncfusion® license registration required information dialog in Syncfusion® Windows Forms Project](Project-Template-images\Syncfusion-Project-Template-Gallery-8.png)   
+   ![Syncfusion license registration required information dialog in Syncfusion Windows Forms Project](Project-Template-images\Syncfusion-Project-Template-Gallery-8.png)   

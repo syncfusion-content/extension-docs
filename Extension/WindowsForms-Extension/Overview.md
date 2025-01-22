@@ -27,15 +27,15 @@ The Syncfusion® provides the following extension supports in Visual Studio:
 
 **No project selected in Visual Studio**
 
-![Syncfusion® Menu when No project selected in Visual Studio](Overview-images/Syncfusion_Menu_OverView1.png)
+![Syncfusion Menu when No project selected in Visual Studio](Overview-images/Syncfusion_Menu_OverView1.png)
 
 **Selected Microsoft Windows Forms application in Visual Studio**
 
-![Syncfusion® Menu when Selected Microsoft Windows Forms application in Visual Studio](Overview-images/Syncfusion_Menu_OverView2.png)
+![Syncfusion Menu when Selected Microsoft Windows Forms application in Visual Studio](Overview-images/Syncfusion_Menu_OverView2.png)
 
 **Selected Syncfusion® Windows Forms application in Visual Studio**
 
-![Syncfusion® Menu when Selected Synfusion Windows Forms application in Visual Studio](Overview-images/Syncfusion_Menu_OverView3.png)
+![Syncfusion Menu when Selected Synfusion Windows Forms application in Visual Studio](Overview-images/Syncfusion_Menu_OverView3.png)
 
 N> From Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
 
