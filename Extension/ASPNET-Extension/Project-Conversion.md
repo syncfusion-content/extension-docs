@@ -24,18 +24,18 @@ The following steps will assist you to use the Syncfusion® Project conversion i
    **Option 1**  
    Click **Syncfusion® Menu** and choose **Essential Studio® for ASP.NET Web Forms (EJ1) > Convert to Syncfusion® ASP.NET Application…** in **Visual Studio**.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Web Forms Project Conversion via Syncfusion® menu](Convert-Project_images/Syncfusion_Menu_Project_Conversion1.png)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion via Syncfusion menu](Convert-Project_images/Syncfusion_Menu_Project_Conversion1.png)
 
    N> In Visual Studio 2019, Syncfusion® menu is available under Extensions in Visual Studio menu.
 
    **Option 2**   
    Right-click the Project from Solution Explorer, select **Syncfusion® Web (Essential® JS 1)**, and choose the **Convert to Syncfusion® ASP.NET (Essential® JS 1) Application...** Refer to the following screenshot for more information.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Web Forms Project Conversion add-in](Convert-Project_images/Project-Conversion-img1.png)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion add-in](Convert-Project_images/Project-Conversion-img1.png)
 
 3. The Project Conversion Wizard appears, allowing you to configure the project.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Web Forms Project Conversion wizard](Convert-Project_images/Project-Conversion-img2.png)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion wizard](Convert-Project_images/Project-Conversion-img2.png)
 
    The following configurations are used in the Project Conversion wizard:
 
@@ -49,7 +49,7 @@ The following steps will assist you to use the Syncfusion® Project conversion i
 
    **Choose CDN Support:** The project's master page will be updated based on the required Syncfusion® CDN links.
 
-   ![Choose CDN Support to refer the Syncfusion® assets from CDN for ASP.NET Web Forms project](Convert-Project_images/Project-Conversion-img6.jpeg)
+   ![Choose CDN Support to refer the Syncfusion assets from CDN for ASP.NET Web Forms project](Convert-Project_images/Project-Conversion-img6.jpeg)
  
    **Copy Global Resources:** If you select the Copy Global Resources option, the Syncfusion® localization culture files will be shipped to the project from the Installed Location.
 
@@ -63,14 +63,14 @@ The following steps will assist you to use the Syncfusion® Project conversion i
 
 4. When you click the **Convert** button, the **Project Backup** dialog will appear. If you click **Yes** in the dialog, it will backup the current project before converting it to a Syncfusion® project. If you choose **No**, the project will be converted to a Syncfusion® project without a backup.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Web Forms Project Conversion backup dialog](Convert-Project_images/Project-Conversion-img9.png)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Conversion backup dialog](Convert-Project_images/Project-Conversion-img9.png)
 
 5. The necessary Syncfusion® Assembly references, Scripts, and CSS, as well as the necessary Web.config entries, have been added to the project.
 
-    ![Reference assemblies use of Syncfusion® Essential® JS 1 ASP.NET Web Forms Project](Convert-Project_images/Project-Conversion-img10.png)
+    ![Reference assemblies use of Syncfusion Essential JS 1 ASP.NET Web Forms Project](Convert-Project_images/Project-Conversion-img10.png)
 
-   ![Scripts and CSS for Syncfusion® Essential® JS 1 ASP.NET Web Forms Project](Convert-Project_images/Project-Conversion-img11.png)
+   ![Scripts and CSS for Syncfusion Essential JS 1 ASP.NET Web Forms Project](Convert-Project_images/Project-Conversion-img11.png)
 
-   ![Web.config assembly reference of Syncfusion® Essential® JS 1 ASP.NET Web Forms Project](Convert-Project_images/Project-Conversion-img12.png)
+   ![Web.config assembly reference of Syncfusion Essential JS 1 ASP.NET Web Forms Project](Convert-Project_images/Project-Conversion-img12.png)
 
 6. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your project since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio®.

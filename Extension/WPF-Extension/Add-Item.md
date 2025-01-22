@@ -26,18 +26,18 @@ The following steps will guide you to add the Syncfusion® WPF Components to you
 
 2.	From the **Solution Explorer, right-click** on the WPF application. Choose **Add Syncfusion® Item...**.
 
-	![Choose Add Syncfusion® Item option from right click project](Add-Item-images/Add-Syncfusion-item.png)
+	![Choose Add Syncfusion Item option from right click project](Add-Item-images/Add-Syncfusion-item.png)
 
 	**Option 2:**
 
 3.	Click **Extensions > Essential Studio® for WPF > Add Syncfusion® Item…** in Visual Studio.
 
-	![Choose Add Syncfusion® Item option from menu](Add-Item-images/Add-item.png)
+	![Choose Add Syncfusion Item option from menu](Add-Item-images/Add-item.png)
 
 
 4.	The Syncfusion® WPF Item Template wizard will be launched as follows.
 
-	![Syncfusion® WPF Item template Components](Add-Item-images/Add-Syncfusion-ui.png)
+	![Syncfusion WPF Item template Components](Add-Item-images/Add-Syncfusion-ui.png)
 
 5.	Select the WPF Components from the Component list within your WPF Item Template. The features associated with the selected Component will be presented. From here, 		choose the specific features that are essential® for your project.
 
@@ -47,12 +47,12 @@ The following steps will guide you to add the Syncfusion® WPF Components to you
 
 7.  Click **Add**, and a pop-up will appear providing information about adding Component **files** and **NuGet/Assemblies** details.
 
-	![Syncfusion® WPF Item template details](Add-Item-images/Add-Syncfusion-item-3.png)	
+	![Syncfusion WPF Item template details](Add-Item-images/Add-Syncfusion-item-3.png)	
 
 8.	Click **OK** to incorporate the chosen Components into the WPF application, along with the necessary Syncfusion® assemblies.
 
-	![Syncfusion® WPF Item template Gallery](Add-Item-images/Add-Syncfusion-item-details.png)
+	![Syncfusion WPF Item template Gallery](Add-Item-images/Add-Syncfusion-item-details.png)
 
 9.	Then, Syncfusion® licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion® introduced the 			licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion® license key to 		your project. Refer to this [blog](https://blog.Syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post 	for understanding the licensing changes introduced in Essential Studio®.
 
-    ![Syncfusion® WPF Item template Gallery](Add-Item-images/LicensePage.png)
+    ![Syncfusion WPF Item template Gallery](Add-Item-images/LicensePage.png)

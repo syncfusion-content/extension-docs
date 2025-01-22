@@ -24,14 +24,14 @@ The following steps help you to create the **Syncfusion®** **ASP****.****NET** 
    **Option 1:**   
    Click **Syncfusion® Menu** and choose **Essential Studio® for ASP.NET Core (EJ1) > Create New Syncfusion® Project…** in **Visual Studio**.
 
-   ![Choose Syncfusion® ASP.NET Core Application from Visual Studio New Project dialog via Syncfusion® menu](Syncfusion-Project-Templates_images/Syncfusion_Menu_ProjectTemplate.png)
+   ![Choose Syncfusion ASP.NET Core Application from Visual Studio New Project dialog via Syncfusion menu](Syncfusion-Project-Templates_images/Syncfusion_Menu_ProjectTemplate.png)
 
    N>In Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
 
    **Option 2:**   
    Choose **File > New > Project** and navigate to **Syncfusion® > .NET Core > Syncfusion® ASP.NET Core (Essential® JS 1) Web Application** in **Visual Studio**.
 
-   ![Choose Syncfusion® ASP.NET Core Application from Visual Studio New Project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img1.png)
+   ![Choose Syncfusion ASP.NET Core Application from Visual Studio New Project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates_img1.png)
 
 2. Name the **Project**, choose the destination location when required and set the Framework of the project, then click **OK**. The Project Configuration Wizard appears.
 
@@ -51,18 +51,18 @@ The following steps help you to create the **Syncfusion®** **ASP****.****NET** 
 
    **Components:** Choose the Required Syncfusion® components to configure.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Core Project Configuration wizard](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img2.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Configuration wizard](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img2.jpeg)
    
 4. Once you click Create button, the Syncfusion® ASP.NET Core Application is created.
 
 5. Required Syncfusion® NuGet/Bower packages, Scripts and CSS are added to the Project.
 
-   ![Required Syncfusion® NuGet/Bower packages added to the Syncfusion® Essential® JS 1 ASP.NET Core project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img3.jpeg)
+   ![Required Syncfusion NuGet/Bower packages added to the Syncfusion Essential JS 1 ASP.NET Core project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img3.jpeg)
 
-   ![Required Syncfusion® Scripts and Themes added to the Syncfusion® Essential® JS 1 ASP.NET Core project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img4.jpeg)
+   ![Required Syncfusion Scripts and Themes added to the Syncfusion Essential JS 1 ASP.NET Core project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img4.jpeg)
 
 6. Then, Syncfusion® licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion® license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
-   ![Syncfusion® license registration information for Syncfusion® Essential® JS 1 ASP.NET Core project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)   
+   ![Syncfusion license registration information for Syncfusion Essential JS 1 ASP.NET Core project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)   
 
 

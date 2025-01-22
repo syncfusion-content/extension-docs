@@ -279,7 +279,7 @@ You should get the private Syncfusion® NuGet feed URL to install or upgrade the
 
 2. Click the Copy URL label under required platform to copy the Syncfusion® required platform NuGet feed to clipboard.
 
-    ![Syncfusion® Essential® JS 2 ASP.NET Core NuGet feed URL](NuGet_Packages_Images/img1.png)
+    ![Syncfusion Essential JS 2 ASP.NET Core NuGet feed URL](NuGet_Packages_Images/img1.png)
 
 3. Now, use this NuGet feed URL to access the Syncfusion® NuGet Packages in Visual Studio. 
 
@@ -303,7 +303,7 @@ You should get the private Syncfusion® NuGet feed URL to install or upgrade the
 
 5.	Click the **Update** button to add the name and source details to package sources. 
 
-    ![NuGet Package Manager dialog with Syncfusion® Essential® JS 2 NuGet feed URL for reference](NuGet_Packages_Images/img2.png)
+    ![NuGet Package Manager dialog with Syncfusion Essential JS 2 NuGet feed URL for reference](NuGet_Packages_Images/img2.png)
 
 #### macOS 
 
@@ -325,7 +325,7 @@ You should get the private Syncfusion® NuGet feed URL to install or upgrade the
 
     For example, Name: Syncfusion® ASP.NET Core Packages, Source: [https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore](https://nuget.syncfusion.com/nuget_aspnetcore/nuget/getsyncfusionpackages/aspnetcore).
     
-	![Add Package Source dialog to add Syncfusion® NuGet feed](NuGet_Packages_Images/img5.png)
+	![Add Package Source dialog to add Syncfusion NuGet feed](NuGet_Packages_Images/img5.png)
  
 5.	Now, click **Add Source** and then click **OK**.
 

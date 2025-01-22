@@ -33,7 +33,7 @@ The steps below will assist you to upgrade the Syncfusion® version in the Syncf
 
     Right-click the **Syncfusion® ASP.NET MVC Application** from Solution Explorer and select **Syncfusion® Web**. Choose **Migrate the Syncfusion® ASP.NET MVC Project to Another Version…**
 
-    ![migrate the essential® js2](images/migrate-essentialJs2.png)
+    ![migrate the essential js2](images/migrate-essentialJs2.png)
 
 3. The Syncfusion® Project Migration window will appear. You can choose the required version of Syncfusion® ASP.NET MVC to migrate.
 

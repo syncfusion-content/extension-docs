@@ -23,7 +23,7 @@ Perform the given steps to ensure whether the Syncfusion® ASP.NET MVC Extension
 
 
 
-   ![Syncfusion® ASP.NET MVC Extension installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img1.png)
+   ![Syncfusion ASP.NET MVC Extension installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img1.png)
 
    **On or After 17.1.0.32-beta version**
 
@@ -33,7 +33,7 @@ Perform the given steps to ensure whether the Syncfusion® ASP.NET MVC Extension
 
    Refer the following screenshot for more information.
 
-   ![Syncfusion® ASP.NET MVC Extension installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img4.png)
+   ![Syncfusion ASP.NET MVC Extension installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img4.png)
 
 
 2. When the above path exists, it means that the ASP.NET MVC Extension build has already been installed in the machine. So now you can install the following Syncfusion®
@@ -54,7 +54,7 @@ Perform the given steps to ensure whether the Syncfusion® ASP.NET MVC Extension
    _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\ASP.NET MVC\Project Templates\Web\VS2017_
 
 
-   ![Syncfusion® ASP.NET MVC Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img2.png)
+   ![Syncfusion ASP.NET MVC Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img2.png)
 
    **On or After 17.1.0.32-beta version**
 
@@ -67,7 +67,7 @@ Perform the given steps to ensure whether the Syncfusion® ASP.NET MVC Extension
    _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\ASP.NET MVC - EJ1\18.1.0.52\Utilities\Extensions_
 
 
-   ![Syncfusion® ASP.NET MVC Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img4.png)
+   ![Syncfusion ASP.NET MVC Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img4.png)
 
    ## To Install Syncfusion® Visual Studio Extension:
 
@@ -81,7 +81,7 @@ Perform the given steps to ensure whether the Syncfusion® ASP.NET MVC Extension
    _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\Project Conversion\VS2017_
 
 
-   ![Syncfusion® Web Conversion and Migration VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img3.png)
+   ![Syncfusion Web Conversion and Migration VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img3.png)
 
    **On or After 17.1.0.32-beta version**
 

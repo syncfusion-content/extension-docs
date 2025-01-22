@@ -77,4 +77,4 @@ Use the following steps to create the Syncfusion® ASP.NET MVC (Essential® JS 2
 
     * The required Syncfusion® assemblies are added for selected controls under Project Reference.
 
-        ![syncfusion® assemblies](images/syncfusion-assemblies.png)
+        ![syncfusion assemblies](images/syncfusion-assemblies.png)
