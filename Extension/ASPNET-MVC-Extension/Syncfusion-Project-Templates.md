@@ -42,20 +42,20 @@ The following steps help you create the Syncfusion® ASP.NET MVC (Essential® JS
    **Option 1:**  
     Click **Syncfusion® Menu** and choose **Essential Studio® for ASP.NET MVC (EJ1) > Create New Syncfusion® Project…** in **Visual Studio**.
 
-    ![Choose Syncfusion® ASP.NET MVC Web Application from Visual Studio new project dialog via Syncfusion® menu](Create-Syncfusion-MVC-Project_images/Syncfusion_Menu_ProjectTemplate.png)
+    ![Choose Syncfusion ASP.NET MVC Web Application from Visual Studio new project dialog via Syncfusion menu](Create-Syncfusion-MVC-Project_images/Syncfusion_Menu_ProjectTemplate.png)
 
     N> In Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
 
    **Option 2:**  
    Choose **File > New > Project** and navigate to **Syncfusion® > Web > Syncfusion® ASP.NET MVC (Essential® JS 1) Application** in **Visual Studio**.
    
-   ![Choose Syncfusion® ASP.NET MVC Web Application from Visual Studio new project dialog](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img1.png)
+   ![Choose Syncfusion ASP.NET MVC Web Application from Visual Studio new project dialog](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img1.png)
 
 2. Name the Project, choose the destination location as required and set the Framework of the project then click OK. The Project Configuration Wizard appears.  
 
 3. Choose the options to configure the Syncfusion® ASP.NET MVC Application by using the following Project Configuration window.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET MVC Web Project configuration wizard](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img2.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project configuration wizard](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img2.jpeg)
 
    ### Project configurations:
 
@@ -87,7 +87,7 @@ The following steps help you create the Syncfusion® ASP.NET MVC (Essential® JS
 
 5. By choosing the Add Samples option you can add the code examples for your selected controls and its features.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET MVC Web Feature selection](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img8.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Feature selection](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img8.jpeg)
 
    **Select Control:** Choose the control based on your need.
 
@@ -103,7 +103,7 @@ The following steps help you create the Syncfusion® ASP.NET MVC (Essential® JS
 
 7. Syncfusion® references, Scripts, CSS and required Web.config entries are added to the Project.
 
-   ![Required Syncfusion® assemblies added in the project created for the selected controls](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img12.jpeg)
+   ![Required Syncfusion assemblies added in the project created for the selected controls](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img12.jpeg)
 
    ![Required scripts and themes added in the project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img13.jpeg)
 
@@ -111,7 +111,7 @@ The following steps help you create the Syncfusion® ASP.NET MVC (Essential® JS
 
 8. Then, Syncfusion® licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion® license key to your project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
-   ![Syncfusion® license registration required message box for Syncfusion® Essential® JS 1 ASP.NET MVC web projects](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img29.jpeg)
+   ![Syncfusion license registration required message box for Syncfusion Essential JS 1 ASP.NET MVC web projects](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img29.jpeg)
 
 ## Create Syncfusion® MVC (Mobile) Project
 
@@ -119,12 +119,12 @@ The following steps help you create the Syncfusion® ASP.NET MVC (Mobile) Projec
 
 1. To create a Syncfusion® Project, choose **New Project -> Syncfusion® -> Mobile -> Syncfusion® ASP.NET MVC(Mobile) Application** from Visual Studio.
 
-   ![Choose Syncfusion® ASP.NET MVC Mobile Application from Visual Studio new project dialog](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img15.jpeg)
+   ![Choose Syncfusion ASP.NET MVC Mobile Application from Visual Studio new project dialog](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img15.jpeg)
 
 2. Name the Project, choose the destination location as required and set the Framework of the project then click OK. The Project Configuration Wizard appears.  
 3. Choose the options to configure the Syncfusion® ASP.NET MVC Application by using the following Project Configuration window.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET MVC Mobile project configuration wizard](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img16.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile project configuration wizard](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img16.jpeg)
 
    ### Project configurations:
 
@@ -154,7 +154,7 @@ The following steps help you create the Syncfusion® ASP.NET MVC (Mobile) Projec
 
 4. Once the Project Configuration Wizard is done, the Syncfusion® MVC Project is created.
 
-   ![Required view and controller files added in the Syncfusion® Essential® JS 1 ASP.NET MVC Mobile project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img23.jpeg)
+   ![Required view and controller files added in the Syncfusion Essential JS 1 ASP.NET MVC Mobile project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img23.jpeg)
 
 5. Syncfusion® references, Scripts, CSS and required Web.config entries are added to the Project.
 
@@ -162,8 +162,8 @@ The following steps help you create the Syncfusion® ASP.NET MVC (Mobile) Projec
 
    ![Required themes and scripts added to the project created](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img25.jpeg)
  
-   ![Syncfusion® Essential® JS 1 ASP.NET MVC Mobile project required scripts](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img26.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile project required scripts](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img26.jpeg)
 
-   ![Syncfusion® Essential® JS 1 ASP.NET MVC Mobile project Web.config configuration](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img27.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile project Web.config configuration](Create-Syncfusion-MVC-Project_images/CreateSyncfusionMVCProject-img27.jpeg)
 
 

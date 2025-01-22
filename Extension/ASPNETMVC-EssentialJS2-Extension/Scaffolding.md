@@ -23,19 +23,19 @@ The following steps explain you how to add a scaffolded item to your ASP.NET MVC
 
 2. In the **Add Scaffold** dialog, select **Syncfusion® ASP.NET MVC UI Scaffolder**, and then click **‘Add’**.
 
-    ![syncfusion® aspnetmvc ui scaffolder](images/mvc-ui-scaffolder.png)
+    ![syncfusion aspnetmvc ui scaffolder](images/mvc-ui-scaffolder.png)
 
 3. In the Syncfusion® UI Scaffolding dialog, select the desired control to perform scaffolding, and then click **Next**.
 
-    ![syncfusion® ui scaffolding](images/syncfusion-ui-scaffolding.png)
+    ![syncfusion ui scaffolding](images/syncfusion-ui-scaffolding.png)
 
 4. Selected control model dialogue will be launched in the Syncfusion® UI Scaffolder. Enter the **Controller Name** and **View Name** as application requirements, and then select the required **Model Class** of the active project and its relevant **Data Context Class**, and then click **Next**.
 
-    ![syncfusion® ui scaffolding for datagrid](images/ui-scaffolding-datagrid.png)
+    ![syncfusion ui scaffolding for datagrid](images/ui-scaffolding-datagrid.png)
 
 5. Selected control feature dialogue will be launched in the Syncfusion® UI Scaffolder. Select the required features, update the required data field, and then click **Add**.
 
-    ![syncfusion® scaffolding add button](images/scaffolding-add-button.png)
+    ![syncfusion scaffolding add button](images/scaffolding-add-button.png)
 
 6. The **Controller** and the corresponding **View** files are now generated with the selected features of Syncfusion® control code snippet.
 

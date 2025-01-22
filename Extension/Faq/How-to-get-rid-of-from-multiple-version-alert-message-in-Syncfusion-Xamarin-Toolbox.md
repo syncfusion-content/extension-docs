@@ -18,7 +18,7 @@ When dragging and dropping a Syncfusion® control from either the **Syncfusion®
 
 The following alert message will be displayed if multiple versions of the same Syncfusion® NuGet package (e.g., Syncfusion.Xamarin.SfChart **v24.1.xx** and **v24.2.xx**(xamarin) / Syncfusion.MAUI.Buttons **v24.1.xx** and **24.2.xx**(Maui)) are already installed in your project. Recommend maintaining the same version NuGet reference.
 
-![Syncfusion® Xamarin toolbox alert message when multiple version of the same Syncfusion® Xamarin NuGet package already installed in the project](Alert-message-in-Syncfusion-Xamarin-Toolbox_images\Same-NuGet-Multiple-Version-Installed.jpg)
+![Syncfusion Xamarin toolbox alert message when multiple version of the same Syncfusion Xamarin NuGet package already installed in the project](Alert-message-in-Syncfusion-Xamarin-Toolbox_images\Same-NuGet-Multiple-Version-Installed.jpg)
 
 To resolve this, follow these steps:
 1.	Uninstall the multiple versions of the same Syncfusion® NuGet package currently installed in your project. 
@@ -28,7 +28,7 @@ To resolve this, follow these steps:
 
 The following alert message will be displayed when different versions of Syncfusion® NuGet packages are installed in your project. Hence, you are not aware of which version of the Syncfusion® NuGet package you need to install in your project.
 
-![Syncfusion® Xamarin toolbox alert message when different Syncfusion® Xamarin NuGet packages are installed with multiple version in the project](Alert-message-in-Syncfusion-Xamarin-Toolbox_images\Diferent-NuGet-Multiple-Version-Installed.jpg)
+![Syncfusion Xamarin toolbox alert message when different Syncfusion Xamarin NuGet packages are installed with multiple version in the project](Alert-message-in-Syncfusion-Xamarin-Toolbox_images\Diferent-NuGet-Multiple-Version-Installed.jpg)
 
 To resolve this, manually install all the required versions of Syncfusion® NuGet packages in the same version of your project. Then, drag the required Syncfusion® component from the Syncfusion® Toolbox (Xamarin/.NET MAUI) and drop the render code snippet in the XAML file of your project. Please refer to the following help topics to use the Syncfusion® Toolbox:
 

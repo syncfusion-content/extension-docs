@@ -27,7 +27,7 @@ To add the Syncfusion® ASP.NET Web Forms components via the Syncfusion® Toolbo
    **Option 2:**  
    Click **Syncfusion® menu** and choose **Essential Studio® for ASP.NET Web Forms (EJ1) > Toolbox Configuration...** in **Visual Studio**
 
-   ![Toolbox Installer via Syncfusion® menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox.png)
+   ![Toolbox Installer via Syncfusion menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox.png)
 
    N> From Visual Studio 2019, Syncfusion® menu is available under Extensions in Visual Studio menu.
 

@@ -33,7 +33,7 @@ The steps below assist you to how to add a scaffolded item to your Blazor applic
 
 2. In the **Add New Scaffolded item** dialog, select **Syncfusion® Blazor Scaffolder** and then click **‘Add’**.
 
-    ![Choose Syncfusion® Scaffolding from Visual Studio Add scaffold dialog](images/Syncfusion_scaffolder.png)
+    ![Choose Syncfusion Scaffolding from Visual Studio Add scaffold dialog](images/Syncfusion_scaffolder.png)
 
 3. In the Syncfusion® UI Scaffolder dialog, select the desired control to perform scaffolding, and then click **Next**.
 

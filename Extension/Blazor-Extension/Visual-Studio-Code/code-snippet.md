@@ -60,6 +60,6 @@ The Syncfusion® Blazor snippet simply inserts the code into the razor file. You
 
 4. Open the **~/Startup.cs** file for server application and the **~/Program.cs** file for client application then register the Syncfusion® Blazor Service.
 
-    ![Syncfusion® Configuration](images/Configuration-Snippet.png)
+    ![Syncfusion Configuration](images/Configuration-Snippet.png)
 
 5. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-Syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.Syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.

@@ -51,9 +51,9 @@ The steps below help you to convert the ASP.NET MVC application to the Syncfusio
 
 5. The required Syncfusion® NuGet packages, Scripts and CSS are included in the ASP.NET MVC Web Application. Refer to the following screenshots for more information.
 
-    ![syncfusion® assemblies](images/syncfusion-reference.png)
+    ![syncfusion assemblies](images/syncfusion-reference.png)
 
-    ![syncfusion® layout](images/layout.png)
+    ![syncfusion layout](images/layout.png)
 
     ![web-config](images/web-config.png)
 

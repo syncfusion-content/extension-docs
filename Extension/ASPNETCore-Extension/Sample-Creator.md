@@ -22,31 +22,31 @@ The following steps help you to create the Syncfusion® ASP.NET Core Web Applica
    **Option 1:**   
    Click **Syncfusion® Menu** and choose **Essential Studio® for ASP.NET Core (EJ1) > Launch Sample Creator…** in **Visual Studio**.
    
-   ![launch the Sample Creator via Syncfusion® menu](Sample-Creator_images/Syncfusion_Menu_SampleCreator.png)
+   ![launch the Sample Creator via Syncfusion menu](Sample-Creator_images/Syncfusion_Menu_SampleCreator.png)
 
    N> In Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
 
    **Option 2:**  
    Launch the Syncfusion® ASP.NET Core (Essential® JS 1) Control Panel. Select the Sample Creator button to launch the ASP.NET Core (Essential® JS 1) Sample Creator application. Refer to the following screenshot for more information.
 
-   ![Syncfusion® Essential Studio® Essential® JS 1 ASP.NET Core control panel to launch the Sample Creator](Sample-Creator_images/SampleCreator-img1.png)
+   ![Syncfusion Essential Studio Essential JS 1 ASP.NET Core control panel to launch the Sample Creator](Sample-Creator_images/SampleCreator-img1.png)
 
 2. Syncfusion® Sample Creator Wizard displaying the **Controls and its Feature Selection** section
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Core Sample Creator wizard](Sample-Creator_images/SampleCreator-img2.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Sample Creator wizard](Sample-Creator_images/SampleCreator-img2.jpeg)
 
 
 ### Controls Selection
 
 Listed here are the Syncfusion® ASP.NET Core controls so you can choose the required controls.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Core Sample Creator Controls selection](Sample-Creator_images/SampleCreator-img3.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Sample Creator Controls selection](Sample-Creator_images/SampleCreator-img3.jpeg)
 
 ### Feature Selection
 
 Based on the controls, the Feature is enabled to choose the features of the corresponding controls.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Core Sample Creator Features selection](Sample-Creator_images/SampleCreator-img4.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Sample Creator Features selection](Sample-Creator_images/SampleCreator-img4.jpeg)
 
 
 ### Project Configuration
@@ -69,7 +69,7 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
    * Theme Selection – Choose the required theme.The Theme Preview section shows the controls preview before create the Syncfusion® project.
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Core Sample Creator project configuration section](Sample-Creator_images/SampleCreator-img6.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Sample Creator project configuration section](Sample-Creator_images/SampleCreator-img6.jpeg)
 
 
 2. When you click the Create button, the new Syncfusion® ASP.NET Core project is created. The following resources are added in the project:
@@ -84,8 +84,8 @@ Based on the controls, the Feature is enabled to choose the features of the corr
 
    * Restored the required Syncfusion® NuGet/Bower packages for selected controls under dependencies.
 
-     ![Required NuGet/Bower packages restored for the selected Syncfusion® Essential® JS 1 ASP.NET Core controls](Sample-Creator_images/SampleCreator-img9.jpeg)
+     ![Required NuGet/Bower packages restored for the selected Syncfusion Essential JS 1 ASP.NET Core controls](Sample-Creator_images/SampleCreator-img9.jpeg)
 
 3. Once the project is created you can open the project by clicking the Yes button. If you click No button the corresponding location of the project will be opened. Refer the following screenshot for more information.
 
-   ![The project successfully created using Syncfusion® Essential® JS 1 ASP.NET Core Sample Creator](Sample-Creator_images/SampleCreator-img11.jpeg)
+   ![The project successfully created using Syncfusion Essential JS 1 ASP.NET Core Sample Creator](Sample-Creator_images/SampleCreator-img11.jpeg)

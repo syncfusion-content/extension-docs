@@ -24,18 +24,18 @@ The following steps help you to migrate your existing Syncfusion® ASP.NET Core 
    **Option 1:**  
    Click **Syncfusion® Menu** and choose **Essential Studio® for ASP.NET Core (EJ1) > Migrate Project…** in **Visual Studio**.
    
-   ![Syncfusion® Essential® JS 1 ASP.NET Core Project Migration via Syncfusion® menu](Project-Migration_images/Syncfusion_Menu_Project_Migration.png)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Migration via Syncfusion menu](Project-Migration_images/Syncfusion_Menu_Project_Migration.png)
 
    N> In Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
    
    **Option 2:**  
    Right-click the **Syncfusion® ASP.NET Core Web Application** from Solution Explorer and select **Syncfusion® Essential® JS 1**. Choose **Migrate the Essential® JS 1 Project to Another Version...**
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Core Project Migration add-in](Project-Migration_images/Project-Migration_img1.png)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Migration add-in](Project-Migration_images/Project-Migration_img1.png)
 
 2. The **Project Migration** window appears. You can choose the required Essential Studio® version that is installed in the machine. 
 
-   ![Syncfusion® Essential® JS 1 ASP.NET Core Project Migration window](Project-Migration_images/Project-Migration-img2.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Migration window](Project-Migration_images/Project-Migration-img2.jpeg)
 
 3. The **Project Migration** window allows you to configure the following options:
 
@@ -45,7 +45,7 @@ The following steps help you to migrate your existing Syncfusion® ASP.NET Core 
    
 4. Click the Migrate Button. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before migrate the Syncfusion® project. If click No it will migrate the project to required Syncfusion® version without backup
    
-   ![Syncfusion® Essential® JS 1 ASP.NET Core Project Migration backup dialog](Project-Migration_images/Project-Migration-img3.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Migration backup dialog](Project-Migration_images/Project-Migration-img3.jpeg)
       
 5. The Syncfusion® NuGet/Bower Packages, Scripts and CSS are updated to the corresponding version in the project.
 

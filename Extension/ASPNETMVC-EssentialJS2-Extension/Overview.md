@@ -37,6 +37,6 @@ Syncfusion® provides the following supports in Visual Studio:
 
 ### Selected Syncfusion® ASP.NET MVC (Essential® JS2) application in Visual Studio
 
-![selected syncfusion® aspnetmvc](images/selected-syncfusion-mvc-application.png)
+![selected syncfusion aspnetmvc](images/selected-syncfusion-mvc-application.png)
 
 > From Visual Studio 2019, Syncfusion® menu is available under Extension in Visual Studio menu.

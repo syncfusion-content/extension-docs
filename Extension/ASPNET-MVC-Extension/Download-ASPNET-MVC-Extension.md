@@ -13,7 +13,7 @@ documentation: ug
 
    Refer the following screenshot for more information.
 
-   ![Download link for Syncfusion® Essential Studio® Web Sample Creator](Download-ASPNET-MVC-Extension_images/Download-ASPNET-MVC-Extension-img1.jpeg)
+   ![Download link for Syncfusion Essential Studio Web Sample Creator](Download-ASPNET-MVC-Extension_images/Download-ASPNET-MVC-Extension-img1.jpeg)
 
    I> It is a prerequisite to have the complete Essential Studio® suite or ASP.NET MVC or ASP.NET MVC (Classic) installed while using Syncfusion® ASP.NET MVC Extension. This is applicable from v.12.1.0.43.
 
@@ -23,7 +23,7 @@ documentation: ug
    * Navigate to the “ASP.NET MVC” tab available on the left side.
    * Click the “SAMPLE CREATOR” button. It downloads the corresponding version of Syncfusion® Web Sample Creator setup. When you have already installed the Syncfusion® Web Sample Creator setup then it will launch the “Sample Creator” utility instead of downloading. 
 
-    ![Syncfusion® Essential studio® control panel to launch the Sample Creator](Download-ASPNET-MVC-Extension_images/Download-ASPNET-MVC-Extension-img2.jpeg)
+    ![Syncfusion Essential studio control panel to launch the Sample Creator](Download-ASPNET-MVC-Extension_images/Download-ASPNET-MVC-Extension-img2.jpeg)
 
 I> The syncfusionessentialextension.exe setup has renamed to syncfusionwebsamplecreator.exe from 2015 Volume 4 release.
 

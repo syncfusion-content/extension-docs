@@ -17,12 +17,12 @@ You can check the availability of updates in Visual Studio and then install the 
 
 1. Choose **Syncfusion® -> Check for Updates…** in the Visual Studio menu
 
-   ![Syncfusion® check for updates menu](Check-for-Updates_images/Check-for-Updates_images-img1.png)
+   ![Syncfusion check for updates menu](Check-for-Updates_images/Check-for-Updates_images-img1.png)
 
    N> From Visual Studio 2019, Syncfusion® menu is available under Extensions in Visual Studio menu.
    
 2. When an update is available, the Update dialog box appears.
 
-   ![Syncfusion® check for updates wizard](Check-for-Updates_images/Check-for-Updates_images-img2.png)
+   ![Syncfusion check for updates wizard](Check-for-Updates_images/Check-for-Updates_images-img2.png)
 
 3. Syncfusion® Essential Studio® can be downloaded from the Syncfusion® website by clicking the **Download** button.
