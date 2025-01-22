@@ -33,7 +33,7 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     Right-click the **Project** from Solution Explorer, select **Syncfusion® Web**, and choose the **Convert to Syncfusion® ASP.NET Core Application…**
 
-    ![convert to syncfusion®](images/convert-to-syncfusion-ASpnet-core.png)
+    ![convert to syncfusion](images/convert-to-syncfusion-ASpnet-core.png)
 
 3. The Syncfusion® ASP.NET Core Project Conversion window will appear. You can choose the required version of Syncfusion® ASP.NET Core, Assets from, and Themes to convert the application.
 

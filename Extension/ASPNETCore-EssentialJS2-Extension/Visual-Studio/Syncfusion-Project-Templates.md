@@ -33,7 +33,7 @@ The following steps is used to create the **Syncfusion® ASP.NET Core (Essential
 
     Choose **File > New > Project** and navigate to **Syncfusion® > .NET Core > Syncfusion® ASP.NET Core (Essential® JS 2) Web Application** in **Visual Studio**.
 
-    ![syncfusion® template](images/syncfusion-template.png)
+    ![syncfusion template](images/syncfusion-template.png)
 
 2. Name the **Project**, choose the destination location, and then click **OK**. The Project Configuration Wizard appears.
 
@@ -106,7 +106,7 @@ The following steps is used to create the **Syncfusion® ASP.NET Core (Essential
 
 6. Then, Syncfusion® licensing registration required message box will be shown, if you installed the trial setup or NuGet packages since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion® license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/whats-new-in-2018-volume-2-licensing-changes-in-the-1620x-version-of-essential-studio.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
-    ![syncfusion® license](images/syncfusion-license.png)
+    ![syncfusion license](images/syncfusion-license.png)
 
 
 ## Authentication Configuration
