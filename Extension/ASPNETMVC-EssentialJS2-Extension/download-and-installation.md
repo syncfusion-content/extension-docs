@@ -10,17 +10,17 @@ documentation: ug
 
 # Download and Installation
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio extension in the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions). You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
+Syncfusion® publishes the Visual Studio extension in the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions). You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
 
 ## Prerequisites
 
-The following software prerequisites must be installed to install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC extension, as well as to creating, adding snippet, converting, and upgrading Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC applications.
+The following software prerequisites must be installed to install the Syncfusion® ASP.NET MVC extension, as well as to creating, adding snippet, converting, and upgrading Syncfusion® ASP.NET MVC applications.
 
 * [Visual Studio 2013 or later](https://visualstudio.microsoft.com/downloads).
 
 ## Install through the Visual Studio Manage Extensions
 
-The steps below assist you to how to install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC extensions from **Visual Studio Manage Extensions**.
+The steps below assist you to how to install the Syncfusion® ASP.NET MVC extensions from **Visual Studio Manage Extensions**.
 
 1. Open the Visual Studio 2019.
 
@@ -28,11 +28,11 @@ The steps below assist you to how to install the Syncfusion<sup style="font-size
 
 2. Navigate to **Extension ->Manage Extensions** and open the Manage Extensions.
 
-3. On the left, click the **Online** tab and type **"Syncfusion<sup style="font-size:70%">&reg;</sup> EJ2 MVC"** in the **search box**.
+3. On the left, click the **Online** tab and type **"Syncfusion® EJ2 MVC"** in the **search box**.
 
     ![Online-Manage-Extension-window](images/OnlineExtension.png)
 
-4. Click the **Download** button in the **“ASP.NET MVC Extension - Syncfusion<sup style="font-size:70%">&reg;</sup>”**.
+4. Click the **Download** button in the **“ASP.NET MVC Extension - Syncfusion®”**.
 
 5. Close all Visual Studio instances after downloading the extensions to begin the installation process. You will see the following VSIX installation prompt.
 
@@ -42,15 +42,15 @@ The steps below assist you to how to install the Syncfusion<sup style="font-size
 
 7. After the installation is complete, open Visual Studio 2019.
 
-8. Now, under the menu **Extensions**, you can use the Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from the Visual Studio.
+8. Now, under the menu **Extensions**, you can use the Syncfusion® extensions from the Visual Studio.
 
     ![SyncfusionMenu](images/SyncfusionMenu.png)
 
 ## Install from the Visual Studio Marketplace
 
-The steps below illustrate how to download and install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC extension from the Visual Studio Marketplace.
+The steps below illustrate how to download and install the Syncfusion® ASP.NET MVC extension from the Visual Studio Marketplace.
 
-1. Download the [Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions) from the Visual Studio Marketplace.
+1. Download the [Syncfusion® ASP.NET MVC Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions) from the Visual Studio Marketplace.
 
 2. Close all Visual Studio instances running, if any.
 
@@ -60,6 +60,6 @@ The steps below illustrate how to download and install the Syncfusion<sup style=
 
 4. Click the **Modify** button.
 
-5. After the installation is complete, open Visual Studio 2019. You can now use Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from the Visual Studio under the **Extensions** menu.
+5. After the installation is complete, open Visual Studio 2019. You can now use Syncfusion® extensions from the Visual Studio under the **Extensions** menu.
 
      ![SyncfusionMenu](images/SyncfusionMenu.png)
