@@ -26,7 +26,7 @@ The following steps help you to use the Syncfusion® Project Conversion in the e
    **Option 1:**  
    Click **Syncfusion® Menu** and choose **Essential Studio® for ASP.NET Core (EJ1) > Convert to Syncfusion® ASP.NET Core Application…** in **Visual Studio**.
 
-   ![Syncfusion Essential JS 1 ASP.NET Core Project Conversion via Syncfusion® menu](Project-Conversion_images/Syncfusion_Menu_Project_Conversion.png)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Conversion via Syncfusion menu](Project-Conversion_images/Syncfusion_Menu_Project_Conversion.png)
 
    N> In Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
 

@@ -29,11 +29,11 @@ To create the Syncfusion® ASP.NET (Essential® JS 1) Application using the Samp
 
 2. The Syncfusion® components and their features are listed in the ASP.NET (Essential JS 1) Sample Creator.
 
-   ![Syncfusion® Essential JS 1 ASP.NET Web Forms Sample Creator wizard](Create-Samples_images/SampleCreator-img2.png)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator wizard](Create-Samples_images/SampleCreator-img2.png)
 
    **Components Selection:** Choose the required components. The components are grouped with Syncfusion® products, and the components are grouped by product.
 
-   ![Syncfusion® Essential JS 1 ASP.NET Web Forms Sample Creator controls selection](Create-Samples_images/SampleCreator-img3.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Sample Creator controls selection](Create-Samples_images/SampleCreator-img3.jpeg)
 
    **Feature Selection:** Based on the components, the feature is enabled to choose the features of the corresponding components.
 
