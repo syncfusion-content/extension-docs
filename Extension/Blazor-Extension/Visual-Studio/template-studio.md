@@ -7,51 +7,51 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio
+# Syncfusion® Blazor Template Studio
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Blazor Template Studio, which allows you to create a Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application with Syncfusion<sup style="font-size:70%">&reg;</sup> components. The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor app is created with the required component Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion<sup style="font-size:70%">&reg;</sup> components.
+Syncfusion® provides the Blazor Template Studio, which allows you to create a Syncfusion® Blazor application with Syncfusion® components. The Syncfusion® Blazor app is created with the required component Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion® components.
 
-The steps below will assist you to create your **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Application** through **Visual Studio 2022**:
+The steps below will assist you to create your **Syncfusion® Blazor Application** through **Visual Studio 2022**:
 
-> **Note:** The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Extensions for Visual Studio 2019 are available on Essential Studio<sup style="font-size:70%">&reg;</sup> release "20.3.0.56" and below.
+> **Note:** The Syncfusion® Blazor Extensions for Visual Studio 2019 are available on Essential Studio® release "20.3.0.56" and below.
 
-> Before use the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Project Template, check whether the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.Syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/) help topic.
+> Before use the Syncfusion® Blazor Project Template, check whether the Syncfusion® Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.Syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/) help topic.
 
 1. Open Visual Studio 2022.
 
-2. To create a Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application, use either one of the following options:
+2. To create a Syncfusion® Blazor application, use either one of the following options:
 
      **Option 1**
 
-     Choose **Extension -> Syncfusion<sup style="font-size:70%">&reg;</sup> -> Essential Studio<sup style="font-size:70%">&reg;</sup> for Blazor -> Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project...** from the **Visual Studio menu**.
+     Choose **Extension -> Syncfusion® -> Essential Studio® for Blazor -> Create New Syncfusion® Project...** from the **Visual Studio menu**.
 
      ![CreateMenu](images/CreateMenu.png)
 
      **Option 2**
 
-     Choose **File -> New -> Project** from the menu. This launches a new dialogue for creating a new application. Syncfusion<sup style="font-size:70%">&reg;</sup> templates for Blazor can be found by filtering the application type for **Syncfusion<sup style="font-size:70%">&reg;</sup>** or by entering **Syncfusion<sup style="font-size:70%">&reg;</sup>** as a keyword in the search option.
+     Choose **File -> New -> Project** from the menu. This launches a new dialogue for creating a new application. Syncfusion® templates for Blazor can be found by filtering the application type for **Syncfusion®** or by entering **Syncfusion®** as a keyword in the search option.
 
      ![CreateNewWindow](images/CreateNewWindow.png)
 
-3. Select the **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio** and click **Next**.
+3. Select the **Syncfusion® Blazor Template Studio** and click **Next**.
 
      ![CreateNewWizard](images/CreateNewWizard.png)
 
-4. The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio wizard will be launched to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor app.
+4. The Syncfusion® Blazor Template Studio wizard will be launched to configure the Syncfusion® Blazor app.
 
-     > **Note:** Refer to the .NET SDK support for Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Components [here](https://blazor.Syncfusion.com/documentation/system-requirements#net-sdk).
+     > **Note:** Refer to the .NET SDK support for Syncfusion® Blazor Components [here](https://blazor.Syncfusion.com/documentation/system-requirements#net-sdk).
 
      **Project type section**
 
-     Choose one of the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application types based on the version of the .NET SDK you are using.
+     Choose one of the Syncfusion® Blazor application types based on the version of the .NET SDK you are using.
 
-    | .NET SDK version | Supported Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Application Type |
+    | .NET SDK version | Supported Syncfusion® Blazor Application Type |
     | ------------- | ------------- |
-    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Web App |
-    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App |
-    | [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Server App |
+    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion® Blazor Web App |
+    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion® Blazor WebAssembly App |
+    | [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion® Blazor Server App |
 
-    In the **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Web App** application type, you can configure the following options:
+    In the **Syncfusion® Blazor Web App** application type, you can configure the following options:
 
     <table>
     <tbody>
@@ -76,13 +76,13 @@ The steps below will assist you to create your **Syncfusion<sup style="font-size
 
     ![WebAppTemplate](images/WebAppTemplate.png)
 
-     In the **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App** application type, you can choose ASP.NET Core hosted, Progressive Web Application, or both.
+     In the **Syncfusion® Blazor WebAssembly App** application type, you can choose ASP.NET Core hosted, Progressive Web Application, or both.
 
      ![WASMTemplate](images/WASMTemplate.png)
 
      > **Note:** The Progressive Web Application will be enabled if .NET 6.0 version or higher is installed.
 
-5. Click either **Next** or the **Controls** tab. The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor components you can add to the application are listed.
+5. Click either **Next** or the **Controls** tab. The Syncfusion® Blazor components you can add to the application are listed.
 
      ![Controls Section](images/ControlsSection1.png)
 
@@ -100,13 +100,13 @@ The steps below will assist you to create your **Syncfusion<sup style="font-size
 
 7. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 8.0, .NET 7.0, and .NET 6.0), themes, https configuration, localization option, authentication type, Blazor Web App, and Blazor Web Assembly application types.
 
-     Depending on your Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Application Type, refer to the table below for supported authentication types.
+     Depending on your Syncfusion® Blazor Application Type, refer to the table below for supported authentication types.
 
-     | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Application Type | Supported Authentication Types |
+     | Syncfusion® Blazor Application Type | Supported Authentication Types |
      | ------------- | ------------- |
-     | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Web App | None and Individual Accounts |
-     | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App | None, Individual Accounts and Microsoft Identity Platform |
-     | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Server App | None, Individual Accounts, Microsoft Identity Platform, and Windows |
+     | Syncfusion® Blazor Web App | None and Individual Accounts |
+     | Syncfusion® Blazor WebAssembly App | None, Individual Accounts and Microsoft Identity Platform |
+     | Syncfusion® Blazor Server App | None, Individual Accounts, Microsoft Identity Platform, and Windows |
 
      If you choose the **Blazor Web App** application type, you can customize the Interactivity type and Interactivity location options.
 
@@ -122,45 +122,45 @@ The steps below will assist you to create your **Syncfusion<sup style="font-size
 
      ![ProjectDetails](images/ProjectDetails.png)
 
-8. Click **Create** button. The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application has been created. The created Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor app has the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages, styles, and the render code for the Syncfusion<sup style="font-size:70%">&reg;</sup> component.
+8. Click **Create** button. The Syncfusion® Blazor application has been created. The created Syncfusion® Blazor app has the Syncfusion® NuGet packages, styles, and the render code for the Syncfusion® component.
 
      ![Readme](images/readme.png)
 
-9. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your application since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-Syncfusion-license-key) to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your application. Refer to this [blog](https://www.Syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
+9. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-Syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.Syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
-## Syncfusion<sup style="font-size:70%">&reg;</sup> integration
+## Syncfusion® integration
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application configures with most recent Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor NuGet packages version, styles, namespaces, and component render code for Syncfusion<sup style="font-size:70%">&reg;</sup> components.
+The Syncfusion® Blazor application configures with most recent Syncfusion® Blazor NuGet packages version, styles, namespaces, and component render code for Syncfusion® components.
 
 ### NuGet Packages
 
-Based on the selected Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor controls, the individual NuGet packages can be added as NuGet references. Refer [this topic](https://blazor.Syncfusion.com/staging/documentation/nuget-packages/) to know about the individual Blazor NuGet packages.
+Based on the selected Syncfusion® Blazor controls, the individual NuGet packages can be added as NuGet references. Refer [this topic](https://blazor.Syncfusion.com/staging/documentation/nuget-packages/) to know about the individual Blazor NuGet packages.
 
-> The latest Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> version of a NuGet package will be added as reference entry from nuget.org if there is no internet connection. You should restore the NuGet packages when internet becomes available.
+> The latest Syncfusion® Essential Studio® version of a NuGet package will be added as reference entry from nuget.org if there is no internet connection. You should restore the NuGet packages when internet becomes available.
 
 ![NuGetPackage](images/NuGetPackage.png)
 
 ### Style
 
-The selected Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor theme is added from Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet and this theme reference will be added at these applications locations in Blazor.
+The selected Syncfusion® Blazor theme is added from Syncfusion® NuGet and this theme reference will be added at these applications locations in Blazor.
 
 | Application type  | File location  |
 |---|---|
-| Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Server App | {Project location}\Pages\\_Host.cshtml |
-| Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
-| Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App <br/> Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App (Progressive Web Application) | {Project location}\wwwroot\index.html|
+| Syncfusion® Blazor Server App | {Project location}\Pages\\_Host.cshtml |
+| Syncfusion® Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion® Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
+| Syncfusion® Blazor WebAssembly App <br/> Syncfusion® Blazor WebAssembly App (Progressive Web Application) | {Project location}\wwwroot\index.html|
 
 ![CDNLink](images/CDNLink.png)
 
 ### Namespaces
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup>.Blazor namespaces are added in the **`_imports.razor`** file.
+The Syncfusion®.Blazor namespaces are added in the **`_imports.razor`** file.
 
 ![NameSpace](images/NameSpace.png)
 
 ### Component render code
 
-The selected Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor components and features render code added as .razor files in the pages folder.
+The selected Syncfusion® Blazor components and features render code added as .razor files in the pages folder.
 
 ![Selected control pagess added in project with selected features](images/ControlPages.png)
 
@@ -358,7 +358,7 @@ We need to register the created application in Google Platform API Console for I
 
 ### Run application
 
-You can run the application and see the Syncfusion<sup style="font-size:70%">&reg;</sup> components you selected. Select a component to see component output.
+You can run the application and see the Syncfusion® components you selected. Select a component to see component output.
 
 ![Blazor Template output page](images/HomePage.png)
 
@@ -366,7 +366,7 @@ You can select a culture language in combobox at top right on the output page to
 
 ![Blazor Template output page](images/Localization.png)
 
-> **Note:** Above culture combobox will be enabled in sample output if localization option is selected in configuration window from Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio wizard.
+> **Note:** Above culture combobox will be enabled in sample output if localization option is selected in configuration window from Syncfusion® Blazor Template Studio wizard.
 
 ### Register and Login Application
 
@@ -378,7 +378,7 @@ You can select a culture language in combobox at top right on the output page to
 
 ##### Applying Database Migrations:
 
-In the Blazor Web App, it's essential<sup style="font-size:70%">&reg;</sup> to apply pending migrations to the database before proceeding with user registration. Choose one of the following options:
+In the Blazor Web App, it's essential® to apply pending migrations to the database before proceeding with user registration. Choose one of the following options:
 
 **Option 1: Using Visual Studio Package Manager Console**
  
