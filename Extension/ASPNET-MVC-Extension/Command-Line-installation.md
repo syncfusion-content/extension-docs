@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Command Line installation | Extension | Syncfusion
-description: To install the Syncfusion Web Sample Creator via command line, follow these simple steps for setup.
+description: To install the Syncfusion Web Sample Creator using the command line, simply follow the detailed steps provided for a smooth setup process.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
