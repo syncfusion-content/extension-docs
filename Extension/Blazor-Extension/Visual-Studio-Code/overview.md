@@ -9,14 +9,14 @@ documentation: ug
 
 # Blazor Extension for Visual Studio Code
 
-The Syncfusion® Essential Studio® Blazor extension for Visual Studio Code simplifies the use of the Syncfusion® Blazor components by configuring the Syncfusion® Blazor NuGet packages and themes.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Blazor extension for Visual Studio Code simplifies the use of the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor components by configuring the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor NuGet packages and themes.
 
-The Syncfusion® Blazor provides the following support in Visual Studio Code:
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor provides the following support in Visual Studio Code:
 
-[Project-Template](./create-project):  Creates Syncfusion® Blazor applications with required configuration for development with Syncfusion® Blazor component.
+[Project-Template](./create-project):  Creates Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor applications with required configuration for development with Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor component.
 
-[Code Snippet](./code-snippet):  Adds a Syncfusion® Blazor component with various features to the Blazor Application's Razor code editor.
+[Code Snippet](./code-snippet):  Adds a Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor component with various features to the Blazor Application's Razor code editor.
 
-[Convert project](./convert-project):  Converts an existing Blazor Web Application to a Syncfusion® Blazor Web Application by importing the necessary Syncfusion® NuGet packages.
+[Convert project](./convert-project):  Converts an existing Blazor Web Application to a Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Web Application by importing the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages.
 
-[Upgrade project](./upgrade-project):  Upgrades the existing Syncfusion® Blazor Web Application from one Essential Studio® version to another version.
+[Upgrade project](./upgrade-project):  Upgrades the existing Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Web Application from one Essential Studio<sup style="font-size:70%">&reg;</sup> version to another version.

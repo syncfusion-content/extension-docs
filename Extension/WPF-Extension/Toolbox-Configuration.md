@@ -9,29 +9,29 @@ documentation: ug
 
 # Toolbox Configuration
 
-The Syncfusion® Toolbox Installer utility incorporates the Syncfusion® WPF components into the Visual Studio .NET toolbox.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox Installer utility incorporates the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF components into the Visual Studio .NET toolbox.
 
-N> Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion® controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.Syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually).
+N> Toolbox configuration support is not available for the Visual Studio Express Edition. However, you can manually configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio Express Toolbox. To do so, refer the [Manual Toolbox Configuration](https://help.Syncfusion.com/common/faq/how-to-configure-the-toolbox-of-visual-studio-manually).
 
-If the <b>“Configure Syncfusion® Controls in Visual Studio”</b> checkbox is selected from the installer UI while installing the Syncfusion® WPF installer, Syncfusion® components will be automatically configured in the Visual Studio toolbox.
+If the <b>“Configure Syncfusion<sup style="font-size:70%">&reg;</sup> Controls in Visual Studio”</b> checkbox is selected from the installer UI while installing the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF installer, Syncfusion<sup style="font-size:70%">&reg;</sup> components will be automatically configured in the Visual Studio toolbox.
 
-To add the Syncfusion® WPF components via the Syncfusion® Toolbox Installer, perform the following steps:
+To add the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF components via the Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox Installer, perform the following steps:
 
 1. To launch Toolbox configuration utility, follow either one of the options below:
 
    **Option 1:**   
-   Open the Syncfusion® Control Panel, click **Add On and Utilities > Toolbox Installer**.
+   Open the Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel, click **Add On and Utilities > Toolbox Installer**.
    
    ![Add On and Utilities](Toolbox-Configuration_images/Toolbox-Configuration_img1.png)
    
    **Option 2:**  
-   Click **Syncfusion® menu** and choose **Essential Studio® for WPF > Toolbox Configuration...** in **Visual Studio**
+   Click **Syncfusion<sup style="font-size:70%">&reg;</sup> menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for WPF > Toolbox Configuration...** in **Visual Studio**
 
-   ![Toolbox Installer via Syncfusion menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox.png)
+   ![Toolbox Installer via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox.png)
 
-   N> From Visual Studio 2019, Syncfusion® menu is available under Extensions in Visual Studio menu.
+   N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
 
-   ![Toolbox Installer via Syncfusion menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox_2019.png)
+   ![Toolbox Installer via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox_2019.png)
 
 2. Toolbox Installer will be opened.
 
@@ -39,17 +39,17 @@ To add the Syncfusion® WPF components via the Syncfusion® Toolbox Installer, p
 
    The following options are available in Toolbox Configuration:
 
-   * Install VS2005 – Configures Framework 2.0 Syncfusion® controls in VS 2005 toolbox.
-   * Install VS2008 – Configures Framework 3.5 Syncfusion® controls in VS 2008 toolbox.
-   * Install VS2010 – Configures Framework 4.0 Syncfusion® controls in VS 2010 toolbox.
-   * Install VS2012 – Configures Framework 4.5 Syncfusion® controls in VS 2012 toolbox.
-   * Install VS2013 – Configures Framework 4.5.1 Syncfusion® controls in VS 2013 toolbox.
-   * Install VS2015 – Configures Framework 4.6 Syncfusion® controls in VS 2015 toolbox.
-   * Install VS2017 – Configures Framework 4.6 Syncfusion® controls in VS 2017 toolbox.
-   * Install VS2019 – Configures Framework 4.6 Syncfusion® controls in VS 2019 toolbox
-   * Install VS2022 – Configures Framework 4.6 Syncfusion® controls in VS 2022 toolbox.
+   * Install VS2005 – Configures Framework 2.0 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2005 toolbox.
+   * Install VS2008 – Configures Framework 3.5 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2008 toolbox.
+   * Install VS2010 – Configures Framework 4.0 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2010 toolbox.
+   * Install VS2012 – Configures Framework 4.5 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2012 toolbox.
+   * Install VS2013 – Configures Framework 4.5.1 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2013 toolbox.
+   * Install VS2015 – Configures Framework 4.6 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2015 toolbox.
+   * Install VS2017 – Configures Framework 4.6 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2017 toolbox.
+   * Install VS2019 – Configures Framework 4.6 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2019 toolbox
+   * Install VS2022 – Configures Framework 4.6 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2022 toolbox.
    
-    N> You can also configure Syncfusion® controls from a lower version Framework assembly to higher version of Visual Studio.
+    N> You can also configure Syncfusion<sup style="font-size:70%">&reg;</sup> controls from a lower version Framework assembly to higher version of Visual Studio.
    
 3. The successful configuration of Toolbox is indicated by an Information message. Click OK.
 
@@ -62,21 +62,21 @@ To add the Syncfusion® WPF components via the Syncfusion® Toolbox Installer, p
    
 ## Configuring toolbox for WPF .NET 5.0 projects
 
-From 2021 Volume 1,Syncfusion® started providing toolbox support for the WPF .NET 5.0 framework in Visual Studio. After installing the Syncfusion® WPF installer, Syncfusion® controls will be automatically configured in the Visual Studio toolbox for WPF.NET 5.0 projects.
+From 2021 Volume 1,Syncfusion<sup style="font-size:70%">&reg;</sup> started providing toolbox support for the WPF .NET 5.0 framework in Visual Studio. After installing the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF installer, Syncfusion<sup style="font-size:70%">&reg;</sup> controls will be automatically configured in the Visual Studio toolbox for WPF.NET 5.0 projects.
 
-N> * Syncfusion® included this toolbox support for .NET 5.0 WPF platform from 2021 Volume 1 release version v19.1.0.54 only. 
-* If the project was created with TargetFramework.NET Core 3.1 and then changed to.NET 5.0 after installing the WPF setup, you must restart Visual Studio to see the Syncfusion® controls in the Visual Studio Toolbox. 
+N> * Syncfusion<sup style="font-size:70%">&reg;</sup> included this toolbox support for .NET 5.0 WPF platform from 2021 Volume 1 release version v19.1.0.54 only. 
+* If the project was created with TargetFramework.NET Core 3.1 and then changed to.NET 5.0 after installing the WPF setup, you must restart Visual Studio to see the Syncfusion<sup style="font-size:70%">&reg;</sup> controls in the Visual Studio Toolbox. 
 * Visual Studio 2019 16.7 Preview 2 and later is required.
 
-### Upgrading the Syncfusion® WPF toolbox .NET 5.0 controls without installing the build
+### Upgrading the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF toolbox .NET 5.0 controls without installing the build
 
-You can upgrade the Syncfusion® WPF toolbox for .NET 5.0 control with NuGet packages downloaded from [nuget.org](https://www.nuget.org/). Download ["Syncfusion.UI.WPF.NET"](https://www.nuget.org/packages/Syncfusion.UI.WPF.NET/) package from nuget.org in your machine.
+You can upgrade the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF toolbox for .NET 5.0 control with NuGet packages downloaded from [nuget.org](https://www.nuget.org/). Download ["Syncfusion.UI.WPF.NET"](https://www.nuget.org/packages/Syncfusion.UI.WPF.NET/) package from nuget.org in your machine.
 
-Use the following steps to add the Syncfusion® WPF controls through Syncfusion® NuGet packages:
+Use the following steps to add the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF controls through Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages:
 
 **step 1:** 
    
-   Extract **"Syncfusion®.UI.WPF.NET"** package by using the below commands.
+   Extract **"Syncfusion<sup style="font-size:70%">&reg;</sup>.UI.WPF.NET"** package by using the below commands.
 	
    Open Command prompt from nuget.exe path and run the following commands
 	
@@ -88,7 +88,7 @@ Use the following steps to add the Syncfusion® WPF controls through Syncfusion�
 	
 **step 2:** 
 
-   Open **"Syncfusion® Toolbox for WPF.config"** file from the following location.
+   Open **"Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox for WPF.config"** file from the following location.
 	
    **Location:** "C:\Program Files (x86)\NuGet\Config\Syncfusion Toolbox for WPF.config"
 	
@@ -101,7 +101,7 @@ Use the following steps to add the Syncfusion® WPF controls through Syncfusion�
      <?xml version="1.0" encoding="utf-8"?>
       <configuration>
         <fallbackPackageFolders>
-          <add key="Syncfusion® Toolbox Local NuGet Packages {version}" value="F:\Syncfusion" />
+          <add key="Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox Local NuGet Packages {version}" value="F:\Syncfusion" />
         </fallbackPackageFolders>
       </configuration>
    {% endhighlight %}
@@ -109,19 +109,19 @@ Use the following steps to add the Syncfusion® WPF controls through Syncfusion�
 	
 **step 3:**
    
-   Update extracted Syncfusion® NuGet package path in **value** attribute.
+   Update extracted Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package path in **value** attribute.
 	
    **Example:**
    ![Toolbox Installer](Toolbox-Configuration_images/NET_50_Toolbox_Package_update.png)
 	
 **step 4:**
    
-   Now restart the Visual Studio 2019 to get populate the latest Syncfusion® controls in Toolbox.
+   Now restart the Visual Studio 2019 to get populate the latest Syncfusion<sup style="font-size:70%">&reg;</sup> controls in Toolbox.
 
 
 ## Configuring toolbox for .NET Core 3.1 projects
 
-The Syncfusion® NuGet packages must be installed in the WPF .NET Core application before the Syncfusion® toolbox can be configured. The corresponding NuGet packages Syncfusion® components will be configured in Visual Studio toolbox after installing the Syncfusion® NuGet packages in.NET Core application. 
+The Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages must be installed in the WPF .NET Core application before the Syncfusion<sup style="font-size:70%">&reg;</sup> toolbox can be configured. The corresponding NuGet packages Syncfusion<sup style="font-size:70%">&reg;</sup> components will be configured in Visual Studio toolbox after installing the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages in.NET Core application. 
 
-Please refer the documentation [link](../../wpf/installation/install-nuget-packages), to learn more about how to use the Syncfusion® components using the Syncfusion® NuGet packages in .NET Core application.
+Please refer the documentation [link](../../wpf/installation/install-nuget-packages), to learn more about how to use the Syncfusion<sup style="font-size:70%">&reg;</sup> components using the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages in .NET Core application.
    
