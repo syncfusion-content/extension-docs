@@ -11,7 +11,7 @@ documentation: ug
 
 ### Read-Only Mode
 
-To prevent accidental edits to your files, you can enable Read-Only Mode.
+To prevent accidental changes to your files, you can enable Read-Only Mode.
 
 - **Enable/Disable via Status Bar**:
 
