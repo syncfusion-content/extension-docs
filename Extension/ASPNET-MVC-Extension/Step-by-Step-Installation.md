@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Step by Step Installation | Extension | Syncfusion   
-description: Step by Step Installation procedure to install Syncfusion  Web Sample Creator
+description: Step by Step installation procedure to easily install the Syncfusion Web Sample Creator on your system.
 platform: extension
 control: Syncfusion  Extensions
 documentation: ug
