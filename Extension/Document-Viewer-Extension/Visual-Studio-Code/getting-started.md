@@ -29,9 +29,9 @@ documentation: ug
 
 ---
 
-### Sort and Filter
+### Sort and Filter Data
 
-Use the filter icons in the column headers to sort and filter.
+Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
 
 **From column header:**
 
