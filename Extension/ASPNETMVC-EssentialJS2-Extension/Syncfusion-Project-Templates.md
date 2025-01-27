@@ -37,7 +37,7 @@ Use the following steps to create the **Syncfusion<sup style="font-size:70%">&re
 
     > In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC will be shown like below in solution explores.
 
-    ![Syncfusion<sup style="font-size:70%">&reg;</sup> MVC Project Wizard](images/SyncfusionMvcProjectWizard.png)
+    ![Syncfusion MVC Project Wizard](images/SyncfusionMvcProjectWizard.png)
 
 2. Name the **Project**, choose the destination location, and set the .NET Framework of the project, and then click **OK**. The Project Configuration Wizard appears.
 

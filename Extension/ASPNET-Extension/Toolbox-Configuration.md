@@ -27,7 +27,7 @@ To add the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Web Forms co
    **Option 2:**  
    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Web Forms (EJ1) > Toolbox Configuration...** in **Visual Studio**
 
-   ![Toolbox Installer via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox.png)
+   ![Toolbox Installer via Syncfusion menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox.png)
 
    N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
 

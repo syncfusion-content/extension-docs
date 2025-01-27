@@ -22,18 +22,18 @@ To migrate you’re existing Syncfusion<sup style="font-size:70%">&reg;</sup> AS
    **Option 1**   
    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Web Forms (EJ1) > Migrate Project…** in **Visual Studio**.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET Web Forms Project Migration via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](Upgrade-Project_images/Syncfusion_Menu_Project_Migration1.png)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Migration via Syncfusion menu](Upgrade-Project_images/Syncfusion_Menu_Project_Migration1.png)
 
    N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
 
    **Option 2**  
    Right-click the **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Application** from Solution Explorer and select **Syncfusion<sup style="font-size:70%">&reg;</sup> Web (Essential<sup style="font-size:70%">&reg;</sup> JS 1)**. Choose **Migrate the Essential<sup style="font-size:70%">&reg;</sup> JS 1 Project to Another version…**
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET Web Forms Project Migration add-in](Upgrade-Project_images/Project-Migration_img1.png)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Migration add-in](Upgrade-Project_images/Project-Migration_img1.png)
 
 2. The **Project Migration** window appears. You can choose the required Essential Studio<sup style="font-size:70%">&reg;</sup> version that is installed in the machine.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET Web Forms Project Migration wizard](Upgrade-Project_images/Project-Migration_img2.png)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Migration wizard](Upgrade-Project_images/Project-Migration_img2.png)
 
 3. The **Project Migration** window allows you to configure the following options:
 
@@ -45,7 +45,7 @@ To migrate you’re existing Syncfusion<sup style="font-size:70%">&reg;</sup> AS
    
 4. Click the **Migrate** Button. The **Project Backup** dialogue box appears. If you select **Yes** in the dialog, it will backup the current project before migrating the Syncfusion<sup style="font-size:70%">&reg;</sup> project. If you select **No**, the project will be migrated to the required Syncfusion<sup style="font-size:70%">&reg;</sup> version without a backup.
    
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET Web Forms Project Migration backup dialog](Upgrade-Project_images/Project-Migration_img4.png)
+   ![Syncfusion Essential JS 1 ASP.NET Web Forms Project Migration backup dialog](Upgrade-Project_images/Project-Migration_img4.png)
    
    
 5. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Assemblies, Scripts, and CSS, Web. Config entries in the project are updated to the corresponding version.
