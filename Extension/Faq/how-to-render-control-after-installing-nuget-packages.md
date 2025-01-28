@@ -3,11 +3,11 @@ layout: post
 title: How to render control after installing NuGet Packages | Extension | Syncfusion
 description: how to render control after installing nuget packages?
 platform: extension
-control: Syncfusion  Extensions
+control: Syncfusion Extensions
 documentation: ug
 ---
 
 # How to render control after installing NuGet Packages?
 
-Follow the steps provided in the given KB to render a control after installing Syncfusion<sup style="font-size:70%">&reg;</sup>  NuGet Packages. KB link: [http://www.syncfusion.com/kb/4077](http://www.syncfusion.com/kb/4077)
+Follow the steps provided in the given KB to render a control after installing Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Packages. KB link: [http://www.Syncfusion.com/kb/4077](http://www.Syncfusion.com/kb/4077)
 
