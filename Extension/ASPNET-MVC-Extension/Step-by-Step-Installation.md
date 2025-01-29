@@ -19,33 +19,33 @@ The following procedure illustrates how to install Syncfusion<sup style="font-si
 
 1. Double-click the Syncfusion<sup style="font-size:70%">&reg;</sup> Web Sample Creator Setup file. The Self-Extractor Wizard opens and extracts the package automatically.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Web Sample Creator Setup Self-Extractor Wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img1.jpeg)
+   ![Syncfusion Web Sample Creator Setup Self-Extractor Wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img1.jpeg)
 
    N> The WinZip Self-Extractor extracts the syncfusionwebsamplecreator_(version).exe dialog, displaying the unzip operation of the package.
 
    If complete Essential Studio<sup style="font-size:70%">&reg;</sup> suite or any of the required Essential Studio<sup style="font-size:70%">&reg;</sup> platform setups are installed, Syncfusion<sup style="font-size:70%">&reg;</sup> Web Sample Creator setup will be installed.
    
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Web Sample Creator setup installation wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img2.jpeg)
+   ![Syncfusion Web Sample Creator setup installation wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img2.jpeg)
 
    If complete Essential Studio<sup style="font-size:70%">&reg;</sup> suite or any of the required Essential Studio<sup style="font-size:70%">&reg;</sup> platform setups are not installed, Syncfusion<sup style="font-size:70%">&reg;</sup> Web Sample Creator setup will show the below message.
    
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Web Sample Creator setup validation message](Step-by-Step-Installation_images/Step-by-Step-Installation-img7.jpeg)
+   ![Syncfusion Web Sample Creator setup validation message](Step-by-Step-Installation_images/Step-by-Step-Installation-img7.jpeg)
 
 2. After reading the terms, click the I accept the terms and conditions check box. 
 
 3. Click the Next button. The Installation location window opens. It shows the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> setup installed location.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Web Sample Creator setup install location wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img4.jpeg)
+   ![Syncfusion Web Sample Creator setup install location wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img4.jpeg)
 
    N> It does not allow you to change the install path since its Add on setup for Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
 4. To install it in the displayed default location, click the Install button.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Web Sample Creator setup installation progress](Step-by-Step-Installation_images/Step-by-Step-Installation-img5.jpeg)
+   ![Syncfusion Web Sample Creator setup installation progress](Step-by-Step-Installation_images/Step-by-Step-Installation-img5.jpeg)
 
 5. The Completed screen will be displayed once the selected package is installed.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Web Sample Creator setup installation completed wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img6.jpeg)
+   ![Syncfusion Web Sample Creator setup installation completed wizard](Step-by-Step-Installation_images/Step-by-Step-Installation-img6.jpeg)
 
 5. Select the `Run Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel` check box to launch the `Syncfusion<sup style="font-size:70%">&reg;</sup> Control Panel` after installed.
 

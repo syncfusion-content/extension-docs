@@ -19,29 +19,29 @@ The following steps directs you to add the Syncfusion<sup style="font-size:70%">
 
 1. Run the SyncfusionNuGetManager.exe from Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Manager extracted location. 
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Manager extracted location](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img1.png)
+   ![Syncfusion NuGet Manager extracted location](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img1.png)
 
 2. Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Manager Window will be opened.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Manager main window](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img2.png)
+   ![Syncfusion NuGet Manager main window](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img2.png)
 
 3. Select the required platforms needed to be configured from “Select platforms to add” (Left side of the window) column and click Add>> button.
 
-   ![Selected platforms NuGet feed configure option in Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Manager](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img3.png)
+   ![Selected platforms NuGet feed configure option in Syncfusion NuGet Manager](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img3.png)
 
 4. Now selected platforms will be added under “Selected platforms to remove” (Right side of the window) column. Click “Configure” button to add the required Syncfusion<sup style="font-size:70%">&reg;</sup> Package sources to NuGet Package Manager.
 
-   ![Selected platforms NuGet feed remove option in Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Manager](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img4.png)
+   ![Selected platforms NuGet feed remove option in Syncfusion NuGet Manager](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img4.png)
 
 5. Once Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Manager added the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet sources, the changes will be reflected in package sources of your Visual Studio. 
 
-   ![NuGet package manager dialog with Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet feeds](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img5.png)
+   ![NuGet package manager dialog with Syncfusion NuGet feeds](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img5.png)
 
 ## Remove Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Package sources 
 
 1. If any configured Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Package sources are no longer required, Select the unwanted platforms from “Select platforms to remove” (Right side of the window) column and click <<Remove button. 
 
-   ![Remove option in Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Manager to remove the already configured Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet feed](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img6.png)   
+   ![Remove option in Syncfusion NuGet Manager to remove the already configured Syncfusion NuGet feed](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img6.png)   
 
 2. Now selected platforms will be added under “Selected platforms to add” (Left side of the window) column. Click “Configure” button to remove the required Syncfusion<sup style="font-size:70%">&reg;</sup> Package sources to NuGet Package Manager.
 
@@ -57,7 +57,7 @@ The following steps directs you to use the Syncfusion<sup style="font-size:70%">
 
 3. Run SyncfusionNuGetManager.exe with required platforms arguments. Refer the below table for platform as arguments to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Packages sources. 
 
-   ![Command to add Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet feed](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img8.jpeg)
+   ![Command to add Syncfusion NuGet feed](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img8.jpeg)
 
 **Add**
 
@@ -152,5 +152,5 @@ Here the list of keyword for platform keys to access.
 
 4. Once Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Manager removed the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet sources, the changes will be reflected in NuGet.config file of your machine and updated the same in available package sources of your Visual Studio. 
 
-   ![NuGet package manager dialog with Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet feeds](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img5.png)
+   ![NuGet package manager dialog with Syncfusion NuGet feeds](SyncfusionNuGetManager_images/SyncfusionNuGetManager-img5.png)
 

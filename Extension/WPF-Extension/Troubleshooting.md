@@ -25,17 +25,17 @@ The steps below will assist you in using the Syncfusion<sup style="font-size:70%
    **Option 1**  
    Open an existing Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Application, Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for WPF > Troubleshoot…** in Visual Studio.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter.png)
+   ![Syncfusion Troubleshooter via Syncfusion menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter.png)
 
    N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter_2019.png)
+   ![Syncfusion Troubleshooter via Syncfusion menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter_2019.png)
 
 
    **Option 2**  
    **Right-click the Project file in Solution Explorer**, then select the command **Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter…**
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter add-in](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img1_2019.png)
+   ![Syncfusion Troubleshooter add-in](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img1_2019.png)
 
 2. Analyze the project now, and if any Syncfusion<sup style="font-size:70%">&reg;</sup> controls project configuration errors are discovered, they will be reported in the Troubleshooter dialog.  If there are no configuration issues with the project, the dialog box will indicate that no modifications are required in the following areas:
 
@@ -89,13 +89,13 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter addressed fo
 
    **For Instance:** Syncfusion<sup style="font-size:70%">&reg;</sup> WPF platform packages installed multiple version (v16.4.0.54 & v17.1.0.38), Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter will be shown Syncfusion<sup style="font-size:70%">&reg;</sup> package version mismatched.
  
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Packages version mismatched issue shown in Troubleshooter wizard](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img7.png)
+   ![Syncfusion NuGet Packages version mismatched issue shown in Troubleshooter wizard](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img7.png)
 
 2. Installed Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package’s Framework version is differing from the project’s .NET Framework version.
 
    **For Instance:** If “Syncfusion.SfBulletGraph.WPF40” NuGet package version(v15.4.0.17 with 4.0 Framework) installed in project, But the project .NET Framework version is 4.5. So, the Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter will show Syncfusion<sup style="font-size:70%">&reg;</sup> package Framework version is mismatched.
   
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages Framework version mismatched issue shown in Troubleshooter wizard](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img8.png)
+   ![Syncfusion NuGet packages Framework version mismatched issue shown in Troubleshooter wizard](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img8.png)
 
 3. Dependent NuGet package of the installed Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages is missing.
 
@@ -113,28 +113,28 @@ In Syncfusion<sup style="font-size:70%">&reg;</sup> projects, the Syncfusion<sup
 
    **For Instance:** If latest Syncfusion<sup style="font-size:70%">&reg;</sup> assembly reference version is v17.1.0.38 but Toolbox assemblies configured v17.1.0.32, the Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter will show Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox version mismatched.
  
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox Framework version mismatched issue shown in Troubleshooter wizard](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img10.png)
+   ![Syncfusion Toolbox Framework version mismatched issue shown in Troubleshooter wizard](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img10.png)
 
 2. If the configured version of Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox differs from the latest Syncfusion<sup style="font-size:70%">&reg;</sup> assembly reference version or NuGet package version in the same project, the Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter will indicate that the Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox version is mismatched.
 
    **For Instance:** If latest Syncfusion<sup style="font-size:70%">&reg;</sup> assembly reference version is v17.1.0.38 but Toolbox assemblies configured v17.1.0.32, the Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter will show Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox version mismatched.
   
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Toolbox version mismatched issue shown in Troubleshooter wizard](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img11.png)
+   ![Syncfusion Toolbox version mismatched issue shown in Troubleshooter wizard](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img11.png)
 
 ## Apply the solution
 
 1. After loading the Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter dialog, check the corresponding check box of the issue to be resolved. Then click the “Fix Issue(s)” button. 
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter wizard with project configuration issues](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img12.png)
+   ![Syncfusion Troubleshooter wizard with project configuration issues](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img12.png)
 
 2. A dialog appears, which will ask to take a backup of the project before performing the troubleshooting process. If you need to backup the project before troubleshooting, click “Yes” button. 
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter backup dialog](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img13.jpeg)
+   ![Syncfusion Troubleshooter backup dialog](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img13.jpeg)
 
 3. Wait for a while, the Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter is resolving the selected issues. After the troubleshooting process completed, there will be a status message in the Visual Studio status bar as “Troubleshooting process completed successfully”.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter process success status message in visual studio status bar](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img14.jpeg)
+   ![Syncfusion Troubleshooter process success status message in visual studio status bar](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img14.jpeg)
 
 4. Then, Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://blog.Syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.   
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> license registration required information dialog in Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img15.jpeg)
+   ![Syncfusion license registration required information dialog in Syncfusion Troubleshooter](SyncfusionTroubleshooter_images/SyncfusionTroubleshooter-img15.jpeg)

@@ -13,7 +13,7 @@ Perform the given steps to ensure whether the Syncfusion<sup style="font-size:70
 
 1. Navigate to the following location:
 
-   _{Syncfusion<sup style="font-size:70%">&reg;</sup> installed location}\Utilities\Extensions\ASP.NET MVC_
+   _{Syncfusion installed location}\Utilities\Extensions\ASP.NET MVC_
 
    _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\ASP.NET MVC._
 
@@ -21,7 +21,7 @@ Perform the given steps to ensure whether the Syncfusion<sup style="font-size:70
 
 
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img1.png)
+   ![Syncfusion Installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img1.png)
 
 
 2. When the above path exists, it means that the ASP.NET MVC Extension build has already been installed in the machine. So now you can install the following Syncfusion<sup style="font-size:70%">&reg;</sup>
@@ -32,24 +32,24 @@ Perform the given steps to ensure whether the Syncfusion<sup style="font-size:70
    ## To Install Syncfusion<sup style="font-size:70%">&reg;</sup> Project Templates: 
    Navigate to the following location and run the “Syncfusion.MVC.VSPackage.Web.vsix” extension.
 
-   _{Syncfusion<sup style="font-size:70%">&reg;</sup> Build installed location}\Utilities\Extensions\ASP.NET MVC\Project Templates\Web\{Visual Studio Version}_
+   _{Syncfusion Build installed location}\Utilities\Extensions\ASP.NET MVC\Project Templates\Web\{Visual Studio Version}_
    Refer the following screenshot.
 
    _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\ASP.NET MVC\Project Templates\Web\VS2017_
 
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img2.png)
+   ![Syncfusion Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img2.png)
 
    ## To Install Syncfusion<sup style="font-size:70%">&reg;</sup> Visual Studio Extension:
    Navigate to the following Location and run the “Syncfusion<sup style="font-size:70%">&reg;</sup> Web Conversion and Migration.vsix” extension. 
 
-   _{Syncfusion<sup style="font-size:70%">&reg;</sup> Build installed location}\Utilities\Extensions\Project Conversion\{Visual Studio Version}_
+   _{Syncfusion Build installed location}\Utilities\Extensions\Project Conversion\{Visual Studio Version}_
    Refer the following screenshot.
 
    _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\Project Conversion\VS2017_
 
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Visual Studio extension VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img3.png)
+   ![Syncfusion Visual Studio extension VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img3.png)
 
 
 

@@ -42,18 +42,18 @@ The following steps help you use the Syncfusion<sup style="font-size:70%">&reg;<
    **Option 1:**  
    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET MVC (EJ1) > Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Application…** in **Visual Studio**.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Web Project Conversion via Synfusion<sup style="font-size:70%">&reg;</sup> menu](Convert-into-Syncfusion-MVC-project_images/Syncfusion_Menu_Project_Conversion.png)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion via Synfusion menu](Convert-into-Syncfusion-MVC-project_images/Syncfusion_Menu_Project_Conversion.png)
 
    N> In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu available under Extension in Visual Studio menu.
 
    **Option 2:**  
    Right-click the Project from Solution Explorer, select **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1**, and choose **Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 1) Application...** Refer to the following screenshot for more information.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Web Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img1.png)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img1.png)
 
 3. Project Conversion Wizard opens so that you can configure the project.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Web Project Conversion wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img2.jpg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img2.jpg)
 
    The following configurations are used in the Project Conversion Wizard.
    
@@ -77,7 +77,7 @@ The following steps help you use the Syncfusion<sup style="font-size:70%">&reg;<
 
    The master page of the project will be updated based on required Syncfusion<sup style="font-size:70%">&reg;</sup> CDN links.
    
-   ![Choose CDN Support to refer the Syncfusion<sup style="font-size:70%">&reg;</sup> assets from CDN for ASP.NET MVC project](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img20.jpeg)
+   ![Choose CDN Support to refer the Syncfusion assets from CDN for ASP.NET MVC project](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img20.jpeg)
    
    **Choose Copy Global Resources:**
     
@@ -87,20 +87,20 @@ The following steps help you use the Syncfusion<sup style="font-size:70%">&reg;<
 
 4. Choose the required controls from Components section and Click the **Convert** button to convert it into a Syncfusion Project.
 
-   ![Select the required components from the Components section in the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project Conversion Wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img5.jpg)
+   ![Select the required components from the Components section in the Syncfusion ASP.NET MVC Project Conversion Wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img5.jpg)
    
 5. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before converting it to Syncfusion<sup style="font-size:70%">&reg;</sup> project. If click No it will convert the project to Syncfusion<sup style="font-size:70%">&reg;</sup> project without backup. 
    
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Web Project Conversion backup dialog](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img6.jpg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web Project Conversion backup dialog](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img6.jpg)
 
 
 6. The required Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC scripts and themes](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img7.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC scripts and themes](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img7.jpeg)
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC required reference assemblies](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img8.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC required reference assemblies](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img8.jpeg)
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Web.config entries](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img9.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Web.config entries](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img9.jpeg)
 
 6. If you installed the trial setup or NuGet packages from nuget.org you have to register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
@@ -112,11 +112,11 @@ The following steps help you use the Syncfusion<sup style="font-size:70%">&reg;<
 
 2. Right-click on Project and select Syncfusion<sup style="font-size:70%">&reg;</sup> VS Extensions and choose the Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> MVC (Web) Application. Refer the following screenshot for more information.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Mobile Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img10.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion add-in](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img10.jpeg)
 
 3. Project Conversion Wizard opens so that you can configure the project.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Mobile Project Conversion wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img11.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project Conversion wizard](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img11.jpeg)
 
    The following configurations are used in the Project Conversion Wizard.
 
@@ -140,7 +140,7 @@ The following steps help you use the Syncfusion<sup style="font-size:70%">&reg;<
 
    The master page of the project will be updated based on required Syncfusion<sup style="font-size:70%">&reg;</sup> CDN links.
    
-   ![Choose CDN Support to refer the Syncfusion<sup style="font-size:70%">&reg;</sup> assets from CDN for ASP.NET MVC Mobile project](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img20.jpeg)
+   ![Choose CDN Support to refer the Syncfusion assets from CDN for ASP.NET MVC Mobile project](Convert-into-Syncfusion-MVC-project_images/Project-Conversion-img20.jpeg)
    
    **Choose Copy Global Resources:**
     
@@ -152,13 +152,13 @@ The following steps help you use the Syncfusion<sup style="font-size:70%">&reg;<
 
 5. The required Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Assemblies, Scripts and CSS are included in the MVC Project. Refer to the following screenshots for more information.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Mobile Project required reference assemblies](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img13.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project required reference assemblies](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img13.jpeg)
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Mobile Project required scripts](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img14.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project required scripts](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img14.jpeg)
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Mobile Project required themes](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img15.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Mobile Project required themes](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img15.jpeg)
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> assembly reference entry in Webconfig file of the Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Mobile Project](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img16.jpeg)
+   ![Syncfusion assembly reference entry in Webconfig file of the Essential JS 1 ASP.NET MVC Mobile Project](Convert-into-Syncfusion-MVC-project_images/ProjectConversion-img16.jpeg)
 
 ## Rendering Control after Syncfusion<sup style="font-size:70%">&reg;</sup> MVC (Web/Mobile) Conversion:
 
@@ -171,9 +171,9 @@ Once you convert your ASP.NET MVC project to Syncfusion<sup style="font-size:7
 
 3. Now, include the Syncfusion<sup style="font-size:70%">&reg;</sup> controls to your project. Refer to the following screenshot for more information.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC datepicker control snippet](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img18.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC datepicker control snippet](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img18.jpeg)
 
 4. Run the project and the following output is displayed.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC datepicker control output](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img19.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC datepicker control output](Convert-into-Syncfusion-MVC-project_images\ProjectConversion-img19.jpeg)
 
