@@ -37,4 +37,4 @@ While using Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package of ve
 
    N> You should provide the unlock key which is started with "@" and ended with "=" as a parameter for this Syncfusion<sup style="font-size:70%">&reg;</sup> License tool.
 
-   ![Command for register the Syncfusion<sup style="font-size:70%">&reg;</sup> Unlock key](Register-the-Syncfusion-License-key_images/Register-the-Syncfusion-License-key-img1.png)
+   ![Command for register the Syncfusion Unlock key](Register-the-Syncfusion-License-key_images/Register-the-Syncfusion-License-key-img1.png)

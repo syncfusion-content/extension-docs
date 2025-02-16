@@ -25,11 +25,11 @@ The following steps explain you how to add a scaffolded item to your ASP.NET Cor
 
  1. Right-click the **Controllers** folder in the Solution Explorer, click **Add**, and then select **New Scaffolded Item…**
 
-    ![Syncfusion<sup style="font-size:70%">&reg;</sup> Scaffolded add-in](images/Scaffolding_Add_Item1.png)
+    ![Syncfusion Scaffolded add-in](images/Scaffolding_Add_Item1.png)
 
  2. In the **Add Scaffold dialog**, select **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core UI Scaffolder**, and then click **‘Add’**.
 
-    ![Choose Syncfusion<sup style="font-size:70%">&reg;</sup> Scaffolding from Visual Studio Add scaffold dialog](images/Scaffolding_Add_Item2.png)
+    ![Choose Syncfusion Scaffolding from Visual Studio Add scaffold dialog](images/Scaffolding_Add_Item2.png)
 
  3. In the Syncfusion<sup style="font-size:70%">&reg;</sup> UI Scaffolder dialog, select the desired Syncfusion<sup style="font-size:70%">&reg;</sup> control to perform scaffolding, and then click **Next**.
 

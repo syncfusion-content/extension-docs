@@ -23,15 +23,15 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following exte
 
 **No project selected in Visual Studio**
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Menu when No project selected in Visual Studio](Overview-images/Syncfusion_Menu_OverView1.png)
+![Syncfusion Menu when No project selected in Visual Studio](Overview-images/Syncfusion_Menu_OverView1.png)
 
 **Selected Microsoft ASP.NET MVC application in Visual Studio**
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Menu when Selected Microsoft ASP.NET MVC application in Visual Studio](Overview-images/Syncfusion_Menu_OverView2.png)
+![Syncfusion Menu when Selected Microsoft ASP.NET MVC application in Visual Studio](Overview-images/Syncfusion_Menu_OverView2.png)
 
 **Selected Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS1) application in Visual Studio**
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Menu when Selected Synfusion ASP.NET MVC EJ1 application in Visual Studio](Overview-images/Syncfusion_Menu_OverView3.png)
+![Syncfusion Menu when Selected Synfusion ASP.NET MVC EJ1 application in Visual Studio](Overview-images/Syncfusion_Menu_OverView3.png)
 
 N> In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu available under Extension in Visual Studio menu.
 

@@ -22,11 +22,11 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following exte
 
 **No project selected in Visual Studio**
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Menu when No project selected in Visual Studio](Overview-images/Syncfusion_Menu_OverView1.png)
+![Syncfusion Menu when No project selected in Visual Studio](Overview-images/Syncfusion_Menu_OverView1.png)
 
 **Selected Syncfusion<sup style="font-size:70%">&reg;</sup> UWP application in Visual Studio**
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Menu when Selected Syncfusion<sup style="font-size:70%">&reg;</sup> UWP application in Visual Studio](Overview-images/Syncfusion_Menu_OverView2.png)
+![Syncfusion Menu when Selected Syncfusion UWP application in Visual Studio](Overview-images/Syncfusion_Menu_OverView2.png)
 
 N> In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu available under Extension in Visual Studio menu.
 

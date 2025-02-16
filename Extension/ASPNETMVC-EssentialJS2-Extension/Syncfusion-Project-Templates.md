@@ -23,7 +23,7 @@ Use the following steps to create the **Syncfusion<sup style="font-size:70%">&re
 
     Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET MVC (EJ2) > Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project…** in **Visual Studio 2019 earlier**.
 
-    ![create new syncfusion<sup style="font-size:70%">&reg;</sup> project](images/new-syncfusion-project.png)
+    ![create new syncfusion project](images/new-syncfusion-project.png)
 
     > From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extension in Visual Studio menu.
 
@@ -33,11 +33,11 @@ Use the following steps to create the **Syncfusion<sup style="font-size:70%">&re
 
     Choose **File > New > Project** and navigate to **Syncfusion<sup style="font-size:70%">&reg;</sup> > Web > Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Application** in **Visual Studio 2019 earlier**.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> asp.net mvc](images/syncfusion-aspmvc-application.png)
+    ![syncfusion asp.net mvc](images/syncfusion-aspmvc-application.png)
 
     > In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC will be shown like below in solution explores.
 
-    ![Syncfusion<sup style="font-size:70%">&reg;</sup> MVC Project Wizard](images/SyncfusionMvcProjectWizard.png)
+    ![Syncfusion MVC Project Wizard](images/SyncfusionMvcProjectWizard.png)
 
 2. Name the **Project**, choose the destination location, and set the .NET Framework of the project, and then click **OK**. The Project Configuration Wizard appears.
 
@@ -67,4 +67,4 @@ Use the following steps to create the **Syncfusion<sup style="font-size:70%">&re
 
 5. Then, the Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown, if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/whats-new-in-2018-volume-2-licensing-changes-in-the-1620x-version-of-essential-studio.aspx) post to learn more about the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> license](images/syncfusion-license.png)
+    ![syncfusion license](images/syncfusion-license.png)

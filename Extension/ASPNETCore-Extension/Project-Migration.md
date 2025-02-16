@@ -24,18 +24,18 @@ The following steps help you to migrate your existing Syncfusion<sup style="font
    **Option 1:**  
    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core (EJ1) > Migrate Project…** in **Visual Studio**.
    
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET Core Project Migration via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](Project-Migration_images/Syncfusion_Menu_Project_Migration.png)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Migration via Syncfusion menu](Project-Migration_images/Syncfusion_Menu_Project_Migration.png)
 
    N> In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu available under Extension in Visual Studio menu.
    
    **Option 2:**  
    Right-click the **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Web Application** from Solution Explorer and select **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1**. Choose **Migrate the Essential<sup style="font-size:70%">&reg;</sup> JS 1 Project to Another Version...**
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET Core Project Migration add-in](Project-Migration_images/Project-Migration_img1.png)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Migration add-in](Project-Migration_images/Project-Migration_img1.png)
 
 2. The **Project Migration** window appears. You can choose the required Essential Studio<sup style="font-size:70%">&reg;</sup> version that is installed in the machine. 
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET Core Project Migration window](Project-Migration_images/Project-Migration-img2.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Migration window](Project-Migration_images/Project-Migration-img2.jpeg)
 
 3. The **Project Migration** window allows you to configure the following options:
 
@@ -45,7 +45,7 @@ The following steps help you to migrate your existing Syncfusion<sup style="font
    
 4. Click the Migrate Button. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before migrate the Syncfusion<sup style="font-size:70%">&reg;</sup> project. If click No it will migrate the project to required Syncfusion<sup style="font-size:70%">&reg;</sup> version without backup
    
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET Core Project Migration backup dialog](Project-Migration_images/Project-Migration-img3.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET Core Project Migration backup dialog](Project-Migration_images/Project-Migration-img3.jpeg)
       
 5. The Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet/Bower Packages, Scripts and CSS are updated to the corresponding version in the project.
 
