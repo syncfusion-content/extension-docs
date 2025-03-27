@@ -24,6 +24,6 @@ The following steps help you install the Syncfusion<sup style="font-size:70%">&r
 
    Refer to the following screenshot for more information.
 
-   ![Command line arguments to install Syncfusion<sup style="font-size:70%">&reg;</sup> web sample creator from command prompt](Command-Line-installation_images/Command-Line-installation-img1.png)
+   ![Command line arguments to install Syncfusion web sample creator from command prompt](Command-Line-installation_images/Command-Line-installation-img1.png)
 
 I> The syncfusionessentialextension.exe setup has renamed to syncfusionwebsamplecreator.exe from 2015 Volume 4 release.

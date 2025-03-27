@@ -11,7 +11,7 @@ documentation: ug
 
 Project Migration is a Visual Studio add-in that helps migrate the existing Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Web), Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Mobile) Or Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Classic) project from one Syncfusion<sup style="font-size:70%">&reg;</sup> version to another Syncfusion<sup style="font-size:70%">&reg;</sup> version.
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utility is included here,
+Syncfusion ASP.NET MVC and ASP.NET MVC (Classic) Project Migration Utility is included here,
 
 * Essential Studio<sup style="font-size:70%">&reg;</sup> for Enterprise Edition with the platforms ASP.NET MVC or ASP.NET MVC(Classic)
 * Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET MVC
@@ -40,18 +40,18 @@ The following steps help you migrate from one version to another version of your
    **Option 1:**  
    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET MVC (EJ1) > Migrate Project…** in **Visual Studio**.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Project Migration via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](Migrate-Syncfusion-Project_images/SyncfusionMenu_ProjectMigration_img.png)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration via Syncfusion menu](Migrate-Syncfusion-Project_images/SyncfusionMenu_ProjectMigration_img.png)
 
    N> In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu available under Extension in Visual Studio menu.
 
    **Option 2:**  
    Right-click the **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Application** from Solution Explorer and select **Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1**. Choose **Migrate the Essential<sup style="font-size:70%">&reg;</sup> JS 1 Project to Another Version...**
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Project Migration add-in](Migrate-Syncfusion-Project_images/ProjectMigration_img.png)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration add-in](Migrate-Syncfusion-Project_images/ProjectMigration_img.png)
 
 2. The Project Migration window appears. You can choose the required Syncfusion<sup style="font-size:70%">&reg;</sup> version that is installed in the machine that is either Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC or Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Classic).
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Project Migration wizard](Migrate-Syncfusion-Project_images/ProjectMigration-img2.jpeg)
+   ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration wizard](Migrate-Syncfusion-Project_images/ProjectMigration-img2.jpeg)
 
 3. The Project Migration window allows you to configure the following options:
 
@@ -65,7 +65,7 @@ The following steps help you migrate from one version to another version of your
 
 4. Click the Migrate Button. The **Project Backup** dialog will be opened. If click Yes it will backup the current project before migrate the Syncfusion<sup style="font-size:70%">&reg;</sup> project. If click No it will migrate the project to required Syncfusion<sup style="font-size:70%">&reg;</sup> version without backup. 
 
-     ![Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 1 ASP.NET MVC Project Migration backup dialog](Migrate-Syncfusion-Project_images/ProjectMigration-img3.jpeg)
+     ![Syncfusion Essential JS 1 ASP.NET MVC Project Migration backup dialog](Migrate-Syncfusion-Project_images/ProjectMigration-img3.jpeg)
       
 5. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Assemblies, Scripts and CSS are updated to the corresponding version in the project.
 

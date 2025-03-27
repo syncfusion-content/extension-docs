@@ -25,18 +25,18 @@ Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project using th
 	**Option 1:**  
 	Click **Syncfusion<sup style="font-size:70%">&reg;</sup>** Menu and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for WPF > Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project…**  in **Visual Studio**.
     
-	![Choose Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Application from Visual Studio new project dialog via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](Project-Template-images/Syncfusion-Menu.png)
+	![Choose Syncfusion WPF Application from Visual Studio new project dialog via Syncfusion menu](Project-Template-images/Syncfusion-Menu.png)
 
 	N> In Visual Studio 2015 or lower, you can see the  Syncfusion<sup style="font-size:70%">&reg;</sup> menu directly in the Visual Studio menu.
 
 	**Option 2:**   
 	Choose **File -> New -> Project**. Opens a new dialog to create a new project. By filtering the project type with Syncfusion<sup style="font-size:70%">&reg;</sup> or using the Syncfusion<sup style="font-size:70%">&reg;</sup> keyword in the search option, you can get the templates offered by Syncfusion<sup style="font-size:70%">&reg;</sup> for WPF.
 
-	![Choose Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Application from Visual Studio new project dialog](Project-Template-images/Syncfusion-Project-Template-Gallery2019-1.png)
+	![Choose Syncfusion WPF Application from Visual Studio new project dialog](Project-Template-images/Syncfusion-Project-Template-Gallery2019-1.png)
 
 	In Visual Studio 2015 or lower, Select **File > New > Project** and navigate to **Syncfusion<sup style="font-size:70%">&reg;</sup> > Windows > Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Application** in Visual Studio. 
 
-	![Choose Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Application from Visual Studio new project dialog](Project-Template-images/Syncfusion-Project-Template-Gallery-1.png)
+	![Choose Syncfusion WPF Application from Visual Studio new project dialog](Project-Template-images/Syncfusion-Project-Template-Gallery-1.png)
 
 2.	Name the **Project**, select the destination location when required, and specify the Framework of the project, then click **OK**.  
 
@@ -44,11 +44,11 @@ Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project using th
 
 3.	Using the following Project Configuration Wizard, choose the options to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Application.  
   
-	![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project configuration wizard](Project-Template-images/Syncfusion-Project-Template-Gallery2019-2.png)
+	![Syncfusion WPF project configuration wizard](Project-Template-images/Syncfusion-Project-Template-Gallery2019-2.png)
                                                  
 	In Visual Studio 2015 or lower, Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Application project configuration wizard. 
 
-	![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project configuration wizard](Project-Template-images/Syncfusion-Project-Template-Gallery-2.png)
+	![Syncfusion WPF project configuration wizard](Project-Template-images/Syncfusion-Project-Template-Gallery-2.png)
 
 	**Project Configurations**
 
@@ -74,12 +74,12 @@ Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project using th
       
 4.	After choosing above project configuration options in the Project Configuration Wizard, click the create button then Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project is created with the necessary XAML files and required Syncfusion<sup style="font-size:70%">&reg;</sup> WPF assemblies/NuGet packages. 
 
-	![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project created with required Syncfusion<sup style="font-size:70%">&reg;</sup> WPF assemblies](Project-Template-images/Syncfusion-Project-Template-Gallery-7.png)
+	![Syncfusion WPF project created with required Syncfusion WPF assemblies](Project-Template-images/Syncfusion-Project-Template-Gallery-7.png)
 
-	![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project created with required Syncfusion<sup style="font-size:70%">&reg;</sup> XAML files](Project-Template-images/Syncfusion-Project-Template-Gallery-8.png)
+	![Syncfusion WPF project created with required Syncfusion XAML files](Project-Template-images/Syncfusion-Project-Template-Gallery-8.png)
 
-	![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project created with readme](Project-Template-images/Syncfusion-Project-Template-Gallery-10.png)
+	![Syncfusion WPF project created with readme](Project-Template-images/Syncfusion-Project-Template-Gallery-10.png)
 
 5.	Then, Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://www.Syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-	![Syncfusion<sup style="font-size:70%">&reg;</sup> license registration required information dialog in Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project](Project-Template-images/Syncfusion-Project-Template-Gallery-9.png)   
+	![Syncfusion license registration required information dialog in Syncfusion WPF project](Project-Template-images/Syncfusion-Project-Template-Gallery-9.png)   

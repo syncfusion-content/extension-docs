@@ -30,7 +30,7 @@ The steps below assist you to how to install the Syncfusion<sup style="font-size
 7.	When the installation is finished, launch the Visual Studio.
 8.	Now, you can use the Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from Visual Studio under the Extensions menu.
 	
-	![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Menu](Download-and-Installation-images/SyncfusionWpfMenu.png)
+	![Syncfusion WPF Menu](Download-and-Installation-images/SyncfusionWpfMenu.png)
 
 ##	Install from the Visual Studio Marketplace
 
@@ -44,4 +44,4 @@ The steps below illustrate how to download and install the Syncfusion<sup style=
 4.	Click the **Install** button.
 5.	After the installation is complete, open Visual Studio 2019. You can now use Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from the Visual Studio under the Extensions menu.
 	
-	![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Menu](Download-and-Installation-images/SyncfusionWpfMenu.png)
+	![Syncfusion WPF Menu](Download-and-Installation-images/SyncfusionWpfMenu.png)
