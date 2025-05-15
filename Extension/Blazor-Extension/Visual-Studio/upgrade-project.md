@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Migration | Blazor | Syncfusion
-description: Project Migration is a add-in that helps migrate existing Syncfusion Blazor project from one Syncfusion version to another version
+description: Lean all about the project migration add-in for Visual Studio that helps you migrate existing Syncfusion Blazor projects from one Syncfusion version to another.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
