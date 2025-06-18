@@ -1,57 +1,57 @@
 ---
 layout: post
-title: Template Studio | Blazor | Syncfusion
-description: Syncfusion provides the Blazor Template Studio for Blazor platform to create the Syncfusion Blazor Application using Syncfusion components
+title: Template Studio in Blazor - Syncfusion
+description: Learn here about how to create the Blazor application using Syncusion® Blazor Components with the help of template studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio
+# Syncfusion® Blazor Template Studio
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Blazor Template Studio, which allows you to create a Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application with Syncfusion<sup style="font-size:70%">&reg;</sup> components. The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor app is created with the required component Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion<sup style="font-size:70%">&reg;</sup> components.
+Syncfusion® provides the Blazor Template Studio, which allows you to create a Syncfusion Blazor application using Syncfusion® components. The Syncfusion® Blazor app is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® components.
 
-The steps below will assist you to create your **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Application** through **Visual Studio 2022**:
+The steps below will assist you to create your **Syncfusion® Blazor Application** through **Visual Studio 2022**:
 
-> **Note:** The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Extensions for Visual Studio 2019 are available on Essential Studio<sup style="font-size:70%">&reg;</sup> release "20.3.0.56" and below.
+> **Note:** The Syncfusion® Blazor Extensions for Visual Studio 2019 are available on Essential Studio® release "20.3.0.56" and below.
 
-> Before use the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Project Template, check whether the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://blazor.Syncfusion.com/documentation/visual-studio-integration/visual-studio-extensions/download-and-installation/) help topic.
+N> Before use the Syncfusion® Blazor Project Template, check whether the Syncfusion® Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/download-and-installation) help topic.
 
 1. Open Visual Studio 2022.
 
-2. To create a Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application, use either one of the following options:
+2. To create a Syncfusion® Blazor application, use either one of the following options:
 
      **Option 1**
 
-     Choose **Extension -> Syncfusion<sup style="font-size:70%">&reg;</sup> -> Essential Studio<sup style="font-size:70%">&reg;</sup> for Blazor -> Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project...** from the **Visual Studio menu**.
+     Choose **Extension -> Syncfusion -> Essential Studio® for Blazor -> Create New Syncfusion Project...** from the **Visual Studio menu**.
 
-     ![CreateMenu](images/CreateMenu.png)
+     ![CreateMenu](images/createmenu.png)
 
      **Option 2**
 
-     Choose **File -> New -> Project** from the menu. This launches a new dialogue for creating a new application. Syncfusion<sup style="font-size:70%">&reg;</sup> templates for Blazor can be found by filtering the application type for **Syncfusion<sup style="font-size:70%">&reg;</sup>** or by entering **Syncfusion<sup style="font-size:70%">&reg;</sup>** as a keyword in the search option.
+     Choose **File -> New -> Project** from the menu. This launches a new dialogue for creating a new application. Syncfusion® templates for Blazor can be found by filtering the application type for **Syncfusion** or by entering **Syncfusion** as a keyword in the search option.
 
-     ![CreateNewWindow](images/CreateNewWindow.png)
+     ![CreateNewWindow](images/createnewwindow.png)
 
-3. Select the **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio** and click **Next**.
+3. Select the **Syncfusion® Blazor Template Studio** and click **Next**.
 
-     ![CreateNewWizard](images/CreateNewWizard.png)
+     ![CreateNewWizard](images/createnewwizard.png)
 
-4. The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio wizard will be launched to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor app.
+4. The Syncfusion® Blazor Template Studio wizard will be launched to configure the Syncfusion Blazor app.
 
-     > **Note:** Refer to the .NET SDK support for Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Components [here](https://blazor.Syncfusion.com/documentation/system-requirements#net-sdk).
+     > **Note:** Refer to the .NET SDK support for Syncfusion Blazor Components [here](https://blazor.syncfusion.com/documentation/system-requirements#net-sdk).
 
      **Project type section**
 
-     Choose one of the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application types based on the version of the .NET SDK you are using.
+     Choose one of the Syncfusion® Blazor application types based on the version of the .NET SDK you are using.
 
-    | .NET SDK version | Supported Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Application Type |
-    | ------------- | ------------- |
-    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Web App |
-    | [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0), [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App |
-    | [.NET 7.0](https://dotnet.microsoft.com/en-us/download/dotnet/7.0), [.NET 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Server App |
+    | .NET SDK version | Supported Syncfusion Blazor Application Type |
+    | ---------------- | -------------------------------------------- |
+    | [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor Web App |
+    | [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor WebAssembly App |
 
-    In the **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Web App** application type, you can configure the following options:
+
+    In the **Syncfusion Blazor Web App** application type, you can configure the following options:
 
     <table>
     <tbody>
@@ -74,99 +74,64 @@ The steps below will assist you to create your **Syncfusion<sup style="font-size
     </tbody>
     </table>
 
-    ![WebAppTemplate](images/WebAppTemplate.png)
+    ![WebAppTemplate](images/webapptemplate.png)
 
-     In the **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App** application type, you can choose ASP.NET Core hosted, Progressive Web Application, or both.
+     In the **Syncfusion Blazor WebAssembly App** application type, you can choose Progressive Web Application.
 
-     ![WASMTemplate](images/WASMTemplate.png)
+     ![WASMTemplate](images/wasmtemplate.png)
 
-     > **Note:** The Progressive Web Application will be enabled if .NET 6.0 version or higher is installed.
+     > **Note:** The Progressive Web Application will be enabled if .NET 8.0 version or higher is installed.
 
-5. Click either **Next** or the **Controls** tab. The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor components you can add to the application are listed.
+5. Click either **Next** or the **Controls** tab. The Syncfusion® Blazor components you can add to the application are listed.
 
-     ![Controls Section](images/ControlsSection1.png)
+     ![Controls Section](images/controlssection1.png)
 
-     Choose the required control(s) by clicking **Add**.
+     Choose the required control(s) by clicking the corresponding control box.
 
      To unselect the added control(s), use either one of the following options:
 
-     **Option 1:** Click **Remove** in the corresponding control box.
+     **Option 1:** Click the corresponding selected control box.
 
-     **Option 2:** Click Delete in the control list from **Project Details**.
+     **Option 2:** Click ‘x’ button for corresponding control in the control list from **Project Details**.
 
-     > **Note:** Choose at least one control to enable the Features and Configuration tab.
+     N> **Note:** Choose at least one control to enable the Features and Configuration tab.
 
 6. Click either **Next** or the **Features** tab, and you will see the features listed for the selected controls. You can choose the required features.
 
-7. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 8.0, .NET 7.0, and .NET 6.0), themes, https configuration, localization option, authentication type, Blazor Web App, and Blazor Web Assembly application types.
+7. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 9.0 and .NET 8.0), themes, https configuration, localization option, authentication type, Blazor Web App, and Blazor Web Assembly application types.
 
-     Depending on your Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Application Type, refer to the table below for supported authentication types.
+     Depending on your Syncfusion Blazor Application Type, refer to the table below for supported authentication types.
 
-     | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Application Type | Supported Authentication Types |
+     | Syncfusion Blazor Application Type | Supported Authentication Types |
      | ------------- | ------------- |
-     | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Web App | None and Individual Accounts |
-     | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App | None, Individual Accounts and Microsoft Identity Platform |
-     | Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Server App | None, Individual Accounts, Microsoft Identity Platform, and Windows |
+     | Syncfusion Blazor Web App | None and Individual Accounts |
+     | Syncfusion Blazor WebAssembly App | None, Individual Accounts and Microsoft Identity Platform |
 
      If you choose the **Blazor Web App** application type, you can customize the Interactivity type and Interactivity location options.
 
-     ![WebAppConfiguration](images/WebAppConfig.png)
+     ![WebAppConfiguration](images/webappconfig.png)
 
-     If you choose the **Blazor Web Assembly App** application type, you can customize the ASP.NET Core hosted and Progressive Web Application options.
+     If you choose the **Blazor Web Assembly App** application type, you can customize the Progressive Web Application option.
 
-     ![WASMConfiguration](images/WASMConfig.png)
+     ![WASMConfiguration](images/wasmconfig.png)
 
      **Project details section**
 
      You can change the configuration details below in the Project Details section to change the application type, remove control(s) from the selected controls, or change the configurations.
 
-     ![ProjectDetails](images/ProjectDetails.png)
+     ![ProjectDetails](images/rightsideprojectdetails.png)
 
-8. Click **Create** button. The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application has been created. The created Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor app has the Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages, styles, and the render code for the Syncfusion<sup style="font-size:70%">&reg;</sup> component.
+8. Click **Create** button. The Syncfusion® Blazor application has been created. The created Syncfusion® Blazor app has the Syncfusion NuGet packages, styles, and the render code for the selected Syncfusion® component.
 
      ![Readme](images/readme.png)
 
-9. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your application since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-Syncfusion-license-key) to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your application. Refer to this [blog](https://www.Syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
+9. The Syncfusion® Blazor application configures with most recent Syncfusion® Blazor NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® components.
 
-## Syncfusion<sup style="font-size:70%">&reg;</sup> integration
+10. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor application configures with most recent Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor NuGet packages version, styles, namespaces, and component render code for Syncfusion<sup style="font-size:70%">&reg;</sup> components.
+## Authentication Configuration
 
-### NuGet Packages
-
-Based on the selected Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor controls, the individual NuGet packages can be added as NuGet references. Refer [this topic](https://blazor.Syncfusion.com/staging/documentation/nuget-packages/) to know about the individual Blazor NuGet packages.
-
-> The latest Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> version of a NuGet package will be added as reference entry from nuget.org if there is no internet connection. You should restore the NuGet packages when internet becomes available.
-
-![NuGetPackage](images/NuGetPackage.png)
-
-### Style
-
-The selected Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor theme is added from Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet and this theme reference will be added at these applications locations in Blazor.
-
-| Application type  | File location  |
-|---|---|
-| Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Server App | {Project location}\Pages\\_Host.cshtml |
-| Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App (ASPNET Core hosted) <br/> Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App (ASPNET Core hosted and Progressive Web Application) | {Client Project location}\wwwroot\index.html  |
-| Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App <br/> Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor WebAssembly App (Progressive Web Application) | {Project location}\wwwroot\index.html|
-
-![CDNLink](images/CDNLink.png)
-
-### Namespaces
-
-The Syncfusion<sup style="font-size:70%">&reg;</sup>.Blazor namespaces are added in the **`_imports.razor`** file.
-
-![NameSpace](images/NameSpace.png)
-
-### Component render code
-
-The selected Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor components and features render code added as .razor files in the pages folder.
-
-![Selected control pagess added in project with selected features](images/ControlPages.png)
-
-### Authentication Configuration
-
-We need to register the created application in Google Platform API Console for Individual Accounts and Azure Active Directory for Microsoft Identity Platform. From Google Platform API Console registration we can get the client id for Individual Accounts. From Azure Active Directory registrations we can get the tenant id and application client id for Microsoft Identity Platform. We need to configure these id values in created applications then only application will be run correctly with authentication support.
+We need to register the created application in the Google API Console for Individual Accounts and in Azure Active Directory for the Microsoft Identity Platform. From the Google API Console registration, we can obtain the client ID for Individual Accounts. From the Azure Active Directory registration, we can obtain the tenant ID and application client ID for the Microsoft Identity Platform. We need to configure these ID values in the created applications; only then will the application run correctly with authentication support.
 
 ### Individual Accounts Authentication
 
@@ -174,33 +139,33 @@ We need to register the created application in Google Platform API Console for I
 
 1. Go to below credentials page for the Google cloud platform API console.
 
-    <https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104>
+    <https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104&pli=1>
 
 2. Click Create Credentials and OAuth Client Id.
 
-    ![Google API console credentials page](images/GoogelAPIConsoleCredentials.png)
+    ![Google API console credentials page](images/googelapiconsolecredentials.png)
 
-    ![Google API Oauth client Id](images/OauthclientId.png)
+    ![Google API Oauth client Id](images/oauthclientid.png)
 
 3. Select Application type as Web Application in client Id creation.
 
-    ![ApplicationType](images/ClientIdApplicationtype.PNG)
+    ![ApplicationType](images/clientidapplicationtype.png)
 
 4. Add your publish URL link as an Authorized URI and login URL as Redirected URI.
 
-    ![RedirectedURI](images/RedirectedURI.png)
+    ![RedirectedURI](images/redirecteduri.png)
 
-5. Click save then OAuth client id will be created and copy that credentials.
+5. Click save then OAuth client id will be created and copy that credential.
 
-    ![ClientIdCreation](images/ClientIdCreation.PNG)
+    ![ClientIdCreation](images/clientidcreation.png)
 
 6. Add that Client Id, and RedirectUri in appsettings.json file of your application.
 
-    ![ClinetIdConfiguration](images/ClinetIdConfiguration.PNG)
+    ![ClinetIdConfiguration](images/clinetidconfiguration.png)
 
 7. Change the build configuration bind as google from Local in program.cs file.
 
-    ![buildconfigurationbind](images/buildconfigurationbind.PNG)
+    ![buildconfigurationbind](images/buildconfigurationbind.png)
 
 ### Microsoft Identity Platform Authentication
 
@@ -208,67 +173,67 @@ We need to register the created application in Google Platform API Console for I
 
 1. Go to below Azure Active Directory App Registration page.
 
-    <https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps>
+    <https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps>
 
 2. Click New Registration in App Registration page.
 
-    ![AppRegistration](images/AppRegistration.PNG)
+    ![AppRegistration](images/appregistration.png)
 
 3. Give name of the application and selected supported type as single tenant.
 
-    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type](images/namesupportedaccounttype.png)
 
-4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
+4. Dropdown the page, select platform as web and give your application Redirect URI like {Redirect URI}/signin-oidc and click Register.
 
-    ![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Platform and Redirect URI](images/aadredirecteduri.png)
 
 5. App will be registered, go to the Authentication page and tick Id token check box.
 
-    ![Access token and Id token](images/AuthenticationCheckBox1.PNG)
+    ![Access token and Id token](images/authenticationcheckbox1.png)
 
 6. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenat id](images/clinettenantid.png)
 
 7. Configure those client tenant id, application id, and domain in your application appsettings.json file.
 
-    ![Project configuration](images/Configuration1.png)
+    ![Project configuration](images/configuration2.png)
 
 #### Web Application and Progressive Web Application
 
 1. Go to below Azure Active Directory App Registration page.
 
-    <https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps>
+    <https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps>
 
 2. Click New Registration in App Registration page.
 
-    ![AppRegistration](images/AppRegistration.PNG)
+    ![AppRegistration](images/appregistration.png)
 
 3. Give name of the application and selected supported type as single tenant.
 
-    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type](images/namesupportedaccounttype.png)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-    ![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Platform and Redirect URI](images/aadredirecteduri.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
-    ![Access token and Id token](images/AuthenticationCheckBox.PNG)
+    ![Access token and Id token](images/authenticationcheckbox.png)
 
 6. Migrate the API by clicking the highlighted arrow like in below image.
 
-    ![API Migration](images/Migration1.PNG)
+    ![API Migration](images/migration1.png)
 
-    ![Migration configuration](images/Migration2.PNG)
+    ![Migration configuration](images/migration2.png)
 
 7. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenat id](images/clinettenantid.png)
 
 8. Configure those client tenant id and application id in your application appsettings.json file.
 
-    ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.PNG)
+    ![Clinet ID and Tenant ID configuration](images/clinettenantidconfiguration.png)
 
 #### ASP.NET Core Hosted Web Application, and ASP.NET Core Hosted with Progressive Web Application
 
@@ -276,109 +241,109 @@ We need to register the created application in Google Platform API Console for I
 
 1. Go to below Azure Active Directory App Registration page.
 
-    <https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps>
+    <https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps>
 
 2. Click New Registration in App Registration page.
 
-    ![AppRegistration](images/AppRegistration.PNG)
+    ![AppRegistration](images/appregistration.png)
 
 3. Give name of the application and selected supported type as single tenant.
 
-    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type](images/namesupportedaccounttype.png)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-    ![Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Platform and Redirect URI](images/aadredirecteduri.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
-    ![Access token and Id token](images/AuthenticationCheckBox.PNG)
+    ![Access token and Id token](images/authenticationcheckbox.png)
 
 6. Migrate the API by clicking the highlighted arrow like in below image.
 
-    ![API Migration](images/Migration1.PNG)
+    ![API Migration](images/migration1.png)
 
-    ![Migration configuration](images/Migration2.PNG)
+    ![Migration configuration](images/migration2.png)
 
 7. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenat id](images/clinettenantid.png)
 
 8. Configure those client tenant id and application id in your application appsettings.json file.
 
-    ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.PNG)
+    ![Clinet ID and Tenant ID configuration](images/clinettenantidconfiguration.png)
 
 ##### Server project Registration and configuration
 
 1. Go to below Azure Active Directory App Registration page.
 
-    <https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RegisteredApps>
+    <https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps>
 
 2. Click New Registration in App Registration page.
 
-    ![Server App Registration](images/AppRegistration.PNG)
+    ![Server App Registration](images/appregistration.png)
 
 3. Give name of the application and selected supported type as single tenant.
 
-    ![Name and supported Account type](images/NameSupportedAccountType.PNG)
+    ![Name and supported Account type](images/namesupportedaccounttype.png)
 
 4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
 
-    ![Server Platform and Redirect URI](images/AADRedirectedURI.png)
+    ![Server Platform and Redirect URI](images/aadredirecteduri.png)
 
 5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
 
-    ![Access token and Id token](images/AuthenticationCheckBox.PNG)
+    ![Access token and Id token](images/authenticationcheckbox.png)
 
 6. Migrate the API by clicking the highlighted arrow like in below image.
 
-    ![API Migration](images/Migration1.PNG)
+    ![API Migration](images/migration1hostedserver.png)
 
-    ![Migration configuration](images/Migration2.PNG)
+    ![Migration configuration](images/migration2hostedserver.png)
 
 7. Add a scope API in Expose an API page.
 
-    ![Add scope API](images/AddScopeAPI.png)
+    ![Add scope API](images/addscopeapi.png)
 
 8. Give scope name, admin consent display name, and admin consent description and click Add scope. Scope API will be created, copy those scope API Value.
 
-    ![Add scope API configuration](images/AddScopeAPI1.png)
+    ![Add scope API configuration](images/addscopeapi1.png)
 
 9. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.PNG)
+    ![Clinet tenat id](images/clinettenantid.png)
 
-10. Configure those client tenant id, application id, and domain in your application appsettings.json file.
+10. Configure those client tenant id, application id, added scope api id, and domain in your application appsettings.json file.
 
-    ![Project configuration](images/Configuration1.png)
+    ![Project configuration](images/configuration1.png)
 
 11. Configure the scope API in client application program.cs file below highlighted place.
 
-    ![Scope API configuration](images/ScopeAPIConfiguration.PNG)
+    ![Scope API configuration](images/scopeapiconfiguration.png)
 
 ### Run application
 
-You can run the application and see the Syncfusion<sup style="font-size:70%">&reg;</sup> components you selected. Select a component to see component output.
+You can run the application and see the Syncfusion® components you selected. Select a component to see component output.
 
-![Blazor Template output page](images/HomePage.png)
+![Blazor Template output page](images/homepage.png)
 
-You can select a culture language in combobox at top right on the output page to apply the culture in the application.
+You can select a culture language in combo box at top right on the output page to apply the culture in the application.
 
-![Blazor Template output page](images/Localization.png)
+![Blazor Template output page](images/localization.png)
 
-> **Note:** Above culture combobox will be enabled in sample output if localization option is selected in configuration window from Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio wizard.
+N> **Note:** Above culture combo box will be enabled in sample output if localization option is selected in configuration window from Syncfusion Blazor Template Studio wizard.
 
-### Register and Login Application
+## Register and Login Application
 
 ### Individual Authentication
 
 #### Blazor Web App
 
-##### Applying Database Migrations and User Registration in the .NET 8.0 Blazor Web App
+##### Applying Database Migrations and User Registration in the .NET 8.0 and .NET 9.0 Blazor Web App
 
 ##### Applying Database Migrations:
 
-In the Blazor Web App, it's essential<sup style="font-size:70%">&reg;</sup> to apply pending migrations to the database before proceeding with user registration. Choose one of the following options:
+In the Blazor Web App, it's essential to apply pending migrations to the database before proceeding with user registration. Choose one of the following options:
 
 **Option 1: Using Visual Studio Package Manager Console**
  
@@ -398,35 +363,35 @@ Open a command prompt in your project directory and execute the following comman
 
 1.	Launch the application and register by submitting your email address and creating a password.
 
-    ![Register the WebApp](images/WebAppRegister.png)
+    ![Register the WebApp](images/webappregister.png)
 
 2.	Confirm your registration by clicking **Click here to confirm your account.**
 
-    ![Confirming the WebApp registration](images/WebAppRegisterConfirmation.png)
+    ![Confirming the WebApp registration](images/webappregisterconfirmation.png)
 
 3.	Submit your registered email address and password to log in to the application.
 
-    ![LogIn to the WebApp](images/WebApplogIn.png)
+    ![LogIn to the WebApp](images/webapplogin.png)
 
 #### Server Application, ASP.NET Core hosted Web Application, and Progressive Web Application with ASP.NET Core hosted
 
 1. For register the application, submit your email address and create a password.
 
-    ![Register the application](images/RegisterApplication.png)
+    ![Register the application](images/registerapplication.png)
 
 2. Confirming registration by clicking **Click here to confirm your account.**
 
-    ![Register the confirmation](images/RegisterConfirmation.png)
+    ![Register the confirmation](images/registerconfirmation.png)
 
 3. Submit your registered email address and password to login the application.
 
-    ![login to the application](images/Login.png)
+    ![login to the application](images/login.png)
 
 #### Web Application and Progressive Web Application
 
 1. Login to the application using Gmail accounts.
 
-    ![Google login](images/GoogleLogin.PNG)
+    ![Google login](images/googlelogin.png)
 
 ### Microsoft Identity Platform
 
@@ -436,4 +401,4 @@ Open a command prompt in your project directory and execute the following comman
 
 2. Accept permission request of your application.
 
-    ![Accept permission](images/MicrosoftAuthentication.PNG)
+    ![Accept permission](images/microsoftauthentication.png)
