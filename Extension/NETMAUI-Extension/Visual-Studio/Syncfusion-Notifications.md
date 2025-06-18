@@ -1,51 +1,51 @@
 ---
 layout: post
-title: Notifications of .NET MAUI Extension | Syncfusion
-description: For displaying the notifications about trial and newer version update information for Syncfusion applications.
+title: Notifications | .NET MAUI | Syncfusion®
+description: For displaying the notifications about trial and newer version update information for Syncfusion® applications.
 platform: extension
-control: Syncfusion Extensions
+control: Syncfusion<sup>®</sup> Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Notifications
+# Syncfusion<sup>®</sup> Notifications
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in .NET MAUI applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion<sup style="font-size:70%">&reg;</sup> latest features and enhancements.
+Syncfusion<sup>®</sup> enhances the user experience in .NET MAUI applications by providing informative notifications. These include alerts for trial applications using Syncfusion<sup>®</sup> trial assemblies, updates about the latest Syncfusion<sup>®</sup> NuGet packages, and notifications about new releases of Essential Studio<sup>®</sup>. By keeping developers informed, Syncfusion<sup>®</sup> ensures they stay up to date with the latest features and enhancements.
 
-N> The Syncfusion<sup style="font-size:70%">&reg;</sup> Notification feature is available from Essential Studio<sup style="font-size:70%">&reg;</sup> v22.1.34.
+N> The Syncfusion<sup>®</sup> Notification feature is available from Essential Studio<sup>®</sup> v22.1.34.
 
 ## Notification Configuration
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> Options page allows you to configure notification settings. Customise trial and newer version notifications with a simple true or false toggle.
+The Syncfusion<sup>®</sup> Options page allows you to configure notification settings. Customize trial and newer version notifications with a simple true or false toggle.
 
-It can be accessed by clicking **Tools -> Options -> Syncfusion<sup style="font-size:70%">&reg;</sup> -> .NET MAUI**
+It can be accessed by clicking **Tools -> Options -> Syncfusion<sup>®</sup> -> .NET MAUI**
 
-![Option Page](images/maui-optionPage.png)
+   ![Option Page](images/maui_optionPage.png)
 
 ## Notification Types
 
-**1. Syncfusion<sup style="font-size:70%">&reg;</sup> Trial Application Notification**
+**1. Syncfusion<sup>®</sup> Trial Application Notification**
 
-When you utilize Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies in your .NET MAUI application, you will receive a notification stating, **This application uses a trial Syncfusion<sup style="font-size:70%">&reg;</sup> license.** This notification encourages you to obtain a valid license key, enabling you to fully explore and experience the extensive features and capabilities offered by Syncfusion<sup style="font-size:70%">&reg;</sup>.
+When you utilize Syncfusion<sup>®</sup> trial assemblies in your .NET MAUI application, you will receive a notification stating, **This application uses a trial Syncfusion<sup>®</sup> license.** This notification encourages you to obtain a valid license key, enabling you to fully explore and experience the extensive features and capabilities offered by Syncfusion<sup>®</sup>.
 
-![Trial Notification](images/maui-trial.png)
+   ![Trial Notification](images/maui_trial.png)
 
-**2. Newer Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet Package Notification**
+**2. Newer Syncfusion<sup>®</sup> NuGet Package Notification**
 
-If you have installed lower versions of Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages in your application, you will be notified about the availability of higher versions of Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages on nuget.org. This empowers you to easily identify opportunities to upgrade and gain access to new features, performance enhancements, and bug fixes.
+If your application uses older versions of Syncfusion<sup>®</sup> NuGet packages, you’ll receive notifications about newer versions available on nuget.org. This helps you easily identify upgrade opportunities and take advantage of new features, performance improvements, and bug fixes.
 
-![NuGet Notification](images/maui-nuget.png)
+   ![NuGet Notification](images/maui_nuget.png)
 
-**3. Newer Essential Studio<sup style="font-size:70%">&reg;</sup> Build Notification**
+**3. Newer Essential Studio<sup>®</sup> Build Notification**
 
-If you use older versions of Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies or NuGet packages from **Essential Studio<sup style="font-size:70%">&reg;</sup> .NET MAUI,** Syncfusion<sup style="font-size:70%">&reg;</sup> will notify you about new releases for the latest Essential Studio<sup style="font-size:70%">&reg;</sup> build. Updating to the newest version ensures access to recent features, enhancements, and important updates, maximizing the capabilities of Syncfusion<sup style="font-size:70%">&reg;</sup> in your .NET MAUI development projects.
+If you're using older versions of Syncfusion<sup>®</sup> assemblies or NuGet packages from Essential Studio<sup>®</sup> .NET MAUI, Syncfusion<sup>®</sup> will notify you about new releases. Updating to the latest version ensures access to the newest features, enhancements, and critical updates—maximizing the capabilities of Syncfusion<sup>®</sup> in your .NET MAUI projects.
 
-![Build Notification](images/maui-build.png)
+   ![Build Notification](images/maui_build.png)
 
 **4. Invalid License Key Notification**
 
-If you have mistakenly used an incorrect license key or used a license from another version or platform in your .NET MAUI application, Syncfusion<sup style="font-size:70%">&reg;</sup> will display a notification message stating, **The provided Syncfusion<sup style="font-size:70%">&reg;</sup> license key is invalid.** This message serves as a reminder to obtain a valid license key and ensure proper licensing for Syncfusion<sup style="font-size:70%">&reg;</sup> components.
+If you have mistakenly used an incorrect license key or used a license from another version or platform in your .NET MAUI application, Syncfusion<sup>®</sup> will display a notification message stating, **The provided Syncfusion<sup>®</sup> license key is invalid.** This message serves as a reminder to obtain a valid license key and ensure proper licensing for Syncfusion<sup>®</sup> components.
 
-![Invalid Notification](images/maui-invalid.png)
+   ![Invalid Notification](images/maui_invalid.png)
 
   
 
