@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Download and Installation in .NET MAUI Extension | Syncfusion
-description: Learn here more about how to download and install in the Syncfusion .NET MAUI Extension for Visual Studio Code and much more.
+title: Download and Installation in .NET MAUI Extension | Syncfusion®
+description: Learn here more about how to download and install in the Syncfusion® .NET MAUI Extension for Visual Studio Code and much more.
 platform: MAUI
 component: Common
 documentation: ug
