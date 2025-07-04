@@ -17,7 +17,7 @@ documentation: ug
 
 - Or, go to `File > Open File` and select the file from your system.
 
-    ![OpenFile](images/OpenFile.gif)
+    ![OpenFile](images/OpenFile1.gif)
 
 **Edit and Save**:
 
