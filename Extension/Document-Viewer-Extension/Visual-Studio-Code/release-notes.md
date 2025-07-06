@@ -8,30 +8,35 @@ documentation: ug
 ---
 # Release Notes
 
-The **Syncfusion® Document Viewer** extension for Visual Studio Code enables developers to seamlessly view Word, Excel, CSV, and TSV files within the editor.
+The **Syncfusion® Document Viewer** extension for Visual Studio Code enables developers to seamlessly view and edit Excel, CSV, and TSV files directly within the editor.
 
-## Syncfusion® Document Viewer [1.0.0] - 2024-12-24
-### Initial Release
+---
+
+## Syncfusion® Document Viewer 1.0.0
+
+The initial release of the **Syncfusion® Document Viewer** extension for Visual Studio Code introduces essential features for working with spreadsheet formats.
 
 ### Supported File Formats
-
-- **Excel** (`.xlsx`)
-
-- **CSV** (`.csv`)
-
-- **TSV** (`.tsv`)
+- Excel (`.xlsx`)  
+- CSV (`.csv`)  
+- TSV (`.tsv`)
 
 ### Features
+- **View and Edit Files**: Open Excel, CSV, and TSV files directly in VS Code and make edits without needing additional tools.  
+- **Read-Only Mode**: Toggle read-only mode to prevent accidental changes and safeguard your data.  
+- **Sorting and Filtering**: Organize and analyze data quickly using sorting and filtering options available in column headers.
 
-- **View and Edit Files:** Open Word, Excel, CSV, and TSV files directly in VS Code and make edits without needing additional tools.
+---
 
-- **Read-Only Mode:** Toggle read-only mode to prevent accidental changes and safeguard your data.
+## Syncfusion® Document Viewer 2.0.0
 
-- **Sorting and Filtering:** Organize and analyze data quickly using sorting and filtering options available in column headers.
+The 2.0.0 release expands the extension’s capabilities with support for Word document formats.
 
-## Syncfusion® Document Viewer [2.0.0] - 2025-07-07
 ### Introduced
-**Extended Document Format Support** :
-The **Syncfusion® Document Viewer** extension for Visual Studio Code now supports the following Word related formats: `.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, and `.rtf` file formats.
-
- 
+- **Extended Document Format Support**: Now supports the following Word-related formats:
+  - `.docx`  
+  - `.dotx`  
+  - `.docm`  
+  - `.dot`  
+  - `.doc`  
+  - `.rtf`
