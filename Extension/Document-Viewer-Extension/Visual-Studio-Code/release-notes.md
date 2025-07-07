@@ -14,7 +14,7 @@ The **Syncfusion® Document Viewer** extension for Visual Studio Code enables de
 
 ## Syncfusion® Document Viewer 2.0.0
 
-The **Syncfusion® Document Viewer** 2.0.0 for Visual Studio Code introduces support for extended document formats, enabling seamless viewing of word format files, such as `.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`.
+The **Syncfusion® Document Viewer** 2.0.0 for Visual Studio Code introduces enhanced support for Word document formats, enabling seamless access to view and edit word format files, such as `.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`.
 
 ### Features
 - **View and Edit Files**: Open Word format files directly in VS Code and make edits without needing additional tools.  
