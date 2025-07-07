@@ -29,7 +29,7 @@ documentation: ug
 
 ---
 
-### Sort and Filter Data
+### Sorting and Filtering in Data Files
 
 Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
 
