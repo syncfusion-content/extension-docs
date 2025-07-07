@@ -8,7 +8,7 @@ documentation: ug
 ---
 # Release Notes
 
-The **Syncfusion® Document Viewer** extension for Visual Studio Code enables developers to seamlessly view and edit Excel, CSV, and TSV files directly within the editor.
+The **Syncfusion® Document Viewer** extension for Visual Studio Code enables developers to seamlessly view and manage their documents within the editor using our intuitive features, which enhance productivity by keeping data management and analysis in the VS Code environment.
 
 ---
 
@@ -30,13 +30,4 @@ The initial release of the **Syncfusion® Document Viewer** extension for Visual
 
 ## Syncfusion® Document Viewer 2.0.0
 
-The 2.0.0 release expands the extension’s capabilities with support for Word document formats.
-
-### Introduced
-- **Extended Document Format Support**: Now supports the following Word-related formats:
-  - `.docx`  
-  - `.dotx`  
-  - `.docm`  
-  - `.dot`  
-  - `.doc`  
-  - `.rtf`
+The 2.0.0 release of the **Syncfusion® Document Viewer** extension for Visual Studio Code introduces support for extended document formats, enabling seamless viewing of word-related files, such as : `.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`.
