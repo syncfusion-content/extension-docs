@@ -33,5 +33,5 @@ The initial release of the **Syncfusion® Document Viewer** extension for Visual
 
 ### Features
 - **View and Edit Files**: Open and edit Excel, CSV, and TSV files directly in VS Code without accessing additional tools.  
-- **Read-Only Mode**: Toggle read-only mode to secure your data and stop accidental changes.  
+- **Read-Only Mode**: Toggle read-only mode to secure your data and prevent from accidental changes.  
 - **Sorting and Filtering**: Organize and analyze data quickly using sorting and filtering options available in column headers for spreadsheet files.
