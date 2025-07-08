@@ -29,7 +29,7 @@ documentation: ug
 
 ---
 
-### Sorting and Filtering in SpreadSheets
+### Sorting and Filtering in Spreadsheet
 
 Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
 
