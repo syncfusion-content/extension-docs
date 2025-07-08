@@ -19,4 +19,4 @@ The **Syncfusion® Document Viewer** extension for Visual Studio Code simplifies
 
 - **Read-Only Mode**: Protect data from accidental modifications.
 
-- **Sorting and Filtering**: Organize data efficiently using filter options in column headers for spreadsheet files.
+- **Sorting and Filtering in Spreadsheet**: Organize data efficiently using sorting and filtering options in column headers for spreadsheet (Excel, CSV, TSV) files.
