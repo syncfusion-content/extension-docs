@@ -17,7 +17,7 @@ The **Syncfusion® Document Viewer** extension for Visual Studio Code enables de
 The **Syncfusion® Document Viewer** 2.0.0 for Visual Studio Code introduces enhanced support for Word document formats, enabling seamless access to view and edit word format files, such as `.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`.
 
 ### Features
-- **View and Edit Files**: Open Word format files directly in VS Code and make edits without needing additional tools.  
+- **View and Edit Files**: Open Word format files directly in VS Code and edit without accessing additional tools.  
 - **Read-Only Mode**: Toggle read-only mode to prevent accidental changes and safeguard your data.  
 
 ---
@@ -32,6 +32,6 @@ The initial release of the **Syncfusion® Document Viewer** extension for Visual
 - TSV (`.tsv`)
 
 ### Features
-- **View and Edit Files**: Open Excel, CSV, and TSV files directly in VS Code and make edits without needing additional tools.  
+- **View and Edit Files**: Open and edit Excel, CSV, and TSV files directly in VS Code without accessing additional tools.  
 - **Read-Only Mode**: Toggle read-only mode to prevent accidental changes and safeguard your data.  
 - **Sorting and Filtering**: Organize and analyze data quickly using sorting and filtering options available in column headers.

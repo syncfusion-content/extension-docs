@@ -29,9 +29,11 @@ documentation: ug
 
 ---
 
-### Sorting and Filtering in Data Files
+### Sorting and Filtering in SpreadSheets
 
 Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
+
+> **Note:** Syncfusion® Document Viewer enables the filtering and sorting option only when the spreadsheet files are open.
 
 **From column header:**
 
