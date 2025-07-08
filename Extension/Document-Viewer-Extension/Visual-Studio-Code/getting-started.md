@@ -13,7 +13,7 @@ documentation: ug
 
 **Open a File**:
 
-- Drag and drop an Excel (`.xlsx`), CSV (`.csv`), or TSV (`.tsv`) file into Visual Studio Code.
+- Drag and drop a Word (`.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`), Excel (`.xlsx`), CSV (`.csv`), or TSV (`.tsv`) file into Visual Studio Code.
 
 - Or, go to `File > Open File` and select the file from your system.
 
@@ -25,13 +25,15 @@ documentation: ug
 
 - Save your changes by selecting `File > Save` or using the shortcut `Ctrl+S` (Windows) / `Cmd+S` (Mac).
 
-> **Note:** Syncfusion® Document Viewer allows basic editing of Excel, CSV, and TSV files directly within VS Code.
+> **Note:** Syncfusion® Document Viewer allows basic editing of Word, Excel, CSV, and TSV files directly within VS Code.
 
 ---
 
-### Sort and Filter Data
+### Sorting and Filtering in Spreadsheet
 
 Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
+
+> **Note:** Syncfusion® Document Viewer enables the filtering and sorting option only when the spreadsheet files are open.
 
 **From column header:**
 
