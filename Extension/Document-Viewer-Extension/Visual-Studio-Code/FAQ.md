@@ -11,7 +11,7 @@ documentation: ug
 
 ### Can I edit files in the Syncfusion® Document Viewer?
 
-Yes, the Syncfusion® Document Viewer allows basic editing of Excel, CSV, and TSV files directly within VS Code. This extension focuses on essential<sup style="font-size:70%">&reg;</sup> editing tasks to streamline your workflow. For advanced features such as applying formulas, formatting, and complex spreadsheet functions, we recommend using the [Syncfusion® Spreadsheet component](https://www.syncfusion.com/javascript-ui-controls/js-spreadsheet).
+Yes, the Syncfusion® Document Viewer allows basic editing of Word, Excel, CSV, and TSV files directly within VS Code. This extension focuses on essential<sup style="font-size:70%">&reg;</sup> editing tasks to streamline your workflow. For advanced features such as applying formulas, formatting, and complex spreadsheet functions, we recommend using the [Syncfusion® Spreadsheet component](https://www.syncfusion.com/javascript-ui-controls/js-spreadsheet).
 
 ### Is the Syncfusion® Document Viewer suitable for large datasets?
 
@@ -27,4 +27,4 @@ Yes, by using the Read-Only Mode, you can ensure that data remains unchanged whi
 
 ### Does the Syncfusion® Document Viewer support other file formats like Word or PDF?
 
-Currently, it supports Excel, CSV, and TSV files. Future updates will include DOCX, RTF, MD, and PDF support.
+Currently, it supports Word, Excel, CSV, and TSV files. Future updates will include MD, and PDF support.
