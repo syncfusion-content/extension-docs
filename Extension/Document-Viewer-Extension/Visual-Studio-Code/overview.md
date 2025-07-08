@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-The **Syncfusion® Document Viewer** extension for Visual Studio Code simplifies data handling by integrating essential<sup style="font-size:70%">&reg;</sup> features directly into the coding environment. It allows users to view, edit, and manage Word, Excel, CSV, and TSV files within Visual Studio Code without any external dependencies.
+The **Syncfusion® Document Viewer** extension for Visual Studio Code simplifies data handling by integrating essential<sup style="font-size:70%">&reg;</sup> features directly into the coding environment. It allows users to view, edit, and manage Word, Excel, CSV, and TSV files within Visual Studio Code without any additional tools.
 
 ## Key Features
 
@@ -19,4 +19,4 @@ The **Syncfusion® Document Viewer** extension for Visual Studio Code simplifies
 
 - **Read-Only Mode**: Protect data from accidental modifications.
 
-- **Sorting and Filtering**: Organize data efficiently using built-in tools in column headers.
+- **Sorting and Filtering**: Organize data efficiently using built-in tools in column headers for spreadsheet files.

@@ -24,7 +24,7 @@ The **Syncfusion® Document Viewer** 2.0.0 for Visual Studio Code introduces enh
 
 ## Syncfusion® Document Viewer 1.0.0
 
-The initial release of the **Syncfusion® Document Viewer** extension for Visual Studio Code introduces essential features for working with spreadsheet formats.
+The initial release of the **Syncfusion® Document Viewer** extension for Visual Studio Code introduces enhanced support to view and  edit spreadsheet formats.
 
 ### Supported File Formats
 - Excel (`.xlsx`)  
@@ -33,5 +33,5 @@ The initial release of the **Syncfusion® Document Viewer** extension for Visual
 
 ### Features
 - **View and Edit Files**: Open and edit Excel, CSV, and TSV files directly in VS Code without accessing additional tools.  
-- **Read-Only Mode**: Toggle read-only mode to prevent accidental changes and safeguard your data.  
-- **Sorting and Filtering**: Organize and analyze data quickly using sorting and filtering options available in column headers.
+- **Read-Only Mode**: Toggle read-only mode to secure your data and stop accidental changes.  
+- **Sorting and Filtering**: Organize and analyze data quickly using sorting and filtering options available in column headers for spreadsheet files.

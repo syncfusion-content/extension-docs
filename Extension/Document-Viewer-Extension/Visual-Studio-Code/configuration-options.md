@@ -16,11 +16,11 @@ To prevent accidental edits to your files, you can enable Read-Only Mode.
 - **Enable/Disable via Status Bar**:
 
   After opening the file, click `Syncfusion® Document Viewer` in the status bar to toggle read-only mode on or off.
-  - **SpreadSheets**
+  - **Spreadsheet**
 
     ![ReadOnly](images/ReadOnly.gif)
 
-  - **Word Format Files**
+  - **Word**
 
     ![ReadOnlyWord](images/ReadOnlyWord.gif)
   
@@ -30,7 +30,7 @@ To prevent accidental edits to your files, you can enable Read-Only Mode.
 
     ![ReadOnlySettings](images/ReadOnly-Config.png)
 
-### Sorting and Filtering in SpreadSheets
+### Sorting and Filtering in Spreadsheet
 
 You can configure sorting and filtering for the first row of your worksheet.
 
