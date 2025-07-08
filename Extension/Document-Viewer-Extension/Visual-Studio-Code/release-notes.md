@@ -24,7 +24,7 @@ The **Syncfusion® Document Viewer** 2.0.0 for Visual Studio Code introduces enh
 
 ## Syncfusion® Document Viewer 1.0.0
 
-The initial release of the **Syncfusion® Document Viewer** extension for Visual Studio Code introduces enhanced support to view and  edit spreadsheet formats.
+The initial release of the **Syncfusion® Document Viewer** extension for Visual Studio Code introduces enhanced support to view and edit spreadsheet formats.
 
 ### Supported File Formats
 - Excel (`.xlsx`)  
