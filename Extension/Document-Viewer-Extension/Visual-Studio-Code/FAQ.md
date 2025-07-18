@@ -27,4 +27,12 @@ Yes, by using the Read-Only Mode, you can ensure that data remains unchanged whi
 
 ### Does the Syncfusion® Document Viewer support other file formats like Word or PDF?
 
-Currently, it supports Word, Excel, CSV, and TSV files. Future updates will include MD, and PDF support.
+Yes, it supports PDF, Word, Excel, CSV, and TSV files. Future updates will include MD support.
+
+### Does the Syncfusion® Document Viewer Extension upload or transfer my files to a remote server before rendering it in VS Code?
+
+No. The extension uses Syncfusion’s pure-JavaScript Document Editor and Spreadsheet components to parse and render your files entirely on the client. Your document data never leaves your machine, and no internet connection or server-side processing is required.
+
+### Does viewing PDF files in Syncfusion® Document Viewer Extension requires any external dependencies?
+
+No. The extension uses Syncfusion's standalone PDF viewer component, ensuring seamless setup and consistent PDF rendering directly within the VS Code.
