@@ -14,18 +14,7 @@ The **Syncfusion® Document Viewer** extension for Visual Studio Code enables de
 
 ## Syncfusion® Document Viewer 3.0.0
 
-The **Syncfusion® Document Viewer** 3.0.0 for Visual Studio Code introduces support for PDF files and enhances spreadsheet capabilities with added support for Excel format.
-
-### New File Format Support
-
-- PDF (`.pdf`)  
-- Excel (`.xls`)
-
-### Features
-
-- **PDF and Excel File Support**: Introduced support for viewing PDF (`.pdf`) and viewing/editing Excel (`.xls`) files, enabling seamless document interaction within Visual Studio Code.
-- **Excel View and Edit**: Easily view and edit Excel (`.xls`) files, including basic modifications like updating cell values directly in Visual Studio Code.
-- **Read-only mode for Excel**: Read-only mode to prevent accidental edit changes and safeguard data
+The **Syncfusion® Document Viewer** 3.0.0 for Visual Studio Code introduces support for viewing PDF(`.pdf`) files and enabled compatibility with Excel for files using the `.xls` extension.
 
 ### Bug Fix
 
