@@ -19,7 +19,7 @@ Yes, the extension's sorting and filtering tools are designed to help you organi
 
 ### Can I customize the document viewer features?
 
-Yes, you can configure Read-Only mode and enable or disable sorting and filtering directly from the status bar or the VS Code settings. 
+Yes, you can customize the Document Viewer’s features. Options such as read-only mode, sorting, and filtering can be managed directly from the status bar or through VS Code settings. Viewing and editing are supported for all file types included, and sorting and filtering features are specifically available for spreadsheet formats like Excel, CSV, and TSV files. 
 
 ### Is there a way to ensure data integrity while reviewing files?
 
@@ -27,4 +27,12 @@ Yes, by using the Read-Only Mode, you can ensure that data remains unchanged whi
 
 ### Does the Syncfusion® Document Viewer support other file formats like Word or PDF?
 
-Currently, it supports Word, Excel, CSV, and TSV files. Future updates will include MD, and PDF support.
+Yes, it supports PDF, Word, Excel, CSV, and TSV files. Future updates will include MD support.
+
+### Does the Syncfusion® Document Viewer Extension upload or transfer my files to a remote server before rendering it in VS Code?
+
+No. The extension uses Syncfusion’s pure-JavaScript Document Editor, Spreadsheet and PDF Viewer components to parse and render your files entirely on the client. Your document data never leaves your machine, and no internet connection or server-side processing is required.
+
+### Does viewing PDF files in Syncfusion® Document Viewer Extension requires any external dependencies?
+
+No. The extension uses Syncfusion's standalone PDF viewer component, ensuring seamless setup and consistent PDF rendering directly within the VS Code.
