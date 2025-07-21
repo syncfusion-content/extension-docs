@@ -13,7 +13,7 @@ documentation: ug
 
 **Open a File**:
 
-- Drag and drop a Word (`.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`), Excel (`.xlsx`), CSV (`.csv`), or TSV (`.tsv`) file into Visual Studio Code.
+- Drag and drop a Word (`.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`), Excel (`.xlsx`, `.xls`), PDF (`.pdf`), CSV (`.csv`), and TSV (`.tsv`) files into Visual Studio Code.
 
 - Or, go to `File > Open File` and select the file from your system.
 

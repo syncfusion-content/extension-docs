@@ -12,6 +12,18 @@ The **Syncfusion® Document Viewer** extension for Visual Studio Code enables de
 
 ---
 
+## Syncfusion® Document Viewer 3.0.0
+
+The **Syncfusion® Document Viewer** 3.0.0 for Visual Studio Code introduces support for viewing PDF(`.pdf`) files and enabled compatibility with Excel for files using the `.xls` extension.
+
+### Bug Fix
+
+- **Large File Loading**: Improved performance and display data efficiency by resolving delays in loading large files.
+
+- **Word Document Menu Alignment**: Enhanced interface by fixing menu alignment issues in Word documents.
+
+---
+
 ## Syncfusion® Document Viewer 2.0.0
 
 The **Syncfusion® Document Viewer** 2.0.0 for Visual Studio Code introduces enhanced support for Word document formats, enabling seamless access to view and edit word format files, such as `.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`.
