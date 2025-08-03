@@ -11,17 +11,17 @@ documentation: ug
 
 ### What does the Document Viewer Extension do for Visual Studio Code?
 
-The Syncfusion® Document Viewer lets you open and view Word, Excel, PDF, Markdown, CSV, and TSV files directly in the VS Code editor.
+The Document Viewer lets you open and view Word, Excel, PDF, Markdown, CSV, and TSV files directly in the VS Code editor.
 
 ### How do I install and set up the Document Viewer extension? 
 
 To install the Document Viewer extension:
 - Open VS Code
 - Go to Extensions (Ctrl+Shift+X)
-- Search for "Document Viewer"
+- Search for "Document Viewer".
 - Click "Install" on the official Syncfusion extension
-- Restart VS Code if prompted
-- The extension will automatically handle supported file types (.docx, .xlsx, .pdf, .csv, .tsv, .md)
+- Restart VS Code if prompted.
+- The extension will automatically handle supported file types (.docx, .xlsx, .pdf, .csv, .tsv, .md).
 
 ### Can I edit files in the Document Viewer?
 
@@ -45,11 +45,11 @@ You can view Microsoft Word documents (.docx) directly in VS Code using the Sync
 
 ### Can I edit Word files in VS Code with this extension?
 
-Yes, the Syncfusion Document Viewer extension supports minimal editing of Microsoft Word documents. While it's primarily designed for viewing, you can perform basic text modifications and content updates. However, for advanced formatting and complex editing tasks, you may still need to use Microsoft Word for full functionality.
+Yes, the Document Viewer extension supports minimal editing of Microsoft Word documents. While it's primarily designed for viewing, you can perform basic text modifications and content updates. However, for advanced formatting and complex editing tasks, you may still need to use Microsoft Word for full functionality.
 
 ### How to view and edit Excel files (.xlsx) in VS Code?
 
-The Syncfusion Document Viewer extension allows you to view and edit Excel files (.xlsx) directly in VS Code. After installing the extension, you can:
+The Document Viewer extension allows you to view and edit Excel files (.xlsx) directly in VS Code. After installing the extension, you can:
 - Open .xlsx files with preserved formatting and cell structure
 - Edit cell contents and values
 - View multiple worksheets within the same file
@@ -71,8 +71,8 @@ Yes, it supports PDF, Word, Markdown, Excel, CSV, and TSV files.
 
 ### Can I view PDF files in VS Code?
 
-Yes you can view PDF files directly in Visual Studio using the Syncfusion Document Viewer extension:
-- Install the Document Viewer extension from the VS Code Marketplace
+Yes, you can view PDF files directly in Visual Studio using the Document Viewer extension:
+- Install the Document Viewer extension from the VS Code Marketplace.
 - Open a .pdf file in your workspace.
 - The extension will render the PDF within VS Code, allowing you to view the document with preserved formatting. You can navigate pages, zoom in/out, and search text within the PDF. 
 
@@ -80,17 +80,17 @@ Yes you can view PDF files directly in Visual Studio using the Syncfusion Docume
 ### What file formats are supported by the Document Viewer extension?
 
 Supported formats include:
-- Microsoft Word: .docx, .dotx, .docm, .dot, .doc, .rtf` files
-- Microsoft Excel: .xlsx, .xls, .xlsm, .xltx, .xltm, .xlsb, .xlt files
+- Microsoft Word: .docx, .dotx, .docm, .dot, .doc, and .rtf files
+- Microsoft Excel: .xlsx, .xls, .xlsm, .xltx, .xltm, .xlsb, and .xlt files
 - PDF: .pdf files
 - Markdown: .md files
-- Spreadsheet formats: .csv (Comma Separated Values) and. tsv (Tab Separated Values)
+- Spreadsheet formats: .csv (Comma Separated Values) and . tsv (Tab Separated Values)
 
 ### Does the Document Viewer support Markdown files in VS Code?
 
 Yes, as of the latest version, the Document Viewer extension does support Markdown (.md) files in Visual Studio Code. In addition to Markdown, it allows viewing and light editing of Microsoft Office documents (Word, Excel), PDFs, CSV, and TSV files directly within the VS Code editor.
 
-### Does the Document Viewer Extension upload or transfer my files to a remote server before rendering it in VS Code?
+### Does the Document Viewer Extension upload or transfer my files to a remote server before rendering them in VS Code?
 
 No. The extension uses Syncfusion’s pure-JavaScript Document Editor, Spreadsheet, PDF Viewer, and Markdown editor components to parse and render your files entirely on the client. Your document data never leaves your machine, and no internet connection or server-side processing is required.
 

@@ -25,7 +25,7 @@ documentation: ug
 
 - Save your changes by selecting `File > Save` or using the shortcut `Ctrl+S` (Windows) / `Cmd+S` (Mac).
 
-> **Note:** Document Viewer allows basic editing of Word, Excel, CSV, and TSV files directly within VS Code.
+> **Note:** Document Viewer allows basic editing of Word, Excel, Markdown, CSV, and TSV files directly within VS Code.
 
 ---
 
