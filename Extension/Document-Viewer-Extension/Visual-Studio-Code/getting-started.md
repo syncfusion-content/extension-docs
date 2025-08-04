@@ -1,19 +1,19 @@
 ---
 layout: post
 title: Getting Started | Extension | Syncfusion
-description: The Syncfusion Document Viewer extension enables you to easily view and manage your documents within VSCode using our intuitive features.
+description: The Document Viewer extension enables you to easily view and manage your documents within VSCode using our intuitive features.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Getting Started with Syncfusion® Document Viewer
+# Getting Started with Document Viewer
 
 ### Open and Edit Files
 
 **Open a File**:
 
-- Drag and drop a Word (`.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`), Excel (`.xlsx`, `.xls`), PDF (`.pdf`), CSV (`.csv`), and TSV (`.tsv`) files into Visual Studio Code.
+- Drag and drop a Word (`.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`), Excel (`.xlsx`, `.xls`, `.xlsm`, `.xltx`, `.xltm`, `.xlsb`, `.xlt`), PDF (`.pdf`), Markdown (`.md`), CSV (`.csv`) and TSV (`.tsv`) files into Visual Studio Code.
 
 - Or, go to `File > Open File` and select the file from your system.
 
@@ -25,7 +25,7 @@ documentation: ug
 
 - Save your changes by selecting `File > Save` or using the shortcut `Ctrl+S` (Windows) / `Cmd+S` (Mac).
 
-> **Note:** Syncfusion® Document Viewer allows basic editing of Word, Excel, CSV, and TSV files directly within VS Code.
+> **Note:** Document Viewer allows basic editing of Word, Excel, Markdown, CSV, and TSV files directly within VS Code.
 
 ---
 
@@ -33,7 +33,7 @@ documentation: ug
 
 Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
 
-> **Note:** Syncfusion® Document Viewer enables the filtering and sorting option only when the spreadsheet files are open.
+> **Note:** Document Viewer enables the filtering and sorting option only when the spreadsheet files are open.
 
 **From column header:**
 
