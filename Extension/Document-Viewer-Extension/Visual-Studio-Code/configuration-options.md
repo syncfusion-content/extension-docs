@@ -26,7 +26,7 @@ To prevent accidental edits to your files, you can enable Read-Only Mode.
 
   - **Markdown**
         
-    ![ReadOnlyMd](images/)
+    ![ReadOnlyMarkdown](images/ReadOnlyMarkdown.gif)
   
 - **Enable/Disable via Settings**:
 
