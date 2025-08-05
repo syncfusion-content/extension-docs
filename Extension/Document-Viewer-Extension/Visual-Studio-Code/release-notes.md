@@ -14,13 +14,7 @@ The **Document Viewer** extension for Visual Studio Code enables developers to s
 
 ## Document Viewer 4.0.0
 
-The **Document Viewer** 4.0.0 for Visual Studio Code now empowers seamless support for viewing and editing Markdown(`.md`) files while extending its versatility through enhanced compatibility with Excel file formats, including `.xlsm`, `.xltx`, `.xltm`, `.xlsb`, `.xlt`.
-
-### Features
-
-- **View and Edit Files**: Open and edit Markdown and included Excel format files within Vs code environment. 
-- **Read-Only Mode**: Enable read-only mode to secure your content and eliminate the risk of unintended edits.  
-- **Sorting and Filtering**:Instantly organize and explore your spreadsheet data using intuitive sorting and filtering options available in column header.
+The **Document Viewer** 4.0.0 for Visual Studio Code now empowers seamless support for viewing and editing Markdown (`.md`) files while extending its versatility through enhanced compatibility with Excel file formats, including `.xlsm`, `.xltx`, `.xltm`, `.xlsb`, `.xlt`.
 
 ---
 

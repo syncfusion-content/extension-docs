@@ -20,7 +20,7 @@ Before getting started, make sure your environment meets the following requireme
  > The minimum version of the Visual Studio Code is 1.73.0 to use the Document Viewer Extension.
 
 
-## Install through the Visual Studio Code Extensions
+## Install through the Visual Studio Code
 
 The following steps explain how to install the Document Viewer extensions from Visual Studio Code Extensions.
 
@@ -48,3 +48,17 @@ The following steps explain how to download Document Viewer extension from the V
 3. Click the Install button in the **"Document Viewer"** extension.
 
 4. After the installation, restart Visual Studio Code when suggested.
+
+## Install Document Viewer from Visual Studio code Command Palette
+
+To install the Document Viewer extension in Visual Studio Code:
+
+1. Open Visual Studio Code.
+
+2. Press **Ctrl + P** to open the command palette.
+
+3. Type and execute the following command: 
+
+```
+ext install SyncfusionInc.Document-Viewer-VSCode-Extensions
+```
