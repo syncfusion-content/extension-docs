@@ -11,11 +11,11 @@ documentation: ug
 
 ## Overview
 
-The **Document Viewer** extension for Visual Studio Code simplifies data handling by integrating essential features directly into the coding environment. It allows users to view Word, Excel, PDF, Markdown, CSV, and TSV files and provides editing and management features for all supported formats apart from PDF directly within Visual Studio Code without any additional tools.
+The **Document Viewer** extension enables developers to seamlessly view Word, Excel, Pdf, Markdown, CSV, and TSV files directly within VS Code. No more switching between applications - keep your workflow uninterrupted by viewing documents in the same environment where you code.
 
 ## Key Features
 
-- **Effortless Viewing**: Seamlessly open and view Word (`.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`), Excel (`.xlsx`, `.xls`, `.xlsm`, `.xltx`, `.xltm`, `.xlsb`, `.xlt`), PDF (`.pdf`), Markdown(`.md`), CSV (`.csv`), and TSV (`.tsv`) files.
+- **Effortless Viewing**: Seamlessly open and view Word (`.docx`, `.dotx`, `.docm`, `.dot`, `.doc`, `.rtf`), Excel (`.xlsx`, `.xls`, `.xlsm`, `.xltx`, `.xltm`, `.xlsb`, `.xlt`), PDF (`.pdf`), Markdown (`.md`), CSV (`.csv`), and TSV (`.tsv`) files.
 
 - **Edit**: Edit, and save Word, Excel, Markdown, CSV, and TSV files.
 
