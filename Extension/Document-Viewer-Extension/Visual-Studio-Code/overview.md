@@ -21,4 +21,4 @@ The **Document Viewer** extension enables developers to seamlessly view Word, Ex
 
 - **Read-Only Mode**: Protect data from accidental modifications.
 
-- **Sorting and Filtering**: Organize data efficiently using filter options in column headers for spreadsheet files.
+- **Sorting and Filtering**: Organize data efficiently using sorting and filtering options in column headers for spreadsheet files.
