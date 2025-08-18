@@ -83,8 +83,8 @@ Yes, it supports PDF, Word, Markdown, Excel, CSV, and TSV files.
 ### What file formats are supported by the Document Viewer extension?
 
 Supported formats include:
-- Microsoft Word: .docx, .dotx, .docm, .dot, .doc, and .rtf files
-- Microsoft Excel: .xlsx, .xls, .xlsm, .xltx, .xltm, .xlsb, and .xlt files
+- Microsoft Word: .docx, .dotx, .dot, .doc, and .rtf files
+- Microsoft Excel: .xlsx, .xls, .xltx, and .xlt files
 - PDF: .pdf files
 - Markdown: .md files
 - Spreadsheet formats: .csv (Comma Separated Values) and . tsv (Tab Separated Values)
