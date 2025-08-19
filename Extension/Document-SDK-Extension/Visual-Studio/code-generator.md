@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Generator in Document SDK | Syncfusion
-description: Learn here about adding the Blazor Component using Code Generator of Syncfusion Document SDK Extension for Visual Studio.
+description: Learn here about adding the Document SDK Component using Code Generator of Syncfusion Document SDK Extension for Visual Studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -9,15 +9,15 @@ documentation: ug
 
 # Add Blazor Document SDK component code
 
-Syncfusion® provides a Code Generator component for the Document SDK platform, allowing you to quickly insert component code into the desired location within a Razor file. The Syncfusion® extension automatically adds the necessary Syncfusion® components along with the required namespaces, styles, and NuGet references. The Code Generator is a simple wizard that interacts with data models and integrates Syncfusion® components with the required features into your application. 
+Syncfusion® provides a Code Generator component for the Blazor platform, allowing you to quickly insert Syncfusion® Document SDK component code into the desired location within a Razor file. The Syncfusion® extension automatically adds the necessary Syncfusion® Document SDK components along with the required namespaces, styles, and NuGet references. The Code Generator is a simple wizard that interacts with data models and integrates Syncfusion® Document SDK components with the required features into your application. 
 
-The steps below will assist you to add the Syncfusion® components code in your Document SDK application through **Visual Studio 2022**:
+The steps below will assist you to add the Syncfusion® Document SDK components code in your Blazor application through **Visual Studio 2022**:
 
 N> Before using the Syncfusion® Blazor Document SDK Code Generator, check whether the Syncfusion® Blazor Document SDK Extension is installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
 
 1. Open your existing Blazor application or create a new Blazor application in the Visual Studio 2022 or Visual Studio 2022.
 
-2. To open the Syncfusion® Blazor Document SDK Code Generator Wizard, select one of the options below in the Razor file, and then add Syncfusion® components:
+2. To open the Syncfusion® Blazor Document SDK Code Generator Wizard, select one of the options below in the Razor file, and then add Syncfusion® Document SDK components:
 
     **Option 1:**
 
@@ -35,11 +35,11 @@ N> Before using the Syncfusion® Blazor Document SDK Code Generator, check wheth
 
     ![CodeGeneratorWizard](images/Code-Generator-MainWizard.png)
 
-    **Feature:** Selected component features are listed. You can select the required features.
+    **Feature:** Selected Syncfusion® Document SDK component features are listed. You can select the required features.
 
     **Control requirements:** Contains the required user input fields for the selected component. You can provide the required value for those fields to add the component code.
 
-    Click **Insert**. It generates the selected component render code and inserts it wherever the cursor is positioned.
+    Click **Insert**. It generates the selected Syncfusion® Document SDK component render code and inserts it wherever the cursor is positioned.
 
     ![ComponentRenderCode](images/Code-Generator-ComponentRenderCode.PNG)
 

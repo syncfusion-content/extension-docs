@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template Studio in Document SDK - Syncfusion
-description: Learn here about how to create the Document SDK application using Syncusion® Blazor Components with the help of template studio.
+description: Learn here about how to create the Blazor application using Syncusion® Document SDK Components with the help of template studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -9,15 +9,15 @@ documentation: ug
 
 # Syncfusion® Document SDK Template Studio
 
-Syncfusion® provides the Document SDK Template Studio, which allows you to create a Syncfusion Document SDK application using Syncfusion® components. The Syncfusion® Document SDK app is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® components.
+Syncfusion® provides the Document SDK Template Studio, which allows you to create a Syncfusion Blazor application using Syncfusion® Document SDK components. The Syncfusion® Blazor app is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® Document SDK components.
 
-The steps below will assist you to create your **Syncfusion® Document SDK Application** through **Visual Studio 2022**:
+The steps below will assist you to create your **Syncfusion® Blazor Application** through **Visual Studio 2022**:
 
 N> Before use the Syncfusion® Project Template, check whether the Syncfusion® Document SDK Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/download-and-installation) help topic.
 
 1. Open Visual Studio 2022.
 
-2. To create a Syncfusion® Document SDK application, use either one of the following options:
+2. To create a Syncfusion® Blazor application, use either one of the following options:
 
      **Option 1**
 
@@ -80,7 +80,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
      > **Note:** The Progressive Web Application will be enabled if .NET 8.0 version or higher is installed.
 
-5. Click either **Next** or the **Controls** tab. The Syncfusion® Blazor components you can add to the application are listed.
+5. Click either **Next** or the **Controls** tab. The Syncfusion® Document SDK components you can add to the application are listed.
 
      ![Controls Section](images/controlssection.png)
 
@@ -119,11 +119,11 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
      ![ProjectDetails](images/rightsideprojectdetails.png)
 
-8. Click **Create** button. The Syncfusion® Document SDK application has been created. The created Syncfusion® Document SDK app has the Syncfusion NuGet packages, styles, and the render code for the selected Syncfusion® component.
+8. Click **Create** button. The Syncfusion® Blazor application has been created. The created Syncfusion® Blazor app has the Syncfusion NuGet packages, styles, and the render code for the selected Syncfusion® Document SDK component.
 
      ![Readme](images/readme.png)
 
-9. The Syncfusion® Document SDK application configures with most recent Syncfusion® Blazor NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® components.
+9. The Syncfusion® Blazor application configures with most recent Syncfusion® NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® Document SDK components.
 
 10. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
