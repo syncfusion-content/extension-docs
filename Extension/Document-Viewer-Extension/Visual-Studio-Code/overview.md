@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-The **Document Viewer** extension enables developers to seamlessly view Word, Excel, Pdf, Markdown, CSV, and TSV files directly within VS Code. No more switching between applications - keep your workflow uninterrupted by viewing documents in the same environment where you code.
+The **Document Viewer** extension enables developers to seamlessly view Word, Excel, PDF, Markdown, CSV, and TSV files directly within VS Code. No more switching between applications - keep your workflow uninterrupted by viewing documents in the same environment where you code.
 
 ## Key Features
 
