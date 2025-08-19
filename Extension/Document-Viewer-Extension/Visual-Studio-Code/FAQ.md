@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# FAQ
+# Frequently Asked Question
 
 ### What does the Document Viewer Extension do for Visual Studio Code?
 
