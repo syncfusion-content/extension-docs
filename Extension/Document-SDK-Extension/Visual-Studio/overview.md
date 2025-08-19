@@ -9,7 +9,7 @@ documentation: ug
 
 # Overview of Document SDK for Visual Studio
 
-The Syncfusion® Document SDK for Visual Studio simplifies the use of the Syncfusion® components by configuring the Syncfusion® NuGet packages and themes. We provide separate Document SDK for both Visual Studio 2022 and Visual Studio 2019.
+The Syncfusion® Document SDK for Visual Studio is used to integrate Syncfusion® Documenet processing components into the applications by configuring the Syncfusion® NuGet packages and themes. We provide separate Document SDK for both Visual Studio 2022 and Visual Studio 2019.
 
 [Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.BlazorVSExtension)
 
