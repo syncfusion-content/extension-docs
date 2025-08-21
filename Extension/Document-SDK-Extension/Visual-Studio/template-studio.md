@@ -33,7 +33,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
 3. Select the **Syncfusion® Document SDK Template Studio** and click **Next**.
 
-     ![CreateNewWizard](images/createnewwizard.png)
+     ![CreateNewWizard](images/CreateNewWindow.png)
 
 4. The Syncfusion® Document SDK Template Studio wizard will be launched to configure the Syncfusion Blazor app.
 
