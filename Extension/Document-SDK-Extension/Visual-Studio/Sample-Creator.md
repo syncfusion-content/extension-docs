@@ -9,7 +9,7 @@ documentation: ug
 
 # Sample Creator
 
-The Syncfusion® Sample Creator is a tool that lets you make Syncfusion® ASP.NET Core or ASP.NET MVC projects based on the platform selection with sample code for required Syncfusion® Document SDK component features and control configuration.
+The Syncfusion® Document SDK Sample Creator is a tool that lets you make Syncfusion® ASP.NET Core or ASP.NET MVC projects based on the platform selection with sample code for required Syncfusion® Document SDK component features and control configuration.
 
 I> The Syncfusion® Document SDK Sample Creator utility is available from v30.1.37
 

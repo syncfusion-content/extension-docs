@@ -317,7 +317,7 @@ We need to register the created application in the Google API Console for Indivi
 
 11. Configure the scope API in client application program.cs file below highlighted place.
 
-    ![Scope API configuration](images/ScopeAPIConfiguration.png)
+    ![Scope API configuration](images/ScopeAPIConfiguration.PNG)
 
 ### Run application
 
@@ -369,7 +369,7 @@ Open a command prompt in your project directory and execute the following comman
 
 3.	Submit your registered email address and password to log in to the application.
 
-    ![LogIn to the WebApp](images/WebAppLogIn.png)
+    ![LogIn to the WebApp](images/WebApplogIn.png)
 
 #### Server Application, ASP.NET Core hosted Web Application, and Progressive Web Application with ASP.NET Core hosted
 
