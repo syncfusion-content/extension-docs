@@ -141,7 +141,7 @@ We need to register the created application in the Google API Console for Indivi
 
 2. Click Create Credentials and OAuth Client Id.
 
-    ![Google API console credentials page](images/GoogelApiConsoleCredentials.png)
+    ![Google API console credentials page](images/GoogelAPIConsoleCredentials.png)
 
     ![Google API Oauth client Id](images/OauthclientId.png)
 
@@ -243,7 +243,7 @@ We need to register the created application in the Google API Console for Indivi
 
 2. Click New Registration in App Registration page.
 
-    ![AppRegistration](images/Appregistration.png)
+    ![AppRegistration](images/AppRegistration.png)
 
 3. Give name of the application and selected supported type as single tenant.
 
@@ -279,7 +279,7 @@ We need to register the created application in the Google API Console for Indivi
 
 2. Click New Registration in App Registration page.
 
-    ![Server App Registration](images/Appregistration.png)
+    ![Server App Registration](images/AppRegistration.png)
 
 3. Give name of the application and selected supported type as single tenant.
 
@@ -317,13 +317,13 @@ We need to register the created application in the Google API Console for Indivi
 
 11. Configure the scope API in client application program.cs file below highlighted place.
 
-    ![Scope API configuration](images/Scope=APIConfiguration.png)
+    ![Scope API configuration](images/ScopeAPIConfiguration.png)
 
 ### Run application
 
 You can run the application and see the Syncfusion® components you selected. Select a component to see component output.
 
-![Blazor Template output page](images/Homepage.png)
+![Blazor Template output page](images/HomePage.png)
 
 You can select a culture language in combo box at top right on the output page to apply the culture in the application.
 
