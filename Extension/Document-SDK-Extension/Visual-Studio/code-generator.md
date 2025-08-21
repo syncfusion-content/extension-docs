@@ -23,13 +23,13 @@ N> Before using the Syncfusion® Blazor Document SDK Code Generator, check wheth
 
     To generate a specific component code, right-click on the editor of the Razor file at the required line and Select the **Syncfusion® Blazor Document SDK Code Generator...**
 
-    ![CodeGeneratorCommand](images/Code-Generator-Command.PNG)
+    ![CodeGeneratorCommand](images/Code-Generator-Command.png)
 
     **Option 2:**
 
     Open the .razor file and place the cursor at the required line then choose **Extension -> Syncfusion® -> Essential Studio® for Document SDK -> Syncfusion® Blazor Document SDK Code Generator…** from the Visual Studio menu.
 
-    ![CodeGeneratorMenu](images/Code-Generator-Menu.PNG)
+    ![CodeGeneratorMenu](images/Code-Generator-Menu.png)
 
 3. The wizard for the Syncfusion® Blazor Document SDK Code Generator will appear. Choose a required control.
 
@@ -41,11 +41,11 @@ N> Before using the Syncfusion® Blazor Document SDK Code Generator, check wheth
 
     Click **Insert**. It generates the selected Syncfusion® Document SDK component render code and inserts it wherever the cursor is positioned.
 
-    ![ComponentRenderCode](images/Code-Generator-ComponentRenderCode.PNG)
+    ![ComponentRenderCode](images/Code-Generator-ComponentRenderCode.png)
 
 4. In the Output window, select the **Syncfusion® Blazor Document SDK Code Generator** from the **“Show output from”** drop-down to see the changes made to your application.
 
-    ![OutputWindow](images/Code-Generator-OutputWindow.PNG)
+    ![OutputWindow](images/Code-Generator-OutputWindow.png)
 
 5. The selected Syncfusion® Blazor Document SDK component code is inserted into the active Razor file, and the application is configured with the latest NuGet package, styles, and namespaces required for the selected component.
 

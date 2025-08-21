@@ -21,20 +21,20 @@ The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET 
     
     Click **Syncfusion® Menu** and choose **Essential Studio® for Document SDK > Launch Sample Creator…** in **Visual Studio**.
     
-    ![launch the Sample Creator via Syncfusion<sup style=](images/Syncfusion_Menu_SampleCreator.png)® menu">
+    ![launch the Sample Creator via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](images/Syncfusion_Menu_SampleCreator.png)
     
     N> In Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
     
 2.  Syncfusion® Sample Creator Wizard displaying the Syncfusion® Document SDK **Controls and its Feature Selection** section
     
-    ![Syncfusion<sup style=](images/SampleCreator-img2.png)® Document SDK Sample Creator wizard">
+    ![Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK Sample Creator wizard](images/SampleCreator-img2.png)
     
 
 ### Controls Selection
 
 Listed here are the Syncfusion® Document SDK controls so you can choose the required controls.
 
-![Syncfusion<sup style=](images/SampleCreator-img3.png)® Document Sdk Sample Creator Controls selection">
+![Syncfusion<sup style="font-size:70%">&reg;</sup> Document Sdk Sample Creator Controls selection](images/SampleCreator-img3.png)
 
 ### Project Configuration
 
@@ -48,7 +48,7 @@ Listed here are the Syncfusion® Document SDK controls so you can choose the req
             -   .NET Core – Choose the .NET Core version
             -   Assets From – Load the Syncfusion® assets to either CDN or NPM.
             
-            ![Syncfusion<sup style=](images/SampleCreator-core.png)® Document SDK Sample Creator project configuration section">
+            ![Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK Sample Creator project configuration section](images/SampleCreator-core.png)
             
         -   ASP .NET MVC:
             
@@ -56,7 +56,7 @@ Listed here are the Syncfusion® Document SDK controls so you can choose the req
             -   .NET Framework – Choose the .NET Framework version
             -   Assets From – Load the Syncfusion® assets to either CDN or NuGet.
             
-            ![Syncfusion<sup style=](images/SampleCreator-mvc.png)® Document SDK Sample Creator project configuration section">
+            ![Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK Sample Creator project configuration section](images/SampleCreator-mvc.png)
             
     -   Name – Name your Syncfusion® ASP.NET Core or ASP.NET MVC Application.
         
@@ -94,8 +94,8 @@ Listed here are the Syncfusion® Document SDK controls so you can choose the req
         
         -   ASP.NET Core:
             
-            ![syncfusion<sup style=](images/syncfusion-assemblies.png)® assemblies">
+            ![syncfusion<sup style="font-size:70%">&reg;</sup> assemblies](images/syncfusion-assemblies.png)
             
         -   ASP .NET MVC:
             
-            ![syncfusion<sup style=](images/syncfusion-assemblies1.png)® assemblies">
+            ![syncfusion<sup style="font-size:70%">&reg;</sup> assemblies](images/syncfusion-assemblies1.png)
