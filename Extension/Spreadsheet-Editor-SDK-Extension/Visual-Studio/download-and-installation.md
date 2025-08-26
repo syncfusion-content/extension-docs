@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Download and Installation of Document SDK | Syncfusion
-description: Check out the documentation for download and installation of Syncfusion Document SDK for Visual Studio.
+title: Download and Installation of Syncfusion® Spreadsheet Editor SDK Extension | Syncfusion
+description: Check out the documentation for download and installation of Syncfusion® Spreadsheet Editor SDK Extension for Visual Studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -11,12 +11,12 @@ documentation: ug
 
 Syncfusion® publishes the Visual Studio extension in the below Visual Studio marketplace link. You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
 
-[Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.BlazorVSExtension)
+[Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=)
 
 
 ## Prerequisites
 
-The following software prerequisites must be installed to install the Syncfusion® Document SDK extension, as well as to create and add snippet in Syncfusion® Document SDK applications.
+The following software prerequisites must be installed to install the Syncfusion® Spreadsheet Editor SDK extension, as well as to creating, adding snippet, converting, and upgrading applications.
 
 * [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/).
 
@@ -26,17 +26,17 @@ The following software prerequisites must be installed to install the Syncfusion
 
 ## Install through the Visual Studio Manage Extensions
 
-The steps below assist you to how to install the Syncfusion® Document SDK extensions from **Visual Studio Manage Extensions**.
+The steps below assist you to how to install the Syncfusion® Spreadsheet Editor SDK extensions from **Visual Studio Manage Extensions**.
 
 1. Open the Visual Studio 2022.
 
 2. Navigate to **Extension ->Manage Extensions** and open the Manage Extensions.
 
-3. On the left, click the **Online** tab and type **"Syncfusion® Document SDK"** in the **search box**.
+3. On the left, click the **Online** tab and type **"Syncfusion® Spreadsheet Editor SDK"** in the **search box**.
 
     ![Online-Manage-Extension-window](images/OnlineExtension.png)
 
-4. Click the **Download** button in the **“Syncfusion® Document SDK Template Studio”** extensions.
+4. Click the **Download** button in the **“Syncfusion® Spreadsheet Editor SDK Template Studio”** extensions.
 
 5. Close all Visual Studio instances after downloading the extensions to begin the installation process. You will see the following VSIX installation prompt.
 
@@ -52,9 +52,9 @@ The steps below assist you to how to install the Syncfusion® Document SDK exten
 
 ## Install from the Visual Studio Marketplace
 
-The steps below illustrate how to download and install the Syncfusion® Document SDK extension from the Visual Studio Marketplace.
+The steps below illustrate how to download and install the Syncfusion® Spreadsheet Editor SDK extension from the Visual Studio Marketplace.
 
-1. Download the Syncfusion® Document SDK Extensions from the below Visual Studio Marketplace.
+1. Download the Syncfusion® Spreadsheet Editor SDK Extension from the below Visual Studio Marketplace.
 
    [Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.BlazorVSExtension)
 
