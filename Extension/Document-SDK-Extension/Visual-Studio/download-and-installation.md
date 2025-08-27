@@ -36,7 +36,7 @@ The steps below assist you to how to install the Syncfusion® Document SDK exten
 
     ![Online-Manage-Extension-window](images/OnlineExtension.png)
 
-4. Click the **Download** button in the **“Syncfusion® Document SDK Template Studio”** extensions.
+4. Click the **Download** button in the **“Syncfusion® Document SDK”** extensions.
 
 5. Close all Visual Studio instances after downloading the extensions to begin the installation process. You will see the following VSIX installation prompt.
 
