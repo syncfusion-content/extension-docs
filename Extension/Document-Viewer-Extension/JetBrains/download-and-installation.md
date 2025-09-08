@@ -9,7 +9,7 @@ documentation: ug
 
 # Download and Installation
 
-Syncfusion® publishes the Document Viewer Plugin in [JetBrains marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-plugins). You can either install it from JetBrains IDE or download and install it from the JetBrains marketplace.
+Syncfusion® publishes the Document Viewer Plugin in [JetBrains marketplace](https://mark..). You can either install it from JetBrains IDE or download and install it from the JetBrains marketplace.
 
 ## Prerequisites
 
@@ -17,7 +17,7 @@ Before getting started, make sure your environment meets the following requireme
 
 * A JetBrains IDE (e.g., IntelliJ IDEA, PyCharm, WebStorm, Android Studio, etc.)
 
- > The minimum version of the JetBrains IDE is 2024.1 to use the Document Viewer plugin.
+ > The minimum version of the JetBrains IDE is 2023.2 to use the Document Viewer plugin.
 
 
 ## Install through the JetBrains
@@ -28,26 +28,26 @@ The following steps explain how to install the Document Viewer plugins from JetB
 
 2. Navigate to **File > Settings > Plugins** (or Preferences > Plugins on macOS).
 
-3. Select the **Marketplace** tab and type **Document Viewer** in the search box.
-
-     ![plugin](images/pluginsView.png)
+3. Select the **Marketplace** tab and type **Document Viewer** in the search field.
 
 4. Click the Install button on the **"Document Viewer"** plugin.
 
 5. After the installation completes, restart your JetBrains IDE if prompted.
 
+## Install plugin from disk
 
-## Install from the JetBrains Marketplace
+The following steps explain how to install the Document Viewer plugins from JetBrains IDE from the disk.
 
-The following steps explain how to download Document Viewer plugin from the JetBrains Marketplace and install them.
+1. Download the plugin archive (ZIP or JAR) of Document Viewer.
 
-1. Visit the [Document Viewer plugin MarketPlace page](https://mark..).
+2. Press `Ctrl` + `Alt` + `S` to open settings and then select Plugins.
 
-2. Click the **Get** button. If your JetBrains IDE is running, the button may change to **Install to IDE**, then [Document Viewer plugin](https://marketplace..) will open in your IDE.
+3. On the Plugins page, click The Settings button and then click Install Plugin from Disk.
 
-3. In your IDE, Click the Install button for the **"Document Viewer"** plugin.
+4. Select the plugin archive file and click OK.
 
-4. After the installation, restart JetBrains IDE when suggested.
+5. Click OK to apply the changes and restart the IDE if prompted.
+
 
 ## Install Document Viewer from JetBrains Command Line
 
@@ -57,8 +57,22 @@ To install the Document Viewer plugin in JetBrains(Note: This requires the IDE t
 
 2. Open a terminal and navigate to the JetBrains IDE’s bin directory.
 
-3. Run the following command, replacing path/to/ide with the path to your IDE installation and using the plugin ID for Document Viewer:
+3. Run the following command,
+
+Windows
 
 ```
-path/to/ide/bin/idea.sh plugin install com.syncfusion.document-viewer
+idea64.exe installPlugins com.syncfusion.document.viewer
+```
+
+macOS
+
+```
+open -na "IntelliJ IDEA Ultimate.app" --args installPlugins com.syncfusion.document.viewer
+```
+
+Linux
+
+```
+idea.sh installPlugins com.syncfusion.document.viewer
 ```
