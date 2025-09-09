@@ -25,7 +25,7 @@ To install the Document Viewer extension:
 
 ### How do I view Microsoft Word documents in VS Code?
 
-You can view Microsoft Word documents (.docx) directly in VS Code using the Syncfusion Document Viewer extension. Simply install the extension from the VS Code marketplace, then open any .docx file in your workspace. The extension provides a built-in viewer that renders Word documents with formatting preserved, allowing you to read and perform basic editing operations without leaving your development environment.
+You can view Microsoft Word documents (.docx) directly in VS Code using the Document Viewer extension. Simply install the extension from the VS Code marketplace, then open any .docx file in your workspace. The extension provides a built-in viewer that renders Word documents with formatting preserved, allowing you to read and perform basic editing operations without leaving your development environment.
 
 ### Can I view PDF files in VS Code?
 
