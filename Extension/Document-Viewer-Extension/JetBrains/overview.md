@@ -17,6 +17,6 @@ The **Document Viewer** plugin provides seamless access to view Word, Excel, PDF
 
 - **Effortless Viewing**: Seamlessly open and view Word (`.docx`, `.dotx`, `.dot`, `.doc`, `.rtf`), Excel (`.xlsx`, `.xls`, `.xltx`, `.xlt`), PDF (`.pdf`), Markdown (`.md`), CSV (`.csv`), and TSV (`.tsv`) files.
 
-- **Edit**: Edit, and save Word, Excel, Markdown, CSV, and TSV files.
+- **Edit**: Edit and save Word, Excel, Markdown, CSV, and TSV files.
 
 - **Sorting and Filtering**: Organize data efficiently using sorting and filtering options in column headers for spreadsheet files.
