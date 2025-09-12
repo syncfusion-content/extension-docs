@@ -17,6 +17,6 @@ You can configure sorting and filtering for the first row of your worksheet.
 
 - **Configure via Status Bar**:
 
-  After opening the file, click `Filter` in the status bar to configure sorting and filtering on the first row of the worksheet for quicker access.
+  After opening the file, click `Filter` in the bottom right corner of the status bar to configure sorting and filtering on the first row of the worksheet for quicker access.
   
     ![Filtering-Toolbar](images/Filtering-Toolbar.png)
