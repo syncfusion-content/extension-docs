@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Document Viewer Plugin | Plugin | Syncfusion
+title: Document Viewer Plugin | Extension | Syncfusion
 description: The Document Viewer Plugin enables you to easily view and manage your documents within JetBrains using our intuitive features.
-platform: Plugin
-control: Syncfusion Plugins
+platform: extension
+control: Syncfusion Extensions
 documentation: ug
 ---
 

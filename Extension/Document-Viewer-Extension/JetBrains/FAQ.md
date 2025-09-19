@@ -1,9 +1,9 @@
 ---
 layout: post
-title: FAQ Content | Plugin | Syncfusion
+title: FAQ Content | Extension | Syncfusion
 description: The Document Viewer Plugin enables you to easily view and manage your documents within VSCode using our intuitive features.
-platform: Plugin
-control: Syncfusion Plugins
+platform: extension
+control: Syncfusion Extensions
 documentation: ug
 ---
 
