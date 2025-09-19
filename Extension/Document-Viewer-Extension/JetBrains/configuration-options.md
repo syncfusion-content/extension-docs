@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Configuration Options | Plugin | Syncfusion
+title: Configuration Options | Extension | Syncfusion
 description: The Document Viewer Plugin allows users to configure and customize its intuitive features effortlessly.
-platform: Plugin
-control: Syncfusion Plugins
+platform: extension
+control: Syncfusion Extensions
 documentation: ug
 ---
 

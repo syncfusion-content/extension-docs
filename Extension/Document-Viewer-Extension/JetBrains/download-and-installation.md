@@ -2,14 +2,14 @@
 layout: post
 title: Download and Installation | DocumentViewer | Syncfusion
 description: How to download the Document Viewer Plugin from the JetBrains marketplace site and from the plugins View tab.
-platform: Plugin
-control: Syncfusion Plugins
+platform: extension
+control: Syncfusion Extensions
 documentation: ug
 ---
 
 # Download and Installation
 
-Syncfusion® publishes the Document Viewer Plugin in [JetBrains marketplace](https://mark..). You can either install it from JetBrains IDE or download and install it from the JetBrains marketplace.
+Syncfusion® publishes the Document Viewer Plugin in [JetBrains marketplace](https://plugins.jetbrains.com/plugin/28456-document-viewer). You can either install it from JetBrains IDE or download and install it from the JetBrains marketplace.
 
 ## Prerequisites
 
@@ -17,7 +17,7 @@ Before getting started, make sure your environment meets the following requireme
 
 * A JetBrains IDE (e.g., IntelliJ IDEA, PyCharm, WebStorm, Android Studio, etc.)
 
- > The minimum version of the JetBrains IDE is 2023.2 to use the Document Viewer plugin.
+ > The minimum version of the JetBrains IDE is 2024.2 to use the Document Viewer plugin.
 
 
 ## Install through the JetBrains
@@ -38,7 +38,7 @@ The following steps explain how to install the Document Viewer plugins from JetB
 
 The following steps explain how to install the Document Viewer plugins from JetBrains IDE from the disk.
 
-1. Download the plugin archive (ZIP or JAR) of Document Viewer.
+1. Download the plugin archive (ZIP or JAR) of [Document Viewer](https://plugins.jetbrains.com/plugin/28456-document-viewer).
 
 2. Press `Ctrl` + `Alt` + `S` to open settings and then select Plugins.
 
@@ -62,17 +62,17 @@ To install the Document Viewer plugin in JetBrains(Note: This requires the IDE t
 Windows
 
 ```
-idea64.exe installPlugins com.syncfusion.document.viewer
+idea64.exe installPlugins com.syncfusion.documentviewer
 ```
 
 macOS
 
 ```
-open -na "IntelliJ IDEA Ultimate.app" --args installPlugins com.syncfusion.document.viewer
+open -na "IntelliJ IDEA Ultimate.app" --args installPlugins com.syncfusion.documentviewer
 ```
 
 Linux
 
 ```
-idea.sh installPlugins com.syncfusion.document.viewer
+idea.sh installPlugins com.syncfusion.documentviewer
 ```
