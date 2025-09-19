@@ -2,8 +2,8 @@
 layout: post
 title: Download and Installation | DocumentViewer | Syncfusion
 description: How to download the Document Viewer Plugin from the JetBrains marketplace site and from the plugins View tab.
-platform: Plugin
-control: Syncfusion Plugins
+platform: extension
+control: Syncfusion Extensions
 documentation: ug
 ---
 
