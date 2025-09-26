@@ -18,3 +18,9 @@ The Syncfusion® PDF Viewer SDK extensions provides the following add-ins in Vis
 [Code Generator](code-generator): Adds Syncfusion® PDF Viewer SDK component code in razor file of Blazor Application at required place.
 
 [Item Template](item-template): Adds predefined Syncfusion® PDF Viewer SDK controls and the required assemblies in WinForms and WPF Application.
+
+[Creator Sample](sample-creator): Creates Syncfusion® ASP.NET Core or MVC application with the sample code of required Syncfusion® PDF Viewer controls and features.
+
+[Reference Manager](add-references): To add the required Syncfusion® assembly to WPF and Windows forms project reference.
+
+[Toolbox Control](toolbox-control): To configure the Syncfusion® controls into the .NET MAUI application.
