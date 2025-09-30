@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Download and Installation of Syncfusion®DOCX Editor SDK Extension | Syncfusion
+title: Installation of Syncfusion® DOCX Editor SDK | Syncfusion
 description: Check out the documentation for download and installation of Syncfusion®DOCX Editor SDK Extension for Visual Studio.
 platform: extension
 control: Syncfusion Extensions

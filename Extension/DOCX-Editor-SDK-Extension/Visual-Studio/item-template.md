@@ -48,8 +48,8 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
 
 6.	Click **OK** to incorporate the chosen Components into the application, along with the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies.
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> WPFDOCX Editor SDK Item template Gallery](images/Add-Syncfusion-item-details.png)
+![Syncfusion WPF DOCX Editor SDK Item template Gallery](images/Add-Syncfusion-item-details.png)
 
 7.	Then, Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the 			licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to 		your project. Refer to this [blog](https://blog.Syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post 	 for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-    ![Syncfusion<sup style="font-size:70%">&reg;</sup> Word Edittor SDK Item template Gallery](images/Syncfusion-Item-Template-Gallery-7.png)
+    ![Syncfusion DOCX Editor SDK Item template Gallery](images/Syncfusion-Item-Template-Gallery-7.png)

@@ -24,17 +24,6 @@ The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET 
     ![launch the Sample Creator via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](images/Syncfusion_Menu_SampleCreator.png)
     
     N> In Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
-    
-2.  Syncfusion® Sample Creator Wizard displaying the Syncfusion® PDF Viewer SDK **Controls and its Feature Selection** section
-    
-    ![Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Sample Creator wizard](images/SampleCreator-img2.png)
-    
-
-### Controls Selection
-
-Listed here are the Syncfusion® PDF Viewer SDK controls so you can choose the required controls.
-
-![Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Sample Creator Controls selection](images/SampleCreator-img3.png)
 
 ### Project Configuration
 
