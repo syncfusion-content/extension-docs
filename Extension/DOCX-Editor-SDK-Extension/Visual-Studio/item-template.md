@@ -7,9 +7,9 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Add Syncfusion<sup style="font-size:70%">&reg;</sup>Word Editor SDK Components to the WPF Application
+# Add Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK Components to the WPF Application
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>Word Editor SDK Components to the corresponding applications with their references. 
+Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK Components to the corresponding applications with their references. 
 
 I> The Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK item templates are available from v30.1.37.
 
@@ -27,13 +27,13 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
 
     **Option 2:**
 
-    Click **Extensions > Essential Studio<sup style="font-size:70%">&reg;</sup> forDOCX Editor SDK > Add Syncfusion<sup style="font-size:70%">&reg;</sup> Word Editor…** in Visual Studio.
+    Click **Extensions > Essential Studio<sup style="font-size:70%">&reg;</sup> for DOCX Editor SDK > Add Syncfusion<sup style="font-size:70%">&reg;</sup> DOCX Editor…** in Visual Studio.
 
     ![Choose Add Syncfusion<sup style="font-size:70%">&reg;</sup> Item option from menu](images/Add-item.png)
 
 2.	The Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK Item Template wizard will be launched, displaying available components for WPF application.
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> WPFDOCX Editor SDK Item template Components](images/Add-Syncfusion-ui.png)
+![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF DOCX Editor SDK Item template Components](images/Add-Syncfusion-ui.png)
 
 3.	Select the Components from the Component list within yourDOCX Editor SDK Item template. The features associated with the selected Component will be presented.
 

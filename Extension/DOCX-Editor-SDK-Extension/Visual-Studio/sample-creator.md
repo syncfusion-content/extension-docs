@@ -9,7 +9,7 @@ documentation: ug
 
 # Sample Creator
 
-The Syncfusion® DOCX Editor SDK Sample Creator is a tool that lets you make Syncfusion® ASP.NET Core or ASP.NET MVC projects based on the platform selection with sample code for required Syncfusion® DOCX Editor SDK component features and control configuration.
+The Syncfusion® DOCX Editor SDK Sample Creator is a tool that lets you create Syncfusion® ASP.NET Core or ASP.NET MVC projects with sample code for Syncfusion® DOCX Editor SDK component features and control configuration.
 
 I> The Syncfusion® DOCX Editor SDK Sample Creator utility is available from v30.1.37
 
