@@ -43,7 +43,7 @@ Follow the given steps to add the Syncfusion® DOCX Editor SDK Reference Manager
 
    **Assembly From:** Choose the assembly location, either from NuGet packages, the build installed location, or by using the GAC location.
 
-   N> The installed location and GAC option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> WindowsForm or WPF build has been installed.
+   N> The installed location and GAC option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> DOCX Editor SDK setup has been installed.
 
    ![Assembly location option in Syncfusion DOCX Editor SDK Reference Manger](images/Syncfusion-Reference-Manger-img4.png)
 
