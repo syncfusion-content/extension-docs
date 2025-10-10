@@ -9,15 +9,15 @@ documentation: ug
 
 # Add Blazor DOCX Editor SDK component code
 
-Syncfusion® offers a Code Generator component for Blazor platform, enabling seamless integration of the Syncfusion® DOCX Editor SDK component into your Razor files with minimal effort. It automatically inserts the necessary code, including Syncfusion® DOCX Editor SDK components, required namespaces, styles, and NuGet references, at your chosen location. It simplifies the process by interacting with data models and embedding the Syncfusion® DOCX Editor SDK components with the desired features directly into your application.
+Syncfusion® offers a Code Generator component for Blazor platform, enabling seamless integration of the Syncfusion® DOCX Editor SDK component into your Razor files with minimal effort. It automatically inserts the necessary code, including Syncfusion® DOCX Editor SDK component, required namespaces, styles, and NuGet references, at your chosen location. It simplifies the process by interacting with data models and embedding the Syncfusion® DOCX Editor SDK component with the desired features directly into your application.
 
-The steps below will assist you to add the Syncfusion® DOCX Editor SDK components code in your Blazor application through **Visual Studio 2022**:
+The steps below will assist you to add the Syncfusion® DOCX Editor SDK component code in your Blazor application through **Visual Studio**:
 
 N> Before using the Syncfusion® Blazor DOCX Editor SDK Code Generator, check whether the Syncfusion® DOCX Editor SDK Extension is installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
 
-1. Open your existing Blazor application or create a new Blazor application in the Visual Studio 2022.
+1. Open your existing Blazor application or create a new Blazor application in the Visual Studio 2022 or later.
 
-2. To open the Syncfusion® Blazor DOCX Editor SDK Code Generator, select one of the options below in the Razor file, and then add Syncfusion® DOCX Editor SDK components:
+2. To open the Syncfusion® Blazor DOCX Editor SDK Code Generator, select one of the options below in the Razor file, and then add Syncfusion® DOCX Editor SDK component:
 
     **Option 1:**
 

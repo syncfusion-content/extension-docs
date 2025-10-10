@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template Studio in PDF Viewer SDK - Syncfusion
-description: Learn here about how to create an application based on platform selection (Blazor, .NET MAUI, WPF and Windows Forms) using Syncusion® PDF Viewer SDK Components with the help of template studio.
+description: Learn here about how to create an application based on platform selection (Blazor, .NET MAUI, WPF and Windows Forms) using Syncusion® PDF Viewer SDK Component with the help of template studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -9,13 +9,13 @@ documentation: ug
 
 # Syncfusion® PDF Viewer SDK Template Studio
 
-Syncfusion® provides the PDF Viewer SDK Template Studio, which allows you to create a Syncfusion application based on the platform selection such as Blazor, .NET MAUI, WPF and Windows Forms using Syncfusion® PDF Viewer SDK components. The Syncfusion® application is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® PDF Viewer SDK components.
+Syncfusion® provides the PDF Viewer SDK Template Studio, which allows you to create a Syncfusion application based on the platform selection such as Blazor, .NET MAUI, WPF and Windows Forms using Syncfusion® PDF Viewer SDK component. The Syncfusion® application is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® PDF Viewer SDK component.
 
-The steps below will assist you to create your **Syncfusion® Application** through **Visual Studio 2022**:
+The steps below will assist you to create your **Syncfusion® Application** through **Visual Studio**:
 
 N> Before use the Syncfusion® Project Template, check whether the Syncfusion® PDF Viewer SDK Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://help.syncfusion.com/extension/document-sdk-extension/visual-studio/download-and-installation) help topic.
 
-1. Open Visual Studio 2022.
+1. Open Visual Studio 2022 or later.
 
 2. To create a Syncfusion® application, use either one of the following options:
 
@@ -35,11 +35,11 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
      ![CreateNewWizard](images/CreateNewWizard.png)
 
-4. The Syncfusion® PDF Viewer SDK Template Studio wizard will be launched. Select the platform to add the Syncfusion® PDF Viewer SDK components. 
+4. The Syncfusion® PDF Viewer SDK Template Studio wizard will be launched. Select the platform to add the Syncfusion® PDF Viewer SDK component. 
 
     ![PlatformSelection](images/Platform.png)
 
-5. Based on the platform selection, choose the configurations and create the respective application to add the Syncfusion® PDF Viewer SDK components.
+5. Based on the platform selection, choose the configurations and create the respective application to add the Syncfusion® PDF Viewer SDK component.
 
     - Blazor Platform:
         
@@ -85,7 +85,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
             > **Note:** The Progressive Web Application will be enabled if .NET 8.0 version or higher is installed.
             
-            You can choose the required (.NET 9.0 and .NET 8.0), themes, https configuration, localization option, authentication type, Blazor Web App, and Blazor Web Assembly application types.
+            You can choose the required (.NET 9.0 and .NET 8.0), themes, https configuration, authentication type, Blazor Web App, and Blazor Web Assembly application types.
 
             Depending on your Syncfusion Blazor Application Type, refer to the table below for supported authentication types.
 
@@ -114,11 +114,11 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
             ![Configuration](images/Config.png)
 
-            > **Note:** The installed location and GAC options will be available only after the Syncfusion® Essential® WPF or Windows Forms setup has been installed. Use the NuGet option instead of installing the Syncfusion® Essential® WPF or Windows Forms setup. Also, the GAC option will not be available when you choose .NET 6.0, .NET 7.0, and .NET 8.0 from the project type option in Visual Studio.
+            > **Note:** The installed location and GAC options will be available only after the Syncfusion® PDF Viewer SDK setup has been installed. Use the NuGet option instead of installing the Syncfusion® Essential® PDF Viewer SDK setup. Also, the GAC option will not be available when you choose .NET 6.0, .NET 7.0, and .NET 8.0 from the project type option in Visual Studio.
 
             Click **Create** button. The Syncfusion® PDF Viewer SDK WPF or Windows Forms application has been created and has the Syncfusion NuGet packages, styles, and the render code for Syncfusion® PDF Viewer SDK component.
 
-9. The Syncfusion® application based on the platform selection configures with most recent Syncfusion® NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® PDF Viewer SDK components.
+9. The Syncfusion® application based on the platform selection configures with most recent Syncfusion® NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® PDF Viewer SDK component.
 
 10. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
@@ -316,15 +316,9 @@ We need to register the created application in the Google API Console for Indivi
 
 ### Run application
 
-You can run the application and see the Syncfusion® components you selected. Select a component to see component output.
+You can run the application and see the Syncfusion® PDF Viewer SDK component you selected.
 
 ![Blazor Template output page](images/HomePage.png)
-
-You can select a culture language in combo box at top right on the output page to apply the culture in the application.
-
-![Blazor Template output page](images/Localization.png)
-
-N> **Note:** Above culture combo box will be enabled in sample output if localization option is selected in configuration window from Syncfusion Blazor Template Studio wizard.
 
 ## Register and Login Application
 

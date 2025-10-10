@@ -11,11 +11,11 @@ documentation: ug
 
 Syncfusion® provides the Document SDK Template Studio, which allows you to create a Syncfusion Blazor application using Syncfusion® Document SDK components. The Syncfusion® Document SDK Blazor app is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® Document SDK components.
 
-The steps below will assist you to create your **Syncfusion® Document SDK Blazor Application** through **Visual Studio 2022**:
+The steps below will assist you to create your **Syncfusion® Document SDK Blazor Application** through **Visual Studio**:
 
 N> Before use the Syncfusion® Project Template, check whether the Syncfusion® Document SDK Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://help.syncfusion.com/extension/document-sdk-extension/visual-studio/download-and-installation) help topic.
 
-1. Open Visual Studio 2022.
+1. Open Visual Studio 2022 or later.
 
 2. To create a Syncfusion® Document SDK Blazor application, use either one of the following options:
 
@@ -96,7 +96,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
 6. Click either **Next** or the **Features** tab, and you will see the features listed for the selected controls. You can choose the required features.
 
-7. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 9.0 and .NET 8.0), themes, https configuration, localization option, authentication type, Blazor Web App, and Blazor Web Assembly application types.
+7. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 9.0 and .NET 8.0), themes, https configuration, authentication type, Blazor Web App, and Blazor Web Assembly application types.
 
      Depending on your Syncfusion Blazor Application Type, refer to the table below for supported authentication types.
 
@@ -321,15 +321,9 @@ We need to register the created application in the Google API Console for Indivi
 
 ### Run application
 
-You can run the application and see the Syncfusion® components you selected. Select a component to see component output.
+You can run the application and see the Syncfusion® Document SDK component you selected.
 
 ![Blazor Template output page](images/HomePage.png)
-
-You can select a culture language in combo box at top right on the output page to apply the culture in the application.
-
-![Blazor Template output page](images/Localization.png)
-
-N> **Note:** Above culture combo box will be enabled in sample output if localization option is selected in configuration window from Syncfusion Blazor Template Studio wizard.
 
 ## Register and Login Application
 

@@ -11,25 +11,20 @@ documentation: ug
 
 The Syncfusion® Document SDK Sample Creator is a tool that lets you make Syncfusion® ASP.NET Core or ASP.NET MVC projects based on the platform selection with sample code for required Syncfusion® Document SDK component features and control configuration.
 
-I> The Syncfusion® Document SDK Sample Creator utility is available from v30.1.37
+I> The Syncfusion® Document SDK Sample Creator utility is available from v31.2.2
 
 ## Create Syncfusion® ASP.NET Core or ASP.NET MVC Web Application from Sample Creator
 
 The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET MVC Web Application via the Sample Creator utility.
 
-1.  To launch Syncfusion® ASP.NET Core or ASP.NET MVC application, follow either one of the options below:
+1.  Launch the Syncfusion® Document SDK Control Panel and click the Sample Creator button to launch the Document SDK Sample Creator utility. 
     
-    Click **Syncfusion® Menu** and choose **Essential Studio® for Document SDK > Launch Sample Creator…** in **Visual Studio**.
-    
-    ![launch the Sample Creator via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](images/Syncfusion_Menu_SampleCreator.png)
-    
-    N> In Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
+    ![launch the Sample Creator via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](images/SampleCreator-img1.png)
     
 2.  Syncfusion® Sample Creator Wizard displaying the Syncfusion® Document SDK **Controls and its Feature Selection** section
     
     ![Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK Sample Creator wizard](images/SampleCreator-img2.png)
     
-
 ### Controls Selection
 
 Listed here are the Syncfusion® Document SDK controls so you can choose the required controls.

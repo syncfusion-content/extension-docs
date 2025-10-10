@@ -11,14 +11,14 @@ documentation: ug
 
 Syncfusion® publishes the Visual Studio extension in the below Visual Studio marketplace link. You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
 
-[Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.PDFViewerSDKVSExtension)
+[Visual Studio 2022 or 2026](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.PDFViewerSDKVSExtension)
 
 
 ## Prerequisites
 
 The following software prerequisites must be installed to install the Syncfusion® PDF Viewer SDK extension, as well as to creating, adding snippet, converting, and upgrading applications.
 
-* [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/).
+* [Visual Studio 2022 or later](https://visualstudio.microsoft.com/downloads/).
 
 * [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet).
 
@@ -28,11 +28,11 @@ The following software prerequisites must be installed to install the Syncfusion
 
 The steps below assist you to how to install the Syncfusion® PDF Viewer SDK extensions from **Visual Studio Manage Extensions**.
 
-1. Open the Visual Studio 2022.
+1. Open the Visual Studio 2022 or later.
 
 2. Navigate to **Extension ->Manage Extensions** and open the Manage Extensions.
 
-3. On the left, click the **Online** tab and type **"Syncfusion® PDF Viewer SDK"** in the **search box**.
+3. On the left, click the **Online** tab and type **"PDF Viewer SDK - Syncfusion®"** in the **search box**.
 
     ![Online-Manage-Extension-window](images/OnlineExtension.png)
 
@@ -56,7 +56,7 @@ The steps below illustrate how to download and install the Syncfusion® PDF View
 
 1. Download the Syncfusion® PDF Viewer SDK Extensions from the below Visual Studio Marketplace.
 
-   [Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.PDFViewerSDKVSExtension)
+   [Visual Studio 2022 or later](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.PDFViewerSDKVSExtension)
 
 2. Close all Visual Studio instances running, if any.
 

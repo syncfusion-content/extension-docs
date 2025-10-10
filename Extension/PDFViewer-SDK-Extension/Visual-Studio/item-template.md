@@ -7,15 +7,15 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Add Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer Components to the WinForms or WPF Application
+# Add Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer Component to the WinForms or WPF Application
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>PDF Viewer SDK Components to the corresponding applications with their references. 
+Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>PDF Viewer SDK Component to the corresponding applications with their references. 
 
-I> The Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK item templates are available from v30.1.37.
+I> The Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK item templates are available from v31.2.2.
 
-The following steps will guide you in adding the Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK components to your Visual Studio WinForms or WPF application.
+The following steps will guide you in adding the Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK component to your Visual Studio WinForms or WPF application.
 
-## Add Components using Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Item Template
+## Add Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Component using Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Item Template
 
 1.	Open a new or existing WinForms or WPF application.
 
@@ -31,21 +31,21 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
 
     ![Choose Add Syncfusion<sup style="font-size:70%">&reg;</sup> Item option from menu](images/Add-item.png)
 
-2.	The Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Item Template wizard will be launched, displaying available components for the selected platform (WinForms or WPF).
+2.	The Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Item Template wizard will be launched, displaying component for the selected platform (WinForms or WPF).
 
     - Windows Forms:
         
-        ![Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms PDF Viewer SDK Item template Components](images/Add-Syncfusion-ui.png)
+        ![Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms PDF Viewer SDK Item template Component](images/Add-Syncfusion-ui.png)
 
     - WPF:
         
-        ![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF PDF Viewer SDK Item template Components](images/Add-Syncfusion-ui1.png)
+        ![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF PDF Viewer SDK Item template Component](images/Add-Syncfusion-ui1.png)
 
-3.	The Component and the features associated with the component will be presented within your PDF Viewer SDK Item template.
+3.	The Component and the features associated with the PDF Viewer SDK component will be presented within your PDF Viewer SDK Item template.
 
 4.	Choose an assembly reference option such as GAC location, Essential Studio<sup style="font-size:70%">&reg;</sup> installed location, or NuGet packages to specify where the required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project.
 
-    N> If the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WindowsForm or WPF build is installed, the Installed location and GAC options will be enabled. Without installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WindowsForm or WPF setup, use the NuGet option. The GAC option will not be available when using the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms Components in a .NET Core application. The Version drop-down lists the installed WinForms versions.
+    N> If the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential PDF Viewer SDK build is installed, the Installed location and GAC options will be enabled. Without installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential PDF Viewer SDK setup, use the NuGet option. The GAC option will not be available for .NET Core application.
 
 5.  Click **Add**, and a pop-up will appear providing information about adding Component **files** and **NuGet/Assemblies** details.
 
@@ -58,7 +58,7 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
         ![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF PDF Viewer SDK Item template details](images/Add-Syncfusion-item-4.png)
 
 
-6.	Click **OK** to incorporate the chosen Components into the application, along with the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies.
+6.	Click **OK** to incorporate the Component into the application, along with the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies.
 
     - Windows Forms:
         

@@ -7,36 +7,36 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion® .NET MAUI PDF Viewer Toolbox Control fro .NET MAUI Application
+# Syncfusion® .NET MAUI PDF Viewer Toolbox Control for .NET MAUI Application
 
-The Syncfusion® .NET MAUI PDF Viewer Toolbox Control for the .NET MAUI platform is a valuable resource for developers looking to seamlessly integrate Syncfusion<sup>®</sup> .NET MAUI components into their applications. Compatible with Visual Studio 2022, it streamlines the workflow by simplifying the integration and configuration of Syncfusion<sup>®</sup> .NET MAUI components.
+The Syncfusion® .NET MAUI PDF Viewer Toolbox Control for the .NET MAUI platform is a valuable resource for developers looking to seamlessly integrate Syncfusion<sup>®</sup> PDF Viewer SDK component into their applications, it streamlines the workflow by simplifying the integration and configuration of Syncfusion<sup>®</sup> PDF Viewer SDK component.
 
 ## Launching Syncfusion® .NET MAUI PDF Viewer Toolbox from the Syncfusion<sup>®</sup> menu
 
-To launch the Syncfusion® .NET MAUI PDF Viewer Toolbox from the Syncfusion<sup>®</sup> menu in Visual Studio 2022, follow these steps: 
-1. Open Visual Studio 2022. 
+To launch the Syncfusion® .NET MAUI PDF Viewer Toolbox from the Syncfusion<sup>®</sup> menu in Visual Studio, follow these steps: 
+1. Open Visual Studio 2022 or later. 
 2. Go to the **Extensions** menu at the top of the Visual Studio window. 
 3. Click on **Syncfusion<sup>®</sup>** within the **Extensions** menu. 
 4. In the Syncfusion<sup>®</sup> submenu, locate and click on **Essential Studio® for PDF Viewer SDK**. 
 5. From the **Essential Studio® for PDF Viewer SDK** submenu, select **Launch Syncfusion® .NET MAUI PDF Viewer Toolbox**.
-This toolbox provides a set of tools and features to easily incorporate Syncfusion<sup>®</sup> .NET MAUI components into your .NET MAUI application.
+This toolbox provides a set of tools and features to easily incorporate Syncfusion<sup>®</sup> PDF Viewer SDK component into your .NET MAUI application.
 
    ![Syncfusion .NET MAUI Custom Toolbox via Syncfusion<sup>®</sup> menu](images/ToolboxSyncfusionMenu.png)
 
 ## Launching Syncfusion® .NET MAUI PDF Viewer Toolbox from the View menu
 
-To launch the Syncfusion<sup>®</sup> .NET MAUI Toolbox from the View menu in Visual Studio 2022, simply follow these steps:
-1. Open Visual Studio 2022.
+To launch the Syncfusion<sup>®</sup> .NET MAUI Toolbox from the View menu in Visual Studio, simply follow these steps:
+1. Open Visual Studio 2022 or later.
 2. At the top menu, click on **View**.
 3. From the drop-down menu, select **Other Windows**.
 4. In the sub-menu that appears, click on **Syncfusion® .NET MAUI PDF Viewer Toolbox**.
-This toolbox provides a set of tools and features to easily incorporate Syncfusion<sup>®</sup> .NET MAUI components into your .NET MAUI application.
+This toolbox provides a set of tools and features to easily incorporate Syncfusion<sup>®</sup> PDF Viewer SDK component into your .NET MAUI application.
 
    ![Syncfusion .NET MAUI Custom Toolbox view menu](images/ToolboxViewMenu.png)
 
-## Add Syncfusion® .NET MAUI PDF Viewer Toolbox Components
+## Add Syncfusion® .NET MAUI PDF Viewer Toolbox Component
    
-To incorporate Syncfusion<sup>®</sup> .NET MAUI components into your XAML design file, simply drag and drop them from the toolbox. This intuitive approach automatically inserts the component’s code and required namespace into the XAML file, and also installs the necessary NuGet packages.
+To incorporate Syncfusion<sup>®</sup> PDF Viewer SDK component into your XAML design file, simply drag and drop them from the toolbox. This intuitive approach automatically inserts the component’s code and required namespace into the XAML file, and also installs the necessary NuGet packages.
 
    ![Syncfusion .NET MAUI Toolbox Wizard](images/ToolboxComponents.gif)
 

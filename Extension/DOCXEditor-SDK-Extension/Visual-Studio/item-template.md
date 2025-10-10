@@ -7,15 +7,15 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Add Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK Components to the WPF Application
+# Add Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK component to the WPF Application
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK Components to the corresponding applications with their references. 
+Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK component to the corresponding applications with their references. 
 
-I> The Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK item templates are available from v30.1.37.
+I> The Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK item templates are available from v31.2.2.
 
-The following steps will guide you in adding the Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK components to your Visual Studio WPF application.
+The following steps will guide you in adding the Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK component to your Visual Studio WPF application.
 
-## Add Components using Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK Item Template
+## Add component using Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK Item Template
 
 1.	Open a new or existing WPF application.
 
@@ -31,22 +31,22 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
 
     ![Choose Add Syncfusion<sup style="font-size:70%">&reg;</sup> Item option from menu](images/Add-item.png)
 
-2.	The Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK Item Template wizard will be launched, displaying available components for WPF application.
+2.	The Syncfusion<sup style="font-size:70%">&reg;</sup>DOCX Editor SDK Item Template wizard will be launched, displaying available component for WPF application.
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF DOCX Editor SDK Item template Components](images/Add-Syncfusion-ui.png)
+![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF DOCX Editor SDK Item template component](images/Add-Syncfusion-ui.png)
 
-3.	Select the Components from the Component list within yourDOCX Editor SDK Item template. The features associated with the selected Component will be presented.
+3. The Component and the features associated with the DOCX Editor SDK component will be presented within your DOCX Editor SDK Item template.
 
 4.	Choose an assembly reference option such as GAC location, Essential Studio<sup style="font-size:70%">&reg;</sup> installed location, or NuGet packages to specify where the required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project.
 
-    N> If the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WPF build is installed, the Installed location and GAC options will be enabled. Without installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WPF setup, use the NuGet option. The GAC option will not be available when using the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Components in a .NET Core application. The Version drop-down lists the installed WPF versions.
+    N> If the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential DOCX Editor SDK build is installed, the Installed location and GAC options will be enabled. Without installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential DOCX Editor SDK setup, use the NuGet option. The GAC option will not be available for .NET Core application.
 
 5.  Click **Add**, and a pop-up will appear providing information about adding Component **files** and **NuGet/Assemblies** details.
 
 ![Syncfusion<sup style="font-size:70%">&reg;</sup> WPFDOCX Editor SDK Item template details](images/Add-Syncfusion-item-4.png)
 
 
-6.	Click **OK** to incorporate the chosen Components into the application, along with the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies.
+6.	Click **OK** to incorporate the component into the application, along with the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies.
 
 ![Syncfusion WPF DOCX Editor SDK Item template Gallery](images/Add-Syncfusion-item-details.png)
 
