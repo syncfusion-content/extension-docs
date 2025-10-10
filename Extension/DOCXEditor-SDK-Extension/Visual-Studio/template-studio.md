@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template Studio in DOCX Editor SDK - Syncfusion
-description: Learn here about how to create an application based on platform selection (Blazor and WPF) using Syncusion® DOCX Editor SDK component with the help of template studio.
+description: Learn to create Blazor and WPF applications using Syncfusion® DOCX Editor SDK with Template Studio support
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

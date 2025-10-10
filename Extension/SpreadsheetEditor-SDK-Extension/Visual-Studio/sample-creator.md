@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Sample Creator | Spreadsheet Editor SDK | Syncfusion
-description: Sample Creator is the utility that allows you to create Syncfusion ASP.NET Core or ASP.NET MVC Projects along with the samples based on Syncfusion Spreadsheet Editor SDK control and Features selection
+description: Sample Creator helps generate ASP.NET Core or MVC projects with samples using Syncfusion Spreadsheet Editor SDK features and control.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Sample Creator
+# Sample Creator for Syncfusion® Spreadsheet Editor SDK
 
 The Syncfusion® Spreadsheet Editor SDK Sample Creator is a tool that lets you create Syncfusion® ASP.NET Core or ASP.NET MVC projects with sample code for Syncfusion® Spreadsheet Editor SDK component features and control configuration.
 

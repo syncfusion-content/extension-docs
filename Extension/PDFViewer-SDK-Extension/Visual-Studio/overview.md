@@ -9,7 +9,7 @@ documentation: ug
 
 # Overview of Syncfusion® PDF Viewer SDK Extension for Visual Studio
 
-Syncfusion® PDF Viewer SDK Extension for Visual Studio seamelessly integrates Document processing - PDF Viewer component into Blazor, .NET MAUI, WPF and Windows Forms applications by configuring the Syncfusion® NuGet packages and themes. This empowers developers to effortlessly view and print PDF files, enhancing your app's document management capabilities with ease and efficiency.
+Syncfusion® PDF Viewer SDK Extension for Visual Studio seamlessly integrates Document processing - PDF Viewer component into Blazor, .NET MAUI, WPF and Windows Forms applications by configuring the Syncfusion® NuGet packages and themes. This empowers developers to effortlessly view and print PDF files, enhancing your app's document management capabilities with ease and efficiency.
 
 The Syncfusion® PDF Viewer SDK extensions provides the following add-ins in Visual Studio:
 
@@ -21,6 +21,6 @@ The Syncfusion® PDF Viewer SDK extensions provides the following add-ins in Vis
 
 [Creator Sample](sample-creator): Creates Syncfusion® ASP.NET Core or MVC application with the sample code of required Syncfusion® PDF Viewer SDK control and features.
 
-[Reference Manager](add-references): To add the required Syncfusion® PDF Viewer SDK assembly to WPF and Windows forms project reference.
+[Reference Manager](add-references): To add the required Syncfusion® PDF Viewer SDK assembly to WPF and Windows Forms project reference.
 
 [Toolbox Control](toolbox-control): To configure the Syncfusion® PDF Viewer SDK control into the .NET MAUI application.

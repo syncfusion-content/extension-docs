@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template Studio in PDF Viewer SDK - Syncfusion
-description: Learn here about how to create an application based on platform selection (Blazor, .NET MAUI, WPF and Windows Forms) using Syncusion® PDF Viewer SDK Component with the help of template studio.
+description: Learn to create Blazor, .NET MAUI, WPF, or WinForms applications using Syncfusion® PDF Viewer SDK with Template Studio
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

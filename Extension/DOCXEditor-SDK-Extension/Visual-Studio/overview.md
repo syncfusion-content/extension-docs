@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overview of Syncfusion® DOCX Editor SDK Extension for Visual Studio | Syncfusion
+title: Syncfusion® DOCX Editor SDK Extension for Visual Studio
 description: Learn here all about introduction on Syncfusion® DOCX Editor SDK extension for Visual Studio which made integration ease.
 platform: extension
 control: Syncfusion Extensions
@@ -21,4 +21,4 @@ The Syncfusion® DOCX Editor SDK extensions provides the following add-ins in Vi
 
 [Creator Sample](sample-creator): Creates Syncfusion® ASP.NET Core or MVC application with the sample code of required Syncfusion® DOCX Editor SDK control and features.
 
-[Reference Manager](Add-References): To add the required Syncfusion® DOCX Editor SDK assembly to WPF and Windows forms project reference.
+[Reference Manager](Add-References): To add the required Syncfusion® DOCX Editor SDK assembly to WPF project reference.

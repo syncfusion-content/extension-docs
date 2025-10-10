@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Download and Installation of Syncfusion® PDF Viewer SDK Extension | Syncfusion
+title: Installation of Syncfusion® PDF Viewer SDK Extension | Syncfusion
 description: Check out the documentation for download and installation of Syncfusion® PDF Viewer SDK Extension for Visual Studio.
 platform: extension
 control: Syncfusion Extensions

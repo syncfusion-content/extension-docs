@@ -54,7 +54,7 @@ The steps below assist you to how to install the Syncfusion®DOCX Editor SDK ext
 
 The steps below illustrate how to download and install the Syncfusion®DOCX Editor SDK extension from the Visual Studio Marketplace.
 
-1. Download the Syncfusion®DOCX Editor SDK Extensions from the below Visual Studio Marketplace.
+1. Download the Syncfusion® DOCX Editor SDK Extensions from the below Visual Studio Marketplace.
 
    [Visual Studio 2022 or later](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.DOCXEditorSDKVSExtension)
 

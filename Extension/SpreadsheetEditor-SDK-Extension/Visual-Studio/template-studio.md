@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template Studio in Spreadsheet Editor SDK - Syncfusion
-description: Learn here about how to create an application based on platform selection (Blazor, WPF and Windows Forms) using Syncusion® Spreadsheet Editor SDK component with the help of template studio.
+description: Learn to create Blazor, WPF, or WinForms applications using Syncfusion® Spreadsheet Editor SDK with Template Studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
