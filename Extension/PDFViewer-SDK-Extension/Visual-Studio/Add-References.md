@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add a Syncfusion® PDF Viewer SDK References| WinForms | WPF | Syncfusion
+title: Add Syncfusion® PDF Viewer SDK References| WinForms | WPF
 description: Syncfusion® PDF Viewer SDK Reference Manger is add-in to add the Syncfusion references into the WinForms and WPF application
 platform: extension
 control: Syncfusion Extensions
