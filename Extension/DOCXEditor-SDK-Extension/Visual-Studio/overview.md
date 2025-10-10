@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Overview of DOCX Editor SDK Extension for Visual Studio
+# Overview of Syncfusion® DOCX Editor SDK Extension for Visual Studio
 
 The Syncfusion® DOCX Editor SDK Extension for Visual Studio seamlessly integrates a robust DOCX Processor component into Blazor and WPF applications. By leveraging Syncfusion’s NuGet packages and customizable themes, developers can effortlessly enable advanced Word document viewing, editing, and printing capabilities without Microsoft Office dependencies. This empowers developers to focus on core application logic while streamlining document management with efficiency and flexibility.
 

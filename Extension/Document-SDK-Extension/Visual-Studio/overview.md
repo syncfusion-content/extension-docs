@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Overview of Document SDK for Visual Studio
+# Overview of Syncfusion® Document SDK for Visual Studio
 
 The Syncfusion® Document SDK for Visual Studio is used to integrate Syncfusion® Documenet processing components into the applications by configuring the Syncfusion® NuGet packages and themes.
 
