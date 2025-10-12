@@ -1,40 +1,35 @@
 ---
 layout: post
 title: Sample Creator | Document SDK | Syncfusion
-description: Sample Creator is the utility that allows you to create Syncfusion ASP.NET Core or ASP.NET MVC Projects along with the samples based on Syncfusion Document SDK Controls and Features selection
+description: Sample Creator helps generate ASP.NET Core or MVC projects with samples using Syncfusion Document SDK features and controls.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Sample Creator
+# Sample Creator for Syncfusion® Document SDK
 
 The Syncfusion® Document SDK Sample Creator is a tool that lets you make Syncfusion® ASP.NET Core or ASP.NET MVC projects based on the platform selection with sample code for required Syncfusion® Document SDK component features and control configuration.
 
-I> The Syncfusion® Document SDK Sample Creator utility is available from v30.1.37
+I> The Syncfusion® Document SDK Sample Creator utility is available from v31.2.2
 
 ## Create Syncfusion® ASP.NET Core or ASP.NET MVC Web Application from Sample Creator
 
 The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET MVC Web Application via the Sample Creator utility.
 
-1.  To launch Syncfusion® ASP.NET Core or ASP.NET MVC application, follow either one of the options below:
+1.  Launch the Syncfusion® Document SDK Control Panel and click the Sample Creator button to launch the Document SDK Sample Creator utility. 
     
-    Click **Syncfusion® Menu** and choose **Essential Studio® for Document SDK > Launch Sample Creator…** in **Visual Studio**.
-    
-    ![launch the Sample Creator via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](images/Syncfusion_Menu_SampleCreator.png)
-    
-    N> In Visual Studio 2019, Syncfusion® menu available under Extension in Visual Studio menu.
+    ![launch the Sample Creator via Syncfusion menu](images/SampleCreator-img1.png)
     
 2.  Syncfusion® Sample Creator Wizard displaying the Syncfusion® Document SDK **Controls and its Feature Selection** section
     
-    ![Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK Sample Creator wizard](images/SampleCreator-img2.png)
+    ![Syncfusion Document SDK Sample Creator wizard](images/SampleCreator-img2.png)
     
-
 ### Controls Selection
 
 Listed here are the Syncfusion® Document SDK controls so you can choose the required controls.
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Document Sdk Sample Creator Controls selection](images/SampleCreator-img3.png)
+![Syncfusion Document Sdk Sample Creator Controls selection](images/SampleCreator-img3.png)
 
 ### Project Configuration
 
@@ -48,7 +43,7 @@ Listed here are the Syncfusion® Document SDK controls so you can choose the req
             -   .NET Core – Choose the .NET Core version
             -   Assets From – Load the Syncfusion® assets to either CDN or NPM.
             
-            ![Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK Sample Creator project configuration section](images/SampleCreator-core.png)
+            ![Syncfusion Document SDK Sample Creator project configuration section](images/SampleCreator-core.png)
             
         -   ASP .NET MVC:
             
@@ -56,7 +51,7 @@ Listed here are the Syncfusion® Document SDK controls so you can choose the req
             -   .NET Framework – Choose the .NET Framework version
             -   Assets From – Load the Syncfusion® assets to either CDN or NuGet.
             
-            ![Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK Sample Creator project configuration section](images/SampleCreator-mvc.png)
+            ![Syncfusion Document SDK Sample Creator project configuration section](images/SampleCreator-mvc.png)
             
     -   Name – Name your Syncfusion® ASP.NET Core or ASP.NET MVC Application.
         
@@ -94,8 +89,8 @@ Listed here are the Syncfusion® Document SDK controls so you can choose the req
         
         -   ASP.NET Core:
             
-            ![syncfusion<sup style="font-size:70%">&reg;</sup> assemblies](images/syncfusion-assemblies.png)
+            ![Syncfusion assemblies](images/syncfusion-assemblies.png)
             
         -   ASP .NET MVC:
             
-            ![syncfusion<sup style="font-size:70%">&reg;</sup> assemblies](images/syncfusion-assemblies1.png)
+            ![Syncfusion assemblies](images/syncfusion-assemblies1.png)

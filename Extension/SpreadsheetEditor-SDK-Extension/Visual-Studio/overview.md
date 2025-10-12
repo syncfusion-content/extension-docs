@@ -13,13 +13,13 @@ The Syncfusion® Spreadsheet Editor SDK Extension for Visual Studio seamlessly i
 
 The Syncfusion® Spreadsheet Editor SDK extensions provides the following add-ins in Visual Studio:
 
-[Template-Studio](template-studio):  Creates Syncfusion® applications based on platform (Blazor, WPF, Windows Forms) with required configuration for development with Syncfusion® Spreadsheet Editor SDK components.
+[Template-Studio](template-studio):  Creates Syncfusion® applications based on platform (Blazor, WPF, Windows Forms) with required configuration for development with Syncfusion® Spreadsheet Editor SDK component.
 
 [Code Generator](code-generator): Adds Syncfusion® Spreadsheet Editor SDK component code in razor file of Blazor Application at required place.
 
-[Item Template](item-template): Adds predefined Syncfusion® Spreadsheet Editor SDK controls and the required assemblies in WinForms and WPF Application.
+[Item Template](item-template): Adds predefined Syncfusion® Spreadsheet Editor SDK control and the required assemblies in WinForms and WPF Application.
 
-[Creator Sample](sample-creator): Creates Syncfusion® ASP.NET Core or MVC application with the sample code of required Syncfusion® Spreadsheet Editor controls and features.
+[Creator Sample](sample-creator): Creates Syncfusion® ASP.NET Core or MVC application with the sample code of required Syncfusion® Spreadsheet Editor SDK control and features.
 
-[Reference Manager](add-references): To add the required Syncfusion® assembly to WPF and Windows forms project reference.
+[Reference Manager](add-references): To add the required Syncfusion® Spreadsheet Editor SDK assembly to WPF and Windows forms project reference.
 
