@@ -38,10 +38,10 @@ The steps below illustrate how to download and install the Syncfusion<sup style=
 
 1.	Download the [Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.WPFExtension) from the Visual Studio Marketplace.
 2.	If any Visual Studio instances are still open, close them.
-3.	Double-click on the downloaded VSIX file to install. You can see the VSIX installation prompts for the Visual Studio 2019 version. If Visual Studio 2019 is not installed, it will not be possible to install the extension
+3.	Double-click the downloaded VSIX file to install. The installer will display prompts to install the extension in any available Visual Studio instances. If no Visual Studio installation is detected, the extension cannot be installed.
 	
 	![Vsix Modify Window](Download-and-Installation-images/VSIXInstall.png)
 4.	Click the **Install** button.
-5.	After the installation is complete, open Visual Studio 2019. You can now use Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from the Visual Studio under the Extensions menu.
+5.	After the installation is complete, open Visual Studio. You can now use Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from the Visual Studio under the Extensions menu.
 	
 	![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Menu](Download-and-Installation-images/SyncfusionWpfMenu.png)

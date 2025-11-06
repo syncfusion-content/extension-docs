@@ -14,13 +14,13 @@ The WinForms Template Studio by Syncfusion<sup style="font-size:70%">&reg;</sup>
 
 I> The Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms Template Studio is available from v24.1.41.
 
-N> WinForms Template Studio is compatible with Visual Studio 2022, Visual Studio 2019, and Visual Studio 2017. For the Visual Studio 2015 or lower versions, it is recommended to use a [WinForms project template](https://help.Syncfusion.com/windowsforms/visual-studio-integration/create-project).
+N> WinForms Template Studio is compatible with Visual Studio 2026, Visual Studio 2022, Visual Studio 2019, and Visual Studio 2017. For the Visual Studio 2015 or lower versions, it is recommended to use a [WinForms project template](https://help.Syncfusion.com/windowsforms/visual-studio-integration/create-project).
 
 Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms project using the Visual Studio Project Template by following the provided steps.
 
 > Check whether the **WinForms Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** are installed or not in Visual Studio Extension Manager by going to **Extensions -> Manage Extensions -> Installed** for Visual Studio 2019 or later, and for Visual Studio 2017 by going to **Tools -> Extensions and Updates -> Installed**. If this extension is not installed, please install the extension by following the steps from the [download and installation](https://help.Syncfusion.com/windowsforms/visual-studio-integration/download-and-installation) help topic.
 
-1.	Open the Visual Studio 2022.
+1.	Open the Visual Studio.
 
 2.	Select one of the following options to create the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms application
 
@@ -44,7 +44,7 @@ Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms project usi
 
 	![Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms project configuration wizard](Template-Studio-Images/WF-5.png)
 
-	N> The installed location and GAC options will be available only after the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WinForms setup has been installed. Use the NuGet option instead of installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WinForms setup. Also, the GAC option will not be available when you choose .NET 6.0, .NET 7.0, and .NET 8.0 from the project type option in Visual Studio.
+	N> The installed location and GAC options will be available only after the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WinForms setup has been installed. Use the NuGet option instead of installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WinForms setup. Also, the GAC option will not be available when you choose .NET 6.0, .NET 7.0, .NET 8.0, .NET 9.0, and .NET 10.0 from the project type option in Visual Studio.
 
 	I> Visual Basic Language support is available in WinForms Template Studio starting from version 25.1.35.
 
@@ -124,7 +124,7 @@ Here's a simple explanation:
 
        ![Resources](Template-Studio-Images/Resources.png)
  
-    > The .NET 6.0, .NET 7.0, and .NET 8.0 options will be available in the Select a framework version dropdown only if the respective .NET SDKs are installed on your system. The table below outlines the .NET versions, the specific product versions from which they are available, and the Visual Studio versions that support them:
+    > The .NET 6.0, .NET 7.0, .NET 8.0, .NET 9.0, and .NET 10.0 options will be available in the Select a framework version dropdown only if the respective .NET SDKs are installed on your system. The table below outlines the .NET versions, the specific product versions from which they are available, and the Visual Studio versions that support them:
 	> <table>
 	>   <thead>
 	>     <tr>
@@ -148,6 +148,16 @@ Here's a simple explanation:
 	>       <td>.NET 8.0</td>
 	>       <td>v23.2.4</td>
 	>       <td>Visual Studio 2022</td>
+	>     </tr>
+	>     <tr>
+	>       <td>.NET 9.0</td>
+	>       <td>v27.2.2</td>
+	>       <td>Visual Studio 2022</td>
+	>     </tr>
+	>     <tr>
+	>       <td>.NET 10.0</td>
+	>       <td>v31.2.9</td>
+	>       <td>Visual Studio 2026</td>
 	>     </tr>
 	>   </tbody>
 	> </table>

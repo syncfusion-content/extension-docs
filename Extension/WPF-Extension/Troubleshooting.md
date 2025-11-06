@@ -18,7 +18,7 @@ Troubleshoot the project with the Syncfusion<sup style="font-size:70%">&reg;</su
 
 The steps below will assist you in using the Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter by Visual Studio. 
 
-> Check whether the **WPF Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** are installed or not in Visual Studio Extension Manager by going to **Tools -> Extensions and Updates -> Installed** for Visual Studio 2017 or lower, and **Extensions -> Manage Extensions -> Installed** for Visual Studio 2019 by going to Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
+> Check whether the **WPF Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** are installed or not in Visual Studio Extension Manager by going to **Tools -> Extensions and Updates -> Installed** for Visual Studio 2017 or lower, and **Extensions -> Manage Extensions -> Installed** for Visual Studio 2019 and later by going to Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
 
 1. To open Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter Wizard, follow either one of the options below: 
    
@@ -27,7 +27,7 @@ The steps below will assist you in using the Syncfusion<sup style="font-size:70%
 
    ![Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter.png)
 
-   N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
+   N> From Visual Studio 2019 and later, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
 
    ![Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter_2019.png)
 

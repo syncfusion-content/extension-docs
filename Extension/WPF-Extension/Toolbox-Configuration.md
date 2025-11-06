@@ -48,7 +48,8 @@ To add the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF components via t
    * Install VS2017 – Configures Framework 4.6 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2017 toolbox.
    * Install VS2019 – Configures Framework 4.6 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2019 toolbox
    * Install VS2022 – Configures Framework 4.6 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2022 toolbox.
-   
+   * Install VS2026 – Configures Framework 4.6.2 Syncfusion<sup style="font-size:70%">&reg;</sup> controls in VS 2026 toolbox.
+
     N> You can also configure Syncfusion<sup style="font-size:70%">&reg;</sup> controls from a lower version Framework assembly to higher version of Visual Studio.
    
 3. The successful configuration of Toolbox is indicated by an Information message. Click OK.

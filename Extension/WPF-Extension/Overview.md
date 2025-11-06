@@ -11,9 +11,9 @@ documentation: ug
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Studio Extensions can be accessed through the Syncfusion<sup style="font-size:70%">&reg;</sup> Menu to create and configure the project with Syncfusion<sup style="font-size:70%">&reg;</sup> references in Visual Studio.The Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Extensions supports Microsoft Visual Studio 2013 or higher.
 
-N> Syncfusion<sup style="font-size:70%">&reg;</sup> Extension is published in Visual Studio Marketplace. We provided separate Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Extension support for Visual Studio 2022 and Visual Studio 2019 or lower. Please refer below marketplace link.
+N> Syncfusion<sup style="font-size:70%">&reg;</sup> Extension is published in Visual Studio Marketplace. We provided separate Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Extension support for Visual Studio 2022 or Visual Studio 2026 and Visual Studio 2019 or lower. Please refer below marketplace link.
 
-[Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.WPFVSExtension)
+[Visual Studio 2022 or 2026](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.WPFVSExtension)
 
 [Visual Studio 2019 or lower](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.WPFExtension)
 

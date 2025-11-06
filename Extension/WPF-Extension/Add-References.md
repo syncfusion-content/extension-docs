@@ -15,7 +15,7 @@ N> This Reference Manager can be applied to a project for Syncfusion<sup style="
 
 To add the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly references in Visual Studio, follow the steps below:
 
-> Check whether the **WPF Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** are installed or not in Visual Studio Extension Manager by going to **Tools -> Extensions and Updates -> Installed** for Visual Studio 2017 or lower, and **Extensions -> Manage Extensions -> Installed** for Visual Studio 2019 by going to Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
+> Check whether the **WPF Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** are installed or not in Visual Studio Extension Manager by going to **Tools -> Extensions and Updates -> Installed** for Visual Studio 2017 or lower, and **Extensions -> Manage Extensions -> Installed** for Visual Studio 2019 and later by going to Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
 
 1. Open a new or existing **WPF** application.
 
@@ -53,7 +53,7 @@ To add the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly references 
    ![Assembly location option in Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img4.png)
 
 
-   N> The GAC option will not be available when you select the WPF (.NET 8.0, .NET 7.0, and.NET 6.0) application in Visual Studio 2022.
+   N> The GAC option will not be available when you select the WPF (.NET 10.0, .NET 9.0, .NET 8.0, .NET 7.0, and.NET 6.0) application in Visual Studio 2022 and later.
 
    **Version:** To add the corresponding version assemblies to the project, select the build version.
 

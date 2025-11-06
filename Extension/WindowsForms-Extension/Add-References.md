@@ -15,7 +15,7 @@ N> This Reference Manager can be applied to a project for Syncfusion<sup style="
 
 Follow the given steps to add the Syncfusion<sup style="font-size:70%">&reg;</sup> references in Visual Studio:
 
-> Before use the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms Reference Manager, check whether the **WinForms Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed.If this extension not installed, please install the extension by follow the steps from the [download and installation](https://help.Syncfusion.com/windowsforms/visual-studio-integration/vs2019-extensions/download-and-installation/) help topic.
+> Before use the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms Reference Manager, check whether the **WinForms Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 or higher by clicking on the Extensions -> Manage Extensions -> Installed.If this extension not installed, please install the extension by follow the steps from the [download and installation](https://help.Syncfusion.com/windowsforms/visual-studio-integration/vs2019-extensions/download-and-installation/) help topic.
 
 1. Open a new or existing **WinForms** application.
 
@@ -47,7 +47,7 @@ Follow the given steps to add the Syncfusion<sup style="font-size:70%">&reg;</su
 
    ![Assembly location option in Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img4.png)
 
-   N> The GAC option will not be available if you have selected a WinForms (.NET 8.0, .NET 7.0, and .NET 6.0) application in Visual Studio 2022.
+   N> The GAC option will not be available if you have selected a WinForms (.NET 10.0, .NET 9.0, .NET 8.0, .NET 7.0, and .NET 6.0) application in Visual Studio.
 
    **Version:** Choose the build version to add the corresponding version assemblies to the project.
 

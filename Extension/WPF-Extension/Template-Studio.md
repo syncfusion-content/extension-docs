@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template Studio | Wpf | Syncfusion
-description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion WPF platform to create Syncfusion WPF Application by addiing the required assemblies
+description: Syncfusion provides the Visual Studio Project Templates for the Syncfusion WPF platform to create Syncfusion WPF Application by adding the required assemblies
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -20,7 +20,7 @@ Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project using th
 
 > Check whether the **WPF Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** are installed or not in Visual Studio Extension Manager by going to **Extensions -> Manage Extensions -> Installed** for Visual Studio 2019 or later, and for Visual Studio 2017 by going to **Tools -> Extensions and Updates -> Installed**. If this extension is not installed, please install the extension by following the steps from the [download and installation](https://help.Syncfusion.com/wpf/visual-studio-integration/download-and-installation) help topic.
 
-1.	Open the Visual Studio 2022.
+1.	Open the Visual Studio.
 
 2.	Select one of the following options to create the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF application
 
@@ -44,7 +44,7 @@ Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project using th
 
 	![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project configuration wizard](Template-Studio-Images/WPF-4.png)
 
-	N> The installed location and GAC options will be available only after the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> WPF setup has been installed. Use the NuGet option instead of installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> WPF setup. Also, the GAC option will not be available when you choose .NET 6.0, .NET 7.0, and .NET 8.0 from the project type option in Visual Studio.
+	N> The installed location and GAC options will be available only after the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> WPF setup has been installed. Use the NuGet option instead of installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> WPF setup. Also, the GAC option will not be available when you choose .NET 6.0, .NET 7.0, .NET 8.0, .NET 9.0, and .NET 10.0 from the project type option in Visual Studio.
 
 	I> Visual Basic Language support is available in WPF Template Studio starting from version 25.1.35.
 
@@ -123,7 +123,7 @@ In the **Project Details** section, you can modify configurations and project ty
 	 ![Resources](Template-Studio-Images/Resources.png)
 
 	
-    > The .NET 6.0, .NET 7.0, and .NET 8.0 options will be available in the Select a framework version dropdown only if the respective .NET SDKs are installed on your system. The table below outlines the .NET versions, the specific product versions from which they are available, and the Visual Studio versions that support them:
+    > The .NET 6.0, .NET 7.0, .NET 8.0, .NET 9.0,and .NET 10.0 options will be available in the Select a framework version dropdown only if the respective .NET SDKs are installed on your system. The table below outlines the .NET versions, the specific product versions from which they are available, and the Visual Studio versions that support them:
 	> <table>
 	>   <thead>
 	>     <tr>
@@ -147,6 +147,16 @@ In the **Project Details** section, you can modify configurations and project ty
 	>       <td>.NET 8.0</td>
 	>       <td>v23.2.4</td>
 	>       <td>Visual Studio 2022</td>
+	>     </tr>
+	>     <tr>
+	>       <td>.NET 9.0</td>
+	>       <td>v27.2.2</td>
+	>       <td>Visual Studio 2022</td>
+	>     </tr>
+	>     <tr>
+	>       <td>.NET 10.0</td>
+	>       <td>v31.2.9</td>
+	>       <td>Visual Studio 2026</td>
 	>     </tr>
 	>   </tbody>
 	> </table>
