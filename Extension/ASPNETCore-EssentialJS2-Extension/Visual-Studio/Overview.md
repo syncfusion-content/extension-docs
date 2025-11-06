@@ -11,9 +11,9 @@ documentation: ug
 
 ## Overview
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Visual Studio Extensions can be accessed through the Syncfusion<sup style="font-size:70%">&reg;</sup> Menu to create and configure the project with Syncfusion<sup style="font-size:70%">&reg;</sup> references in Visual Studio.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Visual Studio Extensions can be accessed through the Syncfusion<sup style="font-size:70%">&reg;</sup> Menu to create and configure the project with Syncfusion<sup style="font-size:70%">&reg;</sup> references in Visual Studio.
 
-> Syncfusion<sup style="font-size:70%">&reg;</sup> Extension is published in Visual Studio Marketplace. You can download ASP.NET Core (EJ2) Extensions [here](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETCoreExtensions)
+> Syncfusion<sup style="font-size:70%">&reg;</sup> Extension is published in Visual Studio Marketplace. You can download ASP.NET Core Extensions [here](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETCoreExtensions)
 
 ## IMPORTANT
 

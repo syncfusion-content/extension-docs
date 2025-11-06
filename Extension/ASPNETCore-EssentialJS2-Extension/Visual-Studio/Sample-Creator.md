@@ -11,7 +11,7 @@ documentation: ug
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> Sample Creator is a tool that lets you make Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) projects with sample code for required Syncfusion<sup style="font-size:70%">&reg;</sup> component features and Syncfusion<sup style="font-size:70%">&reg;</sup> control configuration.
 
-> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Sample Creator utility is available from v16.3.0.17.
+> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Sample Creator utility is available from v16.3.0.17.
 
 The following steps is used to create the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Application by using the Sample Creator utility:
 
@@ -19,17 +19,17 @@ The following steps is used to create the Syncfusion<sup style="font-size:70%">&
 
     **Option 1:**
 
-    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core (EJ2) > Launch Sample Creator…** in **Visual Studio.**
+    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core > Launch Sample Creator…** in **Visual Studio.**
 
     ![sample creator](images/sample-creator.png)
 
     **Option 2:**
 
-    Launch the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Control Panel and click the Sample Creator button to launch the ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Sample Creator utility. For further information, see the screenshot below.
+    Launch the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Control Panel and click the Sample Creator button to launch the ASP.NET Core Sample Creator utility. For further information, see the screenshot below.
 
     ![control-panel](images/sample-creator-control-panel.png)
 
-2. Syncfusion<sup style="font-size:70%">&reg;</sup> controls and features are listed in the ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Sample Creator.
+2. Syncfusion<sup style="font-size:70%">&reg;</sup> controls and features are listed in the ASP.NET Core Sample Creator.
 
     ![controls-list](images/controls-list.png)
 
@@ -45,19 +45,11 @@ The following steps is used to create the Syncfusion<sup style="font-size:70%">&
 
 1. You can configure the project with following details.
 
-    **VS Version**: Choose the Visual Studio version and Framework.
-
-    **Project Type**: Select the type of ASP.NET Core Project.
+    **VS Version**: Choose the Visual Studio version.
 
     **ASP.NET Core Version**: Select the version of ASP.NET Core Project.
 
     ![aspnet core version](images/Aspnet-core-version.png)
-
-    > .NET 6.0 is available from v19.4.0.38 and support from Visual Studio 2022.
-
-    > .NET 7.0 is available from v20.4.0.38 and support from Visual Studio 2022.
-
-    > .NET 8.0 is available from v23.2.4 and support from Visual Studio 2022.
 
     **Assets From**: Choose the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 assets to ASP.NET Core Project, either NPM, CDN, or Installed Location.
 

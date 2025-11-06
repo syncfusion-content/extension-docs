@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Check for Updates | ASP.NET Core (Essential JS2) | Syncfusion
+title: Check for Updates | ASP.NET Core (Essential JS 2) | Syncfusion
 description: Syncfusion Check for Updates provides Extensions to update most recent version of the Essential Studio release.
 platform: extension
 control: Visual Studio Extensions
