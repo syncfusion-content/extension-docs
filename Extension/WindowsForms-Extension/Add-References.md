@@ -43,7 +43,7 @@ Follow the given steps to add the Syncfusion<sup style="font-size:70%">&reg;</su
 
    **Assembly From:** Choose the assembly location, either from NuGet packages, the build installed location, or by using the GAC location.
 
-   N> The installed location and GAC option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> Winforms setup has been installed.
+   N> The installed location and GAC option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> WinForms setup has been installed.
 
    ![Assembly location option in Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img4.png)
 
