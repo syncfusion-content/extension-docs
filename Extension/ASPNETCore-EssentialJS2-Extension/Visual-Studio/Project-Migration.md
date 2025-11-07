@@ -29,8 +29,6 @@ The steps below will assist you to upgrade the Syncfusion<sup style="font-size:7
 
     ![migrate project](images/migrate-project.png)
 
-    > From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under **Extensions** in Visual Studio menu.
-
     **Option 2**
 
     Right-click the **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Application** from Solution Explorer and select **Syncfusion<sup style="font-size:70%">&reg;</sup> Web**. Choose **Migrate the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Project to Another Version…**
@@ -45,7 +43,7 @@ The steps below will assist you to upgrade the Syncfusion<sup style="font-size:7
 
     **Assets From:** Load the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 assets to ASP.NET Core Project, from either NPM, CDN or Installed Location.
 
-    > Installed location option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JavaScript 2 setup has been installed.
+    > Installed location option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> ASP.NET Core setup has been installed.
 
 4. Check the **“Enable a backup before migrating”** checkbox if you want to take the project backup and choose location.
 

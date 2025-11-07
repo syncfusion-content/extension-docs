@@ -25,8 +25,6 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     ![convert project](images/convert-new-app.png)
 
-    > From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under **Extensions** in Visual Studio menu.
-
     ![convert project](images/convert-new-app-2019.png)
 
     **Option 2:**
@@ -43,7 +41,7 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     **Assets From:** Load the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 assets to ASP.NET Core Project, from either NPM, CDN, or Installed Location.
 
-    > Installed location option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JavaScript 2 setup has been installed.
+    > Installed location option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> ASP.NET Core setup has been installed.
 
     **Choose the Theme:** Choose the required theme.
 
