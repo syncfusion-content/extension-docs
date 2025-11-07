@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Troubleshooting | Wpf | Syncfusion
-description: Syncfusion Troubleshooter is Visual Studio extension to troubleshoot the configuration issues in Syncfusion assembly reference, webconfig entries in projects.
+description: Syncfusion Troubleshooter is Visual Studio extension to troubleshoot the configuration issues in Syncfusion assembly reference, webconfig entries in WPF projects.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Troubleshoot the project
+# Troubleshoot the WPF project
 
 Troubleshoot the project with the Syncfusion<sup style="font-size:70%">&reg;</sup> configuration and apply the fix, such as wrong.NET Framework version of a Syncfusion<sup style="font-size:70%">&reg;</sup> assembly to the project or missing any Syncfusion<sup style="font-size:70%">&reg;</sup> dependent assembly of a referred assembly. The Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter can perform the following tasks:
 
