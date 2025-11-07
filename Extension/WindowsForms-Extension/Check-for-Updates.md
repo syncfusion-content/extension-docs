@@ -7,7 +7,7 @@ control: Visual Studio Extensions
 documentation: ug
 ---
 
-# Check for Updates in Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WindowsForms
+# Check for Updates in Syncfusion Essential WindowsForms
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides the check for update extensions to find latest version of essential release was available, if it was available then provide option update most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup> release. So that, you always get the latest features, fixes, and improvements by installing the latest version.
 

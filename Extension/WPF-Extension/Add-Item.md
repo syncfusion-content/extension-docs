@@ -8,7 +8,7 @@ documentation: ug
 ---
 
 
-# Add Syncfusion<sup style="font-size:70%">&reg;</sup> Components to the WPF Application
+# Add Syncfusion Components to the WPF Application
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Components to a WPF application with Syncfusion<sup style="font-size:70%">&reg;</sup> WPF references. 
 

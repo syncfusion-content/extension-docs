@@ -8,7 +8,7 @@ documentation: ug
 ---
 
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms Template Studio
+# Syncfusion WinForms Template Studio
 
 The WinForms Template Studio by Syncfusion<sup style="font-size:70%">&reg;</sup> is a specialized tool for constructing applications with their WinForms components. This studio simplifies development by incorporating crucial Syncfusion<sup style="font-size:70%">&reg;</sup> components, handling required NuGet references, offering preset namespaces, and creating component render code. Acting as a wizard, it facilitates the creation of WinForms applications using Syncfusion<sup style="font-size:70%">&reg;</sup> components, streamlining the process for developers.
 

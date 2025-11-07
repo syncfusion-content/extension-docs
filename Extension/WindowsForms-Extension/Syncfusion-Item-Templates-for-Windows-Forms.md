@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Add Syncfusion<sup style="font-size:70%">&reg;</sup> Components to the WinForms Application
+# Add Syncfusion Components to the WinForms Application
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms Components to a WinForms application with Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms references. 
 

@@ -7,7 +7,7 @@ control: Visual Studio Extensions
 documentation: ug
 ---
 
-# Check for Updates in Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> WPF
+# Check for Updates in Syncfusion Essential WPF
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides Extensions to update the most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup> release. Installing the most recent version ensures that you always have the most up-to-date features, fixes, and improvements.
 
