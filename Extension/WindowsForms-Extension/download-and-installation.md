@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Download and Installation
+# Syncfusion WinForms Extensions : Download and Installation Guide
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio extension in the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Windows-Extensions). You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
 
@@ -21,7 +21,7 @@ The following software prerequisites must be installed to install the Syncfusion
 
 The steps below assist you to how to install the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms extensions from **Visual Studio Manage Extensions**.
 
-1. Open the Visual Studio 2019.
+1. Open the Visual Studio.
 
     N>  In Visual Studio 2017 or lower, go to Tools -> Extensions and Updates
 
@@ -39,7 +39,7 @@ The steps below assist you to how to install the Syncfusion<sup style="font-size
 
 6. Click the **Modify** button.
 
-7. After the installation is complete, open Visual Studio 2019.
+7. After the installation is complete, open Visual Studio.
 
 8. Now, under the menu **Extensions**, you can use the Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from the Visual Studio.
 
@@ -53,12 +53,12 @@ The steps below illustrate how to download and install the Syncfusion<sup style=
 
 2. Close all Visual Studio instances running, if any.
 
-3. Double-click to install the downloaded VSIX file. You will see the VSIX installation prompts for the Visual Studio 2019 version. If Visual Studio 2019 is not installed, it will not be possible to install the extension.
+3. Double-click the downloaded VSIX file to install. The installer will display prompts to install the extension in any available Visual Studio instances. If no Visual Studio installation is detected, the extension cannot be installed.
 
     ![VSIX-Installation-Window](Download-Installation-Images/InstallUpdatedVersion.png)
 
 4. Click the **Modify** button.
 
-5. After the installation is complete, open Visual Studio 2019. You can now use Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from the Visual Studio under the **Extensions** menu.
+5. After the installation is complete, open Visual Studio. You can now use Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from the Visual Studio under the **Extensions** menu.
 
      ![SyncfusionMenu](Download-Installation-Images/SyncfusionMenu.png)
