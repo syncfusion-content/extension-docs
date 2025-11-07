@@ -14,7 +14,6 @@ The WPF Template Studio is a tool Syncfusion<sup style="font-size:70%">&reg;</su
 
 I> The Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Template Studio is available from v23.1.36.
 
-N> WPF Template Studio works seamlessly with Visual Studio 2017 or later. For the Visual Studio 2015 or lower versions, it is recommended to use a [WPF project template](https://help.Syncfusion.com/wpf/visual-studio-integration/create-project).
 
 Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project using the Visual Studio Project Template by following the provided steps.
 

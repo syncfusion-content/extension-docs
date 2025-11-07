@@ -8,7 +8,7 @@ documentation: ug
 ---
 
 
-# Download and Installation
+# Syncfusion WPF Extensions : Download and Installation Guide
 
 In [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.WPFExtension), Syncfusion<sup style="font-size:70%">&reg;</sup> publishing the WPF Visual Studio extension. You can either use the Visual Studio to install it or go to the Visual Studio marketplace to download and install it
 

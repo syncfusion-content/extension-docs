@@ -22,11 +22,10 @@ I> The Syncfusion<sup style="font-size:70%">&reg;</sup> WPF menu option is avail
 The Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following extension supports in Visual Studio:
 
 1.  [Template Studio](https://help.Syncfusion.com/wpf/visual-studio-integration/template-studio): Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Template Studio simplifies application development with its components by managing references and providing pre-defined code. It streamlines the process of creating WPF applications.
-2.	[Create Project](https://help.Syncfusion.com/wpf/visual-studio-integration/create-project): Creates the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF application by adding the required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies and XMAL.
-3.	[Add Item](https://help.Syncfusion.com/wpf/visual-studio-integration/add-item): Add Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Controls into the WPF application with add Syncfusion<sup style="font-size:70%">&reg;</sup> WPF assemblies/NuGet packages
-4.	[Add References](https://help.Syncfusion.com/wpf/visual-studio-integration/add-references): Add the required Syncfusion<sup style="font-size:70%">&reg;</sup> assembly to WPF project reference based on the selected control(s).
-5.	[Toolbox Configuration](https://help.Syncfusion.com/wpf/visual-studio-integration/toolbox-configuration): Configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio .NET toolbox.
-6.	[Troubleshooter](https://help.Syncfusion.com/wpf/visual-studio-integration/troubleshooting): Troubleshoots the project with the Syncfusion<sup style="font-size:70%">&reg;</sup> configuration and apply the fix like, wrong Framework Syncfusion<sup style="font-size:70%">&reg;</sup> assembly added to the project or missing any Syncfusion<sup style="font-size:70%">&reg;</sup> dependent assembly of a referred assembly.
+2.	[Add Item](https://help.Syncfusion.com/wpf/visual-studio-integration/add-item): Add Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Controls into the WPF application with add Syncfusion<sup style="font-size:70%">&reg;</sup> WPF assemblies/NuGet packages
+3.	[Add References](https://help.Syncfusion.com/wpf/visual-studio-integration/add-references): Add the required Syncfusion<sup style="font-size:70%">&reg;</sup> assembly to WPF project reference based on the selected control(s).
+4.	[Toolbox Configuration](https://help.Syncfusion.com/wpf/visual-studio-integration/toolbox-configuration): Configure the Syncfusion<sup style="font-size:70%">&reg;</sup> controls into the Visual Studio .NET toolbox.
+5.	[Troubleshooter](https://help.Syncfusion.com/wpf/visual-studio-integration/troubleshooting): Troubleshoots the project with the Syncfusion<sup style="font-size:70%">&reg;</sup> configuration and apply the fix like, wrong Framework Syncfusion<sup style="font-size:70%">&reg;</sup> assembly added to the project or missing any Syncfusion<sup style="font-size:70%">&reg;</sup> dependent assembly of a referred assembly.
 
 **No project selected in Visual Studio**
 

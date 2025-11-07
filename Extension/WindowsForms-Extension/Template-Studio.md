@@ -14,8 +14,6 @@ The WinForms Template Studio by Syncfusion<sup style="font-size:70%">&reg;</sup>
 
 I> The Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms Template Studio is available from v24.1.41.
 
-N> WinForms Template Studio is compatible with Visual Studio 2026, Visual Studio 2022, Visual Studio 2019, and Visual Studio 2017. For the Visual Studio 2015 or lower versions, it is recommended to use a [WinForms project template](https://help.Syncfusion.com/windowsforms/visual-studio-integration/create-project).
-
 Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms project using the Visual Studio Project Template by following the provided steps.
 
 > Check whether the **WinForms Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** are installed or not in Visual Studio Extension Manager by going to **Extensions -> Manage Extensions -> Installed** for Visual Studio 2019 or later, and for Visual Studio 2017 by going to **Tools -> Extensions and Updates -> Installed**. If this extension is not installed, please install the extension by following the steps from the [download and installation](https://help.Syncfusion.com/windowsforms/visual-studio-integration/download-and-installation) help topic.
