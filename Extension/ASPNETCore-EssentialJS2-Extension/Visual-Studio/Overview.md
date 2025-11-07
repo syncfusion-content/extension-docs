@@ -37,5 +37,3 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following supp
 ### Selected Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS2) application in Visual Studio
 
 ![selected syncfusion<sup style="font-size:70%">&reg;</sup>](images/selected-syncfusion-project.png)
-
-> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extension in Visual Studio menu.

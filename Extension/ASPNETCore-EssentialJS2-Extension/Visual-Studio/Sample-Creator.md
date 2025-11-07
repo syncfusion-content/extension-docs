@@ -47,7 +47,7 @@ The following steps is used to create the Syncfusion<sup style="font-size:70%">&
 
     **VS Version**: Choose the Visual Studio version.
 
-    **ASP.NET Core Version**: Select the version of ASP.NET Core Project.
+    **.NET Core Version**: Select the version of ASP.NET Core Project.
 
     ![aspnet core version](images/Aspnet-core-version.png)
 
