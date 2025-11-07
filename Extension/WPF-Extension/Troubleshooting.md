@@ -25,7 +25,7 @@ The steps below will assist you in using the Syncfusion<sup style="font-size:70%
    **Option 1**  
    Open an existing Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Application, Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for WPF > Troubleshoot…** in Visual Studio.
 
-   ![Syncfusion Troubleshooter via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter.png)
+   ![Syncfusion Troubleshooter via Syncfusion menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter.png)
 
    N> From Visual Studio 2019 and later, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
 

@@ -25,7 +25,7 @@ The following steps help you to utilize the Syncfusion<sup style="font-size:70%"
    **Option 1:**  
    Open an existing Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms Application, Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for WinForms > Troubleshoot…** in Visual Studio.
 
-   ![Syncfusion Troubleshooter via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter.png)
+   ![Syncfusion Troubleshooter via Syncfusion menu](SyncfusionTroubleshooter_images/Syncfusion_Menu_Troubleshooter.png)
 
    N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
 
