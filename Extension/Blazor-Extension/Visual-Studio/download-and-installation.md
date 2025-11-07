@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Download and Installation
+# Download and Installation the Blazor Extension
 
 Syncfusion® publishes the Visual Studio extension in the below Visual Studio marketplace link. You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
 
