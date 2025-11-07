@@ -31,7 +31,7 @@ To add the Syncfusion<sup style="font-size:70%">&reg;</sup> WPF components via t
 
    N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
 
-   ![Toolbox Installer via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox_2019.png)
+   ![Toolbox Installer via Syncfusion menu](Toolbox-Configuration_images/Syncfusion_Menu_Toolbox_2019.png)
 
 2. Toolbox Installer will be opened.
 

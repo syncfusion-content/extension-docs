@@ -30,14 +30,14 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following exte
 
 **No project selected in Visual Studio**
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Menu when No project selected in Visual Studio](Overview-images/Syncfusion_Menu_OverView1.png)
+![Syncfusion Menu when No project selected in Visual Studio](Overview-images/Syncfusion_Menu_OverView1.png)
 
 **Selected Microsoft WPF application in Visual Studio**
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Menu when Selected Microsoft WPF application in Visual Studio](Overview-images/WPF-1.png)
+![Syncfusion Menu when Selected Microsoft WPF application in Visual Studio](Overview-images/WPF-1.png)
 
 **Selected Syncfusion<sup style="font-size:70%">&reg;</sup> WPF application in Visual Studio**
 
-![Syncfusion<sup style="font-size:70%">&reg;</sup> Menu when Selected Synfusion WPF application in Visual Studio](Overview-images/WPF-1.png)
+![Syncfusion Menu when Selected Synfusion WPF application in Visual Studio](Overview-images/WPF-1.png)
 
 N> In Visual Studio 2017 or lower, you can see the Syncfusion<sup style="font-size:70%">&reg;</sup> menu directly in the Visual Studio menu.
