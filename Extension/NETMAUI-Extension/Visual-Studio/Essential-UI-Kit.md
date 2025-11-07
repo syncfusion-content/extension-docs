@@ -15,7 +15,7 @@ Essential<sup>®</sup> UI Kit for .NET MAUI comes with ready-to-use XAML templat
 
 To get started with the Essential<sup>®</sup> UI Kit for .NET MAUI, first install the appropriate extension in Visual Studio by downloading it from the marketplace. This will allow you to access and use the Syncfusion<sup>®</sup> Extension directly from the Syncfusion<sup>®</sup> menu within your project.
 
-[Visual Studio 2022]()
+[Visual Studio](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Essential-UI-Kit-MAUI)
 
 
 ## Include XAML templates in MAUI apps
@@ -57,11 +57,7 @@ Example: If you added Login With Social Icon Page,
 {% tabs %}
 {% highlight C# hl_lines="3 9" %}
 
-// For NET 8 Use this Below Code Snippet
-
-MainPage = new LoginWithSocialIcon();
-
-// For NET 9 Use this Below Code Snippet
+// For NET 9 and NET 10 Use this Below Code Snippet
 
 protected override Window CreateWindow(IActivationState? activationState)
 {
