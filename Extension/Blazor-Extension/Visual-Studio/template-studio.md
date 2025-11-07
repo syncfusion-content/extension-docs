@@ -11,13 +11,13 @@ documentation: ug
 
 Syncfusion® provides the Blazor Template Studio, which allows you to create a Syncfusion Blazor application using Syncfusion® components. The Syncfusion® Blazor app is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® components.
 
-The steps below will assist you to create your **Syncfusion® Blazor Application** through **Visual Studio 2022**:
+The steps below will assist you to create your **Syncfusion® Blazor Application** through **Visual Studio 2022 or 2026**:
 
 > **Note:** The Syncfusion® Blazor Extensions for Visual Studio 2019 are available on Essential Studio® release "20.3.0.56" and below.
 
 N> Before use the Syncfusion® Blazor Project Template, check whether the Syncfusion® Blazor Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/download-and-installation) help topic.
 
-1. Open Visual Studio 2022.
+1. Open Visual Studio 2022 or 2026.
 
 2. To create a Syncfusion® Blazor application, use either one of the following options:
 
@@ -47,8 +47,8 @@ N> Before use the Syncfusion® Blazor Project Template, check whether the Syncfu
 
     | .NET SDK version | Supported Syncfusion Blazor Application Type |
     | ---------------- | -------------------------------------------- |
-    | [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor Web App |
-    | [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor WebAssembly App |
+    | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor Web App |
+    | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor WebAssembly App |
 
 
     In the **Syncfusion Blazor Web App** application type, you can configure the following options:
@@ -98,7 +98,7 @@ N> Before use the Syncfusion® Blazor Project Template, check whether the Syncfu
 
 6. Click either **Next** or the **Features** tab, and you will see the features listed for the selected controls. You can choose the required features.
 
-7. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 9.0 and .NET 8.0), themes, https configuration, localization option, authentication type, Blazor Web App, and Blazor Web Assembly application types.
+7. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 10.0, .NET 9.0 and .NET 8.0), themes, https configuration, localization option, authentication type, Blazor Web App, and Blazor Web Assembly application types.
 
      Depending on your Syncfusion Blazor Application Type, refer to the table below for supported authentication types.
 
@@ -339,7 +339,7 @@ N> **Note:** Above culture combo box will be enabled in sample output if localiz
 
 #### Blazor Web App
 
-##### Applying Database Migrations and User Registration in the .NET 8.0 and .NET 9.0 Blazor Web App
+##### Applying Database Migrations and User Registration in the .NET 8.0, .NET9.0 and .NET 10.0 Blazor Web App
 
 ##### Applying Database Migrations:
 
