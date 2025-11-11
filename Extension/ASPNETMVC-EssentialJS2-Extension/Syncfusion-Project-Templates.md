@@ -11,31 +11,23 @@ documentation: ug
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides the **Visual Studio Project Templates** for the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC platform to create the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Web Application with the Essential<sup style="font-size:70%">&reg;</sup> JS 2 components.
 
-> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) project templates are available from v16.2.0.41.
+> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC project templates are available from v16.2.0.41.
 
 Use the following steps to create the **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web Application** through the **Visual Studio Project Template.**
 
-> Before use the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project Template, check whether the **ASP.NET MVC Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetmvc/documentation/visual-studio-integration/download-and-installation) help topic.
+> Before use the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project Template, check whether the **ASP.NET MVC Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetmvc/documentation/visual-studio-integration/download-and-installation) help topic.
 
 1. To create the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) project, follow either one of the options below:
 
     **Option 1:**
 
-    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET MVC (EJ2) > Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project…** in **Visual Studio 2019 earlier**.
-
-    ![create new syncfusion<sup style="font-size:70%">&reg;</sup> project](images/new-syncfusion-project.png)
-
-    > From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extension in Visual Studio menu.
+    Click **Extensions > Syncfusion<sup style="font-size:70%">&reg;</sup>** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET MVC > Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project…**.
 
     ![SyncfusionMenu](images/SyncfusionMenu.png)
 
     **Option 2:**
 
-    Choose **File > New > Project** and navigate to **Syncfusion<sup style="font-size:70%">&reg;</sup> > Web > Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Application** in **Visual Studio 2019 earlier**.
-
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> asp.net mvc](images/syncfusion-aspmvc-application.png)
-
-    > In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC will be shown like below in solution explores.
+    Choose **File > New > Project** from the menu. This launches a new dialogue for creating a new application. Filtering the application type by **Syncfusion** or typing **Syncfusion** as a keyword in the search option can help you to find the Syncfusion® templates for ASP.NET MVC.
 
     ![Syncfusion<sup style="font-size:70%">&reg;</sup> MVC Project Wizard](images/SyncfusionMvcProjectWizard.png)
 

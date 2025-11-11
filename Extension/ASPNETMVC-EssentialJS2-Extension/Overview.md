@@ -9,10 +9,9 @@ documentation: ug
 
 # ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Extension
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Visual Studio Extensions can be accessed through the Syncfusion<sup style="font-size:70%">&reg;</sup> Menu to create and configure the project with Syncfusion<sup style="font-size:70%">&reg;</sup> references in Visual Studio.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Visual Studio Extensions can be accessed through the Syncfusion<sup style="font-size:70%">&reg;</sup> Menu to create and configure the project with Syncfusion<sup style="font-size:70%">&reg;</sup> references in Visual Studio.
 
-> Syncfusion<sup style="font-size:70%">&reg;</sup> Extension is published in the Visual Studio Marketplace. Refer to the following link.
-<https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions>
+> Syncfusion<sup style="font-size:70%">&reg;</sup> Extension is published in the Visual Studio Marketplace. You can download ASP.NET MVC Extensions [here](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions)
 
 ## IMPORTANT
 
@@ -38,5 +37,3 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following supports
 ### Selected Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS2) application in Visual Studio
 
 ![selected syncfusion<sup style="font-size:70%">&reg;</sup> aspnetmvc](images/selected-syncfusion-mvc-application.png)
-
-> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extension in Visual Studio menu.

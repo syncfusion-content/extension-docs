@@ -21,13 +21,9 @@ The following steps is used to create the **Syncfusion<sup style="font-size:70%"
 
     **Option 1**
 
-    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core > Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project…** in **Visual Studio**.
+    Click **Extensions > Syncfusion<sup style="font-size:70%">&reg;</sup>** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core > Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project…** in **Visual Studio**.
 
     ![new project](images/new-project.png)
-
-    > From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extension in Visual Studio menu.
-
-    ![new project](images/SyncfusionMenu.png)
 
     **Option 2**
 
