@@ -8,7 +8,7 @@ documentation: ug
 ---
 
 
-# Download and Installation
+# Syncfusion® ASP.NET MVC Extension - Download and Installation
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio extension in the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions). You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
 
@@ -48,7 +48,7 @@ The steps below assist you to how to install the Syncfusion<sup style="font-size
 
 The steps below illustrate how to download and install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC extension from the Visual Studio Marketplace.
 
-1. Download the [Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions) from the Visual Studio Marketplace.
+1. Download the [Syncfusion ASP.NET MVC Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions) from the Visual Studio Marketplace.
 
 2. Close all Visual Studio instances running, if any.
 

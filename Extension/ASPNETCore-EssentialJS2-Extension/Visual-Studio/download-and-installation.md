@@ -8,7 +8,7 @@ documentation: ug
 ---
 
 
-# Download and Installation
+# Syncfusion® ASP.NET Core Extension - Download and Installation
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio extension in the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETCoreExtensions). You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
 

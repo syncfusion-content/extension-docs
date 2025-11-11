@@ -29,7 +29,7 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     Right-click the **Project** from Solution Explorer, select **Syncfusion<sup style="font-size:70%">&reg;</sup> Web**, and choose the **Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Application…**
 
-    ![convert to syncfusion<sup style="font-size:70%">&reg;</sup>](images/convert-to-syncfusion-ASpnet-core.png)
+    ![convert to syncfusion](images/convert-to-syncfusion-ASpnet-core.png)
 
 3. The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Project Conversion window will appear. You can choose the required version of Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core, Assets from, and Themes to convert the application.
 

@@ -21,7 +21,7 @@ The steps below help you to convert the ASP.NET MVC application to the Syncfusio
 
     **Option 1:**
 
-    Click **Extensionss > Syncfusion<sup style="font-size:70%">&reg;</sup>** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> ASP.NET MVC > Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Application…** in **Visual Studio Menu**.
+    Click **Extensions > Syncfusion<sup style="font-size:70%">&reg;</sup>** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> ASP.NET MVC > Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Application…** in **Visual Studio Menu**.
 
     ![convert-to-syncfusion](images/convert-project.png)
 
@@ -49,9 +49,9 @@ The steps below help you to convert the ASP.NET MVC application to the Syncfusio
 
 5. The required Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages, Scripts and CSS are included in the ASP.NET MVC Web Application. Refer to the following screenshots for more information.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> assemblies](images/syncfusion-reference.png)
+    ![syncfusion assemblies](images/syncfusion-reference.png)
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> layout](images/layout.png)
+    ![syncfusion layout](images/layout.png)
 
     ![web-config](images/web-config.png)
 

@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Project Templates
+# Syncfusion® Project Templates - ASP.NET MVC
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides the **Visual Studio Project Templates** for the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC platform to create the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Web Application with the Essential<sup style="font-size:70%">&reg;</sup> JS 2 components.
 
@@ -29,7 +29,7 @@ Use the following steps to create the **Syncfusion<sup style="font-size:70%">&re
 
     Choose **File > New > Project** from the menu. This launches a new dialogue for creating a new application. Filtering the application type by **Syncfusion** or typing **Syncfusion** as a keyword in the search option can help you to find the Syncfusion® templates for ASP.NET MVC.
 
-    ![Syncfusion<sup style="font-size:70%">&reg;</sup> MVC Project Wizard](images/SyncfusionMvcProjectWizard.png)
+    ![Syncfusion MVC Project Wizard](images/SyncfusionMvcProjectWizard.png)
 
 2. Name the **Project**, choose the destination location, and set the .NET Framework of the project, and then click **OK**. The Project Configuration Wizard appears.
 
@@ -59,4 +59,4 @@ Use the following steps to create the **Syncfusion<sup style="font-size:70%">&re
 
 5. Then, the Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown, if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/whats-new-in-2018-volume-2-licensing-changes-in-the-1620x-version-of-essential-studio.aspx) post to learn more about the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> license](images/syncfusion-license.png)
+    ![syncfusion license](images/syncfusion-license.png)

@@ -15,7 +15,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides **Visual Studio Scaffo
 
 The following steps explain you how to add a scaffolded item to your ASP.NET MVC Web application.
 
-> Before use, the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Scaffolding, check whether the **ASP.NET MVC Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetmvc/documentation/visual-studio-integration/VS2019-Extensions/download-and-installation/) help topic.
+> Before use, the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Scaffolding, check whether the **ASP.NET MVC Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://help.syncfusion.com/extension/aspnetmvc-essentialjs2-extension/download-and-installation) help topic.
 
 1. Right-click the **Controllers** folder in the Solution Explorer, click **Add**, and then select **New Scaffolded Item**.
 
@@ -23,19 +23,19 @@ The following steps explain you how to add a scaffolded item to your ASP.NET MVC
 
 2. In the **Add Scaffold** dialog, select **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC UI Scaffolder**, and then click **‘Add’**.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> aspnetmvc ui scaffolder](images/mvc-ui-scaffolder.png)
+    ![syncfusion aspnetmvc ui scaffolder](images/mvc-ui-scaffolder.png)
 
 3. In the Syncfusion<sup style="font-size:70%">&reg;</sup> UI Scaffolding dialog, select the desired control to perform scaffolding, and then click **Next**.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> ui scaffolding](images/syncfusion-ui-scaffolding.png)
+    ![syncfusion ui scaffolding](images/syncfusion-ui-scaffolding.png)
 
 4. Selected control model dialogue will be launched in the Syncfusion<sup style="font-size:70%">&reg;</sup> UI Scaffolder. Enter the **Controller Name** and **View Name** as application requirements, and then select the required **Model Class** of the active project and its relevant **Data Context Class**, and then click **Next**.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> ui scaffolding for datagrid](images/ui-scaffolding-datagrid.png)
+    ![syncfusion ui scaffolding for datagrid](images/ui-scaffolding-datagrid.png)
 
 5. Selected control feature dialogue will be launched in the Syncfusion<sup style="font-size:70%">&reg;</sup> UI Scaffolder. Select the required features, update the required data field, and then click **Add**.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> scaffolding add button](images/scaffolding-add-button.png)
+    ![syncfusion scaffolding add button](images/scaffolding-add-button.png)
 
 6. The **Controller** and the corresponding **View** files are now generated with the selected features of Syncfusion<sup style="font-size:70%">&reg;</sup> control code snippet.
 

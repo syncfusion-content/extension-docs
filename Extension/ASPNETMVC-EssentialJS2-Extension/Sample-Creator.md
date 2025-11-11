@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Creating Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC application
+# Creating Syncfusion® ASP.NET MVC application
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> Sample Creator is a tool that lets you make Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) projects with sample code for required Syncfusion<sup style="font-size:70%">&reg;</sup> component features and Syncfusion<sup style="font-size:70%">&reg;</sup> control configuration.
 
@@ -69,8 +69,8 @@ Use the following steps to create the Syncfusion<sup style="font-size:70%">&reg;
 
     * Included the required Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) scripts and theme files.
 
-        ![script-theme references](images/scripts-theme.png)
+        ![script theme references](images/scripts-theme.png)
 
     * The required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added for selected controls under Project Reference.
 
-        ![syncfusion<sup style="font-size:70%">&reg;</sup> assemblies](images/syncfusion-assemblies.png)
+        ![syncfusion assemblies](images/syncfusion-assemblies.png)

@@ -36,4 +36,4 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following supp
 
 ### Selected Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS2) application in Visual Studio
 
-![selected syncfusion<sup style="font-size:70%">&reg;</sup>](images/selected-syncfusion-project.png)
+![selected syncfusion](images/selected-syncfusion-project.png)

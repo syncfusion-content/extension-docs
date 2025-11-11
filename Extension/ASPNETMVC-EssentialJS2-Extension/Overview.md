@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Extension
+# Syncfusion® ASP.NET MVC Extension
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Visual Studio Extensions can be accessed through the Syncfusion<sup style="font-size:70%">&reg;</sup> Menu to create and configure the project with Syncfusion<sup style="font-size:70%">&reg;</sup> references in Visual Studio.
 
@@ -36,4 +36,4 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following supports
 
 ### Selected Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS2) application in Visual Studio
 
-![selected syncfusion<sup style="font-size:70%">&reg;</sup> aspnetmvc](images/selected-syncfusion-mvc-application.png)
+![selected syncfusion aspnetmvc](images/selected-syncfusion-mvc-application.png)
