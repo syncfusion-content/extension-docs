@@ -8,7 +8,7 @@ documentation: ug
 ---
 
 
-# Download and Installation
+# Syncfusion® ASP.NET Core Extension - Download and Installation
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio extension in the [Visual Studio marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETCoreExtensions). You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
 
@@ -18,7 +18,7 @@ The following software prerequisites must be installed to install the Syncfusion
 
 * [Visual Studio 2022 or later](https://visualstudio.microsoft.com/downloads).
 
-* [.NET Core 8.0 or later](https://dotnet.microsoft.com/download/dotnet-core).
+* [.NET Core 8.0 or later](https://dotnet.microsoft.com/en-us/download/dotnet).
 
 ## Install through the Visual Studio Manage Extensions
 

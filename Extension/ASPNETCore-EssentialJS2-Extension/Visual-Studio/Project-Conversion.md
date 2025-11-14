@@ -21,17 +21,15 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     **Option 1:**
 
-    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core > Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Application…** in **Visual Studio Menu**.
+    Click **Extensions > Syncfusion<sup style="font-size:70%">&reg;</sup>** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core > Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Application…** in **Visual Studio Menu**.
 
     ![convert project](images/convert-new-app.png)
-
-    ![convert project](images/convert-new-app-2019.png)
 
     **Option 2:**
 
     Right-click the **Project** from Solution Explorer, select **Syncfusion<sup style="font-size:70%">&reg;</sup> Web**, and choose the **Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Application…**
 
-    ![convert to syncfusion<sup style="font-size:70%">&reg;</sup>](images/convert-to-syncfusion-ASpnet-core.png)
+    ![convert to syncfusion](images/convert-to-syncfusion-ASpnet-core.png)
 
 3. The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Project Conversion window will appear. You can choose the required version of Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core, Assets from, and Themes to convert the application.
 
@@ -41,7 +39,7 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     **Assets From:** Load the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 assets to ASP.NET Core Project, from either NPM, CDN, or Installed Location.
 
-    > Installed location option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> ASP.NET Core setup has been installed.
+    > Installed location option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JavaScript 2 setup has been installed.
 
     **Choose the Theme:** Choose the required theme.
 

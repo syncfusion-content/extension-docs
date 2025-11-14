@@ -21,15 +21,15 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides **Visual Studio Scaffo
 
 The following steps explain you how to add a scaffolded item to your ASP.NET Core Web application.
 
-> Before use, the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Scaffolding, check whether the **ASP.NET Core Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetcore/documentation/visual-studio-integration/VS2019-Extensions/download-and-installation/) help topic.
+> Before use, the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Scaffolding, check whether the **ASP.NET Core Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/visual-studio/download-and-installation) help topic.
 
  1. Right-click the **Controllers** folder in the Solution Explorer, click **Add**, and then select **New Scaffolded Item…**
 
-    ![Syncfusion<sup style="font-size:70%">&reg;</sup> Scaffolded add-in](images/Scaffolding_Add_Item1.png)
+    ![Syncfusion Scaffolded add-in](images/Scaffolding_Add_Item1.png)
 
  2. In the **Add Scaffold dialog**, select **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core UI Scaffolder**, and then click **‘Add’**.
 
-    ![Choose Syncfusion<sup style="font-size:70%">&reg;</sup> Scaffolding from Visual Studio Add scaffold dialog](images/Scaffolding_Add_Item2.png)
+    ![Choose Syncfusion Scaffolding from Visual Studio Add scaffold dialog](images/Scaffolding_Add_Item2.png)
 
  3. In the Syncfusion<sup style="font-size:70%">&reg;</sup> UI Scaffolder dialog, select the desired Syncfusion<sup style="font-size:70%">&reg;</sup> control to perform scaffolding, and then click **Next**.
 
@@ -124,4 +124,4 @@ The following steps explains how to add a scaffolded item from command-line to y
 
 Refer to the following UG links to render Syncfusion<sup style="font-size:70%">&reg;</sup> control after performed scaffolding.
 
-[Configure using Syncfusion.EJ2.AspNet.Core package](https://ej2.syncfusion.com/aspnetcore/documentation/getting-started/visual-studio-2017/)
+[Configure using Syncfusion.EJ2.AspNet.Core package](https://ej2.syncfusion.com/aspnetcore/documentation/getting-started)

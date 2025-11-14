@@ -1,7 +1,7 @@
 ---
 layout: post
-title: ASP.NET Core (Essential JS 2) Extension | Extension | Syncfusion
-description: The Syncfusion ASP.NET Core Extensions provide quick access to create or configure the Syncfusion ASP.NET projects along with Essential JS 2 components.
+title: ASP.NET Core Extension | Extension | Syncfusion
+description: The Syncfusion ASP.NET Core Extensions provide access to create or configure the Syncfusion ASP.NET projects along with Essential JS 2 components.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -36,4 +36,4 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following supp
 
 ### Selected Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS2) application in Visual Studio
 
-![selected syncfusion<sup style="font-size:70%">&reg;</sup>](images/selected-syncfusion-project.png)
+![selected syncfusion](images/selected-syncfusion-project.png)

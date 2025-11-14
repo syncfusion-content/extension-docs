@@ -11,9 +11,9 @@ documentation: ug
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC conversion is a Visual Studio add-in that converts an existing ASP.NET MVC application into a Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web application by adding the required assemblies and resource files.
 
-> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web Application Project conversion utility is available from v16.3.0.17. Before use, the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project Conversion, check whether the **ASP.NET MVC Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetmvc/documentation/visual-studio-integration/download-and-installation) help topic. Also, check whether the corresponding Essential Studio<sup style="font-size:70%">&reg;</sup> version build installed or not. If the Essential Studio<sup style="font-size:70%">&reg;</sup> version is not same for both the Extension and build, then the Project Conversion will not be shown.
+> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web Application Project conversion utility is available from v16.3.0.17. Before use, the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project Conversion, check whether the **ASP.NET MVC Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetmvc/documentation/visual-studio-integration/download-and-installation) help topic. Also, check whether the corresponding Essential Studio<sup style="font-size:70%">&reg;</sup> version build installed or not. If the Essential Studio<sup style="font-size:70%">&reg;</sup> version is not same for both the Extension and build, then the Project Conversion will not be shown.
 
-The steps below help you to convert the ASP.NET MVC application to the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC application via the Visual Studio 2019:
+The steps below help you to convert the ASP.NET MVC application to the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC application via the Visual Studio 2022 or later:
 
 1. Open an existing Microsoft ASP.NET MVC Web Application or create a new Microsoft ASP.NET MVC Web Application.
 
@@ -21,11 +21,9 @@ The steps below help you to convert the ASP.NET MVC application to the Syncfusio
 
     **Option 1:**
 
-    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET MVC > Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Application…** in **Visual Studio Menu**.
+    Click **Extensions > Syncfusion<sup style="font-size:70%">&reg;</sup>** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> ASP.NET MVC > Convert to Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Application…** in **Visual Studio Menu**.
 
     ![convert-to-syncfusion](images/convert-project.png)
-
-    > From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under **Extensions** in Visual Studio menu.
 
     **Option 2:**
 
@@ -51,9 +49,9 @@ The steps below help you to convert the ASP.NET MVC application to the Syncfusio
 
 5. The required Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages, Scripts and CSS are included in the ASP.NET MVC Web Application. Refer to the following screenshots for more information.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> assemblies](images/syncfusion-reference.png)
+    ![syncfusion assemblies](images/syncfusion-reference.png)
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> layout](images/layout.png)
+    ![syncfusion layout](images/layout.png)
 
     ![web-config](images/web-config.png)
 

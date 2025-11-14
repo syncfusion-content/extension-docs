@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Project Templates | ASP.NET Core (Essential JS 2) | Syncfusion
+title: Project Templates | ASP.NET Core | Syncfusion
 description: Syncfusion provides Visual Studio Project Templates for ASP.NET Core platform to create the Syncfusion ASP.NET Core Application using Essential JS 2 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Project Templates of ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2)
+# Syncfusion® Project Templates - ASP.NET Core
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides the **Visual Studio Project Templates** for the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core platform to create the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Web Application using Essential<sup style="font-size:70%">&reg;</sup> JS 2 components.
 
@@ -21,19 +21,15 @@ The following steps is used to create the **Syncfusion<sup style="font-size:70%"
 
     **Option 1**
 
-    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core > Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project…** in **Visual Studio**.
+    Click **Extensions > Syncfusion<sup style="font-size:70%">&reg;</sup>** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET Core > Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project…** in **Visual Studio**.
 
     ![new project](images/new-project.png)
-
-    > From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extension in Visual Studio menu.
-
-    ![new project](images/SyncfusionMenu.png)
 
     **Option 2**
 
     Choose **File > New > Project** and navigate to **Syncfusion<sup style="font-size:70%">&reg;</sup> > .NET Core > Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Web Application** in **Visual Studio**.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> template](images/syncfusion-template.png)
+    ![syncfusion template](images/syncfusion-template.png)
 
 2. Name the **Project**, choose the destination location, and then click **OK**. The Project Configuration Wizard appears.
 
@@ -100,7 +96,7 @@ The following steps is used to create the **Syncfusion<sup style="font-size:70%"
 
 6. Then, Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown, if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/whats-new-in-2018-volume-2-licensing-changes-in-the-1620x-version-of-essential-studio.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-    ![syncfusion<sup style="font-size:70%">&reg;</sup> license](images/syncfusion-license.png)
+    ![syncfusion license](images/syncfusion-license.png)
 
 
 ## Authentication Configuration
