@@ -9,11 +9,9 @@ documentation: ug
 
 # Overview of Blazor Extension for Visual Studio
 
-The Syncfusion® Blazor Extension for Visual Studio simplifies the use of the Syncfusion® Blazor components by configuring the Syncfusion® Blazor NuGet packages and themes. We provide separate Blazor extension for both Visual Studio 2022 and Visual Studio 2019.
+The Syncfusion® Blazor Extension for Visual Studio simplifies the use of the Syncfusion® Blazor components by configuring the Syncfusion® Blazor NuGet packages and themes. We provide separate Blazor extensions in both Visual Studio 2022 and Visual Studio 2026.
 
-[Visual Studio 2022](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.BlazorVSExtension)
-
-[Visual Studio 2019](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-Extension)
+[Visual Studio 2022 / Visual Studio 2026](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.BlazorVSExtension)
 
 The Syncfusion® Blazor extensions provides the following add-ins in Visual Studio:
 

@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Upgrading Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC application to latest version
+# Upgrading Syncfusion® ASP.NET MVC application to latest version
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC migration add-in for Visual Studio allows you to migrate an existing Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC application from one version of Essential Studio<sup style="font-size:70%">&reg;</sup> version to another version. This reduces the amount of manual work required when migrating the Syncfusion version.
 
@@ -15,25 +15,23 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC migration add-i
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web Application Project Migration utility is available from v16.3.0.17.
 
-> Before use, the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project Migration, check whether the **ASP.NET MVC Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetmvc/documentation/visual-studio-integration/download-and-installation) help topic. Also, check whether the corresponding Essential Studio<sup style="font-size:70%">&reg;</sup> version build installed or not. If the Essential Studio<sup style="font-size:70%">&reg;</sup> version is not same for both the Extension and build, then the Project Migration will not be shown.
+> Before use, the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project Migration, check whether the **ASP.NET MVC Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetmvc/documentation/visual-studio-integration/download-and-installation) help topic. Also, check whether the corresponding Essential Studio<sup style="font-size:70%">&reg;</sup> version build installed or not. If the Essential Studio<sup style="font-size:70%">&reg;</sup> version is not same for both the Extension and build, then the Project Migration will not be shown.
 
-The steps below will assist you to upgrade the Syncfusion<sup style="font-size:70%">&reg;</sup> version in the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC application via Visual Studio 2019:
+The steps below will assist you to upgrade the Syncfusion<sup style="font-size:70%">&reg;</sup> version in the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC application via Visual Studio 2022 or later:
 
 1. Open the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC application that uses the Syncfusion<sup style="font-size:70%">&reg;</sup> component.
 
 2. To open the Migration Wizard, either one of the following options should be followed:
 
-    **Option 1**: Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for ASP.NET MVC > Migrate Project…** in **Visual Studio Menu**.
+    **Option 1**: Click **Extensions > Syncfusion<sup style="font-size:70%">&reg;</sup>** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> ASP.NET MVC > Migrate Project…** in **Visual Studio Menu**.
 
     ![migrate project](images/migrate-project.png)
-
-    > From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under **Extensions** in Visual Studio menu.
 
     **Option 2**:
 
     Right-click the **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Application** from Solution Explorer and select **Syncfusion<sup style="font-size:70%">&reg;</sup> Web**. Choose **Migrate the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project to Another Version…**
 
-    ![migrate the essential<sup style="font-size:70%">&reg;</sup> js2](images/migrate-essentialJs2.png)
+    ![migrate the essential js2](images/migrate-essentialJs2.png)
 
 3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Project Migration window will appear. You can choose the required version of Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC to migrate.
 
