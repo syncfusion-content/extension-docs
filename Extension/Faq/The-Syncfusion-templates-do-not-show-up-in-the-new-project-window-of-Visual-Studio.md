@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> template not shown in new project window of Visual Studio
+# Syncfusion® template not shown in new project window of Visual Studio
 
 
 If the Syncfusion® templates do not appear in Visual Studio’s New Project window, it means the required Visual Studio extension is not installed.
@@ -47,7 +47,7 @@ After installation if still the template is not shown in the new project window,
 
 - Manually delete any remaining Syncfusion extension-related files from the following locations:
 
-    _{%localappdata%\Microsoft\VisualStudio\{17.0_xxx}\Extensions\{Visual Studio Install Path}\Common7\IDE\Extensions\}_
+    _{%appdata%\Local\Microsoft\VisualStudio\{17.0_xx}\Extensions\{Visual Studio Install Path}\Common7\IDE\Extensions\}_
 
 - Reinstall the extension by one of the option mentioned in Step 1.
 
