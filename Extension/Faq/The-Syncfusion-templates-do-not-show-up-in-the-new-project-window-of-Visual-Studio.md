@@ -35,7 +35,7 @@ Install Syncfusion® Extension in Visual Studio by following one of the options 
 
   - Navigate to the following location to install the {YourSyncfusionPlatform} extension:
 
-    _{C:\Program Files (x86)\Syncfusion\Essential Studio\ {YourSyncfusionPlatform} \ {YourBuildVERSION}\Utilities\Extensions\VS2022\}_
+    `C:\Program Files (x86)\Syncfusion\Essential Studio\YourSyncfusionPlatform\YourBuildVERSION\Utilities\Extensions\VS2022\`
 
   -  Double-click on “.vsix” to begin the installation.
 
@@ -55,6 +55,6 @@ If the extension appears in the Extension Manager after installation but the Syn
 
   - Manually delete any remaining Syncfusion extension-related files from the following locations:
 
-      _{%appdata%\Local\Microsoft\VisualStudio\{17.0_xx}\Extensions\{Visual Studio Install Path}\Common7\IDE\Extensions\}_
+      `%appdata%\Local\Microsoft\VisualStudio\17.0_xx\Extensions\Visual Studio Install Path\Common7\IDE\Extensions\`
 
   - Reinstall the extension by one of the option mentioned earlier in the installation steps.
