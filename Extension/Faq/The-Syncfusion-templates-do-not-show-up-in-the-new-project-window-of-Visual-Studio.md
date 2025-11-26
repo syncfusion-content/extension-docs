@@ -7,84 +7,54 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> template not shown in new project window of Visual Studio
+# Syncfusion® template not shown in new project window of Visual Studio
 
-Perform the given steps to ensure whether the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Extension build has been installed in the machine or not.
+If the Syncfusion® templates do not appear in Visual Studio’s New Project window, it is caused by one of the following two reasons:
 
-1. Navigate to the following either one of the location:
+1. The required Syncfusion® Visual Studio extension is not installed.
 
-   **Before 17.1.0.32-beta version**
+2. The Syncfusion® Extension is installed and listed in the Extension manager but the template is not shown in project window due to the incomplete installation process. 
 
-   _{Syncfusion<sup style="font-size:70%">&reg;</sup> installed location}\Utilities\Extensions\ASP.NET MVC_
+> **Note:** Installing only the Syncfusion build will not make the templates available in the new project window of Visual Studio. You must also install the corresponding Visual Studio extension from the build.
 
-   _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\ASP.NET MVC._
+Primarily check if the required Syncfusion® Extension is installed:
 
-   Refer the following screenshot for more information.
+- Open Visual Studio  → Extensions → Manage Extensions.
 
+- In the Installed section, search for “{YourSyncfusionPlatform} Extension - Syncfusion”.
 
+- If the extension is not installed, follow the steps given in **Case1**.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Extension installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img1.png)
+- If the extension is installed and still the issue exist, follow the steps given in **Case2**.
 
-   **On or After 17.1.0.32-beta version**
+## Case 1: Syncfusion® Extension is not installed :
 
-   _{Syncfusion<sup style="font-size:70%">&reg;</sup> installed location}\Utilities\Extensions_
+Install Syncfusion® Extension in Visual Studio by following one of the options below:
 
-   _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\ASP.NET MVC - EJ1\18.1.0.52\Utilities\Extensions._
+  **Option 1: Install from Syncfusion Setup**
 
-   Refer the following screenshot for more information.
+  - Navigate to the following location to install the {YourSyncfusionPlatform} extension:
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Extension installed location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img4.png)
+    _{C:\Program Files (x86)\Syncfusion\Essential Studio\ {YourSyncfusionPlatform} \ {YourBuildVERSION}\Utilities\Extensions\VS2022\}_
 
+  -  Double-click on “.vsix” to begin the installation.
 
-2. When the above path exists, it means that the ASP.NET MVC Extension build has already been installed in the machine. So now you can install the following Syncfusion<sup style="font-size:70%">&reg;</sup>
-   Extensions manually:
-   * Syncfusion<sup style="font-size:70%">&reg;</sup> Project Templates
-   * Syncfusion<sup style="font-size:70%">&reg;</sup> Visual Studio Extensions
+  **Option 2: Install via Visual Studio Marketplace**
 
-   ## To Install Syncfusion<sup style="font-size:70%">&reg;</sup> Project Templates: 
+  - Open Visual Studio → Extensions → Manage Extensions → Online.
 
-   **Before 17.1.0.32-beta version**
+  - Search for “{YourSyncfusionPlatform} Extension - Syncfusion” and install it.
 
-   Navigate to the following location and run the “Syncfusion.MVC.VSPackage.Web.vsix” extension.
+## Case 2: If the Syncfusion® Extension Installed and the template is not shown in project window :
 
-   _{Syncfusion<sup style="font-size:70%">&reg;</sup> Build installed location}\Utilities\Extensions\ASP.NET MVC\Project Templates\Web\{Visual Studio Version}_
+If the extension appears in the Extension Manager after installation but the Syncfusion® template is still not shown in new project window, the issue is usually due to cached or incomplete installation of extension files. In such cases  uninstall existing Syncfusion® extensions and reinstall to resolve this issue as mentioned below:
 
-   Refer the following screenshot.
+  - Open Visual Studio  → Extensions → Manage Extensions → Installed.
 
-   _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\ASP.NET MVC\Project Templates\Web\VS2017_
+  - Search for “Syncfusion” and uninstall all related extensions.
 
+  - Manually delete any remaining Syncfusion extension-related files from the following locations:
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img2.png)
+      _{%appdata%\Local\Microsoft\VisualStudio\{17.0_xx}\Extensions\{Visual Studio Install Path}\Common7\IDE\Extensions\}_
 
-   **On or After 17.1.0.32-beta version**
-
-   Navigate to the following location and run the “Syncfusion<sup style="font-size:70%">&reg;</sup> Essential JS1 AspNet MVC VSExtensions.vsix” extension.
-
-   _{Syncfusion<sup style="font-size:70%">&reg;</sup> Build installed location}\Utilities\Extensions_
-
-   Refer the following screenshot.
-
-   _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\ASP.NET MVC - EJ1\18.1.0.52\Utilities\Extensions_
-
-
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Project Template VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img4.png)
-
-   ## To Install Syncfusion<sup style="font-size:70%">&reg;</sup> Visual Studio Extension:
-
-   **Before 17.1.0.32-beta version**
-
-   Navigate to the following Location and run the “Syncfusion<sup style="font-size:70%">&reg;</sup> Web Conversion and Migration.vsix” extension. 
-
-   _{Syncfusion<sup style="font-size:70%">&reg;</sup> Build installed location}\Utilities\Extensions\Project Conversion\{Visual Studio Version}_
-   Refer the following screenshot.
-
-   _Ex: C:\Program Files (x86)\Syncfusion\Essential Studio\15.4.0.17\Utilities\Extensions\Project Conversion\VS2017_
-
-
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> Web Conversion and Migration VSIX file location](The-Syncfusion-templatesd_images/The-Syncfusion-templatesd-img3.png)
-
-   **On or After 17.1.0.32-beta version**
-
-   Syncfusion<sup style="font-size:70%">&reg;</sup> Web Conversion and Migration.vsix extension has been added as a dependency VSIX package to the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential JS1 AspNet MVC VSExtensions.vsix extension from the **v17.1.0.32- beta** and the Syncfusion<sup style="font-size:70%">&reg;</sup> Web Conversion and Migration.vsix extension will be installed along with the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential JS1 AspNet MVC VSExtensions.vsix extension.
-
-3. If the respective version of Syncfusion<sup style="font-size:70%">&reg;</sup> MVC Extension is not installed in the machine, download the Extension setup from the following link.        [http://www.Syncfusion.com/downloads/extension/](http://www.Syncfusion.com/downloads/extension/)
+  - Reinstall the extension by one of the option mentioned earlier in the installation steps.
