@@ -16,5 +16,3 @@ The Syncfusion® Document SDK provides the following add-ins in Visual Studio:
 [Template Studio](template-studio): Creates Syncfusion® Blazor applications with required configuration for development with Syncfusion® Document SDK components.
 
 [Code Generator](code-generator): Adds Syncfusion® Document SDK component code in razor file of Blazor Application at required place.
-
-[Creator Sample](sample-creator): Creates Syncfusion® ASP.NET Core or MVC application with the sample code of required Syncfusion® Document SDK controls and features.
