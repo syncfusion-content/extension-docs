@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion® PDF Viewer SDK Reference Manager is an Add-In for WinForms and WPF application. It adds the Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK assembly reference to the project, either from the GAC location or Essential Studio<sup style="font-size:70%">&reg;</sup> installed location. It can also migrate the projects that contain the old versions of the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly reference to newer or specific versions of the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly reference.
 
-N> This Syncfusion® PDF Viewer SDK Reference Manager can be applied to a project for Syncfusion<sup style="font-size:70%">&reg;</sup> assembly version 31.2.2 and later.
+N> This Syncfusion® PDF Viewer SDK Reference Manager can be applied to a project for Syncfusion<sup style="font-size:70%">&reg;</sup> assembly version 32.1.19 and later.
 
 Follow the given steps to add the Syncfusion® PDF Viewer SDK Reference Manager in Visual Studio:
 
@@ -50,8 +50,6 @@ Follow the given steps to add the Syncfusion® PDF Viewer SDK Reference Manager 
    N> The installed location and GAC option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK setup has been installed.
 
    ![Assembly location option in Syncfusion Reference Manger](images/Syncfusion-Reference-Manger-img4.png)
-
-   N> The GAC option will not be available if you have selected a WinForms or WPF (.NET 8.0, .NET 7.0, and .NET 6.0) application in Visual Studio 2022 or later.
 
    **Version:** Choose the installed build version to add the corresponding version assemblies to the project.
 

@@ -100,7 +100,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
         - **Configuration Section**
 
-            You can select the required .NET Core Version (.NET 8.0, .NET 9.0 or .NET 10.0) and themes
+            You can select the required .NET Core Version (.NET 9.0 or .NET 10.0) and themes
 
              ![Configuration](images/ConfigMaui.png)
             

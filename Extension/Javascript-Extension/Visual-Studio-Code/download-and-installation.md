@@ -13,7 +13,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio Cod
 
 ## Prerequisites
 
-The following prerequisites software needs to be installed for the Syncfusion<sup style="font-size:70%">&reg;</sup> Web extension installation and for creating the Syncfusion<sup style="font-size:70%">&reg;</sup> Web applications along with any one of the Framework(React, Angular, and Vue).
+The following prerequisites software needs to be installed for the Syncfusion<sup style="font-size:70%">&reg;</sup> Web extension installation and for creating the Syncfusion<sup style="font-size:70%">&reg;</sup> Web applications along with any one of the Framework(React, Pure React, Angular, and Vue).
 
 * [Visual Studio Code](https://code.visualstudio.com/download)
 

@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>Spreadsheet Editor SDK component to the corresponding applications with their references. 
 
-I> The Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK item templates are available from v31.2.2.
+I> The Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK item templates are available from v32.1.19.
 
 The following steps will guide you in adding the Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK component to your Visual Studio WinForms or WPF application.
 
@@ -41,11 +41,9 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
         
         ![Syncfusion<sup style="font-size:70%">&reg;</sup> WPF Spreadsheet Editor SDK Item template component](images/Add-Syncfusion-ui1.png)
 
-3.	The Component and the features associated with the Spreadsheet EDitor SDK component will be presented within your Spreadsheet Editor SDK Item template.
+3.	The Component and the features associated with the Spreadsheet Editor SDK component will be presented within your Spreadsheet Editor SDK Item template.
 
-4.	Choose an assembly reference option such as GAC location, Essential Studio<sup style="font-size:70%">&reg;</sup> installed location, or NuGet packages to specify where the required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project.
-
-    N> If the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Spreadsheet Editor SDK build is installed, the Installed location and GAC options will be enabled. Without installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Spreadsheet Editor SDK setup, use the NuGet option. The GAC option will not be available for .NET Core application.
+4.	The required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project from the Nuget packages reference option.
 
 5.  Click **Add**, and a pop-up will appear providing information about adding Component **files** and **NuGet/Assemblies** details.
 
