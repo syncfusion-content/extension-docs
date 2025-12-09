@@ -13,7 +13,7 @@ Syncfusion® provides the PDF Viewer SDK Template Studio, which allows you to cr
 
 The steps below will assist you to create your **Syncfusion® Application** through **Visual Studio**:
 
-N> Before use the Syncfusion® Project Template, check whether the Syncfusion® PDF Viewer SDK Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://help.syncfusion.com/extension/document-sdk-extension/visual-studio/download-and-installation) help topic.
+N> Before use the Syncfusion® Project Template, check whether the Syncfusion® PDF Viewer SDK Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://help.syncfusion.com/extension/pdfviewer-sdk-extension/visual-studio/download-and-installation) help topic.
 
 1. Open Visual Studio 2022 or later.
 
@@ -100,7 +100,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
         - **Configuration Section**
 
-            You can select the required .NET Core Version (.NET 8.0, .NET 9.0 or .NET 10.0) and themes
+            You can select the required .NET Core Version (.NET 9.0 or .NET 10.0) and themes
 
              ![Configuration](images/ConfigMaui.png)
             

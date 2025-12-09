@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Toolbox Control | .NET MAUI | PDF Viewer SDK
+title: Toolbox Control | .NET MAUI | PDF Viewer SDK | Syncfusion
 description: Syncfusion® PDF Viewer SDK enables Syncfusion® .NET MAUI PDF Viewer Toolbox control in your .NET MAUI application without coding in the Visual Studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion® .NET MAUI PDF Viewer Toolbox Control for .NET MAUI Application
+# Syncfusion® .NET MAUI PDF Viewer Toolbox Control
 
 The Syncfusion® .NET MAUI PDF Viewer Toolbox Control for the .NET MAUI platform is a valuable resource for developers looking to seamlessly integrate Syncfusion<sup>®</sup> PDF Viewer SDK component into their applications, it streamlines the workflow by simplifying the integration and configuration of Syncfusion<sup>®</sup> PDF Viewer SDK component.
 
@@ -21,7 +21,7 @@ To launch the Syncfusion® .NET MAUI PDF Viewer Toolbox from the Syncfusion<sup>
 5. From the **Essential Studio® for PDF Viewer SDK** submenu, select **Launch Syncfusion® .NET MAUI PDF Viewer Toolbox**.
 This toolbox provides a set of tools and features to easily incorporate Syncfusion<sup>®</sup> PDF Viewer SDK component into your .NET MAUI application.
 
-   ![Syncfusion .NET MAUI Custom Toolbox via Syncfusion<sup>®</sup> menu](images/ToolboxSyncfusionMenu.png)
+   ![Syncfusion .NET MAUI Custom Toolbox via Syncfusion menu](images/ToolboxSyncfusionMenu.png)
 
 ## Launching Syncfusion® .NET MAUI PDF Viewer Toolbox from the View menu
 
