@@ -13,7 +13,7 @@ Syncfusion® provides the DOCX Editor SDK Template Studio, which allows you to c
 
 The steps below will assist you to create your **Syncfusion® Application** through **Visual Studio**:
 
-N> Before use the Syncfusion® Project Template, check whether the Syncfusion® DOCX Editor SDK Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://blazor.syncfusion.com/documentation/visual-studio-integration/download-and-installation) help topic.
+N> Before use the Syncfusion® Project Template, check whether the Syncfusion® DOCX Editor SDK Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://help.Syncfusion.com/extension/docxeditor-sdk-extension/visual-studio/download-and-installation) help topic.
 
 1. Open Visual Studio 2022 or later.
 

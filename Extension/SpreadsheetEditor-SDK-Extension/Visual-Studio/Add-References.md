@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add a Syncfusion® Spreadsheet Editor SDK References| WinForms | WPF | Syncfusion
+title: Add a Syncfusion® Spreadsheet Editor SDK References | Syncfusion
 description: Syncfusion® Spreadsheet Editor SDK Reference Manger is add-in to add the Syncfusion references into the WinForms and WPF application
 platform: extension
 control: Syncfusion Extensions
@@ -24,12 +24,12 @@ Follow the given steps to add the Syncfusion® Spreadsheet Editor SDK Reference 
    **Option 1:**  
    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for Syncfusion® Spreadsheet Editor SDK > Add Syncfusion® Spreadsheet Editor SDK Reference Manager…**.
 
-   ![Syncfusion® Spreadsheet Editor SDK Reference Manager via Syncfusion Menu](images/Syncfusion_Menu_AddReference.png)
+   ![Syncfusion Spreadsheet Editor SDK Reference Manager via Syncfusion Menu](images/Syncfusion_Menu_AddReference.png)
 
    **Option 2:**  
    Right-click the selected WinForms and WPF project file from Solution Explorer, then select **Syncfusion® Spreadsheet Editor SDK Reference Manager…** from **Context Menu**. The following screenshot shows this option in Visual Studio.   
 
-   ![Syncfusion® Spreadsheet Editor SDK Reference Manager add-in](images/Syncfusion-Reference-Manger-img1.png)
+   ![Syncfusion Spreadsheet Editor SDK Reference Manager add-in](images/Syncfusion-Reference-Manger-img1.png)
 
 3. The Syncfusion® Spreadsheet Editor SDK Reference Manager Wizard will be loaded.
 
@@ -70,7 +70,7 @@ Follow the given steps to add the Syncfusion® Spreadsheet Editor SDK Reference 
 
 6. Then, Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown, if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the  [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://blog.Syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-   ![Syncfusion license registration required information dialog in Syncfusion® Spreadsheet Editor SDK Reference Manager](images/Syncfusion-Reference-Manger-img7.png)
+   ![Syncfusion license registration required information dialog in Syncfusion Spreadsheet Editor SDK Reference Manager](images/Syncfusion-Reference-Manger-img7.png)
 
 N>  Syncfusion<sup style="font-size:70%">&reg;</sup> provides Syncfusion® Spreadsheet Editor SDK Reference Manager support for specific .NET Framework, which is shipped (assemblies) in Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> setup. So, if you try to add Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies in the project and project framework is not supported with selected Syncfusion<sup style="font-size:70%">&reg;</sup> version assemblies, the dialog appears along with **“Current build v{version} is not supported this framework v{Framework Version}”** message.
 
