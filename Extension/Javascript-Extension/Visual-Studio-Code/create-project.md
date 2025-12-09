@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Create project With Syncfusion<sup style="font-size:70%">&reg;</sup> Visual Studio Code project Templates
+# Create project With Syncfusion® VS Code project Templates
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides **project templates** for **VisualStudio Code** to create Syncfusion<sup style="font-size:70%">&reg;</sup> Web applications. Syncfusion<sup style="font-size:70%">&reg;</sup> Web Project template creates applications with the selected Framework(React, Pure React, Angular, and Vue), required Syncfusion<sup style="font-size:70%">&reg;</sup> NPM packages, component render code for the Grid, Chart, Scheduler components, and the style for making development easier with Syncfusion<sup style="font-size:70%">&reg;</sup> components.
 

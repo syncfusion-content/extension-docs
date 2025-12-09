@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Add Syncfusion® PDF Viewer Component to the WinForms or WPF Application
+# Add Syncfusion® PDF Viewer Component
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>PDF Viewer SDK Component to the corresponding applications with their references. 
 
@@ -43,7 +43,7 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
 
 3.	The Component and the features associated with the PDF Viewer SDK component will be presented within your PDF Viewer SDK Item template.
 
-4. The required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project from the Nuget packages reference option.
+4. The required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project from the NuGet packages reference option.
 
 5.  Click **Add**, and a pop-up will appear providing information about adding Component **files** and **NuGet/Assemblies** details.
 

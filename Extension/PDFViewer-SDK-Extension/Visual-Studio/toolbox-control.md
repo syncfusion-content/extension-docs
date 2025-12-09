@@ -21,7 +21,7 @@ To launch the Syncfusion® .NET MAUI PDF Viewer Toolbox from the Syncfusion<sup>
 5. From the **Essential Studio® for PDF Viewer SDK** submenu, select **Launch Syncfusion® .NET MAUI PDF Viewer Toolbox**.
 This toolbox provides a set of tools and features to easily incorporate Syncfusion<sup>®</sup> PDF Viewer SDK component into your .NET MAUI application.
 
-   ![Syncfusion .NET MAUI Custom Toolbox via Syncfusion<sup>®</sup> menu](images/ToolboxSyncfusionMenu.png)
+   ![Syncfusion .NET MAUI Custom Toolbox via Syncfusion menu](images/ToolboxSyncfusionMenu.png)
 
 ## Launching Syncfusion® .NET MAUI PDF Viewer Toolbox from the View menu
 

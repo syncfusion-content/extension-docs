@@ -37,7 +37,7 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
 
 3. The Component and the features associated with the DOCX Editor SDK component will be presented within your DOCX Editor SDK Item template.
 
-4. The required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project from the Nuget packages reference option.
+4. The required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project from the NuGet packages reference option.
 
 5.  Click **Add**, and a pop-up will appear providing information about adding Component **files** and **NuGet/Assemblies** details.
 
