@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Download and Installation
+# Download and Installation - Blazor Extension
 
 Syncfusion® publishes the Visual Studio Code extension in the [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions). You can either install it directly from Visual Studio Code or download and install it from the Visual Studio Code marketplace.
 
@@ -62,7 +62,7 @@ The instructions below describe the process of downloading and installing Syncfu
      ![CreateProjectPalette](images/CreateProjectPalette.png)
 
 ## Manually Installing an Extension in Visual Studio Code
-The instructions below describe the process of installing the Syncfusion® Blazor extensions manually in visual studio code.
+The instructions below describe the process of installing the Syncfusion® Blazor extensions manually in Visual Studio Code.
 
 1. Install the extension by downloading it from the Visual Studio Marketplace and then installing it from a local file within VS Code. To do this: Download the **"SyncfusionInc.Blazor-VSCode-Extensions.vsix"** file from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions).
 

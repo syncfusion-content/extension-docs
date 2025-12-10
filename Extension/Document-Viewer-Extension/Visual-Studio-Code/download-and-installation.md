@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Download and Installation
+# Document Viewer Extenison - Download and Installation Guide
 
 Syncfusion® publishes the Document Viewer Extension in [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-Viewer-VSCode-Extensions). You can either install it from Visual Studio Code or download and install it from the Visual Studio Code marketplace.
 

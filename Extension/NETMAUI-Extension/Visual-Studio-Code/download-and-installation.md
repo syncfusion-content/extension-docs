@@ -7,7 +7,7 @@ component: Common
 documentation: ug
 ---
 
-# Download and Installation
+# .NET MAUI Extension - Download and Installation Guide
 
 
 

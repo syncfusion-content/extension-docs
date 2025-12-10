@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Download and Installation
+# Download and Installation - Document Viewer Extension
 
 Syncfusion® publishes the Document Viewer Plugin in [JetBrains marketplace](https://plugins.jetbrains.com/plugin/28456-document-viewer). You can either install it from JetBrains IDE or download and install it from the JetBrains marketplace.
 
