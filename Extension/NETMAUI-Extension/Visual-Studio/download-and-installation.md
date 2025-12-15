@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Download and Installation
+# Download and Installation - .NET MAUI Extension
 
 Syncfusion<sup>®</sup> publishes the Visual Studio extension at the Visual Studio Marketplace link below. You can either install it directly from Visual Studio or download and install it from the Visual Studio Marketplace.
 
