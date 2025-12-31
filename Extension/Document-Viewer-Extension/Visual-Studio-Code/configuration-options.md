@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Configuration Options
+# Configuration Options for VS Code
 
 ### Read-Only Mode
 
