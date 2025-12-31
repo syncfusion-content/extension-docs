@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Configuration Options | Extension | Syncfusion
+title: VS Code Configuration Options | Extension | Syncfusion
 description: The Document Viewer extension allows users to configure and customize its intuitive features effortlessly.
 platform: extension
 control: Syncfusion Extensions
@@ -34,7 +34,7 @@ To prevent accidental edits to your files, you can enable Read-Only Mode.
 
     ![ReadOnlySettings](images/ReadOnly-Config.png)
 
-### Localisation
+### Localization
 
 - you can apply your language preferences effectively.
 
