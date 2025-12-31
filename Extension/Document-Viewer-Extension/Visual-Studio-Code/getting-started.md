@@ -29,6 +29,16 @@ documentation: ug
 
 ---
 
+### Localization
+
+Apply your preferred language settings seamlessly for a personalized experience.
+
+> **Note:** Apart from English, the Document Viewer supports 32 additional languages such as Arabic, Bulgarian, Chinese Simplified, Chinese Traditional, Croatian, Czech, Danish, etc., ensuring a localized experience for global users.
+
+![localization](images/localization.gif)
+
+---
+
 ### Sorting and Filtering in Spreadsheet
 
 Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
