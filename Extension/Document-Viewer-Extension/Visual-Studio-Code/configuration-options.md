@@ -34,6 +34,24 @@ To prevent accidental edits to your files, you can enable Read-Only Mode.
 
     ![ReadOnlySettings](images/ReadOnly-Config.png)
 
+### Localisation
+
+- you can apply your language preferences effectively.
+
+  - **Via Status Bar:**
+
+    - After opening the file, click `Document Viewer` in the status bar to configure language preferences.
+
+      ![localization](images/localization.gif)
+
+  - **Via Settings:**
+
+    - Go to `Settings > Extensions > Document Viewer` to configure language preferences.
+
+      ![localization-setting](images/localization-setting.png)
+
+> **Note:** Apart from English, the Document Viewer supports 32 additional languages such as Arabic, Bulgarian, Chinese Simplified, Chinese Traditional, Croatian, Czech, Danish, etc., ensuring a localized experience for global users.
+
 ### Sorting and Filtering in Spreadsheet
 
 You can configure sorting and filtering for the first row of your worksheet.
