@@ -21,4 +21,6 @@ The **Document Viewer** extension enables developers to seamlessly view Word, Ex
 
 - **Read-Only Mode**: Protect data from accidental modifications.
 
+- **Localization**: Apply your preferred language settings seamlessly for a personalized experience.
+
 - **Sorting and Filtering**: Organize data efficiently using sorting and filtering options in column headers for spreadsheet files.
