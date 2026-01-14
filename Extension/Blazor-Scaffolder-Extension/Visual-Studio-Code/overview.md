@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syncfusion Blazor UI Scaffolder Extension for Visual Studio Code | Syncfusion
-description: Overview of scaffolding using Syncfusion Blazor Scaffolder Extension in Visual Studio Code
+title: Syncfusion Blazor Scaffolder Extension | Syncfusion
+description: Learn how to scaffold projects quickly using the Syncfusion Blazor Scaffolder Extension in Visual Studio Code.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

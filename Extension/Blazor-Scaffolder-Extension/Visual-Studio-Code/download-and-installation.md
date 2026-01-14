@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download and Installation | Syncfusion
-description: Learn how to download and install Syncfusion Blazor Scaffolder Extension for Visual Studio Code.
+description: Learn how to download and install the Syncfusion Blazor UI Scaffolder Extension in Visual Studio Code to simplify project setup.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -31,7 +31,7 @@ The instructions below describe the process of installing the Syncfusion® Blazo
 
      ![Extension](images/Extension.png)
 
-4. Install the **"Blazor SCaffolder VSCode Extensions - Syncfusion"**  by clicking the **Install** button.
+4. Install the **"Blazor Scaffolder VSCode Extensions - Syncfusion"**  by clicking the **Install** button.
 
 ## Install from the Visual Studio Code Marketplace
 
@@ -41,7 +41,7 @@ The instructions below describe the process of downloading and installing Syncfu
 
 2. Click Install from Visual Studio Code Marketplace. The browser displays a popup window with information such as **"Open Visual Studio Code"**. When you click Open Visual Studio Code, the [Syncfusion® Blazor Scaffolder Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) will launch in Visual Studio Code.
 
-3. Install the **"Blazor SCaffolder VSCode Extensions - Syncfusion"** extension by clicking the **Install** button.
+3. Install the **"Blazor Scaffolder VSCode Extensions - Syncfusion"** extension by clicking the **Install** button.
 
 ## Manually Installing an Extension in Visual Studio Code
 The instructions below describe the process of installing the Syncfusion® Blazor Scaffolder extension manually in Visual Studio Code.
