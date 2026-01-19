@@ -9,7 +9,8 @@ documentation: ug
 
 # Syncfusion® Blazor Scaffolder
 
-Syncfusion® provides **Blazor UI Scaffolder** in Visual Studio Code for Blazor applications, allowing you to quickly add code that interacts with data models, reducing the time required for developing data operations in your application. Scaffolding simplifies the creation of Razor pages and Controller action methods for Syncfusion® Blazor controls such as DataGrid, Tree Grid, Charts, Scheduler and Diagram.
+Syncfusion® provides **Blazor UI Scaffolder** in Visual Studio Code for Blazor applications, allowing you to quickly add code that interacts with data models, reducing the time required for developing data operations in your application. Scaffolding simplifies the creation of Razor pages and Controller action methods for Syncfusion® Blazor controls such as **DataGrid, Tree Grid, Charts, Scheduler and Diagram**.
+The scaffolding UI allows you to select the type of data source binding, Syncfusion® component features and data fields for a selected control, significantly reducing the time required to develop standard operations.
 
 N> Check that at least one Entity Framework model exists, and the application has been compiled once. If no Entity Framework model exists in your application, refer to this [documentation](https://www.freecodecamp.org/news/how-to-create-an-application-using-blazor-and-entity-framework-core-1c1679d87c7e/) to generate the Entity Framework model. After the model file has been added, check that the required DBContext and properties are added. Now, build the application, and try scaffolding. If any changes made in the model properties, rebuild the application once before perform scaffolding.
 
@@ -20,7 +21,7 @@ N> The Syncfusion® Blazor Scaffolder is available from `v17.4.0.39`
 
 The steps below assist you to how to add a scaffolded item to your Blazor application.
 
-N> Before use the Syncfusion® Blazor Scaffolder, check whether the Syncfusion® Blazor Scaffolder Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
+N> Before use the Syncfusion® Blazor Scaffolder, check whether the **Syncfusion® Blazor Scaffolder Extension** installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
 
 1. If the application type is **Blazor ServerSide**, In the File Explorer section right click the project's **.csproj** file and then click **Syncfusion® Blazor UI Scaffolder**.
 
