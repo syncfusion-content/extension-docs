@@ -19,7 +19,7 @@ The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET 
 
 1.  Launch the Syncfusion® Spreadsheet Editor SDK Control Panel and click the Sample Creator button to launch the Spreadsheet Editor SDK Sample Creator utility. 
     
-    ![launch the Sample Creator via Syncfusion<sup style="font-size:70%">&reg;</sup> menu](images/SampleCreator.png)
+    ![launch the Sample Creator via Syncfusion menu](images/SampleCreator.png)
 
 ### Project Configuration
 
@@ -33,7 +33,7 @@ The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET 
             -   .NET Core – Choose the .NET Core version
             -   Assets From – Load the Syncfusion® assets to either CDN or NPM.
             
-            ![Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK Sample Creator project configuration section](images/SampleCreator-core.png)
+            ![Syncfusion Spreadsheet Editor SDK Sample Creator project configuration section](images/SampleCreator-core.png)
             
         -   ASP .NET MVC:
             
@@ -41,7 +41,7 @@ The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET 
             -   .NET Framework – Choose the .NET Framework version
             -   Assets From – Load the Syncfusion® assets to either CDN or NuGet.
             
-            ![Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK Sample Creator project configuration section](images/SampleCreator-mvc.png)
+            ![Syncfusion Spreadsheet Editor SDK Sample Creator project configuration section](images/SampleCreator-mvc.png)
             
     -   Name – Name your Syncfusion® ASP.NET Core or ASP.NET MVC Application.
         
@@ -79,8 +79,8 @@ The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET 
         
         -   ASP.NET Core:
             
-            ![syncfusion<sup style="font-size:70%">&reg;</sup> assemblies](images/syncfusion-assemblies.png)
+            ![syncfusion assemblies](images/syncfusion-assemblies.png)
             
         -   ASP .NET MVC:
             
-            ![syncfusion<sup style="font-size:70%">&reg;</sup> assemblies](images/syncfusion-assemblies1.png)
+            ![syncfusion assemblies](images/syncfusion-assemblies1.png)
