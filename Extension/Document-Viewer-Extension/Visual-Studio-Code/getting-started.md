@@ -17,7 +17,7 @@ documentation: ug
 
 - Or, go to `File > Open File` and select the file from your system.
 
-    ![OpenFile](images/OpenFile.gif)
+    ![OpenFile](https://cdn.syncfusion.com/visual-studio-market/document-viewer/OpenFile-VSCode.gif)
 
 **Edit and Save**:
 

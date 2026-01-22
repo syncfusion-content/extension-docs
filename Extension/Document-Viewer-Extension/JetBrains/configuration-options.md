@@ -30,6 +30,6 @@ You can apply your language preferences effectively.
 
     - After opening the file, click `Document Viewer` in the status bar or go to `Settings > Extensions > Document Viewer` to configure language preferences.
 
-      ![localization](images/localization.gif)
+      ![localization](https://cdn.syncfusion.com/visual-studio-market/document-viewer/Localization.gif)
 
 > **Note:** Apart from English, the Document Viewer supports 32 additional languages such as Arabic, Bulgarian, Chinese Simplified, Chinese Traditional, Croatian, Czech, Danish, etc., ensuring a localized experience for global users.
