@@ -13,10 +13,23 @@ documentation: ug
 
 You can configure sorting and filtering for the first row of your worksheet.
 
-> **Note:** Document Viewer enables the filtering and sorting option only when the spreadsheet files are open.
+- **Configure Sorting and Filtering :**
 
-- **Configure via Status Bar**:
-
-  After opening the file, click `Filter` in the bottom right corner of the status bar to configure sorting and filtering on the first row of the worksheet for quicker access.
+  - After opening the file, click `Document Viewer` in the bottom right corner of the status bar or go to `Settings > Tools > Document Viewer`  to configure sorting and filtering on the first row of the worksheet for quicker access.
   
     ![Filtering-Toolbar](images/Filtering-Toolbar.png)
+
+> **Note:** Document Viewer enables the filtering and sorting option only for the spreadsheet files.
+
+
+### Localization
+
+You can apply your language preferences effectively.
+
+  - **Configure Localization :**
+
+    - After opening the file, click `Document Viewer` in the status bar or go to `Settings > Extensions > Document Viewer` to configure language preferences.
+
+      ![localization](images/localization.gif)
+
+> **Note:** Apart from English, the Document Viewer supports 32 additional languages such as Arabic, Bulgarian, Chinese Simplified, Chinese Traditional, Croatian, Czech, Danish, etc., ensuring a localized experience for global users.
