@@ -61,6 +61,6 @@ The Syncfusion® Blazor snippet simply inserts the code into the razor file. You
 
 If you select an **Interactive render mode** as `WebAssembly` or `Auto`, you need to register the Syncfusion® Blazor service in both **~/Program.cs** files of your Blazor Web App.
 
-    ![Syncfusion Configuration](images/Configuration-Snippet.png)
+![Syncfusion Configuration](images/Configuration-Snippet.png)
 
 5. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [UG](https://blazor.syncfusion.com/documentation/getting-started/license-key/overview) topic for understanding the licensing details in Essential Studio® for Blazor.

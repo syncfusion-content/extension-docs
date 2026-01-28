@@ -19,4 +19,6 @@ The Syncfusion® DOCX Editor SDK extensions provides the following add-ins in Vi
 
 [Item Template](item-template): Adds predefined Syncfusion®DOCX Editor SDK control and the required assemblies in WPF Application.
 
+[Creator Sample](sample-creator): Creates Syncfusion® ASP.NET Core or MVC application with the sample code of required Syncfusion® DOCX Editor SDK control and features.
+
 [Reference Manager](Add-References): To add the required Syncfusion® DOCX Editor SDK assembly to WPF project reference.
