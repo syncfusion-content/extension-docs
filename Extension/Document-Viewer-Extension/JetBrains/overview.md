@@ -19,4 +19,6 @@ The **Document Viewer** plugin provides seamless access to view Word, Excel, PDF
 
 - **Edit**: Edit and save Word, Excel, Markdown, CSV, and TSV files.
 
+- **Localization**: Apply your preferred language settings seamlessly for a personalized experience.
+
 - **Sorting and Filtering**: Organize data efficiently using sorting and filtering options in column headers for spreadsheet files.

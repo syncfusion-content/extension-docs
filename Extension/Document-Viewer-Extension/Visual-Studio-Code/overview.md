@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Document Viewer Extension | Extension | Syncfusion
-description: The Document Viewer extension enables you to easily view and manage your documents within VSCode using our intuitive features.
+description: The Document Viewer VSCode extension enables you to easily view and manage your documents within VSCode using our intuitive features.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -20,5 +20,7 @@ The **Document Viewer** extension enables developers to seamlessly view Word, Ex
 - **Edit**: Edit, and save Word, Excel, Markdown, CSV, and TSV files.
 
 - **Read-Only Mode**: Protect data from accidental modifications.
+
+- **Localization**: Apply your preferred language settings seamlessly for a personalized experience.
 
 - **Sorting and Filtering**: Organize data efficiently using sorting and filtering options in column headers for spreadsheet files.
