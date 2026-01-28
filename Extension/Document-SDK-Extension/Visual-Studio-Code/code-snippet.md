@@ -1,21 +1,21 @@
 ---
 layout: post
-title: Code Snippets - Blazor Extension Visual Studio Code | Syncfusion
-description: Learn here all about how to use code snippet utility of Syncfusion Blazor Extension for Visual Studio Code and much more.
+title: Code Snippets - Document SDK Extension Visual Studio Code | Syncfusion
+description: Learn here all about how to use code snippet utility of Syncfusion Document SDK Extension for Visual Studio Code and much more.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Add Syncfusion® Blazor component in the Blazor application
+# Add Syncfusion® Document SDK component in the Blazor application
 
-The Syncfusion® Blazor code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® Blazor component with various features into the Blazor Application's Razor code editor.
+The Syncfusion® Blazor Document SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® Blazor Document SDK components (PDF, Word, Excel and PowerPoint) into the Blazor Application's Razor code editor.
 
-   N> The Syncfusion® Blazor code snippet is available from Essential Studio® 2021 Volume 1 (`v19.1.0.54`).
+   N> The Syncfusion® Blazor Document SDK code snippet is available from Essential Studio® 2026 Volume 1 (`v33.1.10`).
 
-## Add a Syncfusion® Blazor component
+## Add a Syncfusion® Document SDK component
 
-The instructions below guide you the process of using the Syncfusion® Blazor code snippet in your Blazor application.
+The instructions below guide you the process of using the Syncfusion® Blazor Document SDK code snippet in your Blazor application.
 
 1. In Visual Studio Code, open an existing Blazor Application or create a new Blazor Application.
 
@@ -24,24 +24,24 @@ The instructions below guide you the process of using the Syncfusion® Blazor co
 3. You can find the Syncfusion® Blazor component with the various features by typing the **sf** word in the format shown below.
 
     ```
-    sf<Syncfusion component name>-<Syncfusion component feature>
-    For Example, sfgrid-grouping
+    sf<Syncfusion component name>
+    For Example, sfpdf
     ```
-4. Choose the Syncfusion® component and click the **Enter** or **Tab** key, the Syncfusion® Blazor component will be added in the razor file.
+4. Choose the Syncfusion® Document SDK component (PDF, Word, Excel and PowerPoint) and click the **Enter** or **Tab** key, the Syncfusion® Blazor Document SDK component will be added in the razor file.
 
-    ![Code Snippet](images/codesnippet.gif)
+    ![Code Snippet](https://cdn.syncfusion.com/visual-studio-market/vscode/blazor/Document-SDK-CodeSnippets.gif)
 
-5. After adding the Syncfusion® Blazor component to the razor file, use the tab key to fill in the required values to render the component with data. You can find the comment section in the code snippet to see what values are required.
+5. After adding the Syncfusion® Blazor Document SDK component to the razor file, use the tab key to fill in the required values to render the component with data. You can find the comment section in the code snippet to see what values are required.
 
     ![Comment](images/Comment.png)
 
-6. You can also find the Syncfusion® help link at the top of the added snippet to learn more about the new Syncfusion® Blazor component feature.
+6. You can also find the Syncfusion® help link at the top of the added snippet to learn more about the new Syncfusion® Document SDK Blazor component.
 
     ![Help](images/Help.png)
 
-## Configure Blazor application with Syncfusion
+## Configure Blazor application with Syncfusion Document SDK
 
-The Syncfusion® Blazor snippet simply inserts the code into the razor file. You must configure the Blazor application with Syncfusion® by installing the Syncfusion® Blazor NuGet package, namespace, themes, and registering the Syncfusion® Blazor Service. To configure, follow the steps below:
+The Syncfusion® Blazor Document SDK snippet simply inserts the code into the razor file. You must configure the Blazor application with Syncfusion® by installing the Syncfusion® Blazor NuGet package, namespace, themes, and registering the Syncfusion® Blazor Service. To configure, follow the steps below:
 
 1. Open the Blazor application file and manually add the required Syncfusion® Blazor individual NuGet package(s) for the Syncfusion® Blazor components as a package reference. Refer to [this section](https://blazor.syncfusion.com/documentation/nuget-packages#benefits-of-using-individual-nuget-packages) to learn about the advantages of the individual NuGet packages. This NuGet package will be automatically restored when building the application.
 
