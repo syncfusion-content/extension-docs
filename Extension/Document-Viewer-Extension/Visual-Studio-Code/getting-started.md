@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Getting Started | Extension | Syncfusion
-description: The Document Viewer extension enables you to easily view and manage your documents within VSCode using our intuitive features.
+description: The Document Viewer extension enables you to easily view and manage your documents within VS Code using our intuitive features.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -17,7 +17,7 @@ documentation: ug
 
 - Or, go to `File > Open File` and select the file from your system.
 
-    ![OpenFile](images/OpenFile.gif)
+    ![OpenFile](https://cdn.syncfusion.com/visual-studio-market/document-viewer/OpenFile-VSCode.gif)
 
 **Edit and Save**:
 
@@ -26,6 +26,16 @@ documentation: ug
 - Save your changes by selecting `File > Save` or using the shortcut `Ctrl+S` (Windows) / `Cmd+S` (Mac).
 
 > **Note:** Document Viewer allows basic editing of Word, Excel, Markdown, CSV, and TSV files directly within VS Code.
+
+---
+
+### Localization
+
+Apply your preferred language settings seamlessly for a personalized experience.
+
+> **Note:** Apart from English, the Document Viewer supports 32 additional languages such as Arabic, Bulgarian, Chinese Simplified, Chinese Traditional, Croatian, Czech, Danish, etc., ensuring a localized experience for global users.
+
+![localization](images/localization.gif)
 
 ---
 
