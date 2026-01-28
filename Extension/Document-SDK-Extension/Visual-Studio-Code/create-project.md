@@ -9,7 +9,7 @@ documentation: ug
 
 # Creating a Syncfusion® Document SDK application
 
-Syncfusion® provides the Document SDK Template Studio in Visual Studio Code, which allows you to create a Syncfusion® Blazor application with Syncfusion® Document SDK components(PDF, Word, Excel and Powerpoint). The Syncfusion® Blazor app is created with the required component Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion® Document SDK components.
+Syncfusion® provides the Document SDK Template Studio in Visual Studio Code, which allows you to create a Syncfusion® Blazor application with Syncfusion® Document SDK components(PDF, Word, Excel and PowerPoint). The Syncfusion® Blazor app is created with the required component Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion® Document SDK components.
 
 N> Document SDK project templates from `v33.1.3` are supported by the Syncfusion® Visual Studio Code project template.
 
@@ -61,7 +61,7 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
 
      ![ProjectType](images/ProjectTypeDetails1.png)
 
-4. Click either **Next** or the **Controls** tab and select the Syncfusion Document SDK components(PDF, Word, Excel Or Powerpoint) you want to add to your application.
+4. Click either **Next** or the **Controls** tab and select the Syncfusion Document SDK components(PDF, Word, Excel Or PowerPoint) you want to add to your application.
 
      ![Controls Section](images/ControlsSection.png)
 
@@ -139,7 +139,7 @@ The Syncfusion® Blazor namespaces are added in the **`_imports.razor`** file.
 
 ### Component render code
 
-The Syncfusion® Document SDK PDF, Word, Excel and Powerpoint component render code is in the Razor files in the pages folder. The render code is updated in these Razor files.
+The Syncfusion® Document SDK PDF, Word, Excel and PowerPoint component render code is in the Razor files in the pages folder. The render code is updated in these Razor files.
 
 | File name  | Code snippet added |
 |---|---|

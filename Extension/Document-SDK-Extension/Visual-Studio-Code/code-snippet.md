@@ -9,7 +9,7 @@ documentation: ug
 
 # Add Syncfusion® Document SDK component in the Blazor application
 
-The Syncfusion® Blazor Document SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® Blazor Document SDK components (PDF, Word, Excel and Powerpoint) into the Blazor Application's Razor code editor.
+The Syncfusion® Blazor Document SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® Blazor Document SDK components (PDF, Word, Excel and PowerPoint) into the Blazor Application's Razor code editor.
 
    N> The Syncfusion® Blazor Document SDK code snippet is available from Essential Studio® 2026 Volume 1 (`v33.1.10`).
 
@@ -27,7 +27,7 @@ The instructions below guide you the process of using the Syncfusion® Blazor Do
     sf<Syncfusion component name>
     For Example, sfpdf
     ```
-4. Choose the Syncfusion® Document SDK component (PDF, Word, Excel and Powerpoint) and click the **Enter** or **Tab** key, the Syncfusion® Blazor Document SDK component will be added in the razor file.
+4. Choose the Syncfusion® Document SDK component (PDF, Word, Excel and PowerPoint) and click the **Enter** or **Tab** key, the Syncfusion® Blazor Document SDK component will be added in the razor file.
 
     ![Code Snippet](https://cdn.syncfusion.com/visual-studio-market/vscode/blazor/Document-SDK-CodeSnippets.gif)
 
