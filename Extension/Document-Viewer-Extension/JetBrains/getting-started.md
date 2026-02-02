@@ -17,7 +17,7 @@ documentation: ug
 
 - Or, go to `File > Open File` and select the file from your system.
 
-    ![OpenFile](images/OpenFile.gif)
+    ![OpenFile](https://cdn.syncfusion.com/visual-studio-market/document-viewer/OpenFile-Jetbrains.gif)
 
 **Edit and Save**:
 
@@ -29,11 +29,19 @@ documentation: ug
 
 ---
 
+### Localization
+
+Apply your preferred language settings seamlessly for a personalized experience.
+
+![localization](https://cdn.syncfusion.com/visual-studio-market/document-viewer/Localization.gif)
+
+> **Note:** Apart from English, the Document Viewer supports 32 additional languages such as Arabic, Bulgarian, Chinese Simplified, Chinese Traditional, Croatian, Czech, Danish, etc., ensuring a localized experience for global users.
+
+---
+
 ### Sorting and Filtering in Spreadsheet
 
 Use the filter icons in the column headers to sort and filter data. Right-click a cell or header for advanced options.
-
-> **Note:** Document Viewer enables the filtering and sorting option only when the spreadsheet files are open.
 
 **From column header:**
 
@@ -44,3 +52,5 @@ Use the filter icons in the column headers to sort and filter data. Right-click 
 **Right clicking on the cell:**
 
    ![CellFilter](images/CellFilter.png)
+
+> **Note:** Document Viewer enables the filtering and sorting option only when the spreadsheet files are open.
