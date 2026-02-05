@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Code Snippets - PDF Viewer SDK Extension Visual Studio Code | Syncfusion
-description: Learn here all about how to use code snippet utility of Syncfusion PDF Viewer SDK Extension for Visual Studio Code.
+description: Learn here all about how to use code snippet utility of PDF Viewer SDK Extension for VS Code.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -65,7 +65,7 @@ The Syncfusion® Blazor snippet simply inserts the code into the razor file. You
 
 5. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [UG](https://blazor.syncfusion.com/documentation/getting-started/license-key/overview) topic for understanding the licensing details in Essential Studio® for Blazor.
 
-# Add Syncfusion<sup>®</sup> PDF Viewer SDK component in the .NET MAUI application
+# Add Syncfusion® PDF Viewer SDK component in the .NET MAUI application
 
 The Syncfusion<sup>®</sup> .NET MAUI Code Sample Utility for Visual Studio Code provides ready-to-use samples for easily inserting Syncfusion<sup>®</sup> PDF Viewer SDK components with various features into the XAML editor of your .NET MAUI application.
 
