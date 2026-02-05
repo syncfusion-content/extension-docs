@@ -20,3 +20,5 @@ The Syncfusion® Blazor Extension provides the following support in Visual Studi
 [Convert project](convert-project):  Converts an existing Blazor Web Application to a Syncfusion® Blazor Web Application by importing the necessary Syncfusion® NuGet packages.
 
 [Upgrade project](upgrade-project):  Upgrades the existing Syncfusion® Blazor Web Application from one Essential Studio® version to another version.
+
+[Scaffolding](scaffolding): Simplifies the process of adding views and controller action methods for Syncfusion® Blazor **DataGrid, Tree Grid, Charts, Scheduler and Diagram** controls in Blazor applications. 
