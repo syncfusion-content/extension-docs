@@ -65,7 +65,7 @@ The Syncfusion® Blazor snippet simply inserts the code into the razor file. You
 
 5. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [UG](https://blazor.syncfusion.com/documentation/getting-started/license-key/overview) topic for understanding the licensing details in Essential Studio® for Blazor.
 
-# Add the Syncfusion® PDF Viewer SDK Component to .NET MAUI Applications
+## Add Syncfusion® PDF Viewer SDK component in the .NET MAUI applications
 
 The Syncfusion<sup>®</sup> .NET MAUI Code Sample Utility for Visual Studio Code provides ready-to-use samples for easily inserting Syncfusion<sup>®</sup> PDF Viewer SDK components with various features into the XAML editor of your .NET MAUI application.
 
