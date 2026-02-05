@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Code Snippets - DOCX Editor SDK Extension Visual Studio Code | Syncfusion
+title: Code Snippets - DOCX Editor SDK Extension VS Code | Syncfusion
 description: Learn here all about how to use code snippet utility of Syncfusion DOCX Editor SDK Extension for Visual Studio Code and much more.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Add Syncfusion® DOCX Editor SDK component in the DOCX Editor SDK application
+# Add Syncfusion® DOCX Editor SDK component
 
 The Syncfusion® DOCX Editor SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® DOCX Editor SDK component with various features into the DOCX Editor SDK Application's Razor code editor.
 
-## Add a Syncfusion® DOCX Editor SDK component
+## Add a Syncfusion® DOCX Editor SDK component in the DOCX Editor SDK application
 
 The instructions below guide you the process of using the Syncfusion® DOCX Editor SDK code snippet in your DOCX Editor SDK application.
 
@@ -39,7 +39,7 @@ The instructions below guide you the process of using the Syncfusion® DOCX Edit
 
 ## Configure Blazor application with Syncfusion DOCX Editor SDK Component
 
-The Syncfusion® DOCX Editor SDK snippet simply inserts the code into the razor file. You must configure the Blaozr application with Syncfusion® by installing the Syncfusion® DOCX Editor SDK NuGet package, namespace, themes, and registering the Syncfusion® DOCX Editor SDK Service. To configure, follow the steps below:
+The Syncfusion® DOCX Editor SDK snippet simply inserts the code into the razor file. You must configure the Blazor application with Syncfusion® by installing the Syncfusion® DOCX Editor SDK NuGet package, namespace, themes, and registering the Syncfusion® DOCX Editor SDK Service. To configure, follow the steps below:
 
 1. Open the Blazor application file and manually add the required Syncfusion® DOCX Editor SDK individual NuGet package(s) for the Syncfusion® DOCX Editor SDK component as a package reference. Refer to [this section](https://blazor.syncfusion.com/documentation/nuget-packages#benefits-of-using-individual-nuget-packages) to learn about the advantages of the individual NuGet packages. This NuGet package will be automatically restored when building the application.
 

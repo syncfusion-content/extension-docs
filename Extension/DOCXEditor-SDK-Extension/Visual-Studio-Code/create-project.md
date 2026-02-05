@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create Projects using Project Templates via Extensions | Syncfusion
+title: Project creation using Project Templates via Extension | Syncfusion
 description: Learn here about how to create syncfusion DOCX Editor SDK application using Syncfusion DOCX Editor SDK Extension for Visual Studio Code.
 platform: extension
 control: Syncfusion Extensions
