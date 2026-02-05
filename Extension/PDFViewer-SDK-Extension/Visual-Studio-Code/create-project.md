@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create Projects using Project Templates via Extensions | Syncfusion
+title: Create Projects using Project Templates via PDF Viewer SDK Extensions | Syncfusion
 description: Learn here about how to create syncfusion blazor application using Syncfusion PDF Viewer SDK Extension for Visual Studio Code.
 platform: extension
 control: Syncfusion Extensions

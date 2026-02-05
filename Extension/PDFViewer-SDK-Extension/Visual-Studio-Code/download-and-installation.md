@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Download and Installation - PDF Viewer SDK Extension
+# Download and Installation - PDF Viewer SDK Extension 
 
 Syncfusion® publishes the Visual Studio Code extension in the [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.PDF-Viewer-SDK-VSCode-Extensions). You can either install it directly from Visual Studio Code or download and install it from the Visual Studio Code marketplace.
 
