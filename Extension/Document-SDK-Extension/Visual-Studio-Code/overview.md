@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Document SDK Extension for Visual Studio Code | Syncfusion
-description: Learn here all about introduction on Syncfusion Document SDK for Visual Studio which made integration ease.
+description: Learn here all about introduction on Syncfusion Document SDK for Visual Studio Code which made integration ease.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

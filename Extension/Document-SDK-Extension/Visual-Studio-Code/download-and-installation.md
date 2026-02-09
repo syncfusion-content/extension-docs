@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Download and Installation of Document SDK | Syncfusion®
+title: Download and Installation of Document SDK extension for Visual Studio Code | Syncfusion®
 description: Check out the documentation for download and installation of Syncfusion® Document SDK for Visual Studio Code.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Download and Installation - Document SDK Extension
+# Download and Installation - Document SDK Extension for Visual Studio Code
 
 Syncfusion® publishes the Visual Studio Code extension in the below Visual Studio Code marketplace link. You can either install it directly from Visual Studio or download and install it from the Visual Studio Code marketplace.
 

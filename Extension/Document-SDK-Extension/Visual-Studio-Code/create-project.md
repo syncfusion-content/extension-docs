@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Create Projects using Project Templates via Extensions | Syncfusion
-description: Learn here about how to create syncfusion blazor application using Syncfusion Blazor Extension for Visual Studio Code.
+title: Document SDK Extension for Visual Studio Code | Syncfusion®
+description: Learn here about how to create the Blazor application in Visual Studio Code using Syncusion® Document SDK Components with the help of template studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

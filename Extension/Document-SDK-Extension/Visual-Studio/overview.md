@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Syncfusion Document SDK Extension for Visual Studio Code | Syncfusion
+title: Syncfusion Document SDK Extension for Visual Studio | Syncfusion
 description: Learn here all about introduction on Syncfusion Document SDK for Visual Studio which made integration ease.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Overview of Syncfusion® Document SDK for Visual Studio Code
+# Overview of Syncfusion® Document SDK for Visual Studio
 
 The Syncfusion® Document SDK for Visual Studio is used to integrate Syncfusion® Document processing components into the applications by configuring the Syncfusion® NuGet packages and themes.
 
