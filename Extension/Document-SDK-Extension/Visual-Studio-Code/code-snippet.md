@@ -27,7 +27,7 @@ The instructions below guide you the process of using the Syncfusion® Blazor Do
     sf<Syncfusion component name>
     For Example, sfpdf
     ```
-4. Choose the Syncfusion® Document SDK component (PDF, Word, Excel and PowerPoint) and click the **Enter** or **Tab** key, the Syncfusion® Blazor Document SDK component will be added in the razor file.
+4. Choose the Syncfusion® Document SDK component (PDF, Word, Excel and PowerPoint) and click the **Enter** or **Tab** key, the Syncfusion® Document SDK component will be added in the razor file.
 
     ![Code Snippet](https://cdn.syncfusion.com/visual-studio-market/vscode/blazor/Document-SDK-CodeSnippets.gif)
 

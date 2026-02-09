@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Download and Installation of Document SDK | Syncfusion
-description: Check out the documentation for download and installation of Syncfusion Document SDK for Visual Studio Code.
+title: Download and Installation of Document SDK | Syncfusion®
+description: Check out the documentation for download and installation of Syncfusion® Document SDK for Visual Studio Code.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion® publishes the Visual Studio Code extension in the below Visual Studio Code marketplace link. You can either install it directly from Visual Studio or download and install it from the Visual Studio Code marketplace.
 
-[Visual Studio 2022 or 2026](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.DocumentSDKVSExtension)
+[Visual Studio 2022 or 2026](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-SDK-VSCode-Extensions)
 
 
 ## Prerequisites
@@ -34,16 +34,16 @@ The steps below describe how to install the Syncfusion<sup style="font-size:70%"
 
 1. Open Visual Studio Code.
 2. Navigate to **View > Extensions**, and the Manage Extensions option will appear on the left side of the window.
-3. In the search box, enter Document SDK - Syncfusion to find the Syncfusion Document SDK extension in the Marketplace.
+3. In the search box, enter Document SDK VS Code Extensions - Syncfusion® to find the Syncfusion Document SDK extension in the Marketplace.
 
      ![Extensions view showing Syncfusion Document SDK extension search results](images/Extension.png)
 
-4. Select **Blazor VSCode Document SDK- Syncfusion**, and click **Install**.
+4. Select **Document SDK VS Code Extensions - Syncfusion®**, and click **Install**.
 5. Reload Visual Studio Code after installation by using the **Reload Window** command from the Command Palette. Open the Command Palette with **Ctrl+Shift+P**, then run Reload Window.
 
      ![Command Palette highlighting the Reload Window command](images/Reload-Window.png)
 
-6. Now, you can create a new Syncfusion® Blazor application by using the Syncfusion® Blazor extensions from the Visual Studio Code Palette Find the **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio: Launch** from Visual Studio Code commands to open the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio wizard.
+6. Now, you can create a new Syncfusion® Blazor application by using the Syncfusion® Document SDK extensions from the Visual Studio Code Palette Find the **Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK Template Studio: Launch** from Visual Studio Code commands to open the Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK Template Studio wizard.
 
      ![Command Palette showing Syncfusion Blazor Template Studio](images/CreateProjectPalette.png)
 
@@ -51,9 +51,9 @@ The steps below describe how to install the Syncfusion<sup style="font-size:70%"
 
 The instructions below describe the process of downloading and installing Syncfusion® Document SDK applications from the Visual Studio Code Marketplace.
 
-1. Open [Syncfusion® Document SDK Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) in Visual Studio Code Marketplace.
+1. Open [Syncfusion® Document SDK Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-SDK-VSCode-Extensions) in Visual Studio Code Marketplace.
 
-2. Click Install from Visual Studio Code Marketplace. The browser displays a popup window with information such as **"Open Visual Studio Code"**. When you click Open Visual Studio Code, the [Syncfusion® Document SDK Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) will launch in Visual Studio Code.
+2. Click Install from Visual Studio Code Marketplace. The browser displays a popup window with information such as **"Open Visual Studio Code"**. When you click Open Visual Studio Code, the [Syncfusion® Document SDK Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-SDK-VSCode-Extensions) will launch in Visual Studio Code.
 
 3. Install the **"Document SDK Blazor VSCode Extensions - Syncfusion"** extension by clicking the **Install** button.
 
@@ -61,14 +61,14 @@ The instructions below describe the process of downloading and installing Syncfu
 
      ![Reload-Window](images/Reload-Window.png)
 
-5. Now, you can create a new Syncfusion® Document SDK application by using the Syncfusion® Document SDK extensions from the Visual Studio Code Palette Find the **Syncfusion Document SDK Template Studio: Launch** from Visual Studio Code commands to open the Syncfusion Blazor Template Studio wizard.
+5. Now, you can create a new Syncfusion® Document SDK application by using the Syncfusion® Document SDK extensions from the Visual Studio Code Palette Find the **Syncfusion Document SDK Template Studio: Launch** from Visual Studio Code commands to open the Syncfusion Document SDK Template Studio wizard.
 
      ![CreateProjectPalette](images/CreateProjectPalette.png)
 
 ## Manually Installing an Extension in Visual Studio Code
 The instructions below describe the process of installing the Syncfusion® Document SDK extensions manually in Visual Studio Code.
 
-1. Install the extension by downloading it from the Visual Studio Marketplace and then installing it from a local file within VS Code. To do this: Download the **"SyncfusionInc.Document-SDK-VSCode-Extensions.vsix"** file from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions).
+1. Install the extension by downloading it from the Visual Studio Marketplace and then installing it from a local file within VS Code. To do this: Download the **"SyncfusionInc.Document-SDK-VSCode-Extensions.vsix"** file from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-SDK-VSCode-Extensions).
 
 2. In VS Code, go to the Extensions view by clicking on the Extensions icon in the Activity Bar.
 
