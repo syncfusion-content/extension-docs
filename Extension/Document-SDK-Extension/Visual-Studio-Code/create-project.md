@@ -23,7 +23,7 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
 
     ![TemplateStudioWizard](images/ProjectLocationName1.png)
 
-    N> Refer to the .NET SDK support for Syncfusion® Blazor Components [here](https://blazor.syncfusion.com/documentation/system-requirements#net-sdk).
+    N> Refer to the .NET SDK support for Syncfusion® Document SDK Components [here](https://help.syncfusion.com/document-processing/system-requirements).
 
 3. Select either **Next** or the **Project type** tab. Syncfusion® Blazor project types will be displayed. Choose one of the following Syncfusion® Blazor project types based on the version of the .NET SDK you are using.
 
@@ -61,7 +61,7 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
 
      ![ProjectType](images/ProjectTypeDetails1.png)
 
-4. Click either **Next** or the **Controls** tab and select the Syncfusion Document SDK components(PDF, Word, Excel Or PowerPoint) you want to add to your application.
+4. Click either **Next** or the **Controls** tab and select the Syncfusion Document SDK components (PDF, Word, Excel Or PowerPoint) you want to add to your application.
 
      ![Controls Section](images/ControlsSection.png)
 
