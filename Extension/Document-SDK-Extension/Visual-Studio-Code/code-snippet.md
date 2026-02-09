@@ -29,7 +29,7 @@ The instructions below guide you the process of using the Syncfusion® Document 
     ```
 4. Choose the Syncfusion® Document SDK component (PDF, Word, Excel and PowerPoint) and click the **Enter** or **Tab** key, the Syncfusion® Document SDK component will be added in the razor file.
 
-    ![Code Snippet](https://cdn.syncfusion.com/visual-studio-market/vscode/blazor/Document-SDK-CodeSnippets.gif)
+    ![Code Snippet](images/Document-SDK-CodeSnippets.gif)
 
 5. After adding the Syncfusion® Document SDK component to the razor file, use the tab key to fill in the required values to render the component with data. You can find the comment section in the code snippet to see what values are required.
 
