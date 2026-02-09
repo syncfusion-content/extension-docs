@@ -104,8 +104,8 @@ The Syncfusion<sup>®</sup> .NET MAUI snippet inserts code into the XAML file. H
 
 1.	Open your .NET MAUI project file and manually add the required Syncfusion<sup>®</sup> .NET MAUI NuGet package(s) as package references for the components you want to use. We've provided commented code samples showing the corresponding NuGet entries for each component. Simply copy the relevant entry and paste it into your project file. The package will be automatically restored during the build or save process.
 
-     ![NuGet Package](images/MAUINuGetEntry.gif)
+     ![NuGet Package](images/MAUINamespaceEntry.gif)
 
 2.	To integrate Syncfusion<sup>®</sup> PDF Viewer SDK components into your application, open the XAML file and add the required Syncfusion<sup>®</sup> .NET MAUI namespace entries. We've provided commented code samples showing the appropriate namespace for each component. Simply copy the relevant entry and paste it into your XAML file.
 
-    ![Namespace](images/MAUINamespaceEntry.gif)
+    ![Namespace](images/MAUINuGetEntry.gif)
