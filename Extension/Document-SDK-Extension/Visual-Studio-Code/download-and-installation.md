@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download and Installation of Syncfusion® Document SDK for VSCode.
-description: Check out the documentation for download and installation of Syncfusion® Document SDK for VSCode.
+description: Check out the documentation for download and installation of Syncfusion® Document SDK for Visual Studio Code.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
