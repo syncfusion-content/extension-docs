@@ -43,7 +43,7 @@ The instructions below describe the process of installing the Syncfusion® Sprea
 
 ## Install from the Visual Studio Code Marketplace
 
-1. Open [Syncfusion® Spreadsheet Editor SDK Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) in Visual Studio Code Marketplace.
+1. Open [Syncfusion® Spreadsheet Editor SDK Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Spreadsheet-Editor-SDK-VSCode-Extensions) in Visual Studio Code Marketplace.
 
 2. Click Install from Visual Studio Code Marketplace. The browser displays a popup window with information such as **"Open Visual Studio Code"**. When you click Open Visual Studio Code, click install button and install the selected extension.
 
@@ -51,7 +51,7 @@ The instructions below describe the process of installing the Syncfusion® Sprea
 
 ## Manually Installing an Extension in Visual Studio Code
 
-1. Install the extension by downloading it from the Visual Studio Marketplace and then installing it from a local file within VS Code. To do this: Download the **"Spreadsheet-Editor-SDK-VSCode-Extensions.vsix"** file from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions).
+1. Install the extension by downloading it from the Visual Studio Marketplace and then installing it from a local file within VS Code. To do this: Download the **"Spreadsheet-Editor-SDK-VSCode-Extensions.vsix"** file from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Spreadsheet-Editor-SDK-VSCode-Extensions).
 
 2. In VS Code, go to the Extensions view by clicking on the Extensions icon in the Activity Bar and Click on the three dots (ellipsis) in the top-right corner and select "Install from VSIX."
 

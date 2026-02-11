@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion® provides the Spreadsheet Editor SDK Template Studio, which allows you to create a Syncfusion Blazor application using Syncfusion® Spreadsheet Editor SDK component. The Syncfusion® application is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® Spreadsheet Editor SDK component.
 
-N> Spreadsheet Editor SDK project templates from `v17.4.0.39` are supported by the Syncfusion® Visual Studio Code project template.
+N> Spreadsheet Editor SDK project templates from `v33.1.1` are supported by the Syncfusion® Visual Studio Code project template.
 
 The instructions below assist you in creating **Syncfusion Spreadsheet Editor SDK Application** using **Visual Studio Code**:
 
