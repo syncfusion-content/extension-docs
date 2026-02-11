@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Add Syncfusion® Spreadsheet Editor SDK component
+# Add Syncfusion® Spreadsheet Editor SDK component in VS Code
 
 The Syncfusion® Spreadsheet Editor SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® Spreadsheet Editor SDK component with various features into the Spreadsheet Editor SDK Application's Razor code editor.
 
