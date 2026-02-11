@@ -15,4 +15,4 @@ The Syncfusion® Document SDK provides the following add-ins in Visual Studio Co
 
 [Template Studio](template-studio): Creates Syncfusion® Blazor applications with required configuration for development with Syncfusion® Document SDK components.
 
-[Code Snippets](code-snippet): Adds Syncfusion® Document SDK component snippets and common scenarios into the Razor editor.
+[Code Snippets](code-snippet): Adds a Syncfusion® Document SDK component to the Blazor Application's Razor code editor.

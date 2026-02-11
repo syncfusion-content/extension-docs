@@ -9,7 +9,7 @@ documentation: ug
 
 # Download and Installation - Document SDK Extension for VSCode
 
-Syncfusion® publishes the Visual Studio Code extension in the below Visual Studio Code marketplace link. You can either install it directly from Visual Studio or download and install it from the Visual Studio Code marketplace.
+Syncfusion® publishes the Document SDK VSCode extension in the below Visual Studio Code marketplace link. You can either install it directly from Visual Studio or download and install it from the Visual Studio Code marketplace.
 
 [Visual Studio 2022 or 2026](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Document-SDK-VSCode-Extensions)
 

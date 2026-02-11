@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Download and Installation of Document SDK | Syncfusion
-description: Check out the documentation for download and installation of Syncfusion Document SDK for Visual Studio Code.
+description: Check out the documentation for download and installation of Syncfusion Document SDK for Visual Studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -9,7 +9,7 @@ documentation: ug
 
 # Download and Installation - Document SDK Extension
 
-Syncfusion® publishes the Visual Studio Code extension in the below Visual Studio Code marketplace link. You can either install it directly from Visual Studio or download and install it from the Visual Studio Code marketplace.
+Syncfusion® publishes the Visual Studio extension in the below Visual Studio marketplace link. You can either install it directly from Visual Studio or download and install it from the Visual Studio marketplace.
 
 [Visual Studio 2022 or 2026](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.DocumentSDKVSExtension)
 
@@ -18,7 +18,7 @@ Syncfusion® publishes the Visual Studio Code extension in the below Visual Stud
 
 The following software prerequisites must be installed to install the Syncfusion® Document SDK extension, as well as to create and add snippet in Syncfusion® Document SDK applications.
 
-* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download).
+* [Visual Studio 2022 or later](https://visualstudio.microsoft.com/downloads/).
 
 * [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet).
 
@@ -26,58 +26,48 @@ The following software prerequisites must be installed to install the Syncfusion
 
 * [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet).
 
-* [C# extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp).
+## Install through the Visual Studio Manage Extensions
 
-## Install through the Visual Studio Code Extensions
+The steps below assist you to how to install the Syncfusion® Document SDK extensions from **Visual Studio Manage Extensions**.
 
-The steps below describe how to install the Syncfusion<sup style="font-size:70%">&reg;</sup> Document SDK extension from the Extensions view in Visual Studio Code.
+1. Open the Visual Studio 2022 or later.
 
-1. Open Visual Studio Code.
-2. Navigate to **View > Extensions**, and the Manage Extensions option will appear on the left side of the window.
-3. In the search box, enter Document SDK - Syncfusion to find the Syncfusion Document SDK extension in the Marketplace.
+2. Navigate to **Extension ->Manage Extensions** and open the Manage Extensions.
 
-     ![Extensions view showing Syncfusion Document SDK extension search results](images/Extension.png)
+3. On the left, click the **Online** tab and type **"Document SDK - Syncfusion®"** in the **search box**.
 
-4. Select **Blazor VSCode Document SDK- Syncfusion**, and click **Install**.
-5. Reload Visual Studio Code after installation by using the **Reload Window** command from the Command Palette. Open the Command Palette with **Ctrl+Shift+P**, then run Reload Window.
+    ![Online-Manage-Extension-window](images/OnlineExtension.png)
 
-     ![Command Palette highlighting the Reload Window command](images/Reload-Window.png)
+4. Click the **Download** button in the **“Syncfusion® Document SDK”** extensions.
 
-6. Now, you can create a new Syncfusion® Blazor application by using the Syncfusion® Blazor extensions from the Visual Studio Code Palette Find the **Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio: Launch** from Visual Studio Code commands to open the Syncfusion<sup style="font-size:70%">&reg;</sup> Blazor Template Studio wizard.
+5. Close all Visual Studio instances after downloading the extensions to begin the installation process. You will see the following VSIX installation prompt.
 
-     ![Command Palette showing Syncfusion Blazor Template Studio](images/CreateProjectPalette.png)
+    ![VSIX-Installation-Window](images/VSIXinstallation.png)
 
-## Install from the Visual Studio Code Marketplace
+6. Click the **Modify** button.
 
-The instructions below describe the process of downloading and installing Syncfusion® Document SDK applications from the Visual Studio Code Marketplace.
+7. After the installation is complete, open Visual Studio.
 
-1. Open [Syncfusion® Document SDK Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) in Visual Studio Code Marketplace.
+8. Now, under the menu **Extensions**, you can use the Syncfusion® extensions from the Visual Studio.
 
-2. Click Install from Visual Studio Code Marketplace. The browser displays a popup window with information such as **"Open Visual Studio Code"**. When you click Open Visual Studio Code, the [Syncfusion® Document SDK Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions) will launch in Visual Studio Code.
+    ![SyncfusionMenu](images/SyncfusionMenu.png)
 
-3. Install the **"Document SDK Blazor VSCode Extensions - Syncfusion"** extension by clicking the **Install** button.
+## Install from the Visual Studio Marketplace
 
-4. Reload Visual Studio Code after installation by using the **Reload Window** command in the Visual Studio Code palette. You can open the command palette by pressing **Ctrl+Shift+P** and find the Reload Window from Visual Studio Code commands.
+The steps below illustrate how to download and install the Syncfusion® Document SDK extension from the Visual Studio Marketplace.
 
-     ![Reload-Window](images/Reload-Window.png)
+1. Download the Syncfusion® Document SDK Extensions from the below Visual Studio Marketplace.
 
-5. Now, you can create a new Syncfusion® Document SDK application by using the Syncfusion® Document SDK extensions from the Visual Studio Code Palette Find the **Syncfusion Document SDK Template Studio: Launch** from Visual Studio Code commands to open the Syncfusion Blazor Template Studio wizard.
+   [Visual Studio 2022 or later](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.DocumentSDKVSExtension)
 
-     ![CreateProjectPalette](images/CreateProjectPalette.png)
+2. Close all Visual Studio instances running, if any.
 
-## Manually Installing an Extension in Visual Studio Code
-The instructions below describe the process of installing the Syncfusion® Document SDK extensions manually in Visual Studio Code.
+3. Double-click to install the downloaded VSIX file. You will see the VSIX installation prompts with the corresponding installed Visual Studio version checkbox for select the Visual Studio to install extension.
 
-1. Install the extension by downloading it from the Visual Studio Marketplace and then installing it from a local file within VS Code. To do this: Download the **"SyncfusionInc.Document-SDK-VSCode-Extensions.vsix"** file from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Blazor-VSCode-Extensions).
+    ![VSIX-Installation-Window](images/VSIXinstallation1.png)
 
-2. In VS Code, go to the Extensions view by clicking on the Extensions icon in the Activity Bar.
+4. Click the **Install** button.
 
-      ![ExtensionIcon](images/ExtensionIcon.png)
+5. After the installation is complete, open Visual Studio. You can now use Syncfusion® extensions from the Visual Studio under the **Extensions** menu.
 
-3. Click on the three dots (ellipsis) in the top-right corner and select "Install from VSIX."
-
-      ![InstallVsix](images/InstallVsix.png)
-
-4. Browse to the downloaded SyncfusionInc.Document-SDK-VSCode-Extensions.vsix file and install it.
-
-      ![DownloadVsix](images/DownloadVsix.png)
+     ![SyncfusionMenu](images/SyncfusionMenu.png)
