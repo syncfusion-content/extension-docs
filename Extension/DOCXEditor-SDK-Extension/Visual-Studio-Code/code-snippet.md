@@ -9,15 +9,17 @@ documentation: ug
 
 # Add Syncfusion® DOCX Editor SDK component
 
-The Syncfusion® DOCX Editor SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® DOCX Editor SDK component with various features into the DOCX Editor SDK Application's Razor code editor.
+The Syncfusion® DOCX Editor SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® DOCX Editor SDK component with various features into the Blazor Application's Razor code editor.
 
-## Add a Syncfusion® DOCX Editor SDK component in the DOCX Editor SDK application
+N> The Syncfusion® DOCX Editor SDK code snippet is available from Essential Studio® 2026 Volume 1 (`v*`).
 
-The instructions below guide you the process of using the Syncfusion® DOCX Editor SDK code snippet in your DOCX Editor SDK application.
+## Add a Syncfusion® DOCX Editor SDK component in Blazor application
 
-1. In Visual Studio Code, open an existing DOCX Editor SDK Application or create a new DOCX Editor SDK Application.
+The instructions below guide you the process of using the Syncfusion® DOCX Editor SDK code snippet in your Blazor application.
 
-2. Open the razor file that you need and place the cursor in required place where you want to add Syncfusion® component.
+1. In Visual Studio Code, open an existing Blazor Application or create a new Blazor Application.
+
+2. Open the razor file that you need and place the cursor in required place where you want to add Syncfusion® DOCX Editor SDK component.
 
 3. You can find the Syncfusion® DOCX Editor SDK component by typing the **sf** in the format shown below.
 

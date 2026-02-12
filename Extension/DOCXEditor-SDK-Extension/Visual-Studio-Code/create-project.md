@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion® provides the DOCX Editor SDK Template Studio in Visual Studio Code, which allows you to create a Syncfusion® DOCX Editor SDK application with Syncfusion® DOCX Editor SDK component. The Syncfusion® DOCX Editor SDK app is created with the required component Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion® DOCX Editor SDK component.
 
-N> DOCX Editor SDK project templates from `v17.4.0.39` are supported by the Syncfusion® Visual Studio Code project template.
+N> DOCX Editor SDK project templates from `v*` are supported by the Syncfusion® Visual Studio Code project template.
 
 The instructions below assist you in creating **Syncfusion DOCX Editor SDK Application** using **Visual Studio Code**:
 
