@@ -11,9 +11,9 @@ documentation: ug
 
 The Syncfusion® Spreadsheet Editor SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® Spreadsheet Editor SDK component with various features into the Blazor Application's Razor code editor.
 
-## Add a Syncfusion® Spreadsheet Editor SDK component in the Spreadsheet Editor SDK application
+## Add a Syncfusion® Spreadsheet Editor SDK component in the Blazor application
 
-The instructions below guide you the process of using the Syncfusion® Spreadsheet Editor SDK code snippet in your Spreadsheet Editor SDK application.
+The instructions below guide you the process of using the Syncfusion® Spreadsheet Editor SDK code snippet in your Blazor application.
 
 1. In Visual Studio Code, open an existing Spreadsheet Editor SDK Application or create a new Spreadsheet Editor SDK Application.
 
@@ -45,7 +45,7 @@ The Syncfusion® Spreadsheet Editor SDK snippet simply inserts the code into the
 
     ![NuGet Package](images/NuGetPackage.png)
 
-    N> Starting with Volume 4, 2020 (v18.4.0.30) release, Syncfusion® provides [individual NuGet packages](https://blazor.syncfusion.com/documentation/nuget-packages#syncfusionblazorspreadsheet) for our Syncfusion® Spreadsheet Editor SDK component. We highly recommend this new standard for your Spreadsheet Editor SDK production applications.
+    N> Starting with Volume 1, 2026 (v33.1.X) release, Syncfusion® provides [individual NuGet packages](https://blazor.syncfusion.com/documentation/nuget-packages#syncfusionblazorspreadsheet) for our Syncfusion® Spreadsheet Editor SDK component. We highly recommend this new standard for your Spreadsheet Editor SDK production applications.
 
 2. To render the Syncfusion® component in your application, open the **~/_Imports.razor** file and add the required Syncfusion® Spreadsheet Editor SDK namespace entries.
 
