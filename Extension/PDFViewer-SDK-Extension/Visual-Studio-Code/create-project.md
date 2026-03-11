@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion® provides the PDF Viewer SDK Template Studio in Visual Studio Code, which allows you to create a Syncfusion application based on the platform selection such as Blazor, and .NET MAUI using Syncfusion® PDF Viewer SDK component. The Syncfusion® application is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® PDF Viewer SDK component.
 
-N> PDF Viewer SDK project templates from `v*` are supported by the Syncfusion® Visual Studio Code project template.
+N> PDF Viewer SDK project templates from `v33.1.44` are supported by the Syncfusion® Visual Studio Code project template.
 
 The instructions below assist you in creating **Syncfusion® PDF Viewer SDK Applications** using **Visual Studio Code**:
 

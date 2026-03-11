@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion® provides the Document SDK Template Studio in Visual Studio Code, which allows you to create a Syncfusion® Blazor application with Syncfusion® Document SDK components (PDF, Word, Excel and PowerPoint). The Syncfusion® Blazor app is created with the required component Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion® Document SDK components.
 
-N> Document SDK project templates from `v33.1.3` are supported by the Syncfusion® Visual Studio Code project template.
+N> Document SDK project templates from `v33.1.44` are supported by the Syncfusion® Visual Studio Code project template.
 
 The instructions below assist you in creating **Syncfusion Document SDK Applications** using **Visual Studio Code**:
 
