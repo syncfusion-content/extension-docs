@@ -11,7 +11,7 @@ documentation: ug
 
 The Syncfusion® Document SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® Document SDK components (PDF, Word, Excel and PowerPoint) into the Blazor Application's Razor code editor.
 
-   N> The Syncfusion® Document SDK code snippet is available from Essential Studio® 2026 Volume 1 (`v33.1.10`).
+   N> The Syncfusion® Document SDK code snippet is available from Essential Studio® 2026 Volume 1 (`v33.1.44`).
 
 ## Add a Syncfusion® Document SDK component
 

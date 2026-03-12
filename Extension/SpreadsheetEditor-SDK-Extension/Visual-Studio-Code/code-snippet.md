@@ -45,7 +45,7 @@ The Syncfusion® Spreadsheet Editor SDK snippet simply inserts the code into the
 
     ![NuGet Package](images/NuGetPackage.png)
 
-    N> Starting with Volume 1, 2026 (v33.1.X) release, Syncfusion® provides [individual NuGet packages](https://blazor.syncfusion.com/documentation/nuget-packages#syncfusionblazorspreadsheet) for our Syncfusion® Spreadsheet Editor SDK component. We highly recommend this new standard for your Spreadsheet Editor SDK production applications.
+    N> Starting with Volume 1, 2026 (v33.1.44) release, Syncfusion® provides [individual NuGet packages](https://blazor.syncfusion.com/documentation/nuget-packages#syncfusionblazorspreadsheet) for our Syncfusion® Spreadsheet Editor SDK component. We highly recommend this new standard for your Spreadsheet Editor SDK production applications.
 
 2. To render the Syncfusion® component in your application, open the **~/_Imports.razor** file and add the required Syncfusion® Spreadsheet Editor SDK namespace entries.
 

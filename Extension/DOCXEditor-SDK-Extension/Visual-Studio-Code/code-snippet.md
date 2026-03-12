@@ -11,7 +11,7 @@ documentation: ug
 
 The Syncfusion® DOCX Editor SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® DOCX Editor SDK component with various features into the Blazor Application's Razor code editor.
 
-N> The Syncfusion® DOCX Editor SDK code snippet is available from Essential Studio® 2026 Volume 1 (`v*`).
+N> The Syncfusion® DOCX Editor SDK code snippet is available from Essential Studio® 2026 Volume 1 (`v33.1.44`).
 
 ## Add a Syncfusion® DOCX Editor SDK component in Blazor application
 

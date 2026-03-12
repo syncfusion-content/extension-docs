@@ -11,7 +11,7 @@ documentation: ug
 
 The Syncfusion® PDF Viewer SDK code snippet utility for Visual Studio Code includes snippets for inserting a Syncfusion® PDF Viewer SDK component with various features into the Blazor Application's Razor code editor.
 
-   N> The Syncfusion® PDF Viewer SDK code snippet is available from Essential Studio® 2026 Volume 1 (`v*`).
+   N> The Syncfusion® PDF Viewer SDK code snippet is available from Essential Studio® 2026 Volume 1 (`v33.1.44`).
 
 ## Add a Syncfusion® PDF Viewer SDK component
 
