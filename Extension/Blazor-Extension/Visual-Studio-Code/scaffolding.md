@@ -15,7 +15,7 @@ The scaffolding UI allows you to select the type of data source binding, Syncfus
 N> Check that at least one Entity Framework model exists, and the application has been compiled once. If no Entity Framework model exists in your application, refer to this [documentation](https://www.freecodecamp.org/news/how-to-create-an-application-using-blazor-and-entity-framework-core-1c1679d87c7e/) to generate the Entity Framework model. After the model file has been added, check that the required DBContext and properties are added. Now, build the application, and try scaffolding. If any changes made in the model properties, rebuild the application once before perform scaffolding.
 
 
-N> The Syncfusion® Blazor Scaffolder is available from `v17.4.0.39`
+N> The Syncfusion® Blazor Scaffolder is available from `v32.2.3`
 
 ## Add a scaffolded item
 
