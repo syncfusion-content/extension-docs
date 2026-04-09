@@ -69,3 +69,11 @@ You can configure sorting and filtering for the first row of your worksheet.
   Go to **Settings > Extensions > Document Viewer** to enable or disable these features.
 
     ![Filter-Config](images/Filter-Config.png)
+
+### File Type Configuration:
+
+- Enable Document Viewer for selected file types (Word, Excel, PDF, Markdown, CSV/TSV), giving you flexibility to choose whether files open in Document Viewer or the default VS Code editor via settings as below.
+
+- Go to `Settings > Extensions > Document Viewer` to disable or enable the file type patterns to view in Document viewer.
+
+    ![File-Type-Configuration](images/File-Type.png)
