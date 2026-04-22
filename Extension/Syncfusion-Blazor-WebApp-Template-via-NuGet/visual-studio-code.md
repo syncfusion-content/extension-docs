@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create Projects using Project Templates via Nuget | Syncfusion
+title: Create Blazor Web App Projects via NuGet | Syncfusion
 description: Learn here about how to create syncfusion blazor application using Syncfusion Blazor Web App Template nuget for Visual Studio Code.
 platform: extension
 control: Syncfusion Extensions
