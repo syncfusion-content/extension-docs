@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Creating a Syncfusion® Blazor application
+# Creating a Syncfusion® Blazor Web App
 
 Syncfusion® provides the Blazor Web App Template in Visual Studio Code, which allows you to create a Syncfusion® Blazor application with Syncfusion® components. The Syncfusion® Blazor app is created with the required component Syncfusion® NuGet references, namespaces, styles, and component render code. The Template provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion® components.
 
