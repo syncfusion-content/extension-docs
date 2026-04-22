@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion WebAssembly App Template Installation | Syncfusion
-description: Learn here more about how to How to install and create a Syncfusion Blazor application using Syncfusion Web App Template.
+description: Learn here more about how to How to install and create a Syncfusion Blazor application using Syncfusion WebAssembly App Template.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
