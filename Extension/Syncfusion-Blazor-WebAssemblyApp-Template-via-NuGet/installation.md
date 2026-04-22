@@ -1,4 +1,4 @@
-# Installation
+# Syncfusion WebAssembly App Template Installation
 
 ## Overview
 

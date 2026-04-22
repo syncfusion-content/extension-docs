@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Overview of Syncfusion Blazor Web App Template via NuGet for Visual Studio and Visual Studio Code | Syncfusion
+title: Overview of Syncfusion Blazor Web App Template via NuGet | Syncfusion
 description: Learn all about the Syncfusion Blazor Web App Template via NuGet for Visual Studio and Visual Studio Code, which simplifies integration.
 platform: extension
 control: Syncfusion Extensions

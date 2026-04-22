@@ -1,8 +1,8 @@
-# Installation
+# Syncfusion Web App Template Installation
 
 ## Overview
 
-How to install and create a Syncfusion Balzor application using Syncfusion Web App Template
+How to install and create a Syncfusion Blazor application using Syncfusion Web App Template
 
 > **Note:** Refer to the .NET SDK support for Syncfusion Blazor Components [here](https://blazor.syncfusion.com/documentation/system-requirements#net-sdk).
 
