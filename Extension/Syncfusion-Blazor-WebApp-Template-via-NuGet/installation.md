@@ -45,15 +45,15 @@ Option | Default | Description
 
 ```powershell
 # WebAssembly mode
-dotnet new syncfusionblazorWeb App -n MyApp -int WebAssembly
+dotnet new syncfusionblazorwebapp -n MyApp -int WebAssembly
 
 # Auto mode with interactive rendering enabled
-dotnet new syncfusionblazorWeb App -n MyApp -int Auto -ai PerPage/component
+dotnet new syncfusionblazorwebapp -n MyApp -int Auto -ai PerPage/component
 
 # Enables an HTTPS endpoint
-dotnet new syncfusionblazorWeb App -n MyApp -https true
+dotnet new syncfusionblazorwebapp -n MyApp -https true
 
 # Target .NET 10
-dotnet new syncfusionblazorWeb App -n MyApp -f net10.0
+dotnet new syncfusionblazorwebapp -n MyApp -f net10.0
 ```
 
