@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Getting Started with the Essential® UI Kit for .NET MAUI (JetBrains Rider)
+# Getting Started with the Essential® UI Kit for .NET MAUI
 
 This guide shows how to add Syncfusion® MAUI UI Kit templates to a .NET MAUI project using JetBrains Rider.
 

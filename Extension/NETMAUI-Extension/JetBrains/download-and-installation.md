@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Download and Installation | Essential® UI Kit for .NET MAUI | Syncfusion
+title: Download and Installation | Essential® UI Kit | Syncfusion
 description: How to download the Essential® UI Kit for .NET MAUI Plugin from the JetBrains marketplace site and from the plugins View tab.
 platform: extension
 control: Syncfusion Extensions
@@ -30,7 +30,7 @@ The following steps explain how to install the Essential® UI Kit for .NET MAUI 
 
 3. Select the **Marketplace** tab and type **Essential® UI Kit for .NET MAUI** in the search field, Click the Install button on the plugin.
 
-    ![Installing Essential® UI Kit for .NET MAUI Plugin](images/Installation.png)
+    ![Installing Essential UI Kit for .NET MAUI Plugin](images/Installation.png)
 
 4. After the installation completes, restart your JetBrains Rider if prompted.
 
