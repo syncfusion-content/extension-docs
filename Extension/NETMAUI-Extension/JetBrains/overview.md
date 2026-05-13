@@ -7,8 +7,8 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Maui UI Kit Plugin for JetBrains
+# Essential® UI Kit for .NET MAUI Plugin - JetBrains Rider
 
 ## Overview
 
-The **Maui UI Kit** plugin for .NET MAUI provides a comprehensive collection of ready-to-use XAML templates, helping you quickly build visually appealing, cross-platform user interfaces. It ensures a clear separation between View, ViewModel, and Model layers—making it easy to integrate business logic, customize existing views, and maintain scalable, well-structured applications.
+The **Essential® UI Kit for .NET MAUI** offers a collection of ready-to-use XAML templates that help developers quickly build modern, cross-platform user interfaces. It follows a structured architecture with clear separation of View, ViewModel, and Model layers, making it easier to implement business logic and customize existing UI designs. The UI Kit also requires the integration of Syncfusion® NuGet packages for full functionality.
