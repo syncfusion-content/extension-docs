@@ -11,7 +11,7 @@ documentation: ug
 
 This guide explains how to integrate Syncfusion® MAUI UI Kit templates into a .NET MAUI project using JetBrains Rider, providing ready-to-use XAML pages along with corresponding View and ViewModel classes, resource files, and all necessary Syncfusion® NuGet package references.
 
-N> Before using the **Essential® UI Kit for .NET MAUI - Syncfusion<sup>®</sup>**, ensure that the plugin is installed in Jetbrains Rider. To check, go to **Settings > Plugin >Installed** . If the plugin is not installed, follow the steps in the [download and installation](download-and-installation) help guide to install it.
+N> Before using the **Essential® UI Kit for .NET MAUI - Syncfusion<sup>®</sup>**, ensure that the plugin is installed in JetBrains Rider. To check, go to **Settings > Plugin >Installed** . If the plugin is not installed, follow the steps in the [download and installation](download-and-installation) help guide to install it.
 
 **Add UI Kit templates to a .NET MAUI project**
 
