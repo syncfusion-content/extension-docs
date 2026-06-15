@@ -45,12 +45,12 @@ Option | Default | Description
 ```powershell
 
 # With PWA supports
-dotnet new syncfusionblazorwasmapp App -n MyApp -p true
+dotnet new syncfusionblazorwasmapp -n MyApp -p true
 
 # Enables an HTTPS endpoint
-dotnet new syncfusionblazorwasmapp App -n MyApp -https true
+dotnet new syncfusionblazorwasmapp -n MyApp -https true
 
 # Target .NET 10
-dotnet new syncfusionblazorwasmapp App -n MyApp -f net10.0
+dotnet new syncfusionblazorwasmapp -n MyApp -f net10.0
 ```
 
