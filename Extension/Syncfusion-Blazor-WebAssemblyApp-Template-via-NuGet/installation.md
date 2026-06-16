@@ -27,7 +27,6 @@ dotnet new install Syncfusion.Blazor.WebAssemblyApp.Templates
 #### Create a new Blazor WebAssembly (Standalone) App
 
 ```powershell
-# With PWA supports
 dotnet new syncfusionblazorwasmapp -n MyApp --pwa true --framework net10.0 --configure-for-https true
 ```
 

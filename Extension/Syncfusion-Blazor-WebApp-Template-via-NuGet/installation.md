@@ -27,21 +27,18 @@ dotnet new install Syncfusion.Blazor.WebApp.Templates
 #### Create a new Syncfusion Blazor Web App
 
 ```powershell
-# Auto mode
 dotnet new syncfusionblazorwebapp -n MyApp --interactivity Auto --framework net10.0 --configure-for-https true --all-interactive PerPage/component
 ```
 
 #### Create a new Syncfusion Blazor Server App
 
 ```powershell
-# Server mode
 dotnet new syncfusionblazorwebapp -n MyApp --interactivity Server --framework net9.0 --configure-for-https false --all-interactive Global
 ```
 
 #### Create a new Syncfusion Blazor WebAssembly App
 
 ```powershell
-# WebAssembly mode
 dotnet new syncfusionblazorwebapp -n MyApp --interactivity WebAssembly --framework net8.0 --configure-for-https true --all-interactive PerPage/component
 ```
 
