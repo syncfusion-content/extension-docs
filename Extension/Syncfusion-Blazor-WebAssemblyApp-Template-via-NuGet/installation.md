@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
 
-How to install and create a Syncfusion Balzor application using Syncfusion WebAssembly App Template
+How to install and create a Syncfusion Blazor application using Syncfusion WebAssembly App Template
 
 > **Note:** Refer to the .NET SDK support for Syncfusion Blazor Components [here](https://blazor.syncfusion.com/documentation/system-requirements#net-sdk).
 
@@ -21,14 +21,13 @@ The fastest way to get started is with the official Syncfusion WebAssembly App T
 
 ```powershell
 dotnet new install Syncfusion.Blazor.WebAssemblyApp.Templates
-dotnet new syncfusionblazorwasmapp -n MyApp
 ```
+### Create a new project using Dotnet CLI
 
-Then run your new project:
+#### Create a new Blazor WebAssembly (Standalone) App
 
 ```powershell
-cd MyApp
-dotnet run
+dotnet new syncfusionblazorwasmapp -n MyApp --pwa true --framework net10.0 --configure-for-https true
 ```
 
 ### Template Options
@@ -40,17 +39,9 @@ Option | Default | Description
 `-p`, `--pwa` | `true` | Supports Progressive Web Application 
 `-https`, `--configure-for-https` | `true` |  Enables an HTTPS endpoint
 
-### Create a new project using Dotnet CLI
+Then run your new project:
 
 ```powershell
-
-# With PWA supports
-dotnet new syncfusionblazorwasmapp App -n MyApp -p true
-
-# Enables an HTTPS endpoint
-dotnet new syncfusionblazorwasmapp App -n MyApp -https true
-
-# Target .NET 10
-dotnet new syncfusionblazorwasmapp App -n MyApp -f net10.0
+cd MyApp
+dotnet run
 ```
-

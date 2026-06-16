@@ -21,14 +21,25 @@ The fastest way to get started is with the official Syncfusion Web App Template.
 
 ```powershell
 dotnet new install Syncfusion.Blazor.WebApp.Templates
-dotnet new syncfusionblazorwebapp -n MyApp
 ```
+### Create a new project using Dotnet CLI
 
-Then run your new project:
+#### Create a new Syncfusion Blazor Web App
 
 ```powershell
-cd MyApp
-dotnet run
+dotnet new syncfusionblazorwebapp -n MyApp --interactivity Auto --framework net10.0 --configure-for-https true --all-interactive PerPage/component
+```
+
+#### Create a new Syncfusion Blazor Server App
+
+```powershell
+dotnet new syncfusionblazorwebapp -n MyApp --interactivity Server --framework net9.0 --configure-for-https false --all-interactive Global
+```
+
+#### Create a new Syncfusion Blazor WebAssembly App
+
+```powershell
+dotnet new syncfusionblazorwebapp -n MyApp --interactivity WebAssembly --framework net8.0 --configure-for-https true --all-interactive PerPage/component
 ```
 
 ### Template Options
@@ -41,19 +52,9 @@ Option | Default | Description
 `-ai`, `--all-interactive` | `PerPage/component` |  Interactive rendering enabled (`PerPage/component`, or `Global`)
 `-https`, `--configure-for-https` | `true` |  Enables an HTTPS endpoint
 
-### Create a new project using Dotnet CLI
+Then run your new project:
 
 ```powershell
-# WebAssembly mode
-dotnet new syncfusionblazorwebapp -n MyApp -int WebAssembly
-
-# Auto mode with interactive rendering enabled
-dotnet new syncfusionblazorwebapp -n MyApp -int Auto -ai PerPage/component
-
-# Enables an HTTPS endpoint
-dotnet new syncfusionblazorwebapp -n MyApp -https true
-
-# Target .NET 10
-dotnet new syncfusionblazorwebapp -n MyApp -f net10.0
+cd MyApp
+dotnet run
 ```
-
