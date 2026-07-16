@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template Studio in Document SDK - Syncfusion
-description: Learn here about how to create the Blazor application using Syncusion® Document SDK Components with the help of template studio.
+description: Learn here about how to create the Blazor application using Syncfusion® Document SDK Components with the help of template studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -9,15 +9,15 @@ documentation: ug
 
 # Syncfusion® Document SDK Template Studio
 
-Syncfusion® provides the Document SDK Template Studio, which allows you to create a Syncfusion Blazor application using Syncfusion® Document SDK components. The Syncfusion® Document SDK Blazor app is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® Document SDK components.
+Syncfusion® provides the Document SDK Template Studio, which allows you to create a Syncfusion® Blazor application using Syncfusion® Document SDK components. The Syncfusion® Document SDK Blazor app is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio includes an easy-to-use project wizard that guides you through the process of creating an application with Syncfusion® Document SDK components.
 
 The steps below will assist you to create your **Syncfusion® Document SDK Blazor Application** through **Visual Studio**:
 
-N> Before use the Syncfusion® Project Template, check whether the Syncfusion® Document SDK Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](https://help.syncfusion.com/extension/document-sdk-extension/visual-studio/download-and-installation) help topic.
+N> Before using the Syncfusion® Project Template, check whether the Syncfusion® Document SDK Extension is installed in the Visual Studio Extension Manager by clicking **Extensions > Manage Extensions > Installed**. If this extension is not installed, install it by following the steps in the [download and installation](https://help.syncfusion.com/extension/document-sdk-extension/visual-studio/download-and-installation) help topic.
 
 1. Open Visual Studio 2022 or later.
 
-2. To create a Syncfusion® Document SDK Blazor application, use either one of the following options:
+2. To create a Syncfusion® Document SDK Blazor application, use one of the following options:
 
      **Option 1**
 
@@ -86,7 +86,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
      Choose the required control(s) by clicking the corresponding control box.
 
-     To unselect the added control(s), use either one of the following options:
+     To unselect the added control(s), use one of the following options:
 
      **Option 1:** Click the corresponding selected control box.
 
@@ -96,7 +96,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
 6. Click either **Next** or the **Features** tab, and you will see the features listed for the selected controls. You can choose the required features.
 
-7. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 10.0, .NET 9.0 and .NET 8.0), themes, https configuration, authentication type, Blazor Web App, and Blazor Web Assembly application types.
+7. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required .NET version (.NET 10.0, .NET 9.0, or .NET 8.0), themes, HTTPS configuration, authentication type, and Blazor Web App or Blazor WebAssembly App application types.
 
      Depending on your Syncfusion Blazor Application Type, refer to the table below for supported authentication types.
 
@@ -109,7 +109,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
      ![WebAppConfiguration](images/webappconfig.png)
 
-     If you choose the **Blazor Web Assembly App** application type, you can customize the Progressive Web Application option.
+     If you choose the **Blazor WebAssembly App** application type, you can customize the Progressive Web Application option.
 
      ![WASMConfiguration](images/wasmconfig.png)
 
@@ -119,49 +119,49 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
      ![ProjectDetails](images/rightsideprojectdetails.png)
 
-8. Click **Create** button. The Syncfusion® Document SDK Blazor application has been created. The created Syncfusion® Document SDK Blazor app has the Syncfusion NuGet packages, styles, and the render code for the selected Syncfusion® Document SDK component.
+8. Click the **Create** button. The Syncfusion® Document SDK Blazor application has been created. The created Syncfusion® Document SDK Blazor app has the Syncfusion NuGet packages, styles, and the render code for the selected Syncfusion® Document SDK component.
 
      ![Readme](images/readme.png)
 
-9. The Syncfusion® Document SDK Blazor application configures with most recent Syncfusion® NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® Document SDK components.
+9. The Syncfusion® Document SDK Blazor application is configured with the most recent Syncfusion® NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® Document SDK components.
 
 10. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
 ## Authentication Configuration
 
-We need to register the created application in the Google API Console for Individual Accounts and in Azure Active Directory for the Microsoft Identity Platform. From the Google API Console registration, we can obtain the client ID for Individual Accounts. From the Azure Active Directory registration, we can obtain the tenant ID and application client ID for the Microsoft Identity Platform. We need to configure these ID values in the created applications; only then will the application run correctly with authentication support.
+You need to register the created application in the Google API Console for Individual Accounts and in Azure Active Directory for the Microsoft Identity Platform. From the Google API Console registration, you can obtain the client ID for Individual Accounts. From the Azure Active Directory registration, you can obtain the tenant ID and application client ID for the Microsoft Identity Platform. You need to configure these ID values in the created applications; only then will the application run correctly with authentication support.
 
 ### Individual Accounts Authentication
 
 #### Web Application and Progressive Web Application
 
-1. Go to below credentials page for the Google cloud platform API console.
+1. Go to the credentials page below for the Google Cloud Platform API console.
 
     <https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104&pli=1>
 
-2. Click Create Credentials and OAuth Client Id.
+2. Click **Create Credentials** and select **OAuth Client ID**.
 
     ![Google API console credentials page](images/GoogelAPIConsoleCredentials.png)
 
     ![Google API Oauth client Id](images/OauthclientId.png)
 
-3. Select Application type as Web Application in client Id creation.
+3. Select the Application type as **Web Application** in the client ID creation.
 
     ![ApplicationType](images/ClientIdApplicationtype.png)
 
-4. Add your publish URL link as an Authorized URI and login URL as Redirected URI.
+4. Add your publish URL link as an Authorized URI and the login URL as a Redirect URI.
 
     ![RedirectedURI](images/RedirectedURI.png)
 
-5. Click save then OAuth client id will be created and copy that credential.
+5. Click **Create**. The OAuth client ID will be created; copy that credential.
 
     ![ClientIdCreation](images/ClientIdCreation.png)
 
-6. Add that Client Id, and RedirectUri in appsettings.json file of your application.
+6. Add the Client ID and RedirectUri in the appsettings.json file of your application.
 
     ![ClinetIdConfiguration](images/ClinetIdConfiguration.png)
 
-7. Change the build configuration bind as google from Local in program.cs file.
+7. Change the build configuration bind to google from Local in the Program.cs file.
 
     ![buildconfigurationbind](images/buildconfigurationbind.png)
 
@@ -169,67 +169,67 @@ We need to register the created application in the Google API Console for Indivi
 
 #### Server Application
 
-1. Go to below Azure Active Directory App Registration page.
+1. Go to the Azure Active Directory App Registration page below.
 
     <https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps>
 
-2. Click New Registration in App Registration page.
+2. Click **New Registration** in the App Registration page.
 
     ![AppRegistration](images/AppRegistration.png)
 
-3. Give name of the application and selected supported type as single tenant.
+3. Give a name for the application and select the supported account type as single tenant.
 
     ![Name and supported Account type](images/NameSupportedAccountType.png)
 
-4. Dropdown the page, select platform as web and give your application Redirect URI like {Redirect URI}/signin-oidc and click Register.
+4. Scroll down the page, select the platform as **Web**, enter your application Redirect URI like `{Redirect URI}/signin-oidc`, and click **Register**.
 
     ![Platform and Redirect URI](images/aadredirecteduri.png)
 
-5. App will be registered, go to the Authentication page and tick Id token check box.
+5. After the app is registered, go to the **Authentication** page and tick the **ID token** checkbox.
 
     ![Access token and Id token](images/AuthenticationCheckBox.png)
 
-6. Get client tenant id and application id form overview page.
+6. Get the client tenant ID and application ID from the overview page.
 
     ![Clinet tenat id](images/ClinetTenantId.png)
 
-7. Configure those client tenant id, application id, and domain in your application appsettings.json file.
+7. Configure the client tenant ID, application ID, and domain in your application's appsettings.json file.
 
     ![Project configuration](images/Configuration1.png)
 
 #### Web Application and Progressive Web Application
 
-1. Go to below Azure Active Directory App Registration page.
+1. Go to the Azure Active Directory App Registration page below.
 
     <https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps>
 
-2. Click New Registration in App Registration page.
+2. Click **New Registration** in the App Registration page.
 
     ![AppRegistration](images/AppRegistration.png)
 
-3. Give name of the application and selected supported type as single tenant.
+3. Give a name for the application and select the supported account type as single tenant.
 
     ![Name and supported Account type](images/NameSupportedAccountType.png)
 
-4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
+4. Scroll down the page, select the platform as **Web**, enter your application Redirect URI, and click **Register**.
 
     ![Platform and Redirect URI](images/aadredirecteduri.png)
 
-5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
+5. After the app is registered, go to the **Authentication** page and tick the **Access token** and **ID token** checkboxes.
 
     ![Access token and Id token](images/AuthenticationCheckBox.png)
 
-6. Migrate the API by clicking the highlighted arrow like in below image.
+6. Migrate the API by clicking the highlighted arrow as shown in the image below.
 
     ![API Migration](images/Migration1.png)
 
     ![Migration configuration](images/Migration2.png)
 
-7. Get client tenant id and application id form overview page.
+7. Get the client tenant ID and application ID from the overview page.
 
     ![Clinet tenat id](images/ClinetTenantId.png)
 
-8. Configure those client tenant id and application id in your application appsettings.json file.
+8. Configure the client tenant ID and application ID in your application's appsettings.json file.
 
     ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.png)
 
@@ -237,85 +237,85 @@ We need to register the created application in the Google API Console for Indivi
 
 ##### Client project Registration and Configuration
 
-1. Go to below Azure Active Directory App Registration page.
+1. Go to the Azure Active Directory App Registration page below.
 
     <https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps>
 
-2. Click New Registration in App Registration page.
+2. Click **New Registration** in the App Registration page.
 
     ![AppRegistration](images/AppRegistration.png)
 
-3. Give name of the application and selected supported type as single tenant.
+3. Give a name for the application and select the supported account type as single tenant.
 
     ![Name and supported Account type](images/NameSupportedAccountType.png)
 
-4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
+4. Scroll down the page, select the platform as **Web**, enter your application Redirect URI, and click **Register**.
 
     ![Platform and Redirect URI](images/aadredirecteduri.png)
 
-5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
+5. After the app is registered, go to the **Authentication** page and tick the **Access token** and **ID token** checkboxes.
 
     ![Access token and Id token](images/AuthenticationCheckBox.png)
 
-6. Migrate the API by clicking the highlighted arrow like in below image.
+6. Migrate the API by clicking the highlighted arrow as shown in the image below.
 
     ![API Migration](images/Migration1.png)
 
     ![Migration configuration](images/Migration2.png)
 
-7. Get client tenant id and application id form overview page.
+7. Get the client tenant ID and application ID from the overview page.
 
     ![Clinet tenat id](images/ClinetTenantId.png)
 
-8. Configure those client tenant id and application id in your application appsettings.json file.
+8. Configure the client tenant ID and application ID in your application's appsettings.json file.
 
     ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.png)
 
 ##### Server project Registration and configuration
 
-1. Go to below Azure Active Directory App Registration page.
+1. Go to the Azure Active Directory App Registration page below.
 
     <https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/RegisteredApps>
 
-2. Click New Registration in App Registration page.
+2. Click **New Registration** in the App Registration page.
 
     ![Server App Registration](images/AppRegistration.png)
 
-3. Give name of the application and selected supported type as single tenant.
+3. Give a name for the application and select the supported account type as single tenant.
 
     ![Name and supported Account type](images/NameSupportedAccountType.png)
 
-4. Dropdown the page, select platform as web and give your application Redirect URI and click Register.
+4. Scroll down the page, select the platform as **Web**, enter your application Redirect URI, and click **Register**.
 
     ![Server Platform and Redirect URI](images/aadredirecteduri.png)
 
-5. App will be registered, go to the Authentication page and tick Access token an Id token check box.
+5. After the app is registered, go to the **Authentication** page and tick the **Access token** and **ID token** checkboxes.
 
     ![Access token and Id token](images/AuthenticationCheckBox.png)
 
-6. Migrate the API by clicking the highlighted arrow like in below image.
+6. Migrate the API by clicking the highlighted arrow as shown in the image below.
 
     ![API Migration](images/Migration1.png)
 
     ![Migration configuration](images/Migration2.png)
 
-7. Add a scope API in Expose an API page.
+7. Add a scope API in the **Expose an API** page.
 
     ![Add scope API](images/AddScopeAPI.png)
 
-8. Give scope name, admin consent display name, and admin consent description and click Add scope. Scope API will be created, copy those scope API Value.
+8. Enter the scope name, admin consent display name, and admin consent description and click **Add scope**. The scope API will be created; copy the scope API value.
 
     ![Add scope API configuration](images/AddScopeAPI1.png)
 
-9. Get client tenant id and application id form overview page.
+9. Get the client tenant ID and application ID from the overview page.
 
     ![Clinet tenat id](images/ClinetTenantId.png)
 
-10. Configure those client tenant id, application id, added scope api id, and domain in your application appsettings.json file.
+10. Configure the client tenant ID, application ID, added scope API ID, and domain in your application's appsettings.json file.
 
     ![Project configuration](images/Configuration1.png)
 
-11. Configure the scope API in client application program.cs file below highlighted place.
+11. Configure the scope API in the client application's Program.cs file at the highlighted place below.
 
     ![Scope API configuration](images/ScopeAPIConfiguration.PNG)
 
@@ -339,7 +339,7 @@ In the Blazor Web App, it's essential to apply pending migrations to the databas
 
 **Option 1: Using Visual Studio Package Manager Console**
  
-Navigate to **View -> Other Windows -> Package Manager Console** in Visual Studio.
+Navigate to **View > Other Windows > Package Manager Console** in Visual Studio.
  
 Run the following command in the Package Manager Console:
 
@@ -367,21 +367,21 @@ Open a command prompt in your project directory and execute the following comman
 
 #### Server Application, ASP.NET Core hosted Web Application, and Progressive Web Application with ASP.NET Core hosted
 
-1. For register the application, submit your email address and create a password.
+1. To register the application, submit your email address and create a password.
 
     ![Register the application](images/RegisterApplication.png)
 
-2. Confirming registration by clicking **Click here to confirm your account.**
+2. Confirm your registration by clicking **Click here to confirm your account.**
 
     ![Register the confirmation](images/RegisterConfirmation.png)
 
-3. Submit your registered email address and password to login the application.
+3. Submit your registered email address and password to log in to the application.
 
     ![login to the application](images/Login.png)
 
 #### Web Application and Progressive Web Application
 
-1. Login to the application using Gmail accounts.
+1. Log in to the application using Gmail accounts.
 
     ![Google login](images/GoogleLogin.png)
 
@@ -389,8 +389,8 @@ Open a command prompt in your project directory and execute the following comman
 
 #### Server Application, Web Application, Progressive Application, ASP.NET Core Hosted Web Application, and ASP.NET Core Hosted with Progressive Web Application
 
-1. Login to your application using your Microsoft account.
+1. Log in to your application using a Microsoft account.
 
-2. Accept permission request of your application.
+2. Accept the permission request of your application.
 
     ![Accept permission](images/MicrosoftAuthentication.png)

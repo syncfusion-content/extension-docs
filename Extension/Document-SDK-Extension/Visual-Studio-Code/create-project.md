@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Document SDK Extension for Visual Studio Code | Syncfusion®
-description: Learn here about how to create the Blazor application in Visual Studio Code using Syncusion® Document SDK Components with the help of template studio.
+description: Learn here about how to create the Blazor application in Visual Studio Code using Syncfusion® Document SDK Components with the help of template studio.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -9,17 +9,19 @@ documentation: ug
 
 # Creating a Syncfusion® Document SDK application
 
-Syncfusion® provides the Document SDK Template Studio in Visual Studio Code, which allows you to create a Syncfusion® Blazor application with Syncfusion® Document SDK components (PDF, Word, Excel and PowerPoint). The Syncfusion® Blazor app is created with the required component Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion® Document SDK components.
+Syncfusion® provides the Document SDK Template Studio in Visual Studio Code, which allows you to create a Syncfusion® Blazor application with Syncfusion® Document SDK components (PDF, Word, Excel, and PowerPoint). The Syncfusion® Blazor app is created with the required Syncfusion® NuGet references, namespaces, styles, and component render code. The Template Studio provides an easy-to-use project wizard that walks you through the process of creating an application with Syncfusion® Document SDK components.
 
-N> Document SDK project templates from `v33.1.44` are supported by the Syncfusion® Visual Studio Code project template.
+I> Document SDK project templates from `v33.1.44` are supported by the Syncfusion® Visual Studio Code project template.
+
+N> Before proceeding, ensure the Syncfusion® Document SDK extension for Visual Studio Code is installed. Refer to [Download and Installation](download-and-installation) for setup steps and prerequisites.
 
 The instructions below assist you in creating **Syncfusion Document SDK Applications** using **Visual Studio Code**:
 
-1. To create a Syncfusion® Document SDK application in Visual Studio Code, open the command palette by pressing **Ctrl+Shift+P**. Search for the word **Syncfusion** in the Visual Studio Code palette to get the templates provided by Syncfusion®.
+1. To create a Syncfusion® Document SDK application in Visual Studio Code, open the Command Palette by pressing **Ctrl+Shift+P**. Search for the word **Syncfusion** in the Visual Studio Code Command Palette to get the templates provided by Syncfusion®.
 
     ![CreateProjectPalette](images/CreateProjectPalette.png)
 
-2. Select **Syncfusion Document SDK Template Studio: Launch**, then press **Enter** key. The Template Studio wizard for configuring the Syncfusion® Document SDK app will be launched. Provide the Project name and Project path.
+2. Select **Syncfusion Document SDK Template Studio: Launch**, then press the **Enter** key. The Template Studio wizard for configuring the Syncfusion® Document SDK app will be launched. Provide the Project name and Project path.
 
     ![TemplateStudioWizard](images/ProjectLocationName1.png)
 
@@ -61,13 +63,13 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
 
      ![ProjectType](images/ProjectTypeDetails1.png)
 
-4. Click either **Next** or the **Controls** tab and select the Syncfusion Document SDK components (PDF, Word, Excel Or PowerPoint) you want to add to your application.
+4. Click either **Next** or the **Controls** tab and select the Syncfusion Document SDK components (PDF, Word, Excel, or PowerPoint) you want to add to your application.
 
      ![Controls Section](images/ControlsSection.png)
 
      Choose the required control(s) by clicking the corresponding control box.
 
-     To unselect the added control(s), use either one of the following options:
+     To unselect the added control(s), use one of the following options:
 
      **Option 1:** Click the corresponding selected control box.
 
@@ -75,7 +77,7 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
 
      N> **Note:** Choose at least one control to enable the Features and Configuration tab.
 
-5. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET10.0, .NET 9.0 and .NET 8.0), themes, https configuration, localization option, authentication type, Blazor Web App, and Blazor Web Assembly application types.
+5. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required .NET version (.NET 10.0, .NET 9.0, or .NET 8.0), themes, HTTPS configuration, localization option, authentication type, and Blazor Web App or Blazor WebAssembly App application types.
 
      Depending on your Syncfusion Blazor Application Type, refer to the table below for supported authentication types.
 
@@ -88,7 +90,7 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
 
      ![WebAppConfiguration](images/WebApp.png)
 
-     If you choose the **Blazor Web Assembly App** application type, you can customize the Progressive Web Application option.
+     If you choose the **Blazor WebAssembly App** application type, you can customize the Progressive Web Application option.
 
      ![WASMConfiguration](images/WebAssembly.png)
 
@@ -98,14 +100,14 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
 
     ![ProjectDetails](images/ProjectDetailsRightSide.png)
 
-6. Click **Create** button. The Syncfusion® Document SDK application has been created. The created Syncfusion® Blazor Document SDK app has the Syncfusion NuGet packages, styles, and the render code for the selected Syncfusion® component.
+6. Click the **Create** button. The Syncfusion® Document SDK application has been created. The created Syncfusion® Blazor Document SDK app has the Syncfusion NuGet packages, styles, and the render code for the selected Syncfusion® component.
 
     
-7. You can run the application to see the Syncfusion® components. Click **F5** or go to **Run>Start Debugging**.
+7. You can run the application to see the Syncfusion® components. Press **F5** or go to **Run > Start Debugging**.
 
      ![Readme](images/RunProject.png)
 
-8. The Syncfusion® Blazor Document SDK application configures with most recent Syncfusion® Blazor NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® components.
+8. The Syncfusion® Blazor Document SDK application is configured with the most recent Syncfusion® Blazor NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® components.
 
 9. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [UG](https://help.syncfusion.com/document-processing/licensing/overview) topic for understanding the licensing details in Essential Studio® for Document SDK.
 
