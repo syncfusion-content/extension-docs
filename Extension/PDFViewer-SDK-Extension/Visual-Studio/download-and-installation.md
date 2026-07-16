@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installation of Syncfusion® PDF Viewer SDK Extension | Syncfusion
+title: Download and Installation - Syncfusion® PDF Viewer SDK Extension | Syncfusion
 description: Check out the documentation for download and installation of Syncfusion® PDF Viewer SDK Extension for Visual Studio.
 platform: extension
 control: Syncfusion Extensions
@@ -16,7 +16,7 @@ Syncfusion® publishes the Visual Studio extension in the below Visual Studio ma
 
 ## Prerequisites
 
-The following software prerequisites must be installed to install the Syncfusion® PDF Viewer SDK extension, as well as to creating, adding snippet, converting, and upgrading applications.
+The following software prerequisites must be installed to install the Syncfusion® PDF Viewer SDK extension, and to use it for creating applications and adding components.
 
 * [Visual Studio 2022 or later](https://visualstudio.microsoft.com/downloads/).
 
@@ -40,7 +40,7 @@ The steps below assist you to how to install the Syncfusion® PDF Viewer SDK ext
 
 4. Click the **Download** button in the **“Syncfusion® PDF Viewer SDK”** extensions.
 
-5. Close all Visual Studio instances after downloading the extensions to begin the installation process. You will see the following VSIX installation prompt.
+5. Close all Visual Studio instances after downloading the extensions to begin the installation process. You will see the following VSIX Installer prompt.
 
     ![VSIX-Installation-Window](images/VSIXinstallation.png)
 
@@ -48,9 +48,13 @@ The steps below assist you to how to install the Syncfusion® PDF Viewer SDK ext
 
 7. After the installation is complete, open Visual Studio.
 
-8. Now, under the menu **Extensions**, you can use the Syncfusion® extensions from the Visual Studio.
+8. Verify the extension is enabled by navigating to **Extensions > Manage Extensions > Installed** and confirming **Syncfusion® PDF Viewer SDK** appears in the list and is enabled.
+
+9. Now, under the menu **Extensions**, you can use the Syncfusion® extensions from the Visual Studio.
 
     ![SyncfusionMenu](images/SyncfusionMenu.png)
+
+N> If the VSIX Installer fails, check the installer logs at `%TEMP%\dd_*_VSIXInstaller.log` for details.
 
 ## Install from the Visual Studio Marketplace
 
