@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project creation using Project Templates via Extension | Syncfusion
+title: Create project using Project Templates via Extension | Syncfusion
 description: Learn here about how to create syncfusion Spreadsheet Editor SDK application using Syncfusion Spreadsheet Editor SDK Extension for Visual Studio Code.
 platform: extension
 control: Syncfusion Extensions

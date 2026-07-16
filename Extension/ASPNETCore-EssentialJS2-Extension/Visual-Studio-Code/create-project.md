@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Creating a Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Application
+# Create a Syncfusion® ASP.NET Core Application
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides **Visual Studio Code project templates** for creating Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core application. Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core generates applications that include the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet packages, namespaces, and component render code for the Calendar, Button, and DataGrid components, as well as the style for making Syncfusion<sup style="font-size:70%">&reg;</sup> component development easier.
 

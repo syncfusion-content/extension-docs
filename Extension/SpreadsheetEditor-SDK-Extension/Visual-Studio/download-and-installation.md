@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Download and Installation of Syncfusion® Spreadsheet Editor SDK Extension | Syncfusion
+title: Install Syncfusion® Spreadsheet Editor SDK Extension | Syncfusion
 description: Check out the documentation for download and installation of Syncfusion® Spreadsheet Editor SDK Extension for Visual Studio.
 platform: extension
 control: Syncfusion Extensions

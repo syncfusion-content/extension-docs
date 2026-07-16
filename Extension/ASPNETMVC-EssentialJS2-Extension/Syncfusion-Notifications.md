@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Notifications | ASP.NET MVC (Essential JS2) | Syncfusion
-description: For displaying the notifications about trial and newer version update information for Syncfusion applications.
+description: For displaying the notifications about trial and version update information for Syncfusion applications.
 platform: extension
 control: Visual Studio Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Notifications
+# Syncfusion® Notifications for ASP.NET MVC
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in ASP.NET MVC applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion<sup style="font-size:70%">&reg;</sup>'s latest features and enhancements.
 

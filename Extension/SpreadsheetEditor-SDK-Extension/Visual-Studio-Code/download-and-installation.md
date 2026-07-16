@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Download and Installation Guide | Syncfusion
+title: Download and Installation Steps | Syncfusion
 description: Learn here more about how to download and install the Syncfusion Spreadsheet Editor SDK for Visual Studio Code and much more.
 platform: extension
 control: Syncfusion Extensions
@@ -15,7 +15,7 @@ Syncfusion® publishes the Visual Studio Code extension in the [Visual Studio Co
 
 The following software prerequisites must be installed to install the Syncfusion® Spreadsheet Editor SDK:
 
-* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download)
+* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download?_exp_download=fb315fc982)
 
 * [.NET 8.0 SDK or later](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 
@@ -51,7 +51,7 @@ The instructions below describe the process of installing the Syncfusion® Sprea
 
 ## Manually Installing an Extension in Visual Studio Code
 
-1. Install the extension by downloading it from the Visual Studio Marketplace and then installing it from a local file within VS Code. To do this: Download the **"Spreadsheet-Editor-SDK-VSCode-Extensions.vsix"** file from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.Spreadsheet-Editor-SDK-VSCode-Extensions).
+1. Install the extension by downloading it from the Visual Studio Marketplace and then installing it from a local file within VS Code. To do this: Download the **"Spreadsheet-Editor-SDK-VSCode-Extensions.vsix"** file from the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.SpreadsheetEditor-SDK-VSCode-Extensions).
 
 2. In VS Code, go to the Extensions view by clicking on the Extensions icon in the Activity Bar and Click on the three dots (ellipsis) in the top-right corner and select "Install from VSIX."
 

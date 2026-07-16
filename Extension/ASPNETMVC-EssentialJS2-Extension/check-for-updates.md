@@ -7,7 +7,7 @@ control: Visual Studio Extensions
 documentation: ug
 ---
 
-# Check for updates in Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC
+# Check for updates in Syncfusion® ASP.NET MVC
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Check for Updates extension to find whether a newer version of the Essential<sup style="font-size:70%">&reg;</sup> Studio release is available. If an update is available, it provides an option to update to the most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup> release. This ensures that you always get the latest features, fixes, and improvements by installing the latest version.
 

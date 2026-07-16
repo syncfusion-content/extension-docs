@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syncfusion® Spreadsheet Editor SDK Item Template | WinForms | WPF | Syncfusion
+title: Syncfusion® Spreadsheet Editor SDK Item Template | Syncfusion
 description: Syncfusion® Spreadsheet Editor SDK Item Templates add predefined forms with the Syncfusion® component in Windows Forms or WPF applications.
 platform: extension
 control: Syncfusion Extensions

@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Creating Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core application
+# Create a Syncfusion® ASP.NET Core Application
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> Sample Creator is a tool that allows you to create Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) projects with sample code for required Syncfusion<sup style="font-size:70%">&reg;</sup> component features and Syncfusion<sup style="font-size:70%">&reg;</sup> control configuration.
 

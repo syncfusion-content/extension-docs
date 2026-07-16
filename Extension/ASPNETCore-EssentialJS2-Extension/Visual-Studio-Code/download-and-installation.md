@@ -15,8 +15,8 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio Cod
 
 To install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Visual Studio Code extension and to create Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core apps using any of the project types (Syncfusion<sup style="font-size:70%">&reg;</sup> Web Application (Model-View-Controller), Syncfusion<sup style="font-size:70%">&reg;</sup> Angular, and Syncfusion<sup style="font-size:70%">&reg;</sup> React), the following required software must be installed:
 
-* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download)
-* [.NET 8 SDK or later](https://dotnet.microsoft.com/download/dotnet/8.0)
+* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download?_exp_download=fb315fc982)
+* [.NET 8 SDK or later](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 * [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 * [Node.js LTS](https://nodejs.org/en/download/)
 
