@@ -15,9 +15,9 @@ Syncfusion® publishes the Syncfusion® DOCX Editor SDK extension in the [Visual
 
 The following software prerequisites must be installed to install the Syncfusion® DOCX Editor SDK:
 
-* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download)
+* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download?itemName=SyncfusionInc.DOCX-Editor-SDK-VSCode-Extensions)
 
-* [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or later
+* [Visual Studio 2022](https://visualstudio.microsoft.com/vs?itemName=SyncfusionInc.DOCX-Editor-SDK-VSCode-Extensions) or later
 
 * [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 
