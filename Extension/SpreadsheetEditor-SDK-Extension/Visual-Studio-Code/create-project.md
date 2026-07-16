@@ -28,7 +28,7 @@ The instructions below assist you in creating **Syncfusion Spreadsheet Editor SD
     | .NET SDK version | Supported Syncfusion Spreadsheet Editor SDK Application Type |
     | ---------------- | -------------------------------------------- |
     | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Spreadsheet Editor SDK Web App |
-    | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion SpreadsheetDOCX Editor SDK WebAssembly App |
+    | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Spreadsheet Editor SDK WebAssembly App |
     
     In the **Syncfusion Spreadsheet Editor SDK Web App** application type, you can configure the following options:
 
@@ -36,7 +36,7 @@ The instructions below assist you in creating **Syncfusion Spreadsheet Editor SD
     <tbody>
     <tr>
     <td>
-    <a href="https://learn.microsoft.com/en-us/aspnet/core/DOCX Editor SDK/components/render-modes?view=aspnetcore-8.0#render-modes" rel="nofollow">Interactivity type</a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0#render-modes" rel="nofollow">Interactivity type</a>
     </td>
     <td>
     Server, WebAssembly, Auto (Server and WebAssembly)
@@ -44,7 +44,7 @@ The instructions below assist you in creating **Syncfusion Spreadsheet Editor SD
     </tr>
     <tr>
     <td>
-    <a href="https://learn.microsoft.com/en-us/aspnet/core/DOCX Editor SDK/tooling?view=aspnetcore-8.0&pivots=windows" rel="nofollow">Interactivity location</a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/tooling?view=aspnetcore-8.0&pivots=windows" rel="nofollow">Interactivity location</a>
     </td>
     <td>
     Global, Per page/component
@@ -57,7 +57,7 @@ The instructions below assist you in creating **Syncfusion Spreadsheet Editor SD
 
      In the **Syncfusion Spreadsheet Editor SDK WebAssembly App** application type, you can choose Progressive Web Application.
 
-     ![ProjectType](images//WebAppAssembly.png)
+     ![ProjectType](images/WebAppAssembly.png)
 
 4. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET10.0, .NET 9.0 and .NET 8.0), themes, Spreadsheet Editor SDK Web App, and Spreadsheet Editor SDK Web Assembly application types.
 
@@ -75,15 +75,15 @@ The instructions below assist you in creating **Syncfusion Spreadsheet Editor SD
 
     ![ProjectDetails](images/ProjectDetailsRightSide.png)
 
-7. Click **Create** button. The Syncfusion® Spreadsheet Editor SDK application has been created. The created Syncfusion® Spreadsheet Editor SDK app has the Syncfusion NuGet packages, styles, and the render code for Syncfusion® Spreadsheet Editor SDK component.
+5. Click **Create** button. The Syncfusion® Spreadsheet Editor SDK application has been created. The created Syncfusion® Spreadsheet Editor SDK app has the Syncfusion NuGet packages, styles, and the render code for Syncfusion® Spreadsheet Editor SDK component.
     
-8. You can run the application to see the Syncfusion® component. Click **F5** or go to **Run>Start Debugging**.
+6. You can run the application to see the Syncfusion® component. Click **F5** or go to **Run>Start Debugging**.
 
      ![Readme](images/RunProject.png)
 
-9. The Syncfusion® Spreadsheet Editor SDK application configures with most recent Syncfusion® Spreadsheet Editor SDK NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® component.
+7. The Syncfusion® Spreadsheet Editor SDK application configures with most recent Syncfusion® Spreadsheet Editor SDK NuGet packages version, selected style, namespaces, and component render code for Syncfusion® component.
 
-10. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [UG](https://blazor.syncfusion.com/documentation/getting-started/license-key/overview) topic for understanding the licensing details in Essential Studio® for Spreadsheet Editor SDK.
+8. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [UG](https://blazor.syncfusion.com/documentation/getting-started/license-key/overview) topic for understanding the licensing details in Essential Studio® for Spreadsheet Editor SDK.
 
 ## Syncfusion® integration
 

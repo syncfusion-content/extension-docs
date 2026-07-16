@@ -11,11 +11,11 @@ documentation: ug
 
 Syncfusion® Spreadsheet Editor SDK Reference Manager is an Add-In for WinForms and WPF application. It adds the Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK assembly reference to the project, either from the GAC location or Essential Studio<sup style="font-size:70%">&reg;</sup> installed location. It can also migrate the projects that contain the old versions of the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly reference to newer or specific versions of the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly reference.
 
-N> This Syncfusion® Spreadsheet Editor SDK Reference Manager can be applied to a project for Syncfusion<sup style="font-size:70%">&reg;</sup> assembly version 32.1.19 and later.
+N> This Syncfusion® Spreadsheet Editor SDK Reference Manager can be applied to a project for Syncfusion® assembly version 32.1.19 and later.
 
 Follow the given steps to add the Syncfusion® Spreadsheet Editor SDK Reference Manager in Visual Studio:
 
-> Before use the Syncfusion® Spreadsheet Editor SDK Reference Manager, check whether the **Syncfusion® Spreadsheet Editor SDK Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed.If this extension not installed, please install the extension by follow the steps from the [download and installation](https://help.Syncfusion.com/extension/spreadsheeteditor-sdk-extension/visual-studio/download-and-installation/) help topic.
+> Before using the Syncfusion® Spreadsheet Editor SDK Reference Manager, check whether the **Syncfusion® Spreadsheet Editor SDK Extension - Syncfusion®** is installed or not in the Visual Studio Extension Manager by clicking **Extensions -> Manage Extensions -> Installed** for Visual Studio 2022 or later. If this extension is not installed, please install the extension by following the steps in the [download and installation](download-and-installation) help topic.
 
 1. Open a new or existing **WinForms** or **WPF** application.
 
@@ -56,7 +56,7 @@ Follow the given steps to add the Syncfusion® Spreadsheet Editor SDK Reference 
    ![Assembly location option in Syncfusion Reference Manger](images/Syncfusion-Reference-Manger1-img4.png)
 
 
-4. click Done to add the required assemblies for the Spreadsheet Editor SDK control into the project. The following screenshot shows the list of required assemblies for the selected controls to be added.
+4. Click **Done** to add the required assemblies for the Spreadsheet Editor SDK control into the project. The following screenshot shows the list of required assemblies for the selected controls to be added.
 
    - Windows Forms:
 

@@ -51,11 +51,11 @@ The Syncfusion® Spreadsheet Editor SDK snippet simply inserts the code into the
 
     ![Namespace](images/Namespace-Snippet.png)
 
-3. Add the Syncfusion® Blazor [theme](https://blazor.syncfusion.com/documentation/appearance/themes) in the `<head>` element of the **~/Components/App.razor** page for Web App and `<head>` element of the **~/Pages/_Host.html** page for server application and **~/wwwroot/index.html** page for a client application.
+3. Add the Syncfusion® Blazor [theme](https://blazor.syncfusion.com/documentation/appearance/themes) in the `<head>` element of the **~/Components/App.razor** page for Web App, in the `<head>` element of the **~/Pages/_Host.html** page for a server application, and in the `<head>` element of the **~/wwwroot/index.html** page for a client application.
 
     ![Themes](images/CDNLink.png)
 
-4. Open the **~/Program.cs** file for Web App and server application and client application then register the Syncfusion® Blazor Service.
+4. Open the **~/Program.cs** file for Web App, server application, and client application, and then register the Syncfusion® Blazor Service.
 
     If you select an **Interactive render mode** as `WebAssembly` or `Auto`, you need to register the Syncfusion® Spreadsheet Editor SDK service in both **~/Program.cs** files of your Spreadsheet Editor SDK Web App.
 
