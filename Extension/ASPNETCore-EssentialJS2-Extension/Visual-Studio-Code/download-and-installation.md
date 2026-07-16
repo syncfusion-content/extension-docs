@@ -9,16 +9,16 @@ documentation: ug
 
 # Download and Installation
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio Code extension in Visual Studio Code marketplace. You can either install it from the Visual Studio Code or download and install it from the Visual Studio Code marketplace.
+Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio Code extension in Visual Studio Code marketplace. You can either install it from Visual Studio Code or download and install it from the Visual Studio Code marketplace.
 
 ## Prerequisites
 
-To install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Visual Studio Code extension and the creation of Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core apps using any of the project types (Syncfusion<sup style="font-size:70%">&reg;</sup> Web Application (Model-View-Controller), Syncfusion<sup style="font-size:70%">&reg;</sup> Angular, and Syncfusion<sup style="font-size:70%">&reg;</sup> React), the following required software must be installed:
+To install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Visual Studio Code extension and to create Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core apps using any of the project types (Syncfusion<sup style="font-size:70%">&reg;</sup> Web Application (Model-View-Controller), Syncfusion<sup style="font-size:70%">&reg;</sup> Angular, and Syncfusion<sup style="font-size:70%">&reg;</sup> React), the following required software must be installed:
 
 * [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download)
-* [.NET Core 8 or later](https://dotnet.microsoft.com/download/dotnet-core/3.1) or later
+* [.NET 8 SDK or later](https://dotnet.microsoft.com/download/dotnet/8.0)
 * [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
-* [Node.js](https://nodejs.org/en/download/)
+* [Node.js LTS](https://nodejs.org/en/download/)
 
 
 ## Install through the Visual Studio Code extensions
@@ -27,7 +27,7 @@ The following steps explain how to install the Syncfusion<sup style="font-size:7
 
 1. Open Visual Studio Code.
 
-2. Go to **View > Extensions** or give command **Ctrl+Shift+X** or click Extension icon appear on the left side of the window, then Extension window will open.
+2. Go to **View > Extensions** or use the **Ctrl+Shift+X** shortcut or click the Extensions icon appearing on the left side of the window. The Extensions window will open.
 
     ![Extension Window](images/extension-window.png)
 
@@ -43,9 +43,9 @@ The following steps explain how to install the Syncfusion<sup style="font-size:7
 
    ![command-palette](images/command-palette.png)
 
-## Install from the Visual Studio Code Marketplace
+## Install through the Visual Studio Code Marketplace
 
-The following steps explain how to install Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core applications from the Visual Studio Code Marketplace:
+The following steps explain how to install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Visual Studio Code Extension from the Visual Studio Code Marketplace:
 
 1. Open the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Visual Studio Code Extension in Visual Studio Code Marketplace.
 

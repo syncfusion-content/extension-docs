@@ -9,11 +9,11 @@ documentation: ug
 
 # Creating Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core application
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> Sample Creator is a tool that lets you make Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) projects with sample code for required Syncfusion<sup style="font-size:70%">&reg;</sup> component features and Syncfusion<sup style="font-size:70%">&reg;</sup> control configuration.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Sample Creator is a tool that allows you to create Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) projects with sample code for required Syncfusion<sup style="font-size:70%">&reg;</sup> component features and Syncfusion<sup style="font-size:70%">&reg;</sup> control configuration.
 
 > The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Sample Creator utility is available from v16.3.0.17.
 
-The following steps is used to create the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Application by using the Sample Creator utility:
+The following steps are used to create the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Application by using the Sample Creator utility:
 
 1. Follow one of the options below to launch the ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Sample Creator application:
 

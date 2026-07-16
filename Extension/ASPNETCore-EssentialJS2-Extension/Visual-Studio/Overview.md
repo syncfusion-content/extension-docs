@@ -17,9 +17,9 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Visual Studio 
 
 ## IMPORTANT
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) menu option is available from v17.1.0.32.
+> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) menu option is available from v17.1.0.32.
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following supports in Visual Studio:
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following features in Visual Studio:
 
 1. [Project-Template](syncfusion-project-templates):  Creates the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) application by adding the required Essential<sup style="font-size:70%">&reg;</sup> JS 2 components.
 2. [Convert project](project-conversion): Converts an existing ASP.NET Core application into a Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) application by adding the required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies and resource files.

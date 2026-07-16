@@ -9,7 +9,7 @@ documentation: ug
 
 # Syncfusion<sup style="font-size:70%">&reg;</sup> Notifications
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in ASP.NET Core applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion<sup style="font-size:70%">&reg;</sup> latest features and enhancements.
+Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in ASP.NET Core applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion's<sup style="font-size:70%">&reg;</sup> latest features and enhancements.
 
 N> The Syncfusion<sup style="font-size:70%">&reg;</sup> Notification feature is available from Essential Studio<sup style="font-size:70%">&reg;</sup> v22.1.34.
 
@@ -46,7 +46,4 @@ If you use older versions of Syncfusion<sup style="font-size:70%">&reg;</sup> as
 If you have mistakenly used an incorrect license key or used a license from another version or platform in your ASP.NET Core application, Syncfusion<sup style="font-size:70%">&reg;</sup> will display a notification message stating, **The provided Syncfusion<sup style="font-size:70%">&reg;</sup> license key is invalid.** This message serves as a reminder to obtain a valid license key and ensure proper licensing for Syncfusion<sup style="font-size:70%">&reg;</sup> components.
 
 ![Invalid Notification](images/core-invalid.png)
-
-  
-
 

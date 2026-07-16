@@ -13,9 +13,9 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> provides the **Visual Studio Pr
 
 > The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) project templates are available from v16.2.0.41.
 
-The following steps is used to create the **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web Application** through the **Visual Studio Project Template**.
+The following steps are used to create the **Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web Application** through the **Visual Studio Project Template**.
 
-> Before use the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Project Template, check whether the **ASP.NET Core Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetcore/documentation/visual-studio-integration/download-and-installation) help topic.
+> Before using the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Project Template, check whether the **ASP.NET Core Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** is installed or not in Visual Studio Extension Manager by clicking **Extensions > Manage Extensions > Installed** for Visual Studio 2022 or later. If this extension is not installed, please install the extension by following the steps from the [download and installation](https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/visual-studio/download-and-installation) help topic.
 
 1. To create the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) project, follow either one of the options below:
 
@@ -41,10 +41,10 @@ The following steps is used to create the **Syncfusion<sup style="font-size:70%"
 
     | <b>Project Type</b> | <b>.NET Core Version</b> | <b>Themes</b> | <b>Assets From</b> |
     |---------------------|--------------------------|---------------|--------------------|
-    | ASP.NET Core Web App | .NET 8.0, .NET 9.0 and NET 10.0 | Material, Fabric, Fluent, Bootstrap, Bootstrap 4, Bootstrap 5, High Contrast, Tailwind CSS | CDN, NPM, Installed Location |
-    | ASP.NET Core Web App (Model-View-Controller) | .NET 8.0, .NET 9.0 and NET 10.0 | Material, Fabric, Fluent, Bootstrap, Bootstrap 4, Bootstrap 5, High Contrast, Tailwind CSS | CDN, NPM, Installed Location |
-    | Angular | .NET 8.0, .NET 9.0 and NET 10.0 | Material, Fabric, Fluent, Bootstrap, Bootstrap 4, Bootstrap 5, High Contrast, Tailwind CSS | CDN, NPM |
-    | React | .NET 8.0, .NET 9.0 and NET 10.0 | Material, Fabric, Fluent, Bootstrap, Bootstrap 4, Bootstrap 5, High Contrast, Tailwind CSS | CDN, NPM |
+    | ASP.NET Core Web App | .NET 8.0, .NET 9.0, and .NET 10.0 | Material, Fabric, Fluent, Bootstrap, Bootstrap 4, Bootstrap 5, High Contrast, Tailwind CSS | CDN, NPM, Installed Location |
+    | ASP.NET Core Web App (Model-View-Controller) | .NET 8.0, .NET 9.0, and .NET 10.0 | Material, Fabric, Fluent, Bootstrap, Bootstrap 4, Bootstrap 5, High Contrast, Tailwind CSS | CDN, NPM, Installed Location |
+    | Angular | .NET 8.0, .NET 9.0, and .NET 10.0 | Material, Fabric, Fluent, Bootstrap, Bootstrap 4, Bootstrap 5, High Contrast, Tailwind CSS | CDN, NPM |
+    | React | .NET 8.0, .NET 9.0, and .NET 10.0 | Material, Fabric, Fluent, Bootstrap, Bootstrap 4, Bootstrap 5, High Contrast, Tailwind CSS | CDN, NPM |
 
     > The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Project Template provides ASP.NET Core, Angular, and React project templates support from v17.1.0.47.
 
@@ -80,15 +80,15 @@ The following steps is used to create the **Syncfusion<sup style="font-size:70%"
 
     **Angular:**
 
-    **NPM**: All the Syncfusion<sup style="font-size:70%">&reg;</sup> Angular NPM packages entries will be added in   package.json, it will automatically restore while build the application or save the  package.json file before compile the project.
+    **NPM**: All the Syncfusion<sup style="font-size:70%">&reg;</sup> Angular NPM packages entries will be added in   package.json, it will automatically restore while building the application or saving the  package.json file before compiling the project.
 
     **Styles**: CSS entries will be added in index.html based on the selected .NET Core version.
 
     **React:**
 
-    **NPM**: All the Syncfusion<sup style="font-size:70%">&reg;</sup> React NPM packages entries will be added in package.json, it will automatically restore while build the application or save the package.json file before compile the project.
+    **NPM**: All the Syncfusion<sup style="font-size:70%">&reg;</sup> React NPM packages entries will be added in package.json, it will automatically restore while building the application or saving the package.json file before compiling the project.
 
-    **Styles**: CSS entries will be added in or index.html based on the selected project .Net Core version.
+    **Styles**: CSS entries will be added in index.html based on the selected project .NET Core version.
 
     ![nuget package](images/nuget-packges.png)
 

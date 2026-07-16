@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Conversion | ASP.NET Core (Essential JS 2) | Syncfusion
-description: Project Conversion is a add-in that converts ASP.NET Core application into a Syncfusion ASP.NET Core application by adding required Essential JS 2 components
+description: Project Conversion is an add-in that converts ASP.NET Core application into a Syncfusion ASP.NET Core application by adding required Essential JS 2 components
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -11,7 +11,7 @@ documentation: ug
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core conversion is a Visual Studio add-in that converts an existing ASP.NET Core application into a Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web application by adding the required assemblies and resource files.
 
-> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web Application Project conversion utility is available from v16.3.0.17. Before use, the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Project Conversion, check whether the **ASP.NET Core Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2022 or later by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, please install the extension by follow the steps from the [download and installation](https://ej2.syncfusion.com/aspnetcore/documentation/visual-studio-integration/download-and-installation) help topic. Also, check whether the corresponding Essential Studio<sup style="font-size:70%">&reg;</sup> version build installed or not. If the Essential Studio<sup style="font-size:70%">&reg;</sup> version is not same for both the Extension and build, then the Project Conversion will not be shown.
+> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Web Application Project conversion utility is available from v16.3.0.17. Before using the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core Project Conversion, check whether the **ASP.NET Core Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** is installed or not in Visual Studio Extension Manager by clicking **Extensions > Manage Extensions > Installed** for Visual Studio 2022 or later. If this extension is not installed, please install the extension by following the steps from the [download and installation](https://help.syncfusion.com/extension/aspnetcore-essentialjs2-extension/visual-studio/download-and-installation) help topic. Also, check whether the corresponding Essential Studio<sup style="font-size:70%">&reg;</sup> version build is installed or not. If the Essential Studio<sup style="font-size:70%">&reg;</sup> version is not the same for both the Extension and build, then the Project Conversion will not be shown.
 
 The steps below help you to convert the ASP.NET Core application to the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core application via the Visual Studio:
 
@@ -53,7 +53,7 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     ![css-reference](images/css-reference.png)
 
-    If you enabled project backup before converting, the old project was saved in the specified backup path location, as shown below once the conversion process completed.
+    If you enabled project backup before converting, the old project is saved in the specified backup path location, as shown below once the conversion process is completed.
 
     ![BackupLocation](images/BackupLocation.png)
 

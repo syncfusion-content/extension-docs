@@ -9,13 +9,13 @@ documentation: ug
 
 # Check for updates in Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> provides the check for update extensions to find latest version of essential<sup style="font-size:70%">&reg;</sup> release was available, if it was available then provide option update most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup> release. So that, you always get the latest features, fixes, and improvements by installing the latest version.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Check for Updates extension to find whether a latest version of the Essential<sup style="font-size:70%">&reg;</sup> Studio release is available. If an update is available, it provides an option to update to the most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup> release. So that, you always get the latest features, fixes, and improvements by installing the latest version.
 
-> The Syncfusion<sup style="font-size:70%">&reg;</sup> Check for updates is available from v17.1.0.32.
+> The Syncfusion<sup style="font-size:70%">&reg;</sup> Check for Updates is available from v17.1.0.32.
 
-You can check updates availability in Visual Studio, and then install the update version if required.
+You can check update availability in Visual Studio, and then install the updated version if required.
 
-1. Choose **Syncfusion<sup style="font-size:70%">&reg;</sup> > Check for Updates…** in the Visual Studio menu.
+1. Choose **Extensions > Syncfusion<sup style="font-size:70%">&reg;</sup> > Check for Updates…** in the Visual Studio menu.
 
     ![Check for updates](images/check-for-updates.png)
 

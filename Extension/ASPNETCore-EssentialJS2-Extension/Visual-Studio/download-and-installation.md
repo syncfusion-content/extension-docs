@@ -14,21 +14,21 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio ext
 
 ## Prerequisites
 
-The following software prerequisites must be installed to install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core extension, as well as to creating, adding snippet, converting, and upgrading Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core applications.
+The following software prerequisites must be installed to install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core extension, as well as to create, add snippets, convert, and upgrade Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core applications.
 
 * [Visual Studio 2022 or later](https://visualstudio.microsoft.com/downloads).
 
-* [.NET Core 8.0 or later](https://dotnet.microsoft.com/en-us/download/dotnet).
+* [.NET 8.0 or later](https://dotnet.microsoft.com/en-us/download/dotnet).
 
 ## Install through the Visual Studio Manage Extensions
 
-The steps below assist you to how to install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core extensions from **Visual Studio Manage Extensions**.
+The steps below assist you in installing the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET Core extensions from **Visual Studio Manage Extensions**.
 
-1. Open the Visual Studio.
+1. Open Visual Studio.
 
-2. Navigate to **Extension ->Manage Extensions** and open the Manage Extensions.
+2. Navigate to **Extensions > Manage Extensions** to open the Manage Extensions dialog.
 
-3. On the left, click the **Online** tab and type **"ASP.NET Core VS Code Extensions – Syncfusion<sup style="font-size:70%">&reg;</sup>"** in the **search box**.
+3. On the left, click the **Online** tab and type **"ASP.NET Core Extensions – Syncfusion<sup style="font-size:70%">&reg;</sup>"** in the **search box**.
 
     ![Online-Manage-Extension-window](images/OnlineExtension.png)
 
