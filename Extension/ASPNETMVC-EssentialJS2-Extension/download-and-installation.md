@@ -14,23 +14,25 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio ext
 
 ## Prerequisites
 
-The following software prerequisites must be installed to install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC extension, as well as to creating, adding snippet, converting, and upgrading Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC applications.
+The following software prerequisites must be installed to install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC extension, as well as to create, add snippets, convert, and upgrade Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC applications.
 
 * [Visual Studio 2022 or later](https://visualstudio.microsoft.com/downloads).
 
+> The extension supports the Community, Professional, and Enterprise editions of Visual Studio. ASP.NET MVC project creation also requires the **.NET desktop development** and **ASP.NET and web development** workloads to be installed with Visual Studio.
+
 ## Install through the Visual Studio Manage Extensions
 
-The steps below assist you to how to install the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC extensions from **Visual Studio Manage Extensions**.
+The steps below assist you in installing the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC extensions from **Visual Studio Manage Extensions**.
 
-1. Open the Visual Studio.
+1. Open Visual Studio.
 
-2. Navigate to **Extension ->Manage Extensions** and open the Manage Extensions.
+2. Navigate to **Extensions > Manage Extensions** to open the Manage Extensions dialog.
 
 3. On the left, click the **Online** tab and type **"ASP.NET MVC Extension - Syncfusion<sup style="font-size:70%">&reg;</sup>"** in the **search box**.
 
     ![Online-Manage-Extension-window](images/OnlineExtension.png)
 
-4. Click the **Download** button in the **“ASP.NET MVC Extension - Syncfusion<sup style="font-size:70%">&reg;</sup>”**.
+4. Click the **Download** button for **“ASP.NET MVC Extension - Syncfusion<sup style="font-size:70%">&reg;</sup>”**.
 
 5. Close all Visual Studio instances after downloading the extensions to begin the installation process. You will see the following VSIX installation prompt.
 
@@ -50,7 +52,7 @@ The steps below illustrate how to download and install the Syncfusion<sup style=
 
 1. Download the [Syncfusion ASP.NET MVC Extensions](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.ASPNETMVCExtensions) from the Visual Studio Marketplace.
 
-2. Close all Visual Studio instances running, if any.
+2. Close all running Visual Studio instances, if any.
 
 3. Double-click to install the downloaded VSIX file. You will see the VSIX installation prompts for the Visual Studio version. If Visual Studio is not installed, it will not be possible to install the extension.
 
@@ -60,4 +62,4 @@ The steps below illustrate how to download and install the Syncfusion<sup style=
 
 5. After the installation is complete, open Visual Studio. You can now use Syncfusion<sup style="font-size:70%">&reg;</sup> extensions from the Visual Studio under the **Extensions** menu.
 
-     ![SyncfusionMenu](images/SyncfusionMenu.png)
+    ![SyncfusionMenu](images/SyncfusionMenu.png)
