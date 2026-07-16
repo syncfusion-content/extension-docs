@@ -9,11 +9,11 @@ documentation: ug
 
 # Check for Updates in Syncfusion Essential WindowsForms
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> provides the check for update extensions to find latest version of essential release was available, if it was available then provide option update most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup> release. So that, you always get the latest features, fixes, and improvements by installing the latest version.
+Syncfusion<sup style="font-size:70%">&reg;</sup> provides the Check for Updates extension to find whether the latest version of an Essential Studio<sup style="font-size:70%">&reg;</sup> release is available, and if it is available, provides an option to update to the most recent version of the Essential Studio<sup style="font-size:70%">&reg;</sup> release. So, you always get the latest features, fixes, and improvements by installing the latest version.
 
-I> The Syncfusion<sup style="font-size:70%">&reg;</sup> Check for updates is available from v17.1.0.32.
+I> The Syncfusion<sup style="font-size:70%">&reg;</sup> Check for Updates is available from v17.1.0.32.
 
-You can check updates availability in Visual Studio, and then install the update version if required.
+You can check for update availability in Visual Studio, and then install the updated version if required.
 
 1. Choose **Syncfusion<sup style="font-size:70%">&reg;</sup> -> Check for Updates…** in the Visual Studio menu
 
@@ -21,8 +21,9 @@ You can check updates availability in Visual Studio, and then install the update
 
    N> From Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in Visual Studio menu.
    
-2. When there is an update, **Update** dialog box opens.
+2. When there is an update, the **Update** dialog box opens.
 
    ![Syncfusion check for updates wizard](Check-for-Updates_images/Check-for-Updates_images-img2.png)
 
-3. You can download the latest Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> from the Syncfusion<sup style="font-size:70%">&reg;</sup> website by selecting **Download**.
+3. You can download the latest Syncfusion<sup style="font-size:70%">&reg;</sup> Essential Studio<sup style="font-size:70%">&reg;</sup> from the Syncfusion<sup style="font-size:70%">&reg;</sup> website by selecting **Download**. 
+

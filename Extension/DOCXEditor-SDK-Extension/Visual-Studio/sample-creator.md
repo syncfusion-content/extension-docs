@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample Creator | DOCX Editor SDK | Syncfusion
-description: Sample Creator helps generate ASP.NET Core or MVC projects with samples using Syncfusion DOCX Editor SDK features and control.
+description: The Sample Creator helps generate ASP.NET Core or MVC projects with samples using the Syncfusion DOCX Editor SDK features and controls.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -9,13 +9,13 @@ documentation: ug
 
 # Sample Creator for Syncfusion® DOCX Editor SDK
 
-The Syncfusion® DOCX Editor SDK Sample Creator is a tool that lets you create Syncfusion® ASP.NET Core or ASP.NET MVC projects with sample code for Syncfusion® DOCX Editor SDK component features and control configuration.
+The Syncfusion® DOCX Editor SDK Sample Creator is a tool that lets you create Syncfusion® ASP.NET Core or ASP.NET MVC projects with sample code for Syncfusion® DOCX Editor SDK component features and control configurations.
 
-I> The Syncfusion® DOCX Editor SDK Sample Creator utility is available from v31.2.2
+I> The Syncfusion® DOCX Editor SDK Sample Creator utility is available from v31.2.2.
 
-## Create Syncfusion® ASP.NET Core or ASP.NET MVC Web Application from Sample Creator
+## Create a Syncfusion® ASP.NET Core or ASP.NET MVC Web Application from the Sample Creator
 
-The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET MVC Web Application via the Sample Creator utility.
+The following steps help you create the Syncfusion® ASP.NET Core or ASP.NET MVC Web Application via the Sample Creator utility.
 
 1.  Launch the Syncfusion® DOCX Editor SDK Control Panel and click the Sample Creator button to launch the DOCX Editor SDK Sample Creator utility.
     
@@ -25,37 +25,37 @@ The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET 
 
 1.  You can configure the following project details in the Sample Creator.
     
-    -   Platform Type – Select the type of platform either ASP.NET Core or MVC.
+    -   Platform Type – Select the type of platform, either ASP.NET Core or MVC.
         
         -   ASP.NET Core:
             
-            -   Select the VS Version - Choose the Visual Studio Version
-            -   .NET Core – Choose the .NET Core version
-            -   Assets From – Load the Syncfusion® assets to either CDN or NPM.
+            -   Select the VS Version – Choose the Visual Studio Version.
+            -   .NET Core – Choose the .NET Core version.
+            -   Assets From – Load the Syncfusion® assets from either CDN or NPM.
             
             ![Syncfusion DOCX Editor SDK Sample Creator project configuration section](images/SampleCreator-core.png)
             
-        -   ASP .NET MVC:
+        -   ASP.NET MVC:
             
-            -   Select the VS Version - Choose the Visual Studio Version
-            -   .NET Framework – Choose the .NET Framework version
-            -   Assets From – Load the Syncfusion® assets to either CDN or NuGet.
+            -   Select the VS Version – Choose the Visual Studio Version.
+            -   .NET Framework – Choose the .NET Framework version.
+            -   Assets From – Load the Syncfusion® assets from either CDN or NuGet.
             
             ![Syncfusion DOCX Editor SDK Sample Creator project configuration section](images/SampleCreator-mvc.png)
             
-    -   Name – Name your Syncfusion® ASP.NET Core or ASP.NET MVC Application.
+    -   Name – Name your Syncfusion® ASP.NET Core or ASP.NET MVC application.
         
     -   Location – Choose the target location of your project.
         
-    -   Theme Selection – Choose the required theme.The Theme Preview section shows the control preview before create the Syncfusion® project.
+    -   Theme Selection – Choose the required theme. The Theme Preview section shows the control preview before creating the Syncfusion® project.
         
-2.  Click **Create** button. After creating the project, open the project by clicking **Yes**. If you click **No**, the corresponding location of the project will be opened. Refer to the following screenshot for more information.
+2.  Click the **Create** button. After creating the project, open the project by clicking **Yes**. If you click **No**, the corresponding location of the project will be opened. Refer to the following screenshot for more information.
     
     ![create](images/sample-creator-create.png)
     
 3.  The new Syncfusion® project is created with the resources.
     
-    -   Added the required DOCX Editor SDK Controller and View files in the project.
+    -   The required DOCX Editor SDK Controller and View files are added in the project.
         
         -   ASP.NET Core:
             
@@ -65,7 +65,7 @@ The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET 
             
             ![required controllers](images/required-controllers1.png)
             
-    -   Included the required Syncfusion® DOCX Editor SDK scripts and theme files.
+    -   The required Syncfusion® DOCX Editor SDK scripts and theme files are included.
         
         -   ASP.NET Core:
             
@@ -75,12 +75,12 @@ The following steps help you to create the Syncfusion® ASP.NET Core or ASP.NET 
             
             ![script-theme references](images/scripts-theme1.png)
             
-    -   The required Syncfusion® DOCX Editor SDK assemblies are added for selected control under Project Reference.
+    -   The required Syncfusion® DOCX Editor SDK assemblies are added for the selected control under Project Reference.
         
         -   ASP.NET Core:
             
             ![Syncfusion assemblies](images/syncfusion-assemblies.png)
             
-        -   ASP .NET MVC:
+        -   ASP.NET MVC:
             
             ![Syncfusion assemblies](images/syncfusion-assemblies1.png)

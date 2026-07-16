@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Syncfusion Item Template | WinForms | Syncfusion
-description: Syncfusion Item Templates provides to add the predefined forms with Syncfusion component in Windows Forms application.
+description: Syncfusion Item Templates provide predefined forms with Syncfusion components in a Windows Forms application.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -52,6 +52,6 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
 
 	![Syncfusion WinForms Item template Gallery](Item-Template-images/Add-Syncfusion-item-details.png)
 
-9.	Then, Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the 			licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to 		your project. Refer to this [blog](https://blog.Syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post 	 for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
+9.	Then, a Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages, since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the 			licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to 		your project. Refer to this [blog](https://blog.Syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post 	 for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
     ![Syncfusion WinForms Item template Gallery](Item-Template-images/Syncfusion-Item-Template-Gallery-7.png)

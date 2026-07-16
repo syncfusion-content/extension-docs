@@ -15,9 +15,9 @@ N> The Syncfusion<sup style="font-size:70%">&reg;</sup> Notification feature is 
 
 ## Notification Configuration
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> Options page allows you to configure notification settings. Customise trial and newer version notifications with a simple true or false toggle.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Options page allows you to configure notification settings. Customize trial and newer version notifications with a simple true or false toggle.
 
-It can be accessed by clicking **Tools -> Options -> Syncfusion<sup style="font-size:70%">&reg;</sup> -> WPF**
+It can be accessed by clicking **Tools -> Options -> Syncfusion<sup style="font-size:70%">&reg;</sup> -> WPF**.
 
 ![Option Page](images/wpf-optionPage.png)
 
@@ -37,7 +37,7 @@ If you have installed lower versions of Syncfusion<sup style="font-size:70%">&re
 
 **3. Newer Essential Studio<sup style="font-size:70%">&reg;</sup> Build Notification**
 
-If you use older versions of Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies or NuGet packages from **Essential Studio<sup style="font-size:70%">&reg;</sup> WPF,** Syncfusion<sup style="font-size:70%">&reg;</sup> will notify you about new releases for the latest Essential Studio<sup style="font-size:70%">&reg;</sup> build. Updating to the newest version ensures access to recent features, enhancements, and important updates, maximizing the capabilities of Syncfusion<sup style="font-size:70%">&reg;</sup> in your WPF development projects.
+If you use older versions of Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies or NuGet packages from **Essential Studio<sup style="font-size:70%">&reg;</sup> WPF**, Syncfusion<sup style="font-size:70%">&reg;</sup> will notify you about new releases of the latest Essential Studio<sup style="font-size:70%">&reg;</sup> build. Updating to the newest version ensures access to recent features, enhancements, and important updates, maximizing the capabilities of Syncfusion<sup style="font-size:70%">&reg;</sup> in your WPF development projects.
 
 ![Build Notification](images/wpf-build.png)
 
@@ -46,7 +46,3 @@ If you use older versions of Syncfusion<sup style="font-size:70%">&reg;</sup> as
 If you have mistakenly used an incorrect license key or used a license from another version or platform in your WPF application, Syncfusion<sup style="font-size:70%">&reg;</sup> will display a notification message stating, **The provided Syncfusion<sup style="font-size:70%">&reg;</sup> license key is invalid.** This message serves as a reminder to obtain a valid license key and ensure proper licensing for Syncfusion<sup style="font-size:70%">&reg;</sup> components.
 
 ![Invalid Notification](images/wpf-invalid.png)
-
-  
-
-
