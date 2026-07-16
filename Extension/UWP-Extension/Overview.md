@@ -11,7 +11,7 @@ documentation: ug
 
 ## Overview
  
-The Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Visual Studio Extensions can be accessed through the Syncfusion<sup style="font-size:70%">&reg;</sup> Menu to create and configure the project with Syncfusion<sup style="font-size:70%">&reg;</sup> references in Visual Studio.The Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Extensions supports Microsoft Visual Studio 2017.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Visual Studio Extensions can be accessed through the Syncfusion<sup style="font-size:70%">&reg;</sup> Menu to create and configure the project with Syncfusion<sup style="font-size:70%">&reg;</sup> references in Visual Studio. The Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Extensions supports Microsoft Visual Studio 2017.
 
 I> The Syncfusion<sup style="font-size:70%">&reg;</sup> UWP menu option is available from v17.1.0.32.
 
@@ -28,7 +28,7 @@ The Syncfusion<sup style="font-size:70%">&reg;</sup> provides the following exte
 
 ![Syncfusion<sup style="font-size:70%">&reg;</sup> Menu when Selected Syncfusion<sup style="font-size:70%">&reg;</sup> UWP application in Visual Studio](Overview-images/Syncfusion_Menu_OverView2.png)
 
-N> In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu available under Extension in Visual Studio menu.
+N> In Visual Studio 2019, the Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in the Visual Studio menu.
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Visual Studio Extensions are installed along with the following setups,
 

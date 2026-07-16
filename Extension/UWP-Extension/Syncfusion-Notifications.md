@@ -9,15 +9,15 @@ documentation: ug
 
 # Syncfusion<sup style="font-size:70%">&reg;</sup> Notifications
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in UWP applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion<sup style="font-size:70%">&reg;</sup> latest features and enhancements.
+Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in UWP applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion<sup style="font-size:70%">&reg;</sup>'s latest features and enhancements.
 
 N> The Syncfusion<sup style="font-size:70%">&reg;</sup> Notification feature is available from Essential Studio<sup style="font-size:70%">&reg;</sup> v22.1.34.
 
 ## Notification Configuration
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> Options page allows you to configure notification settings. Customise trial and newer version notifications with a simple true or false toggle.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Options page allows you to configure notification settings. Customize trial and newer version notifications with a simple true or false toggle.
 
-It can be accessed by clicking **Tools -> Options -> Syncfusion<sup style="font-size:70%">&reg;</sup> -> UWP**
+It can be accessed by clicking **Tools -> Options -> Syncfusion<sup style="font-size:70%">&reg;</sup> -> UWP**.
 
 ![Option Page](images/uwp-optionPage.png)
 
@@ -37,7 +37,7 @@ If you have installed lower versions of Syncfusion<sup style="font-size:70%">&re
 
 **3. Newer Essential Studio<sup style="font-size:70%">&reg;</sup> Build Notification**
 
-If you use older versions of Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies or NuGet packages from **Essential Studio<sup style="font-size:70%">&reg;</sup> Universal Windows,** Syncfusion<sup style="font-size:70%">&reg;</sup> will notify you about new releases for the latest Essential Studio<sup style="font-size:70%">&reg;</sup> build. Updating to the newest version ensures access to recent features, enhancements, and important updates, maximizing the capabilities of Syncfusion<sup style="font-size:70%">&reg;</sup> in your UWP development projects.
+If you use older versions of Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies or NuGet packages from **Essential Studio<sup style="font-size:70%">&reg;</sup> Universal Windows**, Syncfusion<sup style="font-size:70%">&reg;</sup> will notify you about new releases for the latest Essential Studio<sup style="font-size:70%">&reg;</sup> build. Updating to the newest version ensures access to recent features, enhancements, and important updates, maximizing the capabilities of Syncfusion<sup style="font-size:70%">&reg;</sup> in your UWP development projects.
 
 ![Build Notification](images/uwp-build.png)
 
