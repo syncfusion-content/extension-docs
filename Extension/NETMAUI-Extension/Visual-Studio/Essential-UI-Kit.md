@@ -20,44 +20,44 @@ To get started with the Essential<sup>®</sup> UI Kit for .NET MAUI, first insta
 
 ## Include XAML templates in MAUI apps
 
-1.	Launch a new or existing MAUI application.
+1. Launch a new or existing MAUI application.
 
-2.	Select the **Essential<sup>®</sup> UI Kit for .NET MAUI** from the **Solution Explorer** by right-clicking on your **MAUI** project
+2. Select the **Essential<sup>®</sup> UI Kit for .NET MAUI** option from the **Solution Explorer** by right-clicking on your **MAUI** project.
 
-	![Syncfusion<sup>®</sup> Essential<sup>®</sup> UI Kit for .NET MAUI Context menu in MAUI](Essential_UI_Kit_images/visual-studio-intergration-context-menu.png)
+    ![Syncfusion<sup>®</sup> Essential<sup>®</sup> UI Kit for .NET MAUI context menu in MAUI](Essential_UI_Kit_images/visual-studio-intergration-context-menu.png)
 
-	N> The .NET MAUI Essential<sup>®</sup> UI Kit add-in will be shown when the project has the MAUI NuGet package as a reference and also, MAUI project should be a NET Standard project.
+    N> The .NET MAUI Essential<sup>®</sup> UI Kit add-in will be shown only when the project has the .NET MAUI workload installed and the project targets a supported .NET MAUI framework (such as .NET 8.0 or later).
 
-3.	The Category dialogue box will then appear, with its pre-defined templates.
+3. The Category dialog box will then appear, with its pre-defined templates.
 
-	![Add new item dialog box in MAUI Visual studio Intergration](Essential_UI_Kit_images/visual-studio-intergration-item-dialog-box.png)
+    ![Add new item dialog box in MAUI Visual Studio Integration](Essential_UI_Kit_images/visual-studio-intergration-item-dialog-box.png)
 
-4.	Now, select the required pages from any of the specified categories then click 'Next'.
+4. Select the required pages from any of the specified categories, then click **Next**.
 
-5.	Now add an name for the page, then click 'Add' to add the page and The necessary class files, resources, and NuGet package references to your project.
+5. Enter a name for the page, then click **Add** to add the page along with the necessary class files, resources, and NuGet package references to your project.
 
-	![Edit page Name in MAUI Visual studio Intergration](Essential_UI_Kit_images/visual-studio-intergration-page-name.png)
+    ![Edit page name in MAUI Visual Studio Integration](Essential_UI_Kit_images/visual-studio-intergration-page-name.png)
 
-6.	The selected pages will be added along with View, View Model, Model classes, resource files and Syncfusion<sup>®</sup> NuGet package reference,
+6. The selected pages will be added along with View, ViewModel, and Model classes, resource files, and Syncfusion<sup>®</sup> NuGet package references.
 
-	![Added MVVM files in MAUI Visual Studio Intergration](Essential_UI_Kit_images/visual-studio-intergration-mvvm-files.png)
+    ![Added MVVM files in MAUI Visual Studio Integration](Essential_UI_Kit_images/visual-studio-intergration-mvvm-files.png)
 
-	![Added NuGet in MAUI Visual Studio Intergration](Essential_UI_Kit_images/visual-studio-intergration-nuget.png)
+    ![Added NuGet in MAUI Visual Studio Integration](Essential_UI_Kit_images/visual-studio-intergration-nuget.png)
 
-	![Added Resources in MAUI Visual Studio Intergration](Essential_UI_Kit_images/visual-studio-intergration-resources.png)
+    ![Added Resources in MAUI Visual Studio Integration](Essential_UI_Kit_images/visual-studio-intergration-resources.png)
 
-7.	Then, Syncfusion<sup>®</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion<sup>®</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup>®</sup> release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup>®</sup> license key to your project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio<sup>®</sup>. 
+7. Then, a Syncfusion<sup>®</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages, since Syncfusion<sup>®</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup>®</sup> release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) shown in the licensing message box to generate and register the Syncfusion<sup>®</sup> license key to your project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio<sup>®</sup>.
 
 ## Run the UI template item
 
 To set your preferred UI template as the start page of your application, open the **App.xaml.cs** file in your .NET MAUI project and apply the following changes.
 
-Example: If you added Login With Social Icon Page,
+Example: If you added the Login With Social Icon page,
 
 {% tabs %}
 {% highlight C# hl_lines="3 9" %}
 
-// For NET 9 and NET 10 Use this Below Code Snippet
+// For .NET 9 and .NET 10, use this code snippet:
 
 protected override Window CreateWindow(IActivationState? activationState)
 {
