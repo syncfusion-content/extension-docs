@@ -15,7 +15,7 @@ N> This Syncfusion® PDF Viewer SDK Reference Manager can be applied to a projec
 
 Follow the given steps to add the Syncfusion® PDF Viewer SDK Reference Manager in Visual Studio:
 
-> Before using the Syncfusion® PDF Viewer SDK Reference Manager, check whether the **Syncfusion® PDF Viewer SDK Extension** is installed. In **Visual Studio 2022 or later**, go to **Extensions > Manage Extensions > Installed**. If this extension is not installed, please install the extension by following the steps from the [download and installation](https://help.syncfusion.com/extension/pdfviewer-sdk-extension/visual-studio/download-and-installation/) help topic.
+> Before using the Syncfusion® PDF Viewer SDK Reference Manager, check whether the **Syncfusion® PDF Viewer SDK Extension** is installed. In **Visual Studio 2022 or later**, go to **Extensions > Manage Extensions > Installed**. If this extension is not installed, please install the extension by following the steps from the [download and installation](https://help.syncfusion.com/extension/pdfviewer-sdk-extension/visual-studio/download-and-installation) help topic.
 
 1. Open a new or existing **WinForms** or **WPF** application.
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syncfusion PDF Viewer SDK Extension for Visual Studio Code | Syncfusion
+title: Download and Installation in PDF Viewer SDK Extension | Syncfusion
 description: Learn here all about introduction on Syncfusion PDF Viewer SDK extension for Visual Studio Code which made integration made ease.
 platform: extension
 control: Syncfusion Extensions
