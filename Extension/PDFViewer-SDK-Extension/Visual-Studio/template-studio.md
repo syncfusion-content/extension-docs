@@ -156,7 +156,7 @@ We need to register the created application in the Google API Console for Indivi
 
 6. Add that Client Id, and RedirectUri in appsettings.json file of your application.
 
-    ![ClientIdConfiguration](images/ClientIdConfiguration.png)
+    ![ClientIdConfiguration](images/ClinetIdConfiguration.png)
 
 7. Change the build configuration bind as google from Local in program.cs file.
 
