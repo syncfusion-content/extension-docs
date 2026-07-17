@@ -7,7 +7,7 @@ control: Visual Studio Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Notifications for WinForms Apps
+# Syncfusion<sup style="font-size:70%">®</sup> WinForms Notifications
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in Windows Forms applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion<sup style="font-size:70%">&reg;</sup>'s latest features and enhancements.
 
