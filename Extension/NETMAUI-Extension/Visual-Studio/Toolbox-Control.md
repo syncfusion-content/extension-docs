@@ -27,7 +27,7 @@ To launch the Syncfusion<sup>®</sup> .NET MAUI Toolbox from the Syncfusion<sup>
 
 This toolbox provides a set of tools and features to easily incorporate Syncfusion<sup>®</sup> .NET MAUI components into your .NET MAUI application.
 
-   ![Syncfusion .NET MAUI Custom Toolbox via Syncfusion<sup>®</sup> menu](images/ToolboxSyncfusionMenu.png)
+   ![Syncfusion .NET MAUI Custom Toolbox via Syncfusion menu](images/ToolboxSyncfusionMenu.png)
 
 ## Launching Syncfusion<sup>®</sup> .NET MAUI Toolbox from the View menu
 

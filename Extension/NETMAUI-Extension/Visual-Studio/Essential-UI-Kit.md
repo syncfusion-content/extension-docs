@@ -24,7 +24,7 @@ To get started with the Essential<sup>®</sup> UI Kit for .NET MAUI, first insta
 
 2. Select the **Essential<sup>®</sup> UI Kit for .NET MAUI** option from the **Solution Explorer** by right-clicking on your **MAUI** project.
 
-    ![Syncfusion<sup>®</sup> Essential<sup>®</sup> UI Kit for .NET MAUI context menu in MAUI](Essential_UI_Kit_images/visual-studio-intergration-context-menu.png)
+    ![Syncfusion Essential UI Kit for .NET MAUI context menu in MAUI](Essential_UI_Kit_images/visual-studio-intergration-context-menu.png)
 
     N> The .NET MAUI Essential<sup>®</sup> UI Kit add-in will be shown only when the project has the .NET MAUI workload installed and the project targets a supported .NET MAUI framework (such as .NET 8.0 or later).
 
