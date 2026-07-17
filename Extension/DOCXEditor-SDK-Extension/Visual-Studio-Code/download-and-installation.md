@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Download and Installation Guide | Syncfusion
+title: DOCX SDK Download and Installation Guide | Syncfusion
 description: Learn here more about how to download and install the Syncfusion DOCX Editor SDK for Visual Studio Code and much more.
 platform: extension
 control: Syncfusion Extensions
