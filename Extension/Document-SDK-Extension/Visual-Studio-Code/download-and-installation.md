@@ -18,7 +18,7 @@ Syncfusion® publishes the Document SDK VSCode extension in the Visual Studio Co
 
 The following software prerequisites must be installed to install the Syncfusion® Document SDK extension, as well as to create and add snippets in Syncfusion® Document SDK applications.
 
-* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download).
+* [Visual Studio Code 1.29.0 or later](https://code.visualstudio.com/download?_exp_download=fb315fc982).
 
 * [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet).
 
