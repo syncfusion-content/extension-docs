@@ -12,7 +12,7 @@ documentation: ug
 Troubleshoot the project with the Syncfusion<sup style="font-size:70%">&reg;</sup> configuration and apply the fix, such as a wrong .NET Framework version of a Syncfusion<sup style="font-size:70%">&reg;</sup> assembly in the project or a missing Syncfusion<sup style="font-size:70%">&reg;</sup> dependent assembly of a referred assembly. The Syncfusion<sup style="font-size:70%">&reg;</sup> Troubleshooter can perform the following tasks:
 
 * Report the configuration issues.
-* Apply the solution.
+* Apply the solution. 
 
 ## Report the Configuration issues
 
