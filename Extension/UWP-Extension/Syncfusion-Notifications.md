@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Notifications | Extension | Syncfusion
-description: For displaying the notifications about trial and newer version update information for Syncfusion applications.
+description: For showing notifications about trial status and latest version updates for Syncfusion application.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Notifications
+# Syncfusion® Notification for UWP
 
 Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in UWP applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion<sup style="font-size:70%">&reg;</sup>'s latest features and enhancements.
 
