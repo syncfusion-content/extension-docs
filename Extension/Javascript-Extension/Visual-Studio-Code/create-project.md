@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Templates | Web | Syncfusion
-description: Syncfusion provides Visual Studio Code project templates for Web platforms (React, Pure React, Angular, and Vue) to create Syncfusion Web applications using Syncfusion components.
+description: Syncfusion offers Visual Studio Code templates for React, Angular, and Vue to quickly build web applications with Syncfusion UI components.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug

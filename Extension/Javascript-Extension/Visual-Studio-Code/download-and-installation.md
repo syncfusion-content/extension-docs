@@ -15,7 +15,7 @@ Syncfusion<sup style="font-size:70%">&reg;</sup> publishes the Visual Studio Cod
 
 The following prerequisite software must be installed for the Syncfusion<sup style="font-size:70%">&reg;</sup> Web extension installation and for creating the Syncfusion<sup style="font-size:70%">&reg;</sup> Web applications along with any one of the frameworks (React, Pure React, Angular, or Vue).
 
-* [Visual Studio Code](https://code.visualstudio.com/download)
+* [Visual Studio Code](https://code.visualstudio.com/download?_exp_download=fb315fc982)
 
  > The minimum version of Visual Studio Code is 1.38.0 to use the Syncfusion<sup style="font-size:70%">&reg;</sup> Web extension.
 

@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Add Syncfusion<sup style="font-size:70%">&reg;</sup> Angular component in the Angular application
+# Add Syncfusion<sup style="font-size:70%">&reg;</sup> Angular component to Your App
 
 The Syncfusion<sup style="font-size:70%">&reg;</sup> Angular code snippet utility for Visual Studio Code provides snippets for adding a Syncfusion<sup style="font-size:70%">&reg;</sup> Angular component with various features in the HTML code editor file of the Angular application.
 
