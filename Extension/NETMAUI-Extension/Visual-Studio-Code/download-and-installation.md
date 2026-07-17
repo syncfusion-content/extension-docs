@@ -20,7 +20,7 @@ Syncfusion<sup>®</sup> publishes the Visual Studio Code extension on the [Visua
 
 The following software prerequisites must be installed to install the Syncfusion<sup>®</sup> .NET MAUI extension, as well as for creating and adding snippets in Syncfusion<sup>®</sup> .NET MAUI applications.
 
-* [Visual Studio Code 1.87.1 or later](https://code.visualstudio.com/download)
+* [Visual Studio Code 1.87.1 or later](https://code.visualstudio.com/download?_exp_download=fb315fc982)
 * [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 * [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
 
