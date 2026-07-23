@@ -13,9 +13,9 @@ Syncfusion® supports Visual Studio Item Templates to add the Syncfusion® Sprea
 
 I> The Syncfusion® Spreadsheet Editor SDK item templates are available from v32.1.19.
 
-The following steps will guide you in adding the Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK component to your Visual Studio WinForms or WPF application.
+The following steps will guide you in adding the Syncfusion® Spreadsheet Editor SDK component to your Visual Studio WinForms or WPF application.
 
-## Add Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK Component using Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK Item Template
+## Add Syncfusion® Spreadsheet Editor SDK Component using Syncfusion® Spreadsheet Editor SDK Item Template
 
 1.	Open a new or existing WinForms or WPF application.
 

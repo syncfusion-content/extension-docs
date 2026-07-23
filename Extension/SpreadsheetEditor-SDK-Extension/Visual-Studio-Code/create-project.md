@@ -77,13 +77,13 @@ The instructions below assist you in creating **Syncfusion Spreadsheet Editor SD
 
 5. Click **Create** button. The Syncfusion® Spreadsheet Editor SDK application has been created. The created Syncfusion® Spreadsheet Editor SDK app has the Syncfusion NuGet packages, styles, and the render code for Syncfusion® Spreadsheet Editor SDK component.
     
-6. You can run the application to see the Syncfusion® component. Click **F5** or go to **Run>Start Debugging**.
+6. You can run the application to see the Syncfusion® Spreadsheet Editor SDK component. Click **F5** or go to **Run>Start Debugging**.
 
      ![Readme](images/RunProject.png)
 
-7. The Syncfusion® Spreadsheet Editor SDK application configures with most recent Syncfusion® Spreadsheet Editor SDK NuGet packages version, selected style, namespaces, and component render code for Syncfusion® component.
+7. The Syncfusion® Spreadsheet Editor SDK application configures with most recent Syncfusion® Spreadsheet Editor SDK NuGet packages version, selected style, namespaces, and component render code for Syncfusion® Spreadsheet Editor SDK component.
 
-8. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [UG](https://blazor.syncfusion.com/documentation/getting-started/license-key/overview) topic for understanding the licensing details in Essential Studio® for Spreadsheet Editor SDK.
+8. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [UG](https://help.syncfusion.com/document-processing/licensing/overview) topic for understanding the licensing details in Essential Studio® for Spreadsheet Editor SDK.
 
 ## Syncfusion® integration
 
