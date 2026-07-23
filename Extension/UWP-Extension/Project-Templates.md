@@ -17,54 +17,52 @@ I> The Syncfusion<sup style="font-size:70%">&reg;</sup> UWP project templates ar
 
 The following steps help you to create the **Syncfusion<sup style="font-size:70%">&reg;</sup>** **UWP** **Application** through the **Visual** **Studio** **Project** **Template**.
 
-> Before use the Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Project Template, check whether the **UWP Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** installed or not in Visual Studio Extension Manager by clicking on the Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower and for Visual Studio 2019 by clicking on the Extensions -> Manage Extensions -> Installed.
+> Before using the Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Project Template, check whether the **UWP Extensions - Syncfusion<sup style="font-size:70%">&reg;</sup>** is installed or not in the Visual Studio Extension Manager by clicking on Tools -> Extensions and Updates -> Installed for Visual Studio 2017 or lower, and for Visual Studio 2019 by clicking on Extensions -> Manage Extensions -> Installed.
 
 1. To create a Syncfusion<sup style="font-size:70%">&reg;</sup> UWP project, follow either one of the options below:
 
    **Option 1:**   
    Click **Syncfusion<sup style="font-size:70%">&reg;</sup> Menu** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> for UWP > Create New Syncfusion<sup style="font-size:70%">&reg;</sup> Project…** in **Visual Studio**.
    
-   ![Choose Syncfusion<sup style="font-size:70%">&reg;</sup> Universal Windows Application from Visual Studio new project dialog via Syncfusion menu](Syncfusion-Project-Templates_images/Syncfusion_Menu_ProjectTemplate.png)
+   ![Choose Syncfusion Universal Windows Application from Visual Studio new project dialog via Syncfusion menu](Syncfusion-Project-Templates_images/Syncfusion_Menu_ProjectTemplate.png)
 
-   N> In Visual Studio 2019, Syncfusion<sup style="font-size:70%">&reg;</sup> menu under Extension in Visual Studio menu.
+   N> In Visual Studio 2019, the Syncfusion<sup style="font-size:70%">&reg;</sup> menu is available under Extensions in the Visual Studio menu.
 
    **Option 2:**  
-   Choose **File > New > Project** and navigate to **Syncfusion<sup style="font-size:70%">&reg;</sup> > Windows Universal> Syncfusion<sup style="font-size:70%">&reg;</sup> Universal Windows Application** in **Visual Studio**.
+   Choose **File > New > Project** and navigate to **Syncfusion<sup style="font-size:70%">&reg;</sup> > Windows Universal > Syncfusion<sup style="font-size:70%">&reg;</sup> Universal Windows Application** in **Visual Studio**.
 
-   ![Choose Syncfusion<sup style="font-size:70%">&reg;</sup> Universal Windows Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img1.jpeg)
+   ![Choose Syncfusion Universal Windows Application from Visual Studio new project dialog](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img1.jpeg)
 
 2. Name the **Project** and choose the destination location if required, then click **OK**. 
 
-3. Then Project Configuration Wizard appears. Choose the options to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> Universal Windows Platform application by using the following Project Configuration dialog.
+3. Then, the Project Configuration Wizard appears. Choose the options to configure the Syncfusion<sup style="font-size:70%">&reg;</sup> Universal Windows Platform application by using the following Project Configuration dialog.
 
    ### Project configurations:
 
    **Language:** Select the language, either Visual C# or Visual Basic.
 
-   **Reference Type:** Select the reference type of UWP Project, either Assemblies or SDK.
+   **Reference Type:** Select the reference type of UWP Project, either Assemblies or SDK. **Assemblies** adds individual Syncfusion assembly references; **SDK** adds the entire Syncfusion UWP SDK so all controls are referenced.
 
    **Target Version:** Choose the Target Version of the UWP platform that your project is targeting. This sets the **TargetPlatformVersion** setting in your project file.
 
    **Minimum Version:** Choose the Minimum Version of the UWP platform that your project can work with. This sets the **TargetPlatformMinVersion** setting in your project file.
 
-   **Template Type:** Select the template type of UWP Project, either Blank or Hamburger Menu or Hamburger Menu (MVVM).
+   **Template Type:** Select the template type of UWP Project, either Blank or Hamburger Menu or Hamburger Menu (MVVM). **Blank** creates a single-page application; **Hamburger Menu** creates a navigation shell with a hamburger menu; **Hamburger Menu (MVVM)** creates the same shell using the MVVM pattern.
 
-   **Components:** Choose the required Syncfusion<sup style="font-size:70%">&reg;</sup> components to configure.
+   **Components:** Choose the required Syncfusion<sup style="font-size:70%">&reg;</sup> components to configure. You can multi-select the components needed for your application.
    
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Project configuration wizard](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img4.jpeg)
+   ![Syncfusion UWP Project configuration wizard](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img4.jpeg)
    
-   N> If SDK is chosen as the reference type, then all the Syncfusion<sup style="font-size:70%">&reg;</sup> UWP controls will be added. So, you no need to select any components.
+   N> If SDK is chosen as the reference type, then all the Syncfusion<sup style="font-size:70%">&reg;</sup> UWP controls will be added. So, you do not need to select any components.
    
-4. Once you click Create button, the Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Application is created.
+4. Once you click the Create button, the Project Configuration Wizard completes and the Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Application is created with the required SDK/references and pages.
 
-5. Once the Project Configuration Wizard is done, the Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Application is created with required SDK/references and pages.
-
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Project created with SDK reference](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)
+   ![Syncfusion UWP Project created with SDK reference](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img5.jpeg)
 
    ![Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Project created with readme](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img7.PNG)
 
-6. Then, Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown as follow, if you are installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
+5. Then, a Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown as follows, if you have installed the trial setup or NuGet packages, since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Please navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key) which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
-   ![Syncfusion<sup style="font-size:70%">&reg;</sup> license registration required information dialog in Syncfusion<sup style="font-size:70%">&reg;</sup> UWP Project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img6.jpeg)   
+   ![Syncfusion license registration required information dialog in Syncfusion UWP Project](Syncfusion-Project-Templates_images/Syncfusion-Project-Templates-img6.jpeg)   
 
 
