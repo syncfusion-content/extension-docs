@@ -7,11 +7,11 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Essential® UI Kit for .NET MAUI
+# Essential® UI Kit for .NET MAUI - JetBrains Rider
 
 This guide explains how to integrate Syncfusion® MAUI UI Kit templates into a .NET MAUI project using JetBrains Rider, providing ready-to-use XAML pages along with corresponding View and ViewModel classes, resource files, and all necessary Syncfusion® NuGet package references.
 
-N> Before using the **Essential® UI Kit for .NET MAUI - Syncfusion<sup>®</sup>**, ensure that the plugin is installed in JetBrains Rider. To check, go to **Settings > Plugin >Installed** . If the plugin is not installed, follow the steps in the [download and installation](download-and-installation) help guide to install it.
+N> Before using the **Essential® UI Kit for .NET MAUI - Syncfusion<sup>®</sup>**, ensure that the plugin is installed in JetBrains Rider. To check, go to **Settings > Plugins > Installed**. If the plugin is not installed, follow the steps in the [download and installation](download-and-installation) help guide to install it.
 
 **Add UI Kit templates to a .NET MAUI project**
 
@@ -29,7 +29,7 @@ N> Before using the **Essential® UI Kit for .NET MAUI - Syncfusion<sup>®</sup>
 
 	![Edit page Name in MAUI UI Kit Plugin](images/Edit-Wizard.png)
 
-5. The selected pages will be added along with View, View Model, Model classes, resource files and Syncfusion® NuGet package reference.
+5. The selected pages will be added along with View, ViewModel, and Model classes, resource files, and Syncfusion® NuGet package references.
 
 	![Added files in MAUI Project](images/ViewFiles.png)
 
@@ -41,6 +41,8 @@ N> Before using the **Essential® UI Kit for .NET MAUI - Syncfusion<sup>®</sup>
 
 **Set the new page as the app start page**
 
+To set your newly added XAML page as the application start page in .NET MAUI, open the **App.xaml.cs** file and update the `CreateWindow` method to return the new page.
+
 Open `App.xaml.cs` and update `CreateWindow` to return your new page. Example — if you added `LoginWithSocialIcon`:
 
 ```csharp
@@ -50,12 +52,10 @@ protected override Window CreateWindow(IActivationState? activationState)
 }
 ```
 
-**Troubleshooting**
+## Troubleshooting
 
-- Templates don’t appear: restart Rider after installing the extension or verify the plugin is enabled.
+- **Templates don’t appear:** restart Rider after installing the extension or verify the plugin is enabled under **Settings > Plugins > Installed**.
 
-- NuGet packages failing to restore: ensure your NuGet sources are available and that the project targets a supported MAUI framework.
-
-- License prompts persist: confirm the license key is registered early in app startup and matches your Syncfusion account.
+- **NuGet packages failing to restore:** ensure your NuGet sources are available and that the project targets a supported .NET MAUI framework (.NET 8.0 or later).
 
 
