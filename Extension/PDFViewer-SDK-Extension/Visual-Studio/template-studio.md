@@ -85,7 +85,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
             > **Note:** The Progressive Web Application will be enabled if .NET 8.0 version or higher is installed.
             
-            You can choose the required (.NET 10.0, .NET 9.0 and .NET 8.0), themes, https configuration, authentication type, Blazor Web App, and Blazor Web Assembly application types.
+            You can choose the required .NET version (.NET 10.0, .NET 9.0, or .NET 8.0), themes, HTTPS configuration, authentication type, and the Blazor Web App or Blazor WebAssembly application type.
 
             Depending on your Syncfusion Blazor Application Type, refer to the table below for supported authentication types.
 
@@ -96,21 +96,21 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
             
             Click **Create** button. The Syncfusion® PDF Viewer SDK Blazor application has been created. The created Syncfusion® PDF Viewer SDK Blazor app has the Syncfusion NuGet packages, styles, and the render code for Syncfusion® PDF Viewer SDK component.
 
-     - . NET MAUI Platform
+     - .NET MAUI Platform
 
-        - **Configuration Section**
+        - **Configuration section**
 
-            You can select the required .NET Core Version (.NET 9.0 or .NET 10.0) and themes
+            You can select the required .NET version (.NET 9.0 or .NET 10.0) and themes.
 
              ![Configuration](images/ConfigMaui.png)
-            
+
             Click **Create** button. The Syncfusion® PDF Viewer SDK .NET MAUI application has been created and has the Syncfusion NuGet packages, styles, and the render code for Syncfusion® PDF Viewer SDK component.
 
      - WPF and Windows Forms Platform
 
-         - **Configuration Section**
+         - **Configuration section**
 
-            You will have the option to specify your preferred .NET Framework Version, select the desired language(CSharp or Visual Basic), and choose the reference type according to your requirements.
+            You will have the option to specify your preferred .NET Framework version (supported frameworks: .NET Framework 4.6.2, 4.7, 4.7.2, 4.8), select the desired language (C# or Visual Basic), and choose the reference type according to your requirements.
 
             ![Configuration](images/Config.png)
 
@@ -118,9 +118,11 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
             Click **Create** button. The Syncfusion® PDF Viewer SDK WPF or Windows Forms application has been created and has the Syncfusion NuGet packages, styles, and the render code for Syncfusion® PDF Viewer SDK component.
 
-9. The Syncfusion® application based on the platform selection configures with most recent Syncfusion® NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® PDF Viewer SDK component.
+6.  Restore the NuGet packages by running `dotnet restore` in the project folder or by right-clicking the solution in Visual Studio and selecting **Restore NuGet Packages**.
 
-10. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
+7.  The Syncfusion® application, based on the selected platform, is configured with the most recent Syncfusion® NuGet packages version, selected style, namespaces, selected authentication, and component render code for the Syncfusion® PDF Viewer SDK component.
+
+8.  If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
 
 ## Authentication Configuration for Blazor Platform
 
@@ -154,7 +156,7 @@ We need to register the created application in the Google API Console for Indivi
 
 6. Add that Client Id, and RedirectUri in appsettings.json file of your application.
 
-    ![ClinetIdConfiguration](images/ClinetIdConfiguration.png)
+    ![ClientIdConfiguration](images/ClinetIdConfiguration.png)
 
 7. Change the build configuration bind as google from Local in program.cs file.
 
@@ -186,7 +188,7 @@ We need to register the created application in the Google API Console for Indivi
 
 6. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.png)
+    ![Client tenant id](images/ClinetTenantId.png)
 
 7. Configure those client tenant id, application id, and domain in your application appsettings.json file.
 
@@ -222,11 +224,11 @@ We need to register the created application in the Google API Console for Indivi
 
 7. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.png)
+    ![Client tenant id](images/ClinetTenantId.png)
 
 8. Configure those client tenant id and application id in your application appsettings.json file.
 
-    ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.png)
+    ![Client ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.png)
 
 #### ASP.NET Core Hosted Web Application, and ASP.NET Core Hosted with Progressive Web Application
 
@@ -260,11 +262,11 @@ We need to register the created application in the Google API Console for Indivi
 
 7. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.png)
+    ![Client tenant id](images/ClinetTenantId.png)
 
 8. Configure those client tenant id and application id in your application appsettings.json file.
 
-    ![Clinet ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.png)
+    ![Client ID and Tenant ID configuration](images/ClinetTenantIdConfiguration.png)
 
 ##### Server project Registration and configuration
 
@@ -304,7 +306,7 @@ We need to register the created application in the Google API Console for Indivi
 
 9. Get client tenant id and application id form overview page.
 
-    ![Clinet tenat id](images/ClinetTenantId.png)
+    ![Client tenant id](images/ClinetTenantId.png)
 
 10. Configure those client tenant id, application id, added scope api id, and domain in your application appsettings.json file.
 

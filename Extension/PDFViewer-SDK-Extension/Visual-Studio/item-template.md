@@ -9,11 +9,11 @@ documentation: ug
 
 # Add Syncfusion® PDF Viewer Component
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>PDF Viewer SDK Component to the corresponding applications with their references. 
+Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add the Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Component to the corresponding applications with their references.
 
-I> The Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK item templates are available from v32.1.19.
+I> The Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK item templates are available from v32.1.19. The latest supported version is v33.1.44.
 
-The following steps will guide you in adding the Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK component to your Visual Studio WinForms or WPF application.
+Use the following steps to add the Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK component to a WinForms or WPF application in Visual Studio.
 
 ## Add Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Component using Syncfusion<sup style="font-size:70%">&reg;</sup> PDF Viewer SDK Item Template
 
@@ -45,27 +45,29 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
 
 4. The required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project from the NuGet packages reference option.
 
-5.  Click **Add**, and a pop-up will appear providing information about adding Component **files** and **NuGet/Assemblies** details.
+5.  Build the project to verify that the NuGet packages restore successfully.
+
+6.  Click **Add**, and a pop-up will appear providing information about adding Component **files** and **NuGet/Assemblies** details.
 
     - Windows Forms:
-        
+
         ![Syncfusion WinForms PDF Viewer SDK Item template details](images/Add-Syncfusion-item-3.png)
 
     - WPF:
-        
+
         ![Syncfusion WPF PDF Viewer SDK Item template details](images/Add-Syncfusion-item-4.png)
 
 
-6.	Click **OK** to incorporate the Component into the application, along with the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies.
+7.	Click **OK** to incorporate the Component into the application, along with the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies.
 
     - Windows Forms:
-        
+
         ![Syncfusion WinForms PDF Viewer SDK Item template Gallery](images/Add-Syncfusion-item-details.png)
 
     - WPF:
-        
+
         ![Syncfusion WPF PDF Viewer SDK Item template Gallery](images/Add-Syncfusion-item-details1.png)
 
-7.	Then, Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the 			licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to 		your project. Refer to this [blog](https://blog.Syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post 	 for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
+8.	Then, the Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages, since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://blog.syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
 
     ![Syncfusion PDF Viewer SDK Item template Gallery](images/Syncfusion-Item-Template-Gallery-7.png)
