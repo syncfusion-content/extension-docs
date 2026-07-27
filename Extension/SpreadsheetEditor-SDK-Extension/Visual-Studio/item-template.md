@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Syncfusion Spreadsheet Editor SDK Item Template | WinForms | WPF | Syncfusion
-description: Syncfusion Spreadsheet Editor SDK Item Templates provides to add the predefined forms with Syncfusion component in Windows Forms or WPF application.
+title: Syncfusion® Spreadsheet Editor SDK Item Template | Syncfusion
+description: Syncfusion® Spreadsheet Editor SDK Item Templates add predefined forms with the Syncfusion® component in Windows Forms or WPF applications.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -9,29 +9,29 @@ documentation: ug
 
 # Add Syncfusion® Spreadsheet Editor SDK component
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> supports Visual Studio Item Templates to add Syncfusion<sup style="font-size:70%">&reg;</sup>Spreadsheet Editor SDK component to the corresponding applications with their references. 
+Syncfusion® supports Visual Studio Item Templates to add the Syncfusion® Spreadsheet Editor SDK component to the corresponding applications with their references. 
 
-I> The Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK item templates are available from v32.1.19.
+I> The Syncfusion® Spreadsheet Editor SDK item templates are available from v32.1.19.
 
-The following steps will guide you in adding the Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK component to your Visual Studio WinForms or WPF application.
+The following steps will guide you in adding the Syncfusion® Spreadsheet Editor SDK component to your Visual Studio WinForms or WPF application.
 
-## Add Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK Component using Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK Item Template
+## Add Syncfusion® Spreadsheet Editor SDK Component using Syncfusion® Spreadsheet Editor SDK Item Template
 
 1.	Open a new or existing WinForms or WPF application.
 
     **Option 1:**
 
-    From the **Solution Explorer, right-click** on the WinForms or WPF application. Choose **Add Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet...**.
+    From the **Solution Explorer**, right-click on the WinForms or WPF application and choose **Add Syncfusion® Spreadsheet...**.
 
     ![Choose Add Syncfusion Item option from right click project](images/Add-Syncfusion-item.png)
 
     **Option 2:**
 
-    Click **Extensions > Essential Studio<sup style="font-size:70%">&reg;</sup> for Spreadsheet Editor SDK > Add Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet…** in Visual Studio.
+    Click **Extensions > Essential Studio® for Spreadsheet Editor SDK > Add Syncfusion® Spreadsheet…** in Visual Studio.
 
     ![Choose Add Syncfusion Item option from menu](images/Add-item.png)
 
-2.	The Syncfusion<sup style="font-size:70%">&reg;</sup> Spreadsheet Editor SDK Item Template wizard will be launched, displaying available component for the selected platform (WinForms or WPF).
+2.	The Syncfusion® Spreadsheet Editor SDK Item Template wizard will be launched, displaying available components for the selected platform (WinForms or WPF).
 
     - Windows Forms:
         
@@ -41,11 +41,11 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
         
         ![Syncfusion WPF Spreadsheet Editor SDK Item template component](images/Add-Syncfusion-ui1.png)
 
-3.	The Component and the features associated with the Spreadsheet Editor SDK component will be presented within your Spreadsheet Editor SDK Item template.
+3.	The component and the features associated with the Spreadsheet Editor SDK component will be presented within your Spreadsheet Editor SDK Item template.
 
-4.	The required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added to the project from the NuGet packages reference option.
+4.	The required Syncfusion® assemblies are added to the project from the NuGet packages reference option.
 
-5.  Click **Add**, and a pop-up will appear providing information about adding Component **files** and **NuGet/Assemblies** details.
+5.  Click **Add**, and a pop-up will appear providing information about adding component **files** and **NuGet/Assemblies** details.
 
     - Windows Forms:
         
@@ -56,7 +56,7 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
         ![Syncfusion WPF Spreadsheet Editor SDK Item template details](images/Add-Syncfusion-item-4.png)
 
 
-6.	Click **OK** to incorporate the component into the application, along with the necessary Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies.
+6.	Click **OK** to incorporate the component into the application, along with the necessary Syncfusion® assemblies.
 
     - Windows Forms:
         
@@ -66,6 +66,6 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
         
         ![Syncfusion WPF Spreadsheet Editor SDK Item template Gallery](images/Add-Syncfusion-item-details1.png)
 
-7.	Then, Syncfusion<sup style="font-size:70%">&reg;</sup> licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion<sup style="font-size:70%">&reg;</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup style="font-size:70%">&reg;</sup> release. Navigate to the [help topic](https://help.Syncfusion.com/common/essential-studio/licensing/license-key#how-to-generate-Syncfusion-license-key), which is shown in the licensing message box to generate and register the Syncfusion<sup style="font-size:70%">&reg;</sup> license key to your project. Refer to this [blog](https://blog.Syncfusion.com/post/Whats-New-in-2018-Volume-2-Licensing-Changes-in-the-1620x-Version-of-Essential-Studio.aspx) post for understanding the licensing changes introduced in Essential Studio<sup style="font-size:70%">&reg;</sup>.
+7.	Then, a Syncfusion® licensing registration required message box will be shown if you installed the trial setup or NuGet packages since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key), which is shown in the licensing message box, to generate and register the Syncfusion® license key to your project. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2) post to understand the licensing changes introduced in Essential Studio®.
 
     ![Syncfusion Spreadsheet Editor SDK Item template Gallery](images/Syncfusion-Item-Template-Gallery-7.png)

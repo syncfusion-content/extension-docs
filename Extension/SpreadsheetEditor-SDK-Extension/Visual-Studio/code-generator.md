@@ -13,7 +13,7 @@ Syncfusion® offers a Code Generator component for Blazor platform, enabling sea
 
 The steps below will assist you to add the Syncfusion® Spreadsheet Editor SDK component code in your Blazor application through **Visual Studio 2022 or later**:
 
-N> Before using the Syncfusion® Blazor Spreadsheet Editor SDK Code Generator, check whether the Syncfusion® Spreadsheet Editor SDK Extension is installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
+N> Before using the Syncfusion® Blazor Spreadsheet Editor SDK Code Generator, check whether the Syncfusion® Spreadsheet Editor SDK Extension is installed or not in the Visual Studio Extension Manager by clicking **Extensions -> Manage Extensions -> Installed**. If this extension is not installed, install the extension by following the steps in the [download and installation](download-and-installation) help topic.
 
 1. Open your existing Blazor application or create a new Blazor application in the Visual Studio 2022 or later.
 
@@ -27,15 +27,15 @@ N> Before using the Syncfusion® Blazor Spreadsheet Editor SDK Code Generator, c
 
     **Option 2:**
 
-    Open the .razor file and place the cursor at the required line then choose **Extension -> Syncfusion® -> Essential Studio® for Spreadsheet Editor SDK -> Syncfusion® Blazor Spreadsheet Editor SDK Code Generator…** from the Visual Studio menu.
+    Open the .razor file and place the cursor at the required line, then choose **Extensions -> Syncfusion -> Essential Studio® for Spreadsheet Editor SDK -> Syncfusion® Blazor Spreadsheet Editor SDK Code Generator…** from the Visual Studio menu.
 
     ![CodeGeneratorMenu](images/Code-Generator-Menu.png)
 
- It generates the selected Syncfusion® Spreadsheet Editor SDK component render code and inserts it wherever the cursor is positioned.
+    It generates the selected Syncfusion® Spreadsheet Editor SDK component render code and inserts it where the cursor is positioned.
 
-![ComponentRenderCode](images/Code-Generator-ComponentRenderCode.png)
+    ![ComponentRenderCode](images/Code-Generator-ComponentRenderCode.png)
 
-3. In the Output window, select the **Syncfusion® Blazor Spreadsheet Editor SDK Code Generator** from the **“Show output from”** drop-down to see the changes made to your application.
+3. In the Output window, select the **Syncfusion® Blazor Spreadsheet Editor SDK Code Generator** from the **"Show output from"** drop-down to see the changes made to your application.
 
     ![OutputWindow](images/Code-Generator-OutputWindow.png)
 

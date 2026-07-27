@@ -19,15 +19,15 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
 2. To create a Syncfusion® application, use either one of the following options:
 
-     **Option 1**
+     **Option 1:**
 
-     Choose **Extension -> Syncfusion -> Essential Studio® for Spreadsheet Editor SDK -> Create New Syncfusion Project...** from the **Visual Studio menu**.
+     Choose **Extensions -> Syncfusion -> Essential Studio® for Spreadsheet Editor SDK -> Create New Syncfusion Project...** from the **Visual Studio menu**.
 
      ![CreateMenu](images/createmenu.png)
 
-     **Option 2**
+     **Option 2:**
 
-     Choose **File -> New -> Project** from the menu. This launches a new dialogue for creating a new application. Syncfusion® templates can be found by filtering the application type for **Syncfusion** or by entering **Syncfusion** as a keyword in the search option.
+     Choose **File -> New -> Project** from the menu. This launches a new dialog for creating a new application. Syncfusion® templates can be found by filtering the application type for **Syncfusion** or by entering **Syncfusion** as a keyword in the search option.
 
      ![CreateNewWindow](images/CreateNewWindow.png)
 
@@ -108,9 +108,9 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
             Click **Create** button. The Syncfusion® WPF or Windows Forms application has been created. The created application has the Syncfusion NuGet packages, styles, and the render code for Syncfusion® Spreadsheet Editor SDK component.
 
-9. The Syncfusion® application based on the platform selection configures with most recent Syncfusion® NuGet packages version, selected style, namespaces, selected authentication, and component render code for Syncfusion® Spreadsheet Editor SDK component.
+6. The Syncfusion® application based on the platform selection is configured with the most recent Syncfusion® NuGet package version, selected style, namespaces, selected authentication, and component render code for the Syncfusion® Spreadsheet Editor SDK component.
 
-10. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio®.
+7. If you installed the trial setup or NuGet packages from nuget.org, you must register the Syncfusion® license key to your application since Syncfusion® introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio® release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion® license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2) post to understand the licensing changes introduced in Essential Studio®.
 
 ## Authentication Configuration for Blazor Platform
 
@@ -120,11 +120,11 @@ We need to register the created application in the Google API Console for Indivi
 
 #### Web Application and Progressive Web Application
 
-1. Go to below credentials page for the Google cloud platform API console.
+1. Go to the Google Cloud Platform API Console credentials page.
 
-    <https://console.cloud.google.com/apis/credentials?project=aerobic-furnace-244104&pli=1>
+    <https://console.cloud.google.com/apis/credentials>
 
-2. Click Create Credentials and OAuth Client Id.
+2. Click **Create Credentials** and select **OAuth Client Id**.
 
     ![Google API console credentials page](images/GoogelAPIConsoleCredentials.png)
 

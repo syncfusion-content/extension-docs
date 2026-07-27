@@ -9,33 +9,35 @@ documentation: ug
 
 # Creating Syncfusion® ASP.NET MVC application
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> Sample Creator is a tool that lets you make Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) projects with sample code for required Syncfusion<sup style="font-size:70%">&reg;</sup> component features and Syncfusion<sup style="font-size:70%">&reg;</sup> control configuration.
+The Syncfusion® Sample Creator is a tool that lets you create Syncfusion® ASP.NET MVC (Essential® JS 2) projects with sample code for the required Syncfusion® component features and Syncfusion® control configuration.
 
-> The Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Sample Creator utility is available from v16.3.0.17.
+> The Syncfusion® ASP.NET MVC (Essential® JS 2) Sample Creator utility is available from v16.3.0.17.
 
-Use the following steps to create the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Application through the Sample Creator utility:
+> Before using the Syncfusion® ASP.NET MVC Sample Creator, check whether the **ASP.NET MVC Extensions - Syncfusion®** is installed in Visual Studio Extension Manager by clicking **Extensions > Manage Extensions > Installed** (for Visual Studio 2019 or later). If this extension is not installed, install it by following the steps in the [download and installation](https://help.syncfusion.com/extension/aspnetmvc-essentialjs2-extension/download-and-installation) help topic.
 
-1. Follow one of the options below to launch the ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Sample Creator application:
+Use the following steps to create a Syncfusion® ASP.NET MVC (Essential® JS 2) Application through the Sample Creator utility:
 
-    **Option 1:** Click **Extensions > Syncfusion<sup style="font-size:70%">&reg;</sup>** and choose **Essential Studio<sup style="font-size:70%">&reg;</sup> ASP.NET MVC > Launch Sample Creator…** in **Visual Studio**.
+1. Follow one of the options below to launch the ASP.NET MVC (Essential® JS 2) Sample Creator application:
+
+    **Option 1:** Click **Extensions > Syncfusion®** and choose **Essential Studio® ASP.NET MVC > Launch Sample Creator…** in **Visual Studio**.
 
     ![launch sample creator](images/launch-sample-creator.png)
 
     **Option 2:**
 
-    Launch the Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC Control Panel. Select the Sample Creator button to launch the ASP.NET MVC Sample Creator application. Refer to the following screenshot for more information.
+    Launch the Syncfusion® ASP.NET MVC Control Panel. Select the Sample Creator button to launch the ASP.NET MVC Sample Creator application. Refer to the following screenshot for more information.
 
     ![sample creator application](images/sample-creator-application.png)
 
-2. Syncfusion<sup style="font-size:70%">&reg;</sup> controls and features are listed in the ASP.NET MVC Sample Creator.
+2. Syncfusion® controls and features are listed in the ASP.NET MVC Sample Creator.
 
     ![sample creator lists](images/sample-creator-list.png)
 
-    **Controls Selection**: Choose the required controls. The controls are grouped with Syncfusion<sup style="font-size:70%">&reg;</sup> products.
+    **Controls Selection**: Choose the required controls. The controls are grouped with Syncfusion® products.
 
     ![control selection](images/control-selection.png)
 
-    **Feature Selection**: Based on the controls, the feature is enabled to choose the features of the corresponding controls.
+    **Feature Selection**: Based on the selected controls, the corresponding features are enabled so that you can choose the features of the selected controls.
 
     ![feature selection](images/feature-list.png)
 
@@ -45,15 +47,15 @@ Use the following steps to create the Syncfusion<sup style="font-size:70%">&reg;
 
     * **VS Version**: Choose the Visual Studio version and Framework.
 
-    * **Assets From**: Choose the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JS 2 assets to ASP.NET MVC Project, either NuGet, CDN or Installed Location.
+    * **Assets From**: Choose the source of the Syncfusion® Essential® JS 2 assets for the ASP.NET MVC Project: NuGet, CDN, or Installed Location.
 
-    > Installed location option will be available only when the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential<sup style="font-size:70%">&reg;</sup> JavaScript 2 setup has been installed.
+    > Installed location option will be available only when the Syncfusion® Essential® JavaScript 2 setup has been installed.
 
-    * **Name**: Name your Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) Application.
+    * **Name**: Name your Syncfusion® ASP.NET MVC (Essential® JS 2) Application.
 
     * **Location**: Choose the target location of your project.
 
-    * **Theme Selection**: Choose the required theme. This section shows the controls preview before creating the Syncfusion<sup style="font-size:70%">&reg;</sup> project.
+    * **Theme Selection**: Choose the required theme. This section shows the controls preview before creating the Syncfusion® project.
 
     ![sample creator theme selection](images/aspnet-mvc-samplecreator.png)
 
@@ -61,16 +63,16 @@ Use the following steps to create the Syncfusion<sup style="font-size:70%">&reg;
 
     ![create](images/sample-creator-create.png)
 
-3. The new Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) project is created with the resources.
+3. The new Syncfusion® ASP.NET MVC (Essential® JS 2) project is created with the resources.
 
     * Added the required Controllers and View files in the project.
 
         ![required controllers](images/required-controllers.png)
 
-    * Included the required Syncfusion<sup style="font-size:70%">&reg;</sup> ASP.NET MVC (Essential<sup style="font-size:70%">&reg;</sup> JS 2) scripts and theme files.
+    * Included the required Syncfusion® ASP.NET MVC (Essential® JS 2) scripts and theme files.
 
         ![script theme references](images/scripts-theme.png)
 
-    * The required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies are added for selected controls under Project Reference.
+    * The required Syncfusion® assemblies are added for selected controls under Project Reference.
 
         ![syncfusion assemblies](images/syncfusion-assemblies.png)
