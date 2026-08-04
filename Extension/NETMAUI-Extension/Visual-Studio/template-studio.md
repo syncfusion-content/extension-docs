@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Template Studio in .NET MAUI - Syncfusion®
-description: Learn here about how to create the .NET MAUI application using Syncusion .NET MAUI Components with the help of template studio.
+description: Learn here about how to create the .NET MAUI application using Syncfusion .NET MAUI Components with the help of template studio.
 platform: extension
 component: Syncfusion<sup>®</sup> Extensions
 documentation: ug
@@ -11,31 +11,31 @@ documentation: ug
 
 The .NET MAUI Template Studio, provided by Syncfusion<sup>®</sup>, helps you build .NET MAUI applications using Syncfusion<sup>®</sup> components. It includes the necessary components, NuGet references, namespaces, and rendering code to streamline development. The Template Studio also offers a project wizard that simplifies the process of creating applications with Syncfusion<sup>®</sup> components.
 
-The following steps below will assist you to create your **Syncfusion<sup>®</sup> .NET MAUI Application** through **Visual Studio 2022**:
+The following steps will assist you in creating your **Syncfusion<sup>®</sup> .NET MAUI Application** through **Visual Studio 2022 or 2026**:
 
-N> Before use the Syncfusion<sup>®</sup> .NET MAUI Project Template, check whether the Syncfusion<sup>®</sup> .NET MAUI Template Studio Extension installed or not in Visual Studio Extension Manager by clicking on the Extensions -> Manage Extensions -> Installed. If this extension not installed, install the extension by follow the steps from the [download and installation](download-and-installation) help topic.
+N> Before using the Syncfusion<sup>®</sup> .NET MAUI Project Template, verify whether the Syncfusion<sup>®</sup> .NET MAUI Template Studio extension is installed in the Visual Studio Extension Manager by clicking on **Extensions > Manage Extensions > Installed**. If the extension is not installed, install it by following the steps in the [download and installation](download-and-installation) help topic.
 
-1. Open the Visual Studio.
+1. Open Visual Studio.
 
 2. To develop the Syncfusion<sup>®</sup> .NET MAUI application, select one of the following options:
 
      **Option 1**
 
-     Choose **Extension -> Syncfusion<sup>®</sup> -> Essential Studio<sup>®</sup> for .NET MAUI -> Create New Syncfusion<sup>®</sup> Project...** from the **Visual Studio menu**.
+     Choose **Extensions > Syncfusion<sup>®</sup> > Essential Studio<sup>®</sup> for .NET MAUI > Create New Syncfusion<sup>®</sup> Project...** from the Visual Studio menu.
 
      ![CreateMenu](images/MenuProject.png)
 
      **Option 2**
 
-     Choose **File -> New -> Project** from the menu. This launches a new dialogue for creating a new application. Filtering the application type by **Syncfusion** or typing **Syncfusion** as a keyword in the search option can help you to find the Syncfusion<sup>®</sup> templates for .NET MAUI.
+     Choose **File > New > Project** from the menu. This launches a new dialog for creating a new application. Filtering the application type by **Syncfusion** or typing **Syncfusion** as a keyword in the search option can help you find the Syncfusion<sup>®</sup> templates for .NET MAUI.
 
      ![CreateNewWindow](images/ProjectTemplates.png)
 
-3. Select the **Syncfusion<sup>®</sup> .NET MAUI Template Studio** and click **Next**.
+3. Select the **Syncfusion<sup>®</sup> .NET MAUI Template Studio** template and click **Next**.
 
      ![CreateNewWizard](images/SyncfusionTemplate.png)
 
-4. After launching the Syncfusion<sup>®</sup> .NET MAUI Template Studio, a configuration wizard will appear to help you set up your application. You can then choose from the available Syncfusion<sup>®</sup> .NET MAUI components and add the ones you need to your project. 
+4. After launching the Syncfusion<sup>®</sup> .NET MAUI Template Studio, a configuration wizard will appear to help you set up your application. You can then choose from the available Syncfusion<sup>®</sup> .NET MAUI components and add the ones you need to your project.
 
     ![Controls Section](images/ControlsTab.png)
 
@@ -45,30 +45,30 @@ N> Before use the Syncfusion<sup>®</sup> .NET MAUI Project Template, check whet
 
     **Option 1:** Click the corresponding selected control box.
 
-    **Option 2:** Click ‘x’ button for the corresponding control in the control list from **Project Details**. 
+    **Option 2:** Click the **'x'** button for the corresponding control in the control list under **Project Details**.
 
-    N> **Note:** Choose at least one control to enable the Features and Configuration tab.
+    N> **Note:** Choose at least one control to enable the **Features** and **Configuration** tabs.
 
-5. The features for the selected controls are listed when you click on the **Next** or the **Features tab**. You can choose the required features for the selected controls.
+5. The features for the selected controls are listed when you click on **Next** or the **Features** tab. You can choose the required features for the selected controls.
 
-    ![Choose required Project Configuration](images/FeaturesTab.png)    
+    ![Choose required Project Configuration](images/FeaturesTab.png)
 
-    By unchecking the features checkboxes, you can unselect the features from the selected controls.
+    By unchecking the feature checkboxes, you can unselect features from the selected controls.
 
-6. The Configuration section will load if you choose to click the **Next** button or the **Configuration tab**. You can select the required .NET Core Version (.NET 9.0 or .NET 10.0)
+6. The Configuration section will load when you click **Next** or the **Configuration** tab. You can select the required .NET version (.NET 9.0 or .NET 10.0).
 
      ![Choose required Project Configuration](images/ConfigurationsTab.png)
 
      **Project details section**
 
-     Under the Project Details section, you can modify the configurations and remove a control or controls from the selected controls.
+     Under the Project Details section, you can modify the configurations and remove one or more controls from the selected controls.
 
      ![Choose required Project Details](images/ProjectDetails.png)
 
-7. Click the **Create** button to create the Syncfusion<sup>®</sup> .NET MAUI application The created Syncfusion<sup>®</sup> .NET MAUI application has the Syncfusion<sup>®</sup> NuGet packages,and the rendering code for the selected Syncfusion<sup>®</sup> components.
+7. Click the **Create** button to create the Syncfusion<sup>®</sup> .NET MAUI application. The created Syncfusion<sup>®</sup> .NET MAUI application has the Syncfusion<sup>®</sup> NuGet packages and the rendering code for the selected Syncfusion<sup>®</sup> components.
 
      ![Readme](images/MauiApplication.png)
 
 8. The Syncfusion<sup>®</sup> .NET MAUI application is configured with the latest Syncfusion<sup>®</sup> .NET MAUI NuGet package versions, namespaces, and component rendering code.
 
-9. If you installed the trial setup or NuGet packages from nuget.org you must register the Syncfusion<sup>®</sup> license key to your application since Syncfusion<sup>®</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup>®</sup> release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion<sup>®</sup> license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx?_ga=2.11237684.1233358434.1587355730-230058891.1567654773) post for understanding the licensing changes introduced in Essential Studio<sup>®</sup>.
+9. If you installed the trial setup or NuGet packages from nuget.org, you must register the Syncfusion<sup>®</sup> license key to your application, since Syncfusion<sup>®</sup> introduced the licensing system from 2018 Volume 2 (v16.2.0.41) Essential Studio<sup>®</sup> release. Navigate to the [help topic](https://help.syncfusion.com/common/essential-studio/licensing/overview#how-to-generate-syncfusion-license-key) to generate and register the Syncfusion<sup>®</sup> license key to your application. Refer to this [blog](https://www.syncfusion.com/blogs/post/whats-new-in-2018-volume-2.aspx) post for understanding the licensing changes introduced in Essential Studio<sup>®</sup>.

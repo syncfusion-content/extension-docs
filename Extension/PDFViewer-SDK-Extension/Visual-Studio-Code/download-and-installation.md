@@ -9,17 +9,21 @@ documentation: ug
 
 # Download and Installation - PDF Viewer SDK Extension for VS Code
 
-Syncfusion® publishes the Visual Studio Code extension in the [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.PDF-Viewer-SDK-VSCode-Extensions). You can either install it directly from Visual Studio Code or download and install it from the Visual Studio Code marketplace.
+Syncfusion® publishes the Visual Studio Code extension on the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.PDF-Viewer-SDK-VSCode-Extensions). You can either install it directly from Visual Studio Code or download and install it from the Visual Studio Code Marketplace.
 
 ## Prerequisites
 
-The following software prerequisites must be installed to install the Syncfusion® PDF Viewer SDK extension, as well as to creating, and adding component code Syncfusion® PDF Viewer SDK applications.
+The following software prerequisites must be installed to install the Syncfusion® PDF Viewer SDK extension, as well as to create applications and add component code using the Syncfusion® PDF Viewer SDK:
 
 * [Visual Studio Code 1.87.1 or later](https://code.visualstudio.com/download)
 
-* [C# Extension ](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp) 
+* [.NET SDK 8.0, 9.0, or 10.0](https://dotnet.microsoft.com/en-us/download/dotnet) (required for Blazor and .NET MAUI project templates)
+
+* [C# Extension](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp)
 
 * [C# Dev Kit](https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit)
+
+N> Extensions may be disabled in Restricted Mode. Ensure the workspace is trusted so the Syncfusion® PDF Viewer SDK extension is enabled.
 
 ## Install through the Visual Studio Code Extensions
 
@@ -74,6 +78,6 @@ The instructions below describe the process of installing the Syncfusion® PDF V
 
       ![InstallVsix](images/InstallVsix.png)
 
-4. Browse to the downloaded SyncfusionInc.Blazor-VSCode-Extensions.vsix file and install it.
+4. Browse to the downloaded **SyncfusionInc.PDF-Viewer-SDK-VSCode-Extensions.vsix** file and install it.
 
       ![DownloadVsix](images/DownloadVsix.png)

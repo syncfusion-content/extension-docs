@@ -69,7 +69,7 @@ The Syncfusion® Blazor snippet simply inserts the code into the razor file. You
 
 The Syncfusion<sup>®</sup> .NET MAUI Code Sample Utility for Visual Studio Code provides ready-to-use samples for easily inserting Syncfusion<sup>®</sup> PDF Viewer SDK components with various features into the XAML editor of your .NET MAUI application.
 
-N> The Syncfusion<sup>®</sup> .NET MAUI code sample is available from Essential Studio<sup>®</sup> 2026 Volume 1 (`v*`) onwards.
+N> The Syncfusion<sup>®</sup> .NET MAUI code sample is available from Essential Studio<sup>®</sup> 2026 Volume 1 (`v33.1.44`) onwards.
 
 ## Add a Syncfusion<sup>®</sup> PDF Viewer SDK component
 
@@ -90,7 +90,7 @@ For Example, sf-pdfviewer
 
       ![Code Snippet](images/MAUI_CodeSnippets.gif)
 
-5.	After adding the Syncfusion<sup>®</sup> PDF Viewer SDK component to the XAML file, We've included instructions in the **TODO** section for your reference. This will guide you in determining whether to add the the View Model file or if only add namespace and NuGet entries to run the Syncfusion<sup>®</sup> components.
+5.	After adding the Syncfusion<sup>®</sup> PDF Viewer SDK component to the XAML file, instructions are included in the **TODO** section for your reference. This will guide you in determining whether to add the View Model file or to add only the namespace and NuGet entries to run the Syncfusion<sup>®</sup> components.
 
      ![Comment](images/Comment.png)
 
@@ -109,3 +109,5 @@ The Syncfusion<sup>®</sup> .NET MAUI snippet inserts code into the XAML file. H
 2.	To integrate Syncfusion<sup>®</sup> PDF Viewer SDK components into your application, open the XAML file and add the required Syncfusion<sup>®</sup> .NET MAUI namespace entries. We've provided commented code samples showing the appropriate namespace for each component. Simply copy the relevant entry and paste it into your XAML file.
 
     ![Namespace](images/MAUINuGetEntry.gif)
+
+3.	Build the project to verify that the Syncfusion<sup>®</sup> .NET MAUI NuGet packages and namespace entries are correctly applied. Resolve any build errors before running the application.
