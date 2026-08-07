@@ -1,23 +1,23 @@
 ---
 layout: post
 title: Notifications | WinForms | Syncfusion
-description: For displaying the notifications about trial and newer version update information for Syncfusion applications.
+description: Displays notifications about trial and newer version update information for Syncfusion applications.
 platform: extension
 control: Visual Studio Extensions
 documentation: ug
 ---
 
-# Syncfusion<sup style="font-size:70%">&reg;</sup> Notifications
+# Syncfusion<sup style="font-size:70%">®</sup> WinForms Notifications
 
-Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in Windows Forms applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion<sup style="font-size:70%">&reg;</sup> latest features and enhancements.
+Syncfusion<sup style="font-size:70%">&reg;</sup> enhances the user experience in Windows Forms applications through notification messages. These notifications cover various aspects, including alerts for trial applications when utilizing Syncfusion<sup style="font-size:70%">&reg;</sup> trial assemblies, updates regarding the availability of the latest Syncfusion<sup style="font-size:70%">&reg;</sup> NuGet package, and notifications regarding newer releases of Essential Studio<sup style="font-size:70%">&reg;</sup>. By keeping users informed, Syncfusion<sup style="font-size:70%">&reg;</sup> ensures that developers stay updated with Syncfusion<sup style="font-size:70%">&reg;</sup>'s latest features and enhancements.
 
 N> The Syncfusion<sup style="font-size:70%">&reg;</sup> Notification feature is available from Essential Studio<sup style="font-size:70%">&reg;</sup> v22.1.34.
 
 ## Notification Configuration
 
-The Syncfusion<sup style="font-size:70%">&reg;</sup> Options page allows you to configure notification settings. Customise trial and newer version notifications with a simple true or false toggle.
+The Syncfusion<sup style="font-size:70%">&reg;</sup> Options page allows you to configure notification settings. Customize trial and newer version notifications with a simple true or false toggle.
 
-It can be accessed by clicking **Tools -> Options -> Syncfusion<sup style="font-size:70%">&reg;</sup> -> Winforms**
+It can be accessed by clicking **Tools -> Options -> Syncfusion<sup style="font-size:70%">&reg;</sup> -> WinForms**.
 
 ![Option Page](images/winforms-optionPage.png)
 
