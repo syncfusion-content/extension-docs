@@ -35,7 +35,7 @@ N> Before using the Syncfusion<sup>®</sup> .NET MAUI Project Template, verify w
 
      ![CreateNewWizard](images/SyncfusionTemplate.png)
 
-4. After launching the Syncfusion<sup>®</sup> .NET MAUI Template Studio, a configuration wizard will appear to help you set up your application. You can then choose from the available Syncfusion<sup>®</sup> .NET MAUI components and add the ones you need to your project.
+4. After launching the Syncfusion<sup>®</sup> .NET MAUI Template Studio, a configuration wizard will appear to help you set up your application. You can then choose from the available Syncfusion<sup>®</sup> .NET MAUI components which are listed based on category wise such as UI Component Suite, Grid SDK, Scheduler SDK, Gantt SDK, Chart SDK and Rich Text Editor SDK.
 
     ![Controls Section](images/ControlsTab.png)
 
