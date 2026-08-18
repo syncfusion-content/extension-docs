@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Getting Started | Extension | Syncfusion
-description: Get started with the Syncfusion JSON Visualizer extension for Visual Studio Code—install, enable the visualizer, and explore your first JSON document as an interactive diagram.
+title: Getting Started | JSONVisualizer | Syncfusion
+description: The Syncfusion JSON Visualizer extension provides structured and interactive graphical representation of JSON data within VS Code.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -47,7 +47,7 @@ With the JSON file open in the editor:
 
 The extension reads the active JSON document and renders it as an interactive diagram in place of (or alongside) the raw text.
 
-## Step 3: Explore the Diagram
+## Step 3: Explore the Features
 
 Once the visualizer renders your JSON, use the following interactions to explore the structure:
 
