@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Download and Installation | JSONVisualizer | Syncfusion
-description: How to download and install JSON Visualizer Extension in Visual Studio Code
+description: How to download JSON Visualizer Extension in Visual Studio Code
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Syncfusion® JSON Visualizer Extension - Download and Installation Guide
+# Syncfusion® JSON Visualizer - Download and Installation Guide
 
 Syncfusion® publishes the JSON Visualizer Extension in [Visual Studio Code marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.JSON-Visualizer-VSCode-Extensions). You can either install it from Visual Studio Code or download and install it from the Visual Studio Code marketplace.
 
@@ -30,7 +30,7 @@ The following steps explain how to install the JSON Visualizer extensions from V
 
 3. Type **Syncfusion - JSON Visualizer** in the search box.
 
-     ![Extension](images/ExtensionsView.png)
+     ![Extension](Images/ExtensionsView.png)
 
 4. Click the Install button on the **"Syncfusion® JSON Visualizer"** extension.
 

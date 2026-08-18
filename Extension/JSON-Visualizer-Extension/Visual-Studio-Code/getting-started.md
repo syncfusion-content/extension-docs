@@ -39,11 +39,11 @@ With the JSON file open in the editor:
 
 1. Locate the **Enable JSON Visualizer** icon in the editor's menu bar (top-right of the editor area).
 
-   ![Enable JSON Visualizer](images/EnableJSON.png)
+   ![Enable JSON Visualizer](Images/EnableJSON.png)
 
 2. Click the icon to launch the visualizer.
 
-   ![JSON Visualizer](images/JSONVisualizer.png)
+   ![JSON Visualizer](Images/JSONVisualizer.png)
 
 The extension reads the active JSON document and renders it as an interactive diagram in place of (or alongside) the raw text.
 
@@ -59,7 +59,7 @@ Once the visualizer renders your JSON, use the following interactions to explore
 | **Scroll horizontally** | Follows wide structures across the diagram. |
 | **Scroll vertically** | Navigates long or deeply nested documents. |
 
-![JSON Visualizer](images/JsonFunctions.gif)
+![JSON Visualizer](Images/JsonFunctions.gif)
 
 Use a combination of expand, collapse, and node selection to walk through even large JSON documents without losing orientation.
 
