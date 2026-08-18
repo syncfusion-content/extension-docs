@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JSON Visualizer Extension | Extension | Syncfusion
-description: The Syncfusion JSON Visualizer VS Code extension provides structured and interactive graphical representation of JSON data within VS Code.
+description: The Syncfusion JSON Visualizer VS Code extension provides a structured and interactive graphical representation of JSON data within VS Code.
 platform: extension
 control: Syncfusion Extensions
 documentation: ug
@@ -15,5 +15,5 @@ The **Syncfusion® JSON Visualizer** for Visual Studio Code is a lightweight dev
 
 ## Next Steps
 
-- [Download and Installation](./download-and-installation.md) - Detailed steps for installing from the VS Code Marketplace.
-- [Getting Started](./getting-started.md) - Visualize your JSON document into structured and interactive graphical representation within VS Code.
+- [Download and Installation](./download-and-installation.md) - Detailed steps for installing from the Visual Studio Code Marketplace.
+- [Getting Started](./getting-started.md) - Visualize your JSON document as a structured, interactive graphical representation within Visual Studio Code.
