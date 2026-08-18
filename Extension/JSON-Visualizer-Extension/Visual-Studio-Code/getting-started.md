@@ -49,7 +49,7 @@ With the JSON file open in the editor:
 
    ![JSON Visualizer](Images/JSONVisualizer.png)
 
-The extension reads the active JSON document and displays it as an interactive diagram in a webview panel alongside the JSON source.
+The extension reads the active JSON document and displays it as an interactive diagram in a web view panel alongside the JSON source.
 
 
 ## Step 3: Explore the Features
