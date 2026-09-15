@@ -29,7 +29,7 @@ Use the following steps to create a Syncfusion® ASP.NET MVC (Essential® JS 2) 
 
     ![sample creator application](images/sample-creator-application.png)
 
-2. Syncfusion® controls and features are listed in the ASP.NET MVC Sample Creator.
+2. Syncfusion® controls and features are listed in the ASP.NET MVC Sample Creator based on the category wise such as UI Component Suite, Grid SDK, Scheduler SDK, Gantt SDK, Rich Text Editor SDK, Diagram SDK,Chart SDK, File Manager SDK.
 
     ![sample creator lists](images/sample-creator-list.png)
 
