@@ -82,7 +82,7 @@ N> Before use the Syncfusion® Blazor Project Template, check whether the Syncfu
 
      > **Note:** The Progressive Web Application will be enabled if .NET 8.0 version or higher is installed.
 
-5. Click either **Next** or the **Controls** tab. The Syncfusion® Blazor components you can add to the application are listed based on the category wise such as UI Component Suite, Grid SDK, Scheduler SDK, Gantt SDK, Rich Text Editor SDK, Diagram SDK,Chart SDK, File Manager SDK.
+5. Click either **Next** or the **Controls** tab. The Syncfusion® Blazor components you want to add to your application. The components are organized into categories such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK, Rich Text Editor SDK, Diagram SDK, and File Manager SDK.
 
      ![Controls Section](images/controlssection1.png)
 

@@ -38,7 +38,7 @@ The following steps will guide you in adding the Syncfusion<sup style="font-size
 
 	![Syncfusion WinForms Item template Components](Item-Template-images/Add-Syncfusion-ui.png)
 
-5.	Select the WinForms Components from the Component list within your WinForms Item Template. The features associated with the selected Component will be presented. From here, 		choose the specific features that are essential for your project.
+5.	Select the WinForms Components from the Component list within your WinForms Item Template, organized into categories such as UI Component Suite, Grid SDK, Chart SDK and Diagram SDK. The features associated with the selected Component will be presented. From here, choose the specific features that are essential for your project.
 
 6.	Choose an assembly reference option such as GAC location, Essential Studio<sup style="font-size:70%">&reg;</sup> installed location, or NuGet packages to specify where the required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies 	are added to the project.
 

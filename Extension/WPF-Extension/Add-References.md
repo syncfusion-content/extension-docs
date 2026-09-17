@@ -33,7 +33,7 @@ To add the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly references 
 
    ![Syncfusion Reference Manager add-in](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img1.png)
 
-3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager Wizard displays a list of loaded Syncfusion<sup style="font-size:70%">&reg;</sup> WPF controls.
+3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager Wizard displays a list of loaded Syncfusion<sup style="font-size:70%">&reg;</sup> WPF controls, organized into categories such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK, and Diagram SDK.
 
    ![Syncfusion Reference Manger Wizard](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img2.png)
 

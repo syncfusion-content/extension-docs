@@ -56,7 +56,7 @@ Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms project usi
 
 	**Project type:** Choose this option to select from 4 project types, including Blank, Menu Bar, Ribbon, and Tabbed Form.
 
-6. Click **Next** or navigate to the **Pages** tab to access a list of available Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms components you can add to the application.
+6. Click **Next** or navigate to the **Pages** tab to access a list of available Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms components. These components are organized by category, including UI Component Suite, Grid SDK, Chart SDK and Diagram SDK, and can be added to your application.
 
 	![Syncfusion WinForms pages selection wizard](Template-Studio-Images/WF-6.png)
 

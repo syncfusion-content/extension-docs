@@ -61,7 +61,7 @@ The instructions below assist you in creating **Syncfusion Blazor Applications**
 
      ![ProjectType](images/ProjectTypeDetails1.png)
 
-4. Click either **Next** or the **Controls** tab and select the Syncfusion Blazor components you want to add to your application.
+4. Click either **Next** or the **Controls** tab and select the Syncfusion Blazor components you want to add to your application. The components are organized into categories such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK, Rich Text Editor SDK, Diagram SDK, and File Manager SDK.
 
      ![Controls Section](images/ControlsSection.png)
 

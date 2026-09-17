@@ -39,7 +39,7 @@ The following steps will guide you to add the Syncfusion<sup style="font-size:70
 
 	![Syncfusion WPF Item template Components](Add-Item-images/Add-Syncfusion-ui.png)
 
-4.	Select the components from the Component list. The features associated with the selected component are displayed. Choose the features required for your project.
+4.	Select the components from the Component list, organized into categories such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK, and Diagram SDK. The features associated with the selected component are displayed. Choose the features required for your project.
 
 5.	Choose where to add the required Syncfusion<sup style="font-size:70%">&reg;</sup> assemblies. Options include GAC location, Essential Studio<sup style="font-size:70%">&reg;</sup> installed location, or NuGet packages.
 

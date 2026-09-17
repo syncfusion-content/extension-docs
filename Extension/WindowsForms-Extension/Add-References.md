@@ -33,7 +33,7 @@ Follow the given steps to add the Syncfusion<sup style="font-size:70%">&reg;</su
 
    ![Syncfusion Reference Manager add-in](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img1.png)
 
-3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager Wizard contains the list of Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms controls that are loaded.
+3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager Wizard contains the list of Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms controls that are organized into categories such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK and Diagram SDK.
 
    ![Syncfusion Reference Manger Wizard](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img2.png)
 
