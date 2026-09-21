@@ -55,7 +55,7 @@ Create a Syncfusion<sup style="font-size:70%">&reg;</sup> WPF project using the 
 
 	**Project type:** Choose this option to select from 4 project types, including Navigation Pane, Blank, Menu Bar, and Ribbon.
 
-6. Click **Next** or navigate to the **Pages** tab to access a list of available Syncfusion<sup style="font-size:70%">&reg;</sup> WPF components you can add to the application.
+6. Click **Next** or navigate to the **Pages** tab to access a list of available Syncfusion<sup style="font-size:70%">&reg;</sup> WPF components. These components are organized by category, including UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK, and Diagram SDK, and can be added to your application.
 
 	![Syncfusion WPF pages selection wizard](Template-Studio-Images/WPF-6.png)
 

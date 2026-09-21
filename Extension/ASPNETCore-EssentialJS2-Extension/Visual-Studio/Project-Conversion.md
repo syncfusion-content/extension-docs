@@ -41,6 +41,8 @@ The steps below help you to convert the ASP.NET Core application to the Syncfusi
 
     > Installed location option will be available only when the Syncfusion® Essential® JavaScript 2 setup has been installed.
 
+    > Starting from version 34.1.x, Syncfusion provides support through individual NuGet packages instead of the Syncfusion.EJ2.AspNet.Core common package. When converting a project to 34.1.x or later, the required individual NuGet packages for the selected components will be added instead of common package.
+
     **Choose the Theme:** Choose the required theme.
 
 4. Check the **“Enable a backup before converting”** checkbox if you want to take the project backup and choose the location.

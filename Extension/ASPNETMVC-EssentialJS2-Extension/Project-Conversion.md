@@ -43,6 +43,8 @@ The steps below help you convert the ASP.NET MVC application to a Syncfusion® A
 
     > Installed location option will be available only when the Syncfusion® Essential® JavaScript 2 setup has been installed.
 
+    > Starting from version 34.1.x, Syncfusion provides support through individual NuGet packages instead of the Syncfusion.EJ2.MVC common package. When converting a project to 34.1.x or later, the required individual NuGet packages for the selected components will be added instead of common package.
+
     **Choose the Theme**: Choose the required theme.
 
 4. Check the **“Enable a backup before converting”** checkbox if you want to back up the project and choose the location.

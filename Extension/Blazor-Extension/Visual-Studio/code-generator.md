@@ -31,9 +31,10 @@ N> Before using the Syncfusion® Blazor Code Generator, check whether the Syncfu
 
     ![CodeGeneratorMenu](images/Code-Generator-Menu.PNG)
 
-3. The wizard for the Syncfusion® Blazor Code Generator will appear. Choose a required control.
+3. The wizard for the Syncfusion® Blazor Code Generator will appear. Choose the required controls from the relevant categories. The available components are organized into categories such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK, Rich Text Editor SDK, Diagram SDK, and File Manager SDK.
 
     ![CodeGeneratorWizard](images/Code-Generator-MainWizard.png)
+    ![CodeGeneratorWizard](images/Code-Generator-MainWizard1.png)
 
     **Data Binding:** Data operation fields will be visible if the selected component has data. The data will be listed from your application. It interacts with data models and reduces the amount of time spent developing your application. You can choose the required Data Model Class, Data Source, Id, and more from your application.
 
