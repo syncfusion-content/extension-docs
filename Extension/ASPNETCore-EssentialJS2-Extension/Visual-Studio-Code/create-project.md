@@ -7,7 +7,7 @@ control: Syncfusion Extensions
 documentation: ug
 ---
 
-# Create Syncfusion®ASP.NET Core Project using Project Template 
+# Create Syncfusion® ASP.NET Core Project using Project Template 
 
 Syncfusion® provides **Visual Studio Code project templates** for creating Syncfusion® ASP.NET Core application. Syncfusion® ASP.NET Core generates applications that include the necessary Syncfusion® NuGet packages, namespaces, and component render code for the Calendar, Button, and DataGrid components, as well as the style for making Syncfusion® component development easier.
 
