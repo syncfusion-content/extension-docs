@@ -61,7 +61,7 @@ Syncfusion® provides **Scaffolding command-line** for Syncfusion® ASP.NET Core
 
 Install **syncfusion.scaffolding** tool globally by using the below command.
 
-   ```cmd
+   ```
    dotnet tool install -g syncfusion.scaffolding
    ```
 
@@ -69,7 +69,7 @@ Install **syncfusion.scaffolding** tool globally by using the below command.
 
 Update **syncfusion.scaffolding** tool globally by using the below command.
 
-   ```cmd
+   ```
    dotnet tool update -g syncfusion.scaffolding
    ```
 
@@ -81,7 +81,7 @@ The following steps explain how to add a scaffolded item from command-line to yo
 
 1. After installing the syncfusion.scaffolding tool, you can invoke the syncfusion_scaffold command to show the available controls.
 
-    ```cmd
+    ```
     syncfusion_scaffold
     ```
 
@@ -89,7 +89,7 @@ The following steps explain how to add a scaffolded item from command-line to yo
 
 2. To add a scaffolded item from command-line you have to invoke syncfusion_scaffold application like below syntax.
 
-    ```cmd
+    ```
     syncfusion_scaffold [control][arguments]
     ```
 
@@ -117,7 +117,7 @@ The following steps explain how to add a scaffolded item from command-line to yo
 
 4. Run the following command to generate controller and view files through command-line by passing required arguments of the given control.
 
-    ```cmd
+    ```
     syncfusion_scaffold {controlName} --project "{projectFileNamewithPath}" --model {model} -dc {dbContext} -cname {controllerName} -vname {viewName} [controlMandatoryParameter] [controlMandatoryParameterValue]
     ```
 
