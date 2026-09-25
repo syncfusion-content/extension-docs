@@ -29,7 +29,7 @@ The following steps are used to create the Syncfusion® ASP.NET Core (Essential�
 
     ![control-panel](images/sample-creator-control-panel.png)
 
-2. Syncfusion® controls and features are listed in the ASP.NET Core Sample Creator.
+2. Syncfusion® controls and features are listed in the ASP.NET Core Sample Creator based on the category wise such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK, Rich Text Editor SDK, Diagram SDK, File Manager SDK, Document SDK, PDF Viewer SDK, DOCX Editor SDK and Spreadsheet Editor SDK.
 
     ![controls-list](images/controls-list.png)
 

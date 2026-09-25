@@ -33,13 +33,9 @@ Follow the given steps to add the Syncfusion<sup style="font-size:70%">&reg;</su
 
    ![Syncfusion Reference Manager add-in](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img1.png)
 
-3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager Wizard contains the list of Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms controls that are loaded.
+3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager Wizard contains the list of Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms controls that are organized into categories such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK and Diagram SDK.
 
    ![Syncfusion Reference Manger Wizard](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img2.png)
-
-   **Platform Selection:** If you launch the Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager from a Console/Class Library project, the Platform selection option will appear as an option in the Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager. Choose the required platform. 
-
-   ![Platform selection option in Syncfusion Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img3.png)
 
    **Assembly From:** Choose the assembly location, either from NuGet packages, the build installed location, or by using the GAC location.
 

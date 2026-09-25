@@ -45,6 +45,8 @@ The steps below will assist you to upgrade the Syncfusion® version in the Syncf
 
     > Installed location option will be available only when the Syncfusion® Essential® JavaScript 2 setup has been installed.
 
+    > Starting from version 34.1.x, Syncfusion provides support through individual NuGet packages instead of the Syncfusion.EJ2.AspNet.Core package. When migrating a project from an earlier version to 34.1.x or later, the migration process automatically replaces the common Syncfusion.EJ2.AspNet.Core package with the required individual NuGet packages for the selected components.
+
 4. Check the **“Enable a backup before migrating”** checkbox if you want to take the project backup and choose location.
 
 5. The Syncfusion® Reference Assemblies, Scripts, and CSS are updated to the corresponding version in the project.

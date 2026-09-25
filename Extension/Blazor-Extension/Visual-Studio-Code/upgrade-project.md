@@ -25,6 +25,8 @@ The steps below assist you to migrating existing Syncfusion® Blazor Web Applica
 
 3. **Select Blazor Version** (which published in `nuget.org`) from the palette appears.
 
+    > Starting from version 34.1.x, Syncfusion provides support through individual NuGet packages instead of the Syncfusion.Blazor package. When migrating a project from an earlier version to 34.1.x or later, the migration process automatically replaces the common Syncfusion.Blazor package with the required individual NuGet packages for the selected components.
+
     ![Select Blazor Version](images/VersionSelection.PNG)
 
 4. The Syncfusion® NuGet packages references and themes are updated to the selected version in the application.

@@ -23,7 +23,7 @@ The following steps will assist you in creating your **Syncfusion<sup>®</sup> .
 
     ![CreateProject](images/TemplateStudioWizard.png)
 
-3. To select a component, click the **Next** button or the **Components** tab. From there, you can add the desired Syncfusion<sup>®</sup> .NET MAUI components to your application. Simply choose the necessary Syncfusion<sup>®</sup> .NET MAUI components for your project.
+3. To select a component, click the **Next** button or the **Components** tab. From there, you can add the desired Syncfusion<sup>®</sup> .NET MAUI components to your application. Simply choose the necessary Syncfusion<sup>®</sup> .NET MAUI components for your project which are listed based on category wise such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK and Rich Text Editor SDK.
 
     ![SelectComponents](images/MAUIControlSelection.gif)
 

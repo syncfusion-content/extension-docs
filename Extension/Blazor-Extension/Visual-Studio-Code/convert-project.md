@@ -25,6 +25,8 @@ The steps below assist you to using the Syncfusion® Project conversion in your 
 
     ![Select Blazor Version](images/VersionSelection.PNG)
 
+    > Starting from version 34.1.x, Syncfusion provides support through individual NuGet packages instead of the Syncfusion.Blazor common package. When converting a project to 34.1.x or later, the required individual NuGet packages for the selected components will be added instead of common package.
+
 4. Choose the **Theme** from the palette appears.
 
     ![Select Themes](images/ChooseThemes.PNG)

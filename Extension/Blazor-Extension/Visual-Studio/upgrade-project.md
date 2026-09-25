@@ -35,6 +35,8 @@ N> Before use the Syncfusion® Blazor Project Migration, check whether the Syncf
 
     N> The versions are loaded from the Syncfusion® Blazor NuGet packages published in [`NuGet.org`](https://www.nuget.org/packages?q=Tags%3A%22blazor%22syncfusion) and it requires internet connectivity.
 
+    > Starting from version 34.1.x, Syncfusion provides support through individual NuGet packages instead of the Syncfusion.Blazor package. When migrating a project from an earlier version to 34.1.x or later, the migration process automatically replaces the common Syncfusion.Blazor package with the required individual NuGet packages for the selected components.
+
     ![MigrationWizard](images/Migration.png)
 
 4. Check the **“Enable a backup before migrating”** checkbox if you want to take the project backup and choose the location.

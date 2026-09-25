@@ -33,15 +33,9 @@ To add the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly references 
 
    ![Syncfusion Reference Manager add-in](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img1.png)
 
-3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager Wizard displays a list of loaded Syncfusion<sup style="font-size:70%">&reg;</sup> WPF controls.
+3. The Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager Wizard displays a list of loaded Syncfusion<sup style="font-size:70%">&reg;</sup> WPF controls, organized into categories such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK, and Diagram SDK.
 
    ![Syncfusion Reference Manger Wizard](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img2.png)
-
-   **Platform Selection:** The Platform Selection option appears when the Syncfusion<sup style="font-size:70%">&reg;</sup> Reference Manager is opened from a Console or Class Library project. Select the appropriate platform.
-
-   ![Platform selection option in Syncfusion Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img3.png)
-
-   N> The Platform Selection option appears only if Essential Studio<sup style="font-size:70%">&reg;</sup> for Enterprise Edition with the platforms WPF and Windows Forms has been installed, or if both Essential Studio<sup style="font-size:70%">&reg;</sup> for WPF and WinForms have been installed.
 
    **Assembly From:** Choose the assembly location: NuGet packages, installed location, or GAC location.
 
@@ -64,9 +58,6 @@ To add the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly references 
    ![Themes selection option in Syncfusion Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img5.png)
 
    N> The **Themes** option is enabled only if you select theme-supported controls.
-
-   ![Themes selection option notification in Syncfusion Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img6.png)
-
 
 4. Select the required controls to add to your project, then click **Done** to add the required assemblies for the specified controls. The list of required assemblies for the selected controls to be added is shown in the screenshot below.
 

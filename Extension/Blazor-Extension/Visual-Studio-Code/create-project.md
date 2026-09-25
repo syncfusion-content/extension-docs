@@ -38,7 +38,8 @@ The instructions below assist you in creating **Syncfusion Blazor Applications**
     <tbody>
     <tr>
     <td>
-    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0#render-modes" rel="nofollow">Interactivity type</a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0#render-modes"
+    rel="nofollow">Interactivity type</a>
     </td>
     <td>
     Server, WebAssembly, Auto (Server and WebAssembly)
@@ -46,7 +47,8 @@ The instructions below assist you in creating **Syncfusion Blazor Applications**
     </tr>
     <tr>
     <td>
-    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/tooling?view=aspnetcore-8.0&pivots=windows" rel="nofollow">Interactivity location</a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/tooling?view=aspnetcore-8.0&pivots=windows" 
+    rel="nofollow">Interactivity location</a>
     </td>
     <td>
     Global, Per page/component
@@ -61,7 +63,7 @@ The instructions below assist you in creating **Syncfusion Blazor Applications**
 
      ![ProjectType](images/ProjectTypeDetails1.png)
 
-4. Click either **Next** or the **Controls** tab and select the Syncfusion Blazor components you want to add to your application.
+4. Click either **Next** or the **Controls** tab and select the Syncfusion Blazor components you want to add to your application. The components are organized into categories such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK, Rich Text Editor SDK, Diagram SDK, and File Manager SDK.
 
      ![Controls Section](images/ControlsSection.png)
 

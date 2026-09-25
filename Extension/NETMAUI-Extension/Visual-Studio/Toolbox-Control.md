@@ -44,7 +44,7 @@ This toolbox provides a set of tools and features to easily incorporate Syncfusi
 
 ## Add Syncfusion<sup>®</sup> .NET MAUI Toolbox Components
 
-To incorporate Syncfusion<sup>®</sup> .NET MAUI components into your XAML design file, simply drag and drop them from the toolbox. This intuitive approach automatically inserts the component's code and required namespace into the XAML file, and also installs the necessary NuGet packages.
+To incorporate Syncfusion<sup>®</sup> .NET MAUI components which are listed based on category wise such as UI Component Suite, Grid SDK, Chart SDK, Scheduler SDK, Gantt SDK and Rich Text Editor SDK into your XAML design file, simply drag and drop them from the toolbox. This intuitive approach automatically inserts the component's code and required namespace into the XAML file, and also installs the necessary NuGet packages.
 
    ![Syncfusion .NET MAUI Toolbox Wizard](images/ToolboxComponents.gif)
 
