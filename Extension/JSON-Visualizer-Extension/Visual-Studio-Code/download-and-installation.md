@@ -9,7 +9,7 @@ documentation: ug
 
 # Syncfusion® JSON Visualizer - Download and Installation Guide
 
-Syncfusion® publishes the JSON Visualizer extension in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.JSON-Visualizer-VSCode-Extensions). You can either install it from Visual Studio Code or download and install it from the Visual Studio Code Marketplace.
+Syncfusion® publishes the JSON Visualizer extension in the [Visual Studio Code Marketplace](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.syncfusion-json-visualizer). You can either install it from Visual Studio Code or download and install it from the Visual Studio Code Marketplace.
 
 ## Prerequisites
 
@@ -41,9 +41,9 @@ The following steps explain how to install the JSON Visualizer extension from Vi
 
 The following steps explain how to download the JSON Visualizer extension from the Visual Studio Code Marketplace and install it.
 
-1. Visit the [JSON Visualizer Extension Marketplace page](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.JSON-Visualizer-VSCode-Extensions).
+1. Visit the [JSON Visualizer Extension Marketplace page](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.syncfusion-json-visualizer).
 
-2. Click the Install from Visual Studio Code Marketplace. The browser opens the popup with the information like **“Open Visual Studio Code”**. Click Open Visual Studio Code, then [JSON Visualizer Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.JSON-Visualizer-VSCode-Extensions) will open in Visual Studio Code.
+2. Click the Install from Visual Studio Code Marketplace. The browser opens the popup with the information like **“Open Visual Studio Code”**. Click Open Visual Studio Code, then [JSON Visualizer Extension](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.syncfusion-json-visualizer) will open in Visual Studio Code.
 
 3. Click the **Install** button in the **"Syncfusion® JSON Visualizer"** extension.
 
