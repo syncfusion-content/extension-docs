@@ -11,7 +11,7 @@ documentation: ug
 
 The .NET MAUI Template Studio, provided by Syncfusion<sup>®</sup>, helps you build .NET MAUI applications using Syncfusion<sup>®</sup> components. It includes the necessary components, NuGet references, namespaces, and rendering code to streamline development. The Template Studio also offers a project wizard that simplifies the process of creating applications with Syncfusion<sup>®</sup> components.
 
-The following steps will assist you in creating your **Syncfusion<sup>®</sup> .NET MAUI Application** through **Visual Studio 2022 or 2026**:
+The following steps will assist you in creating your **Syncfusion<sup>®</sup> .NET MAUI Application** through **Visual Studio 2026**:
 
 N> Before using the Syncfusion<sup>®</sup> .NET MAUI Project Template, verify whether the Syncfusion<sup>®</sup> .NET MAUI Template Studio extension is installed in the Visual Studio Extension Manager by clicking on **Extensions > Manage Extensions > Installed**. If the extension is not installed, install it by following the steps in the [download and installation](download-and-installation) help topic.
 
@@ -55,7 +55,7 @@ N> Before using the Syncfusion<sup>®</sup> .NET MAUI Project Template, verify w
 
     By unchecking the feature checkboxes, you can unselect features from the selected controls.
 
-6. The Configuration section will load when you click **Next** or the **Configuration** tab. You can select the required .NET version (.NET 9.0 or .NET 10.0).
+6. The Configuration section will load when you click **Next** or the **Configuration** tab. You can select the required .NET version (.NET 10.0 or .NET 11.0).
 
      ![Choose required Project Configuration](images/ConfigurationsTab.png)
 
