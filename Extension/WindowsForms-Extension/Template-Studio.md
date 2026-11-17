@@ -42,7 +42,7 @@ Create the Syncfusion<sup style="font-size:70%">&reg;</sup> WinForms project usi
 
 	![Syncfusion WinForms project configuration wizard](Template-Studio-Images/WF-5.png)
 
-	N> The installed location and GAC options will be available only after the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WinForms setup has been installed. Use the NuGet option instead of installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WinForms setup. Also, the GAC option will not be available when you choose .NET 6.0, .NET 7.0, .NET 8.0, .NET 9.0, and .NET 10.0 from the project type option in Visual Studio.
+	N> The installed location and GAC options will be available only after the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WinForms setup has been installed. Use the NuGet option instead of installing the Syncfusion<sup style="font-size:70%">&reg;</sup> Essential WinForms setup. Also, the GAC option will not be available when you choose .NET 6.0, .NET 7.0, .NET 8.0, .NET 9.0, .NET 10.0 and .NET 11.0 from the project type option in Visual Studio.
 
 	I> Visual Basic Language support is available in WinForms Template Studio starting from version 25.1.35.
 
@@ -122,7 +122,7 @@ Here's a simple explanation:
 
        ![Resources](Template-Studio-Images/Resources.png)
  
-    > The .NET 6.0, .NET 7.0, .NET 8.0, .NET 9.0, and .NET 10.0 options will be available in the Select a framework version dropdown only if the respective .NET SDKs are installed on your system. The table below outlines the .NET versions, the specific product versions from which they are available, and the Visual Studio versions that support them:
+    > The .NET 6.0, .NET 7.0, .NET 8.0, .NET 9.0, .NET 10.0 and .NET 11.0 options will be available in the Select a framework version dropdown only if the respective .NET SDKs are installed on your system. The table below outlines the .NET versions, the specific product versions from which they are available, and the Visual Studio versions that support them:
 	> <table>
 	>   <thead>
 	>     <tr>
@@ -155,6 +155,11 @@ Here's a simple explanation:
 	>     <tr>
 	>       <td>.NET 10.0</td>
 	>       <td>v31.2.9</td>
+	>       <td>Visual Studio 2026</td>
+	>     </tr>
+	>     <tr>
+	>       <td>.NET 11.0</td>
+	>       <td>v35.2.12</td>
 	>       <td>Visual Studio 2026</td>
 	>     </tr>
 	>   </tbody>

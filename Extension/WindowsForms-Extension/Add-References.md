@@ -43,7 +43,7 @@ Follow the given steps to add the Syncfusion<sup style="font-size:70%">&reg;</su
 
    ![Assembly location option in Syncfusion Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img4.png)
 
-   N> The GAC option will not be available if you have selected a WinForms (.NET 10.0, .NET 9.0, .NET 8.0, .NET 7.0, and .NET 6.0) application in Visual Studio.
+   N> The GAC option will not be available if you have selected a WinForms (.NET 11.0, .NET 10.0, .NET 9.0, .NET 8.0, .NET 7.0, and .NET 6.0) application in Visual Studio.
 
    **Version:** Choose the build version to add the corresponding version assemblies to the project.
 
