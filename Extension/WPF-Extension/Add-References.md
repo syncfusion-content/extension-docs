@@ -44,7 +44,7 @@ To add the Syncfusion<sup style="font-size:70%">&reg;</sup> assembly references 
    ![Assembly location option in Syncfusion Reference Manger](Syncfusion-Reference-Manger_images/Syncfusion-Reference-Manger-img4.png)
 
 
-   N> The **GAC** option is not available when you select a WPF (.NET 10.0, .NET 9.0, .NET 8.0, .NET 7.0, and .NET 6.0) application in Visual Studio 2022 and later.
+   N> The **GAC** option is not available when you select a WPF (.NET 11.0, .NET 10.0, .NET 9.0, .NET 8.0, .NET 7.0, and .NET 6.0) application in Visual Studio 2022 and later.
 
    **Version:** To add the corresponding version assemblies to the project, select the build version.
 

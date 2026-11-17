@@ -31,8 +31,8 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
 
     | .NET SDK version | Supported Syncfusion Blazor Application Type |
     | ---------------- | -------------------------------------------- |
-    | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor Web App |
-    | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor WebAssembly App |
+    | [.NET 11.0](https://dotnet.microsoft.com/en-us/download/dotnet/11.0), [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor Web App |
+    | [.NET 11.0](https://dotnet.microsoft.com/en-us/download/dotnet/11.0), [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor WebAssembly App |
     
     In the **Syncfusion Blazor Web App** application type, you can configure the following options:
 
@@ -40,7 +40,7 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
     <tbody>
     <tr>
     <td>
-    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0#render-modes" rel="nofollow">Interactivity type</a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/components/render-modes?view=aspnetcore-8.0#render-modes" rel="nofollow" aria-label="Select the Interactive Type">Interactivity type</a>
     </td>
     <td>
     Server, WebAssembly, Auto (Server and WebAssembly)
@@ -48,7 +48,7 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
     </tr>
     <tr>
     <td>
-    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/tooling?view=aspnetcore-8.0&pivots=windows" rel="nofollow">Interactivity location</a>
+    <a href="https://learn.microsoft.com/en-us/aspnet/core/blazor/tooling?view=aspnetcore-8.0&pivots=windows" rel="nofollow" aria-label="Select the Interactive Location">Interactivity location</a>
     </td>
     <td>
     Global, Per page/component
@@ -77,7 +77,7 @@ The instructions below assist you in creating **Syncfusion Document SDK Applicat
 
      N> **Note:** Choose at least one control to enable the Features and Configuration tab.
 
-5. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required .NET version (.NET 10.0, .NET 9.0, or .NET 8.0), themes, HTTPS configuration, localization option, authentication type, and Blazor Web App or Blazor WebAssembly App application types.
+5. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required .NET version (.NET 11.0, .NET 10.0, .NET 9.0, or .NET 8.0), themes, HTTPS configuration, localization option, authentication type, and Blazor Web App or Blazor WebAssembly App application types.
 
      Depending on your Syncfusion Blazor Application Type, refer to the table below for supported authentication types.
 
