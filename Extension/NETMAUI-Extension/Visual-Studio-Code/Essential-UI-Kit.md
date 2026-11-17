@@ -36,7 +36,7 @@ Example: If you added a Login page, make the following changes.
 {% tabs %}
 {% highlight C# hl_lines="3 9" %}
 
-// For .NET 9 and .NET 10, use this code snippet:
+// For .NET 10 and .NET 11, use this code snippet:
 
 protected override Window CreateWindow(IActivationState? activationState)
 {

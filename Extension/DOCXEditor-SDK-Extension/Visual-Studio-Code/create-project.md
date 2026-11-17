@@ -27,8 +27,8 @@ The instructions below assist you in creating a **Syncfusion DOCX Editor SDK App
 
     | .NET SDK version | Supported Syncfusion DOCX Editor SDK Application Type |
     | ---------------- | -------------------------------------------- |
-    | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion DOCX Editor SDK Web App |
-    | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion DOCX Editor SDK WebAssembly App |
+    | [.NET 11.0](https://dotnet.microsoft.com/en-us/download/dotnet/11.0), [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion DOCX Editor SDK Web App |
+    | [.NET 11.0](https://dotnet.microsoft.com/en-us/download/dotnet/11.0), [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion DOCX Editor SDK WebAssembly App |
     
     In the **Syncfusion DOCX Editor SDK Web App** application type, you can configure the following options:
 
@@ -57,9 +57,9 @@ The instructions below assist you in creating a **Syncfusion DOCX Editor SDK App
 
      In the **Syncfusion DOCX Editor SDK WebAssembly App** application type, you can choose Progressive Web Application.
 
-     ![ProjectType](images//WebAppAssembly.png)
+     ![ProjectType](images/WebAppAssembly.png)
 
-4. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 10.0, .NET 9.0, and .NET 8.0), themes, DOCX Editor SDK Web App, and DOCX Editor SDK WebAssembly application types.
+4. Click **Next** or the **Configuration** tab to load the Configuration section. You can choose the required (.NET 11.0, .NET 10.0, .NET 9.0, and .NET 8.0), themes, DOCX Editor SDK Web App, and DOCX Editor SDK WebAssembly application types.
 
      If you choose the **DOCX Editor SDK Web App** application type, you can customize the Interactivity type and Interactivity location options.
 
