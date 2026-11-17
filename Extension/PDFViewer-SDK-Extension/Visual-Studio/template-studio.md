@@ -49,8 +49,8 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
             | .NET SDK version | Supported Syncfusion Blazor Application Type |
             | ---------------- | -------------------------------------------- |
-            | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor Web App |
-            | [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor WebAssembly App |
+            | [.NET 11.0](https://dotnet.microsoft.com/en-us/download/dotnet/11.0), [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor Web App |
+            | [.NET 11.0](https://dotnet.microsoft.com/en-us/download/dotnet/11.0), [.NET 10.0](https://dotnet.microsoft.com/en-us/download/dotnet/10.0), [.NET 9.0](https://dotnet.microsoft.com/en-us/download/dotnet/9.0), [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) | Syncfusion Blazor WebAssembly App |
 
             > **Note:** Refer to the .NET SDK support for Syncfusion Blazor Components [here](https://blazor.syncfusion.com/documentation/system-requirements#net-sdk).
 
@@ -85,7 +85,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
             > **Note:** The Progressive Web Application will be enabled if .NET 8.0 version or higher is installed.
             
-            You can choose the required .NET version (.NET 10.0, .NET 9.0, or .NET 8.0), themes, HTTPS configuration, authentication type, and the Blazor Web App or Blazor WebAssembly application type.
+            You can choose the required .NET version (.NET 11.0, .NET 10.0, .NET 9.0, or .NET 8.0), themes, HTTPS configuration, authentication type, and the Blazor Web App or Blazor WebAssembly application type.
 
             Depending on your Syncfusion Blazor Application Type, refer to the table below for supported authentication types.
 
@@ -100,7 +100,7 @@ N> Before use the Syncfusion® Project Template, check whether the Syncfusion® 
 
         - **Configuration section**
 
-            You can select the required .NET version (.NET 9.0 or .NET 10.0) and themes.
+            You can select the required .NET version (.NET 10.0 or .NET 11.0) and themes.
 
              ![Configuration](images/ConfigMaui.png)
 
@@ -328,7 +328,7 @@ You can run the application and see the Syncfusion® PDF Viewer SDK component yo
 
 #### Blazor Web App
 
-##### Applying Database Migrations and User Registration in the .NET 8.0, .NET 9.0 and .NET 10.0 Blazor Web App
+##### Applying Database Migrations and User Registration in the .NET 8.0, .NET 9.0, .NET 10.0 and .NET 11.0 Blazor Web App
 
 ##### Applying Database Migrations:
 
